@@ -1,0 +1,32 @@
+If parents entitled to claim child but don't, no one else can claim unless their AGI higher than AGI of top parent
+
+CARES
+- ###### Close relative
+	- biochild, stepchild, sibling, step sibling, or descendent of listed
+	- indiv legally adopted, or indiv lawfully placed w txpyr for legal adoption by txpyr
+	- foster child placed
+		- by authorized placement agency
+		- by judgement, decree, court order of competent jurisdiction
+- ###### Age limit
+	- varies depending on benefit
+	- child must be:
+		- younger than txpyr
+		- under 19 
+		- (or 24 if [[Full Time Student]])
+	- no age limit for tot/permanently disabled at any time during tax yr
+- ###### Residency & Filing Req
+	- same principal abode as taxpayer for >.5 tax yr
+	- must be
+		- US Citizen
+		- resident of US, Canada, Mexico
+	- child cannot file joint tax return for yr (unless filed only for refund claim)
+- ###### Eliminate gross income test
+	- N/A
+- ###### Support test
+	- must not contribute >.5 of own support
+		- actual expenses incurred by or on behalf of dependent
+	- SS/state welfare pmts incl, but only to extent that actually used for support
+	- scholarships not incl in support if
+		- full time student &
+		- child, stepchild of taxpayer
+		- exclusion of scholarships N/A to siblings/descendants

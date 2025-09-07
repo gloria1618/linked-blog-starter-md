@@ -1,0 +1,6 @@
+- final tax return filed in yr of death
+- income earned/received (cash basis) during period txpyr alive reported Form 1040
+- any inc earned/received after date of death is reported on fed estate return (ex: interest, dividends, rental income)
+- only deductible items actually paid before death are incl on final inc tax return (exception of medical exp of decedent paid w/in on e yr after death date)
+- NOLs n capital losses can only be deducted on decedent's final income tax return
+- final income tax return is due at same time the decedent return would have been due, generally April 15 following yr of death 

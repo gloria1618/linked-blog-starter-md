@@ -1,0 +1,4 @@
+- attends edu instituition for at least part of each of 5mo during taxable yr
+- edu instituiton has
+	- full time faculty
+	- daytime program

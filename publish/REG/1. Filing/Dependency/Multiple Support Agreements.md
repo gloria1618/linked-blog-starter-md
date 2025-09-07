@@ -1,0 +1,5 @@
+- 2+ combined contribute >50% support, but none individually
+- contributing txpyrs, all must be qualifying relatives (or lived entire yr w indiv), may decide who claims indiv as dependent for tax benefits
+	- txpyr must have contributed >10% of persons support
+	- meet other dependency tests
+	- joint contributers req to file multiple support declaration, Form 2120

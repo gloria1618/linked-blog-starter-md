@@ -1,0 +1,2 @@
+- Schedule E (ESTATE), reported as single line item Form 1040 (specific line item is rental real estate, royalties...)
+- net amt = rental inc - total rental apartment expenses

@@ -1,0 +1,4 @@
+- withholdings
+- est tax pmts
+- overpmt from prior yr
+- excess SS social security

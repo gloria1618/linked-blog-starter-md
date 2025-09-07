@@ -1,0 +1,21 @@
+- incl many forms of compensation
+- Bargain Purchase
+	- employer sells prop to empl for less than FMV, difference is income
+- Guaranteed Pmts to Partner (gross income)
+	- reasonable compensation paid to partner for services rendereed/capital use w/o regard to partner's income/loss sharing %
+	- subj to self empl tax
+	- gross amt w/o withholding taxes, pay out of paycheck
+- Taxable Fringe Benefits (non-statutory)
+	- FMV of fringe benefit no specifically excluded by law is incl in inc
+		- ex: empl personal use of company car incl as wages in inc
+	- amt subj to emplmt taxes, income n FICA tax withholdings
+- Employer Contributions to Roth 401k Accts
+	- if employer sponsored 401k plan allows, employee can elect to designate certain employer contributions as roth contributions
+	- employer roth contributions incl in employee's income
+	- (no deduction when put in, earn income, pay tax on it, put it in, accumulates and withdraw w no tax)
+- Portion of life insurance premiums
+	- *cost of coverage, not additional coverage, put in W2*
+	- Premium paid by employer on group term life insurance policy are income to employees on cost above first >50k of coverage/employee
+	- amnt calc from IRS table - not entire amt of premium in excess of 50k
+
+[[Nontaxable Fringe Benefits]]

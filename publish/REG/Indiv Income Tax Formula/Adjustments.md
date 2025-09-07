@@ -1,0 +1,12 @@
+- Educator expenses
+- IRA contributions (traditional)
+- Student loan interest
+- Health savings acct
+- Moving expenses
+	- only for members of armed forces moving bc military order
+- .5 self-emplmt taxes
+- Self employed health insurance
+- Self employed retirement
+- [[Interest]] withdrawl penalty
+- Alimony paid
+	- only for pmts due to divorce/separation agreements executed on/before 2019

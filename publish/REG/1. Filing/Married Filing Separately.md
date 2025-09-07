@@ -1,0 +1,3 @@
+- even if only 1 spouse has income for yr
+- In a separate property state, spouses who elect must separately report own income, credits, deductions on own indiv inc tax return
+- In community property state, most of income, deductions, credits etc. are 50/50

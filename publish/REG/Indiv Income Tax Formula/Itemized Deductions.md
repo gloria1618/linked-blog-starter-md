@@ -1,0 +1,8 @@
+- Medical (excess of 7.5% of AGI)
+- Taxes
+	- state/local (property and either income or sales, up to 10k)
+- Interest expense
+	- home & investment
+- Charitable contributions
+	- AGI limit varies by type
+- Casualty/theft loss attributable to federal disaster (excess of $100 floor and 10% of AGI)
