@@ -6,7 +6,7 @@ WHEN I DISCOVERED SEX AND BOYS CREATE IRRATIONAL PIGS, RELATIONSHIPS KILLED
 - [[Dividends]]
 - [[State & local tax refunds]]
 - [[Alimony received]]
-- Business Income
+- [[Business Income]]
 - Capital gain/loss
 - [[IRA Distributions]]
 - Pension/[[Annuity]]
