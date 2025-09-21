@@ -6,5 +6,3 @@
 - Charitable contributions
 	- AGI limit varies by type
 - Casualty/theft loss attributable to federal disaster (excess of $100 floor and 10% of AGI)
-
-[[testing]]
