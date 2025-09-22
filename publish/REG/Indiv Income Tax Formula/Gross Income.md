@@ -11,7 +11,7 @@ WHEN I DISCOVERED SEX AND BOYS CREATE IRRATIONAL PIGS, RELATIONSHIPS KILLED
 - [[IRA Distributions]]
 - Pension/[[Annuity]]
 - [[Rental Income]]
-- K-1 flow-thru income/loss
+- [[K-1 flow thru]]
 - [[Unemplmt compensation]]
 - [[SS benefits]]
 - [[Other income]]

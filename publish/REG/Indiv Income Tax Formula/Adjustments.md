@@ -1,12 +1,60 @@
+Adj for AGI aka "above the line/to arrive at AGI" deductions
+
 - Educator expenses
 - IRA contributions (traditional)
 - Student loan interest
+	- limited to 2.5K
+		- all interest pmts qualify for adj
+		- phased out bw:
+		- ![[Pasted image 20250921205650.png]]
+		- any excess is personal interest, not deductible
+		- married txpyrs must file jointly to claim adj
+		- dependent cannot claim adj
+		- txpyrs must be legally obligated to pay loan
+		- interest only deductible on loans incurred by txpyr solely to pay for qualified edu exp 
+			- edu loan must go directly to qualified edu items
 - Health savings acct
+	- Pretax Contribution
+		- HSAs enable workers w high deductible health insurance plans to make pretax contributions up to $__ ( $ for fam) to cover healthcare costs 
+		- amts inc by 1k for txpyrs 55+
+		- no contributions allowed once txpyr becomes covered by Medicare Parts A/B
+	- Excludable Withdrawals (Distributions)
+		- any amt paid/dist out of HSA used exclusively to pay qualified med exp of any acct beneficiary is not incl in gross inc
+		- qualified med exp: med exp gen qualify as itemized deduction on Sch A (eg doc visit, eyeglass, hearing aids, prescriptions)
+		- Certain OTC/nonprescription, cold/allergy meds, are also qualified
+		- dist not used to pay qualified med exp:
+			- incl in gross inc
+			- subj to additional 20% tax
+	- High Deductible Plan
+		- plan that has at least
+			- $1650 annual deductible for self coverage; and
+			- $3300 annual deductible for fam coverage plans
+	- Out of Pocket Limit
+		- annual out of pkt exp paid under plan must be limited to:
+			- $8300 for self only coverage plans; and
+			- $16,600 for fam coverage plans
+	- Out of pocket expenses incl:
+		- deductibles
+		- co-pmts
+		- other amts (other than premiums) that must be paid for plan benefits
+	- Archer Med Savings Acct (MSA) Contributions
+		- no new acct can be est after 2007, but allowed to continue
+		- similar to IRA, but used for health care
+		- used only if HSA unavailable, as HSA gen more flexible
+		- qualified participants: self empl indiv, empl of small business (<50 empl)
+		- Must be used w high deductible health insurance plan
+		- max out of pkt exp limit:
+			- 5700 for self only coverage plans
+			- 10,500 for fam coverage plans
 - Moving expenses
 	- only for members of armed forces moving bc military order
 - .5 self-emplmt taxes
 - Self employed health insurance
 - Self employed retirement
 - [[Interest]] withdrawl penalty
+	- amt deposited at bank for LT inv and bank offers high interest rate, withdraw early, instead of high interest - bank returns money at reduced interest
 - Alimony paid
 	- only for pmts due to divorce/separation agreements executed on/before 2019
+- Attorney fees paid in certain discrimination/whistle blower cases 
+
+CPA exam will often refer to 'adj' as 'deductions to arrive at AGI'

@@ -57,7 +57,7 @@ Sole proprietor = only owner of unincorporated business (bad for L), no partners
 	- interest exp: may be itemized deduction if mortgage/inv interest is paid
 	- state/local tax exp (itemized deduction - Schedule A)
 	- health insurance of sole proprietor
-		- not reported on Sch C as expense but as as [[adjustment]] to arrive at AGI
+		- not reported on Sch C as expense but as as [[Adjustments]] to arrive at AGI
 - bad debt exp of cash basis txpyr (who never reported the inc)
 - charitable contributions
 	- report as itemized deduction on Sch A
