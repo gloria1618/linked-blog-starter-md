@@ -1,7 +1,43 @@
 Adj for AGI aka "above the line/to arrive at AGI" deductions
+CPA exam will often refer to 'adj' as 'deductions to arrive at AGI'
 
 - Educator expenses
 - IRA contributions (traditional)
+	- Deductible trad IRA
+		- trad IRA deductible from gross inc to arrive at AGI
+		- adj allowed for a yr only if contribution made by due date of tax return for indiv (april15, extensions not considered)
+		- Earnings on deductible trad IRA contributions accumulate tax free till withdrawn
+		- dist of both principal+earnings:
+			- taxable as ordinary inc
+			- may be subj to applicable early withdrawal penalties
+		- min dist req to be taken April 1 of yr after turning 73
+		- Limitations on deduction
+			- txpyrs deduction for trad IRA contribution limited if txpyr/spouse participates in empl-sponsored plan
+				- AGI limits apply to deduction allowed for contribution made to trad IRA
+				- allowed deductible phases out proportionately w/in following ranges
+				- ![[Pasted image 20250922214245.png]]
+			- special rule
+				- if married txpyr is not active participant in empl retirement plan, but spouse is, deduction for spouse who is not active participant is phased out based on following AGI limits
+					- ![[Pasted image 20250922214941.png]]
+					- ![[Pasted image 20250922215047.png]]
+					- ![[Pasted image 20250922215137.png]]
+	- Roth IRA
+	- Nondeductible trad IRA
+	- ![[Pasted image 20250922211208.png]]
+	- Earned income incl
+		- salary/wages
+		- commissions
+		- bonuses
+		- alimony (for divorce before 2019)
+		- net earnings from self empl
+		- non tuition fellowship & stipend pmts treated as taxable compensation
+	- Earned inc doesnt incl
+		- interest/dividends
+		- annuity inc
+		- pensions
+		- alimony 2019+
+	- Retirement Savings Contribution Credit
+		- eligible taxpayers may be entitled to tax credit for contributions to either trad/roth IRA, subj to certain limits
 - Student loan interest
 	- limited to 2.5K
 		- all interest pmts qualify for adj
@@ -55,6 +91,26 @@ Adj for AGI aka "above the line/to arrive at AGI" deductions
 	- amt deposited at bank for LT inv and bank offers high interest rate, withdraw early, instead of high interest - bank returns money at reduced interest
 - Alimony paid
 	- only for pmts due to divorce/separation agreements executed on/before 2019
+	- pmts for support of former spouse:
+		- income to receiving spouse
+		- deductible to arrive at AGI (adj) by payer
+	- To be deductible:
+		- pmts legally req under written divorce/separation decree/agrmt
+		- pmts must be in cash/equivalent
+		- pmts cannot extend beyond death of payee spouse
+		- pmts cannot be made to members of same household
+		- pmts mustnt be designated as anything other than alimony
+	- Child support
+		- portion that is child support is not taxable regardless of execution date
+			- not incl in income by receiving/not deductible by payer
+			- pmt applies first to child support, then alimony 
+				- if divorce before 2019, no adj until child support filfilled
+	- Property Settlements (Nontaxable/Nondeductible)
+		- if divorce settlement provides for lump sum pmt/prop settlement by spouse
+			- that spouse gets no deduction for pmt made
+			- pmts no incl in gross inc of spouse receiving 
 - Attorney fees paid in certain discrimination/whistle blower cases 
+	- adj allowed for attorney fees paid in connection w
+		- age, sex, racial discrimination, and whistlblower cases
+	- adj amt limited to amt claimed as inc from judgement
 
-CPA exam will often refer to 'adj' as 'deductions to arrive at AGI'
