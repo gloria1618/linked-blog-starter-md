@@ -6,11 +6,11 @@ Sole proprietor = only owner of unincorporated business (bad for L), no partners
 2. Self empl tax
 	- adj to inc allowed for half of SE tax (Medicare + SS) paid
 	- allows sole proprietor to 'deduct' employer portion of SE tax as adjustment to gross taxable inc
-	- self empl income subject to 2.9% medicare tax
-	- up to 176,100 (2025) subj to 12.4% SS tax (so tot 15.3% on self empl earnings)
+	- self empl income subject to ==2.9%== medicare tax
+	- up to 176,100 (2025) subj to ==12.4%== SS tax (so tot ==15.3%== on self empl earnings)
 	- SE tax calc on 92.35% of self empl income (100- .5 * 15.3)
 	- ![[Pasted image 20250915121833.png]]
-^would also be subj to income tax btw
+^20k would also be subj to income tax btw
 
 - NI from self empl computed on Schedule C
 - NI from sole proprietorship is then transferred to Form 1040 as one amt
@@ -43,11 +43,12 @@ Sole proprietor = only owner of unincorporated business (bad for L), no partners
 			- business interest inc
 			- 30% of adj taxable inc ATI, and
 			- floor plan financing interest exp
-		- ATI = taxable business inc excl interest inc/expense
+		- AdjTI = taxable business inc excl interest inc/expense
 		- floor plan financing = debt typically used to acquire motor vehicles held for sale or lease where debt secured by the acquired inv
 		- interest exp paid in adv by cash basis txpyr cant be deducted until tx period to which interest relates (must be incurred/paid)
 		- above limitation doesn't apply if txpyrs avg annual gross receipts are <31M (2025) for prior 3 taxable yrs
 		- disallowed business interest exp can be carried forward indefinetely 
+* SEE TAX NOTES FOR INTEREST EXPENSE STUFF*
 
 ###### Schedule C Nondeductible Expenses 
 - salaries paid to sole proprietor (withdrawal)

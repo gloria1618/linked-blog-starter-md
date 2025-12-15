@@ -4,15 +4,16 @@ CPA exam will often refer to 'adj' as 'deductions to arrive at AGI'
 - Educator expenses
 - IRA contributions (traditional)
 	- Deductible trad IRA
+		- contributions to trad IRA not deductible: if ur rich n in company/pension plan like 401k?
 		- trad IRA deductible from gross inc to arrive at AGI
 		- adj allowed for a yr only if contribution made by due date of tax return for indiv (april15, extensions not considered)
 		- Earnings on deductible trad IRA contributions accumulate tax free till withdrawn
 		- dist of both principal+earnings:
 			- taxable as ordinary inc
-			- may be subj to applicable early withdrawal penalties
+			- may be subj to applicable early withdrawal penalties (10%)
 		- min dist req to be taken April 1 of yr after turning 73
 		- Limitations on deduction
-			- txpyrs deduction for trad IRA contribution limited if txpyr/spouse participates in empl-sponsored plan
+			- txpyrs deduction for trad IRA contribution limited if txpyr/spouse participates in empl-sponsored retirement plan
 				- AGI limits apply to deduction allowed for contribution made to trad IRA
 				- allowed deductible phases out proportionately w/in following ranges
 				- ![[Pasted image 20250922214245.png]]
@@ -21,23 +22,41 @@ CPA exam will often refer to 'adj' as 'deductions to arrive at AGI'
 					- ![[Pasted image 20250922214941.png]]
 					- ![[Pasted image 20250922215047.png]]
 					- ![[Pasted image 20250922215137.png]]
+						- so 80% of max deduction allowed, 20% not
+						- see contributions section for 7k
 	- Roth IRA
+		- contributions not deductible when made
+		- earnings accum tax free
+		- no deduction allowed for roth contributions, so dist of principal (contributions) is tax free
+		- dist of earnings may be taxable depending on dist is 
+			- qualified
+			- nonqualified 
+		- ![[Pasted image 20251214181038.png]]
 	- Nondeductible trad IRA
-	- ![[Pasted image 20250922211208.png]]
-	- Earned income incl
-		- salary/wages
-		- commissions
-		- bonuses
-		- alimony (for divorce before 2019)
-		- net earnings from self empl
-		- non tuition fellowship & stipend pmts treated as taxable compensation
-	- Earned inc doesnt incl
-		- interest/dividends
-		- annuity inc
-		- pensions
-		- alimony 2019+
-	- Retirement Savings Contribution Credit
-		- eligible taxpayers may be entitled to tax credit for contributions to either trad/roth IRA, subj to certain limits
+		- if deduction for contribution to trad IRA limited, a nondeductible trad IRA contribution can be made instead
+		- overall limit still applies to combined nondeduct and deductible contributions (7k 2025 or earned income)
+		- Earnings on nondeduct trad IRA contributions accum tax free until withdrawn
+		- Dist
+			- taxable: earnings (taxed as ord inc)
+			- nontaxable: principal contributions (bc not deducted when contributed)
+	- Contributions 
+		- ![[Pasted image 20250922211208.png]]
+		- annual limits apply to sum of contributions to the 3 types of IRA's	
+		- Earned income incl
+			- salary/wages
+			- commissions
+			- bonuses
+			- alimony (for divorce before 2019)
+			- net earnings from self empl
+			- non tuition fellowship & stipend pmts treated as taxable compensation
+		- Earned inc doesnt incl
+			- interest/dividends
+			- annuity inc
+			- pensions
+			- alimony 2019+
+		- Retirement Savings Contribution Credit
+			- eligible taxpayers may be entitled to tax credit for contributions to either trad/roth IRA, subj to certain limits
+	- ![[Pasted image 20251214181500.png]]
 - Student loan interest
 	- limited to 2.5K
 		- all interest pmts qualify for adj
@@ -83,12 +102,13 @@ CPA exam will often refer to 'adj' as 'deductions to arrive at AGI'
 			- 5700 for self only coverage plans
 			- 10,500 for fam coverage plans
 - Moving expenses
-	- only for members of armed forces moving bc military order
-- .5 self-emplmt taxes
+	- only for members of armed forces moving bc military order n permanent chng
+- .5 self-emplmt taxes (this & next 2: not deducted on SchC, instead on front)
 - Self employed health insurance
-- Self employed retirement
+- Contributions to certain self employed retirement plans
 - [[Interest]] withdrawl penalty
 	- amt deposited at bank for LT inv and bank offers high interest rate, withdraw early, instead of high interest - bank returns money at reduced interest
+	- the amt of foreited interest is deductible, doont offset w interest income
 - Alimony paid
 	- only for pmts due to divorce/separation agreements executed on/before 2019
 	- pmts for support of former spouse:
@@ -112,5 +132,5 @@ CPA exam will often refer to 'adj' as 'deductions to arrive at AGI'
 - Attorney fees paid in certain discrimination/whistle blower cases 
 	- adj allowed for attorney fees paid in connection w
 		- age, sex, racial discrimination, and whistlblower cases
-	- adj amt limited to amt claimed as inc from judgement
+	- adj amt for legal fees paid but limited to amt claimed as inc from judgement
 
