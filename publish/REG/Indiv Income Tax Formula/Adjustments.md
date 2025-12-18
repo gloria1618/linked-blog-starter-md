@@ -1,8 +1,8 @@
 Adj for AGI aka "above the line/to arrive at AGI" deductions
 CPA exam will often refer to 'adj' as 'deductions to arrive at AGI'
 
-- Educator expenses
-- IRA contributions (traditional)
+- Educator expenses ($300)
+- [[IRA Distributions]] *contributions* (traditional)
 	- Deductible trad IRA
 		- contributions to trad IRA not deductible: if ur rich n in company/pension plan like 401k?
 		- trad IRA deductible from gross inc to arrive at AGI
@@ -103,13 +103,63 @@ CPA exam will often refer to 'adj' as 'deductions to arrive at AGI'
 			- 10,500 for fam coverage plans
 - Moving expenses
 	- only for members of armed forces moving bc military order n permanent chng
-- .5 self-emplmt taxes (this & next 2: not deducted on SchC, instead on front)
-- Self employed health insurance
-- Contributions to certain self employed retirement plans
+- Self emplmt
+	- not deducted on SchC, instead on front
+	- ![[Pasted image 20251214201555.png]]
+	- .5 self-emplmt taxes 
+		- self employed txpyrs w net business income are subj to 
+			- income tax
+			- self emplmt (SS,medicare) tax
+		- 50% of self emplmt tax is deducted to arrive at AGI
+		- ![[Pasted image 20251214202405.png]]
+	- Self employed health insurance [[Business Income]]
+		- self employed indiv may deduct all of health insurance premiums paid for taxpyr, spouse, dependents, provided plan set up in name of 
+			- self empl indiv or
+			- indiv's business
+		- health insurance premiums are adj, rather than itemized deduction subj to % of AGI floor
+	- Contributions to certain self employed retirement plans
+		- as w empl sponsored plans, earnings are not taxed until distributed
+		- Dist from plan
+			- fully taxable as ord inc
+			- subj to same early/late dist penalties as other retirement plans
+		- max amt that self empl txpyr can contribute to self empl retirement plan each yr depends on type of plan
+		- SEP IRA simplified employee pension
+			- self empl txpyr can make contributions to plan for owner (w/w.o employees) and for qualified employees 
+				- employee contributions only made by employer, not employee
+					- max employer contribution to employee's SEP IRA in 2025 is lesser of:
+						- 25% of employee's comp
+						- 70k 
+				- max contribution to self empl txpyr own SEP IRA in 2025 lesser of:
+					- 25% of NI from self empl reduced by SEP IRA contribution itself, which effectively = 20% of NI from self empl after deduction for self emplmt tax  (aka 20% of 92.35% of SENI)
+					- 70k
+					- (no additional catch up contribution for 50+ allowed)
+			- 
+		- SIMPLE IRA savings incentive *match* plan for employees
+			- contributions can be made for self empl owner and qualified emplee
+				- plan can provide for contributions for emplee to be made by emplyer or both emplee n emplyr
+					- max contribution to employee in 2025 is lesser of:
+						- 100% of emplee compensation
+						- 16,500
+					- max contribution to self empl txpyr to own is lesser of:
+						- 100% of NI from self emplmt reduced by deduction for .5 of self emplmt tax (aka 92.35% of SENI)
+						- 16,500
+				- additional catch up contribution allowed in 2025 for txpyrs 50+
+					- 50-59, 64+: 3,500
+					- 60-63: 5,250
+		- Solo 401ks 
+			- only available for self empl txpyrs w no full time emplee
+			- max contribution to self empl txpyrs is lesser of 
+				- 20% of NI from self emplmt reduced by deduction for .5 of self emplmt tax (aka 20% of (92.35% of SENI))
+				- 70k
+			- additional catch up contribution allowed in 2025 for txpyrs 50+
+					- 50-59, 64+: 7,500
+					- 60-63: 11,250
+		- ![[Pasted image 20251214204914.png]]
+			- ^ couldve done 100k * 92.35% * 20%
 - [[Interest]] withdrawl penalty
 	- amt deposited at bank for LT inv and bank offers high interest rate, withdraw early, instead of high interest - bank returns money at reduced interest
 	- the amt of foreited interest is deductible, doont offset w interest income
-- Alimony paid
+- [[Alimony received]] *paid*
 	- only for pmts due to divorce/separation agreements executed on/before 2019
 	- pmts for support of former spouse:
 		- income to receiving spouse
