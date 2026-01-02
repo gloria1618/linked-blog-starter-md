@@ -8,9 +8,9 @@ SUNORL
 	- taxable income - only income that is taxable is incl for purpose of gross income limitation
 	- Nontaxable income
 		- SS (at low income lvls)
-		- tax exempt interest income
+		- tax exempt interest income [[Interest]]
 			- state n municipal interest income
-		- tax exempt scholarships
+		- tax exempt scholarships [[Partially Taxable Other Income]]
 - ###### No Joint Return
 	- taxpyr doesn't meet def if married dependent who files joint unless:
 		- no tax L on couple's joint return &

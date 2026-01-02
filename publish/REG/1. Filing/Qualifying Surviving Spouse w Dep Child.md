@@ -1,5 +1,7 @@
 aka widow/widower, W=WHOLE YR
-[[Joint]]
+[[Joint]] in yr of death
+
+
 - 2 yrs after spouses death (unless remarries)
 if remarried, surviving spouse will file tax return (joint/separate) w new spouse
 

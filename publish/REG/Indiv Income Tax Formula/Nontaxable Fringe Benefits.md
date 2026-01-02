@@ -25,7 +25,7 @@ Dependent Care Assistance
 	- dependent childrne under 13
 	- spouse/other dependent physcially/mentally incapable of self care
 
-Qualified Tuition Reduction
+Qualified Tuition Reduction [[Partially Taxable Other Income]]
 - empl of edu inst studying undergrad
 - grad students excl only if:
 	- engaged in teaching/research  &
@@ -45,7 +45,7 @@ Qualified Empl Discounts
 - Transit passes
 	- same as parking
 
-Qualified Non-Roth Retirement Plans
+Qualified Non-Roth Retirement Plans [[IRA Distributions]]
 - Employer Contributions
 	- not income to employee at time of contribution, taxed when withdrawn
 - Employee Contributions

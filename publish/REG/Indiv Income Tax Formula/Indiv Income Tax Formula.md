@@ -5,7 +5,7 @@
 [[Adjustments]]
 ___
 AGI
-(Standard OR [[Itemized Deductions]])
+([[Standard Deductions]] OR [[Itemized Deductions]])
 ___
 Taxable Income before QBI Deduction
 QBI deduction

@@ -6,7 +6,7 @@ Prizes n Awards
 
 Gambling Win/Loss
 - win incl in gross inc
-- loss deductible on Schedule A as itemized deduction
+- loss deductible on Schedule A as itemized deduction [[Itemized Deductions]]
 	- gambling losses can only be deducted to extent of gambling winnings
 	- expenses taxpyr incurred in connection w gambling activity also incl as loss
 
@@ -31,3 +31,4 @@ Cancellation of Debt (COD) Income
 	- student loan forgiven by lender
 
 [[Partially Taxable Other Income]]
+[[Nontaxable Misc]] dont get confused
