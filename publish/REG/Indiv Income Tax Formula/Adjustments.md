@@ -4,7 +4,7 @@ CPA exam will often refer to 'adj' as 'deductions to arrive at AGI'
 - Educator expenses ($300)
 - [[IRA Distributions]] *contributions* (traditional)
 	- Deductible trad IRA
-		- contributions to trad IRA not deductible: if ur rich n in company/pension plan like 401k?
+		- contributions to trad IRA not deductible: if ur rich n in company/pension plan like 401k? I THINK THIS IS NONDEDUCT
 		- trad IRA deductible from gross inc to arrive at AGI
 		- adj allowed for a yr only if contribution made by due date of tax return for indiv (april15, extensions not considered)
 		- Earnings on deductible trad IRA contributions accumulate tax free till withdrawn

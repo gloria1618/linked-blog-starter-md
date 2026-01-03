@@ -1,4 +1,56 @@
+Sch A - personal expenses
+- putting itemized deductions here
+- MarriedFSeparate- both must take either standard/itemize 
+Sch C - business expenses
+Sch E - rental expenses
+
 - Medical (excess of 7.5% of AGI)
+	- Payments on behalf of ___ qualify:
+		- filing txpyr
+		- spouse
+		- dependent receiving more than .5 support from txpyr
+			- def of 'dependent' here has no U/N in sunorl
+			- so no limit to dependent's GI relating to med/dental expenses (deductions?), but all other dependency tests apply
+	- Timing of Deduction:
+		- cash basis so generally to be tax deductible
+			- incurred expense
+			- paid/charged to cc before yr end
+		- Include as potentially deductible expenses:
+			- Paid cash/check amts during yr
+			- Amts charged to CC during yr (regardless when paid)
+			- Pmts for deceased spouse 
+				- deductible in yr paid, even if diff from yr spouse died
+			- Amts reimbursed to txpyr (or to other for txpyr) by hospital, health/accident insurance must reduce otherwise allowable expense (before % of AGI floor applied)
+	- Calc
+		- ![[Pasted image 20260103023139.png]]
+		- qual med expenses deductible to extent they exceed (reimbursement + 7.5% AGI)
+	- Allowed medical expenses
+		- medicine, prescription, incl Medicare part D premiums
+		- doctors
+		- med insurance premiums (incl qualified LT care premiums, tho deduction limited based on age of txpyr)
+		- medically necessary surgery
+		- transportation to medical facility (actual costs or mileage allowance)
+		- physically disabled costs
+			- exp incurred by phys disabled for removal of structural barriers in residence to accommodate are treated as med exp
+				- but reduce expense by increased value of home
+	- Not allowed med exp
+		- elective surgery
+		- elective cosmetic op
+		- illegal drugs
+		- travel
+		- vitamins
+		- part of SS tax paid for basic medicare
+		- funerals
+		- cemetery lots
+		- insurance against loss of earnings due to sickness/accident
+		- life insurance
+		- capital expenditures (up to the increase in FMV of prop bc of expenditure)
+		- health club membership recc by doc for general health care (be more specific to deduct)
+		- personal hygiene/other ordinary personal expense 
+	- Insurance Reimbursement
+		- so deduct whats repaid to reduce the expense
+		- reimbursement by empl that exceed total cost will be incl in GI
+		- reimbursement of any expense deducted in prior yr will be incl as GI in yr received 
 - Taxes
 	- state/local (property and either income or sales, up to 10k)
 - Interest expense
@@ -6,3 +58,4 @@
 - Charitable contributions
 	- AGI limit varies by type
 - Casualty/theft loss attributable to federal disaster (excess of $100 floor and 10% of AGI)
+- Misc
