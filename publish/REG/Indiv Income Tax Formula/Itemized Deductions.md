@@ -104,6 +104,7 @@ Sch E - rental expenses
 		- business (SchC)
 		- rental prop taxes (SchE)
 		- *cash basis txpyrs entitled to deduc in yr paid/charged on CC, no 'matching' to yr tax is applicable 
+- Casualty/theft loss attributable to federal disaster (excess of $100 floor and 10% of AGI)
 	- Casualty Loss (10% of AGI Floor)
 		- casualty losses of nonbusiness prop are deductible to extent that:
 			- each indiv loss exceeds $100; and
@@ -237,5 +238,28 @@ Sch E - rental expenses
 		- charitable org that receive contributions of more than $75 in exchange for prop/services must provide donor w written stmt that est value of deductible portion of pmt
 			- salvation army technically supposed to give out slip
 		- ![[Pasted image 20260104203409.png]]
-- Casualty/theft loss attributable to federal disaster (excess of $100 floor and 10% of AGI)
+	- Timing of Deduction (like medical)
+		- deduction allowed only for tatx yr in which contribution made
+			- cash/check - actually paid
+			- cc - when charged, a contribution made by a bank cc is deductible in yr charge is made, even if pmt to bank occurs nxt yr 
+	- Contributions for Services/volunteer
+		- txpyr may deduct out of pkt exp incurred as result of prov services
+			- incl cost of driving to/from volunteer work
+			- txpyr may take
+				- mileage allowance or
+				- actual cost of gas/oil
+			- with either method, txpyr may also incl parking/tolls
+	- Student Living in Txpyrs Home
+		- charitable deduction may be taken for exp incurred when taken into home a full time student
+		- student may not be beyond 12th grade
+		- total deduc is up to 50/month for each full month(15+ days) student is in home and attending school 
+	- Substantiation Req
+		- regardless of amt of cash contribution, txpyr must keep records that substantiate their deductions
+			- either a bank record/written acknowledgement from charity is req
+			- acknowledgement must be obtained by earlier of:
+				- filing date
+				- due date of return 
+		- for contributions of 500+ of noncash prop, must file Form 8283 
+		- txpyrs claiming 5k+ for any one item or group of similar items (ex stamp collection), need written appraisal for each such item/group donated
+			- no appraisal needed for publicly traded securities
 - Misc
