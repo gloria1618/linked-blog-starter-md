@@ -9,7 +9,7 @@
 - <15dys
 	- treated as personal residence
 	- rental inc excl from inc
-	- itemized deductions
+	- [[Itemized Deductions]]
 		- mortgage interest (1st/2nd home)
 		- real estate taxes
 	- not deductible

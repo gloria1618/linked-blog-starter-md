@@ -51,11 +51,191 @@ Sch E - rental expenses
 		- so deduct whats repaid to reduce the expense
 		- reimbursement by empl that exceed total cost will be incl in GI
 		- reimbursement of any expense deducted in prior yr will be incl as GI in yr received 
-- Taxes
-	- state/local (property and either income or sales, up to 10k)
+- Taxes n Losses: state/local (property and either income or sales, up to 10k)
+	- state, local, foreign taxes (excl federal)
+		- cash method, taxes gen deductible in yr paid
+		- accrual txpyr, taxes gen deductible in yr accrue
+		- itemized deduc for state/local *inc* taxes (SALT), state/local *prop* taxes, n *sales* taxes limited to 10k in aggregate
+		- foreign real prop taxes not deductible
+			- those incurred in trade/business or respect to prop held as inv
+	- Real estate taxes (SALT)
+		- legally obligated to pay to deduct
+			- if u ask them to put your name on it, then you're legally obligated
+		- prorate taxes in yr of sale/purchase
+			- owner alr paid taxes for full yr? well buyer ends up like reimbursing owner when buying
+		- taxes paid under protest are deductible (so like lawyers say lemme lower ur taxes n fight but if they lose they give money back?)
+			- subsequent recovery is incl in GI
+				- overbilled reimbursement
+		- doesn't incl street, sewer, sidewalk assessment taxes
+		- taxes paid thru an escrow acct deductible when paid to the taxing authority
+			- so when bank pays town
+		- foreign real estate taxes paid only deductible if paid in carrying on trade/business
+		- those on land held for appreciation may be capitalized or deducted at option of txpyr
+		- those allocated to part of home that is used exclusively for business may be deduc on SchC 
+			- if on rental prop, then SchE
+	- Personal property taxes (SALT)
+		- def: those thare are assessed by state/local gov on personal property owned by the txpyr, such as vehicles/boats
+		- to deduct, tax must be based on value of personal prop and paid during tax yr
+	- Income Taxes (SALT + Foreign taxes)
+		- taxes withheld from paychecks during yr are deductible
+		- estimated taxes paid during yr are deductible
+			- due dates for est by quarter: Q1: April 15, Q2: June 15, Q3: Sep  15, Q4: Jan 15 of next yr
+				- so only first 3 are deductible in first year 
+		- assessments for prior yr's taxes that are paid in current yr are deductible
+			- aka underpaid in prior yrs and paying now
+		- refunds incl in GI (if tax was deducted in prior yr); and should not be netted against current yr itemized tax deduction
+	- Sales Tax
+		- may elect to deduct either 
+			- SALT income, or
+				- some states dont have
+			- SALT general sales
+				- amt det by either:
+					- tot amt of actual general sales taxes paid, or
+					- relevant IRS table, plus any amt of sales tax paid for a motor vehicle/boat, or other IRS approved items 
+		- 'tax benefit rule applies'
+			- if txpyr itemizes deductions in yr and takes deductions for state income txes instead of a deduction for sales txes in yr, the tax benefit rule will:
+				- calc taxability of state tax refund on extra benefit received from claiming higher state inc tax deduction instead of what would've been allowed if state sales tax had been deducted 
+				- ex: paid 50k in state taxes, only 10k deductible, refund of 12k of 50k, well none of that benefitted so not taxed 
+				- but if only paid 10k in taxes, and got 3k refund, then all of that taxable 
+				- chat: If you deducted state income taxes instead of sales taxes and later get a refund, **only the portion of the refund that produced a tax benefit beyond what the sales tax deduction would have given you is taxable**.
+	- Nondeductible Taxes as itemized on SchA
+		- fed taxes (incl SS)
+		- inheritance taxes for states
+		- business (SchC)
+		- rental prop taxes (SchE)
+		- *cash basis txpyrs entitled to deduc in yr paid/charged on CC, no 'matching' to yr tax is applicable 
+	- Casualty Loss (10% of AGI Floor)
+		- casualty losses of nonbusiness prop are deductible to extent that:
+			- each indiv loss exceeds $100; and
+			- agg of these excess losses (excess over $100, SUBTRACT 100) exceeds 10% of AGI
+		- $100 floor applies to each separate casualty event
+		- losses only deductible if sustained in presidentially declared disaster area
+		- no casualty loss deduction allowed for lost, misplaced, broken property (has to be destroyed)
+		- only rlly a loss if it wasn't insured?
+		- Amount of Loss
+			- amt regarded as casualty loss is lesser of:
+				- lost cost: diff bw mkt value of prop right before casualty and FMV immediately afterward
+				- adjusted basis of the prop
+			- whichever amt used must be reduced by amt of insurance recovery
+			- ![[Pasted image 20260104174257.png]]
+		- Failure to Notify Insurer
+			- casualty loss for nonbusiness cannot be deducted unless:
+				- insurance claim was filed, or
+				- losses are not covered by insurance 
+		- Other losses
+			- gambling losses
+				- fully deductible to extent of gambling winnings
+			- misc itemized deductions (2% of AGI floor)
+				- Tax Cuts n Jobs Act of 2017 suspended all misc itemized deductions subj to 2% of AGI floor for tax yrs 2018-2025
 - Interest expense
-	- home & investment
-- Charitable contributions
-	- AGI limit varies by type
+	- Home mortgage
+		- deductions allowed for 'qualified residence interest' on 1st/2nd home (principal residence and one other)
+		- home that is used for personal purposes for at least 14 days in tax yr qualifies as '2nd home'
+		- mortgage interest allocated to:
+			- part of home that is used exclusively for business may be deductible on Sch C
+			- rental of home may be deductible on SchE
+		- interest on up to 750k (375k MFS) of home related indebtedness is deductible as home mortgage interest
+		- interest on excess principal (over $750k ) is personal interest, not deductible
+		- Qualified indebtedness may be in form of original acquisition debt or home equity loan, but must meet following:
+			- incurred in buying, constructing, or substantially improving txpyrs principal/2nd home, and
+			- secured by the home
+		- points bank charge points/fee for borrowing their $
+			- points related to 
+				- the debt on home are deductible immediately
+				- refinancing must be amort over period of loan 
+					- the new bank's points
+	- Investment
+		- Inv interest deduction for indiv limited to net taxable inv inc (like gambling)
+		- incl as net taxable inv inc
+			- interest
+			- dividends (other than qualified dividends)
+			- STCG
+			- royalties (in excess of expenses)
+			- netLTCG and qualified dividends (only if txpyr elects not to claim the reduced capital gains tax rate)
+		- Dividend inc from stock purchased w borrowed funds is not a qualified dividend available for preferential 15% tax rate 
+		- Exclude from net taxable inv inc
+			- interest exp used to purchase tax free bonds is not deductible (bc interest earned on bonds is not taxable)
+		- Disallowed expense: carry forward
+			- excess of inv interest paid over the 'allowed' inv interest deducted can be carried forward indefinitely 
+	- Personal (consumer) Interest Not Deductible
+		- includes interest on:
+			- personal note to bank/person for borrowed funds
+			- life insurance loans
+			- bank cc, other revolving charge accts
+			- purchase of personal prop such as auto, tv, clothes, etc
+			- fed, state, local tax for underpmts
+			- home equity loan not used to improve home
+	- Prepaid Interest (Allocate to proper period)
+		- must be allocated over period of loan, even for cash basis txpyr
+		- deducted when incurred n paid
+		- prepaid interest received:
+			- is taxable as inc in yr received
+			- not allocated
+	- Educational student loan
+		- [[Adjustments]] for edu loan limited to 2.5k
+		- not itemized
+		- excess interest considered personal, not deductible 
+- Charitable contributions - AGI limit varies by type
+	- Charity - items given to qualifying charitable org (tax deductible)
+	- not tax deductible
+		- gifts
+			- giving directly to needy fam is gift, not charity
+		- political contributions - items given to candidates
+	- Deduction Amount
+		- charitable contribution may be in form of cash/prop
+		- deduction amt for contributions of prop depends on prop type:
+			- ord income prop
+				- deduction is lesser of:
+					- props adj basis 
+					- FMV at contribution time
+				- incl
+					- inventory
+					- ST assets (1yr or less)
+					- inv or personal use assets that have depreciated in value
+					- deprec recapture on LT, business use assets
+			- LTCG prop
+				- deduction is FMV at contribution time
+				- is appreciated capital gain property that has been held for 1+ yrs and incl 
+					- inv assets
+					- personal use assets
+					- gain in excess of ord inc deprec recapture for LT business use assets
+	- AGI Limits on Deduction Amount
+		- max allowable deduction for charitable contributions depends on 
+			- type of prop contributed
+			- type of charity to which contribution made
+			- ![[Pasted image 20260104190035.png]]
+				- private operating foundation
+					- conducts charitable activities
+					- dist funds to its own charitable programs
+				- private nonop foundation
+					- dist funds to other charitable org 
+		- when txpyrs has charitable contributions that are subj to diff AGI limits, AGI limits applied:
+			- first to cash (60% AGI limit)
+			- then ord inc prop (50% AGI limit)
+				- if anything leftover 
+			- then LTCG prop (30% AGI limit)
+			- ![[Pasted image 20260104190459.png]]
+	- Carryover of Excess Charitable Contributions (5 Yrs)
+		- all charitable contributions are applied FIFO basis, after current year contributions deducted, subj to % of income limits 
+	- Example (IMPORTANT)
+		- # Why the cash (15k) and ordinary property (10k) reduce the LTCG limit
+			-  Think of the 50% limit as a “total bucket”
+				- Cash (60%) fills first
+				- Ordinary income property (50%) fills next
+				- LTCG property (30%) fills **last**
+			- The **50% bucket can never be exceeded** by:
+				- ordinary income property **plus**
+				- LTCG property **plus**
+				- any cash already deducted
+			- So before deducting LTCG property, you must ask:
+				-  “How much of my 50% AGI bucket is already used up?”
+		- ![[Pasted image 20260104193530.png]]
+		- ![[Pasted image 20260104193612.png]]
+	- Consideration Received for Contribution
+		- txpyr may only deduct the excess contribution over the consideration received
+			- subtract value of food/entertainment at gala u give 2k at
+		- charitable org that receive contributions of more than $75 in exchange for prop/services must provide donor w written stmt that est value of deductible portion of pmt
+			- salvation army technically supposed to give out slip
+		- ![[Pasted image 20260104203409.png]]
 - Casualty/theft loss attributable to federal disaster (excess of $100 floor and 10% of AGI)
 - Misc
