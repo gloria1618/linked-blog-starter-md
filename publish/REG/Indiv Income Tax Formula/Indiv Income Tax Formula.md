@@ -15,7 +15,7 @@ ___
 ___
 [[Federal Income Tax]]
 [[Tax Credits]]
-Other Taxes
+[[Other Taxes]]
 [[Pmts]]
 ___
 Tax due/refund
