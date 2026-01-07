@@ -1,0 +1,285 @@
+tax credits reduce personal personal tax L, dollar for dollar
+- unlike deduction
+2 basic types of tax credits
+- Nonrefundable Personal Tax Credits > reduce tax, no refund
+	- may reduce personal tax L to 0
+		- Child, dependent care credit
+			- 20-35% of work related exp to care for qualifying persons
+				- eligible expenses:
+					- must be for purpose of enabling txpyr to be gainfully employed
+					- incl pmt made to babysitter, nursery school, day care
+					- doesnt incl elementary school
+			- max allowable expenses are: 
+				- 3k for 1 qual person
+				- 6k for 2+ qual ppl
+			- available to txpyrs who 
+				- maintain a household
+				- work
+				- incur eligible exp for care of the following qual persons
+					- dependent qual child under age 1 when care is provided
+					- disabled dependent who is unable to care for themself, whether or not they can be claimed as dependent, but who must meet support test of a dependent
+					- disabled spouse unable to take care of themself
+			- Earned income req
+				- married txpyrs must both produce earned inc from wages, salary, self empl NI to be eligible for the credit (unless one is FT student or physically/mentally incapicated)
+			- Calc of credit
+				- eligible amt for credit is lesser of:
+					- earned income of lesser earning spouse
+					- actual expenses incurred 
+					- max allowable amount (3k, 6k)
+				- credit = qual amt * applicable %
+					- % based on AGI, phase out from 35 to 20%
+					- credit decreases 1%/2k (or fraction thereof) of AGI over 15k, but is not reduced below 20%
+					- Min 20%
+						- max credit at lowest rate of 20% for txpyrs w AGI of 43k+ is:
+							- 600 (3k * 20%) for 1, double for 2+
+			- ![[Pasted image 20260104231648.png]]
+		-  Elderly n permanently disabled credit
+			- credit of 15% of eligible income is available to indiv who are
+				- 65+
+				- under 65, retired due to tot and permanent disability, and rec taxable disability inc for yr
+			- base amt used to figure credit:
+				- 5k for single person or qual spouse
+				- 7.5k if MFJ and both qualify
+					- 5k if MFJ and 1 qualify
+				- 3.75k for qual indiv who is MFS
+				- if qual indiv is under 65 and has disability inc of less than 5k, base amt is limited to 5k
+			- AGI limit
+				- eligible income is reduced by
+					- any SS pmts and other excl pensions/annuities received by txpyr, and
+					- .5 of txpyrs AGI inc that exceeds following lvls
+						- ![[Pasted image 20260105002321.png]]
+			- ![[Pasted image 20260105002844.png]]
+			- ![[Pasted image 20260105003044.png]]
+		- Education credits
+			- not limited to 1 type/tax return
+				- parent may claim LLC for expenses of one child and AOTC for another child in same tx yr 
+				- however more than one credit cannot be claimed for same student in same yr
+			- Lifetime learning credit LLC
+				- available for unlimited # of yrs for qualified tuition/related course fees at eligible edu instituitions
+				- = to 20% of qual exp up to 10k
+				- qual exp include:
+					- tuition, course fees (not course materials) for undergrad courses
+					- grad lvl courses
+					- certain professional degree courses
+					- courses to acquire/improve job skills
+				- qual expenses on 'per txpyr' basis, rather than 'per student' so max is 2k regardless of qual students
+				- exp paid by dependent child are treated as if made by parent, like AOTC
+				- credit is
+					- phased out when MAGI 80k
+					- fully phased out MAGI 90k
+			- American oppro credit AOTC (60% nonrefundable)
+				- qual exp: tuition, fees, course materials
+				- period: up to 4yrs of undergrad higher edu at eligible edu instituition
+				- max AOTC credit is 2.5k:
+					- 100% of first 2k qual exp +
+					- 25% of next 2k expenses paid during yr
+				- qual expenses are on a 'per student' basis and must be incurred on behalf of the 
+					- txpyr
+					- txpyr's spouse
+					- txpyr's dependent
+				- if child claimed as dependent by a parent, expenses paid by either are deemed to have been made by parent for this purpose
+				- student must be at least half time for at least one academic period during the year
+				- credit not available if student convicted of federal/state felony drug expense in calendar yr for which expenses incurred
+				- credit phase out begins w MAGI exceeding 80k (160k MFJ)
+				- full phase out 90k (180k MFJ)
+				- refundable portion
+					- subj to certain restrictions, 40% of AOTC refundable
+					- up to 1k (2.5k * 40%)
+			- Nontaxable distribution from a Coverdell edu savings acct used to pay higher edu savings
+				- a separate edu savings acct may be set up to pay qual edu expenses of designated beneficiary ... good for grandparents
+				- contributions nondeductible
+					- max contribution/beneficiary is 2k annually
+				- designated beneificary may be any child under 18
+				- no limit to # of beneficiaries (each beneficiary has a separate acct)
+				- max allowable contribution amt phased out w MAGI bw 
+					- ![[Pasted image 20260105000012.png]]
+				- earnings accum tax free while in edu savings acct
+				- distributions, both of principal and interest, are tax free to extent they're used for qualified elementary, secondary, higher edu exp of beneficiary
+				- qual edu exp
+					- tuition, fees, tutoring, books, room/board, supplies, equipment
+				- any amts remaining when beneficiary reaches 30yrs old must be dist (except in case of special needs beneficiary)
+					- if dist made directly to beneficiary, dist amt is
+						- taxable to beneficiary
+						- subj to 10% penalty
+					- alternatively, balance can be rolled over tax free to another fam member of txpyr no penalty 
+				- txpyr can 
+					- claim AOTC or LLC for tax yr
+					- also exclude from GI amts dist from coverdell edu savings acct
+						- however, dist cannot be used for same edu expenses for which either LLC or AOTC was claimed
+			- Section 529 plans qual tuition programs QTP
+				- QTP is program under which person may purchase tuition credits/make cash contributions to an acct on behalf of beneficiary for pmt of qualified higher edu expenses
+				- program must be est n maintained by a 
+					- state
+					- state agency
+					- eligible edu instituition
+				- qual higher edu exp: tuition, fees, books, supplies, equipment req by edu instit for enrollment/attendance
+					- also incl reasonable cost of room/board if beneficiary is enrolled at least half time
+				- dist from QTP, incl cash/earnings/in kind dist, may be excl from a designated beneficiarys GI to extent that distribution is used to pay for qual higher edu exp
+				- 
+		- Retirement savings contribution credit (Saver's credit)
+			- nonrefundable tax credit available for low/mod inc for contributions to qual empl sponsered retirement plan/IRA
+			- eligibility
+				- at least 18 by tax yr end
+				- not FT student
+				- not dependent of another
+			- allowable credit
+				- tax credit is 10, 20, 50% of txpyrs contribution to qualified retirement plan for the yr
+				- credit rate depends on txpyrs filing status n AGI
+				- max contribution eligible for credit is 2k/txpyr
+				- no carryover allowed
+			- ![[Pasted image 20260105125846.png]]
+		- Foreign tax credit
+			- for foreign taxes paid to foreign country/US possession
+			- limit on amt of credit an indiv can obtain
+			- in lieu of credit, indiv can deduct taxes as an [[Itemized Deductions]]
+			- allowable credit
+				- no limit on foreign taxes used as deduction
+				- used as credit limited to lesser of foreign taxes paid or
+			- carryover of excess (disallowed) credit
+				- any disallowed foreign tax credit may be carried over:
+					- carry back 1yr, see if refund
+					- carry forward 10yrs
+			- ![[Pasted image 20260105130333.png]]
+				- ^ say 300k in taxable overseas, but 1 mil in tot income w 300k included, US tax on 1 mil is 100k 
+		- General business credit
+			- is combo of:
+				- inv credit
+				- work oppro credit
+					- available to emplyer who hire emplee from target group
+					- credit
+						-  40% of first 6k of 1st yrs wages
+						- 40% of first 3k to certain summer youth
+					- qualified groups
+						- disabled
+						- 18-24yr olds from poor fam
+						- vietnam veterans from eco disadvantaged areas
+						- certain food stamp recipients 
+				- alternative fuels/motor vehicle credit
+					- clean vehicle credit
+						- max credit up to 7.5k for new electric vehicles placed into service 2023+
+						- max credit up to 4k for qual prev owned electric vehicles placed into service 2023+
+						- both credits subj to AGI limits
+					- alternative fuel refueling property credits
+						- credit of 30% of installation costs of 'qual alt fuel vehicle refueling property' installed in the home
+						- max credit 1k 
+				- increased research credit (gen 20% of increase in qual research expenditures over base amt for yr)
+				- low income housing credit
+				- qual child care expenditures
+					- ur business cover cost of emplee's child care
+				- welfare to work credit
+				- empl provided child care credit
+				- small emplyr retirement plan start up costs credit
+					- eligible employers
+						- no more than 100 emplee who received at least 5k in compensation in preceding yr and
+						- at least 1 plan participant is a non highly compensated emplee
+					- credit available for first 3 yrs of plan (may elect to start claiming credit in tax yr before yr plan becomes effective)
+					- eligible startup up costs incl ord/necessary costs to set up/administer plan, and edu emplee about plan
+					- emplyr can choose to either deduct the startup costs or claim the credit for those costs, but not both
+					- credit is greater of:
+						- 100% of first 1k of eligible start up costs for employers w 50 or less employees (50% for 51-100 emplee)
+						- the lesser of:
+							- $250/eligible emplee of plan and is not highly compensated emplee or
+							- 5k
+					- ![[Pasted image 20260105132314.png]]
+				- other credits 
+					- small business health care tax credit
+						- credit up to 50% of emplyrs costs of plan premiums (or avg of group's premiums for small businesses w/in txpyrs state) allowed as credit for eligible emplyrs
+							- req: emplyr contributes at least 50% of costs of health coverage on behalf of emplee enrolled in a qual health plan offered thru a Small Business Health Options Program SHOP
+						- smaller businesses receive the better tax benefits
+						- credit nonrefundable, unused amts carried back 1 yr, then carried forward 20yrs
+							- tax exempt org will receive refund of tax credit
+						- costs for fam members, sole proprietors, partners, s corp owners w >2% ownership, and shareholders owning >5% of corp are excl
+						- if exp used to qualify for credit, they're not then allowable as tax deductions for emplee benefits expense 
+					- residential energy credits
+						- energy efficient home improvement credit
+							- max credit of 30% of qual energy efficiency improvements
+							- 1.2k credit limit/yr
+							- effective for prop placed in service 2023+
+						- residential clean energy credit
+							- max credit of 30% of installation cots of qual solar, wind, geothermal energy generating sys
+				- limited to regular tax L after other tax credits, minus 25% of regular tax L (after other tax credits) over 25k
+				- ![[Pasted image 20260105131204.png]]
+		- Adoption credit
+			- for '25, max credit allowed is amt of qual adop exp up to 17.28k
+			- credit nonrefundable, but excess of tax L may be carried forward up to 5yrs
+			- available adoption credit begins phase out w MAGI over 259,190 and phased out completely w MAGI 299190
+			- eligible expenses
+				- all reasonable, necessary exp, costs, fees are available
+				- not available
+					- adopting child of spouse
+					- for a surrogate parenting arrangement
+					- med exp
+			- timing
+				- claimed for yrs after pmt is made until adoption is final, at which point exp paid in yr it becomes final are claimed in that yr
+					- so like can only claim yr 1 exp in yr 2 until yr finalized 
+				- for foreign child adopted, no credit can be claimed until yr finalized
+				- in either case, expenses paid in later yrs can be claimed in yr paid 
+- Refundable Credits > reduce tax, can create refund
+	- subtracted form income tax L
+	- may result in cash refund when credit exceeds tax L, even if no tax is withheld from wages
+		- Child tax credit (limited refund)
+			- for 2018-25 may claim 2k credit for each 'qual child'
+			- qual child
+				- CARES, except must be under 17
+				- resident, citizen, national
+			- phase out
+				- reduce by $50/1k by which MAGI exceeds
+					- 400k for MFJ
+					- 200k for unmarried/MFS
+			- refundable to extent of lesser of:
+				- excess of child tax credit over tax L
+				- earned inc in excess of 2.5k * 15%
+				- 1.7k/qual child 
+			- due diligence req
+				- to help prevent improper claims, paid preparers subj to due diligence req for returns that claim (sim req apply to returns that claim the earned inc tax credit)
+			- non child dependent credit
+				- txpyr may claim additional non child dependent tax credit of 500 for each dependent who is not a qual child under age 17
+				- may incl
+					- children who are 17+ and above or
+					- other dependents who meet req of qual relative
+				- subj to same AGI phase out amts and not refundable 
+		- Earned income credit
+			- eligibility
+				- live in US (main home) for >.5 tax yr
+				- meet certain earned low inc thresholds
+				- not have more than specified amt of disqualified inc
+				- if no qual children, then be 25+ and under 65 (applies to both txpyr and spouse), and
+				- file joint return w certain exceptions (meaning spouse cannot be dependent of another)
+			- earned income
+				- wages, salaries tips
+				- other empl compensation
+				- earnings from self empl
+			- earned inc doesnt incl pension/annuity inc
+			- qual child
+				- not req
+				- if qual child, credit % and allowable earned inc lvl is higher
+				- qual child
+					- txpyrs child, adopted, grand/stepchild, foster, sibling, stepsib, descendant
+					- was at tx yr end under 19 or 24FTstudent, any disabled
+					- lived w txpyr in main home for >.5 tx yr
+					- is txpyr's dependent (if child is married)
+			- Investment income
+				- indiv cannot claim if they have investment inc exceeding 11.95k
+				- inv inc incl
+					- taxable/non interest
+					- dividends
+					- net rental.royalty inc
+					- netCG inc
+					- net passive inc
+			- ![[Pasted image 20260105124314.png]]
+			- ![[Pasted image 20260105124625.png]]
+		- Federal income tax withheld (Form W-2)
+			- all inc taxes withheld from paycheck treated as 'credit' against tax L
+			- when credit exceeds tax L, refund prov or apply to next yr
+		- Excess SS tax paid (excess FICA)
+			- excess SS tax withheld is treated as additional tax pmts withheld
+			- 2+ employers
+				- an emplee who has SS tax withheld in an amt > max for particular yr may claim excess as credit against inc tax (in pmt section), if excess resulted from correct withholding by 2+ employers
+				- say if u switch jobs
+			- 1 employer
+				- if excess withheld by only 1 employer, employer must refund excess
+				- no credit allowed
+		- Premium tax credit (obama/affordable care act)
+			- refundable, helps indiv/fam w low/moderate inc afford health insurance purchased thru a Health Insurance Marketplace
+			- available immediately when insurance is purchased to help eligible indiv pay for their monthly health insurance premiums
+		- American oppro credit (40% refundable)

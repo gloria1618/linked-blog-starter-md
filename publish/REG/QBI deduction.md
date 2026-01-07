@@ -1,0 +1,55 @@
+Section 199A Qualified Business Income QBI Deduction for Flow Thru Business Entities
+Part 1
+- Idea
+	- C corp
+		- started leaving US bc high tax rates
+		- so varying tax rates replaced w flat n lower tax rate
+	- Flow thru entites
+		- but what about us bruh 
+			- S corp 
+			- partnerships
+			- LLC
+			- Trusts
+		- so QBI deduction 199A
+		- deduction of 20% of QBI for eligible flow thru US entities
+		- deduction from AGI
+		- Deduction given to business owners (individuals)
+- QBI deduction depends on whether business is QTB or SSTB
+	- Specified Service Trade/Business SSTB
+		- flow thru entity dealing w:
+			- health
+			- law
+			- acct
+			- actuarial sci
+			- performing arts
+			- consulting 
+			- athletics
+			- fin services
+			- etc
+	- Qualified Trade or Business QTB
+		- any others not SSTB
+- 2 QBI Deduction Limits
+	- must be flow thru entity w qualified business income QBI to be eligible
+	- max deduction: 20% * QBI
+	- limitations to QBI deduction based on:
+		- txpyrs total taxable inc before QBI deduction, and
+			- see examples
+				- looks like: (taxable inc before QBI deduc - net CG) * 20%
+		- whether QTB or SSTB
+			- ![[Pasted image 20260104211008.png]]
+			- if category 1
+				- both QTB and SSTB can take full 20%
+				- example
+					- ![[Pasted image 20260104211627.png]]
+			- if category 2
+				- QTB
+					- example
+						- ![[Pasted image 20260104212333.png]]
+						- ![[Pasted image 20260104212358.png]]
+				- SSTB
+					- 0
+					- no QBI allowed
+			- if category 3
+				- dw
+				- ![[Pasted image 20260104211148.png]]
+				- 

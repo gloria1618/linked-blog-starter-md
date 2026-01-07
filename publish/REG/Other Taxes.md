@@ -1,0 +1,41 @@
+SE Tax
+	-  reps emplyr portion + emplee portion of FICA taxes imposed on SE income
+	- 100% of SE tax collected as 'other tax' and reported in 'other taxes' section of 1040
+		- note: 50% of this amt reported as adj
+Additional Medicare Tax
+	- additional Medicare tax of .9% imposed on wages in excess of
+		- 250k MFJ
+		- 125k MFS
+		- 200k all else
+	- emplyr responsible for withholding this additional tax on all wages paid to an emplee that exceed 200k in a calendar yr 
+	- any amts withheld in excess can be claimed as credit on tax return [[Tax Credits]]
+Net Investment Income NII
+	- applies rate of 3.8% to certain NII of indiv who have inc above statutory threshold AGI amts
+		- 250k MFJ
+		- 200k single/HOH
+	- 3.8% tax imposed on lesser of
+		- NII
+		- excess AGI over threshold amt
+	- inv inc incl but not limited to
+		- interest, div, CG
+		- rental, royalty inc
+		- nonqualified annuities
+		- inc from business involved in tradign of fin instruments/commodities
+		- businesses that are passive activities to the txpyr
+	- expenses allocable to inc can be deducted 
+	- ![[Pasted image 20260105172533.png]]
+Kiddie Tax
+	- net unearned inc of dependent child under 18 is taxed at parents rate
+		- also applies to child bw 18 n 23 who doesnt provide over half of own support and is FT student
+	- net unearned inc calc
+		- childs tot unearned inc (div, interest, rent, royalties, etc)
+		- minus 2.7k
+			- (child's min allowable '25 standard deduction of 1350 + additional 1350 in '25, which is taxed at childs regular inc tax rate)
+	- if child also earned income of more than 1350 the [[standard deduction]] is
+		- earned income + 450 ('25 max fo 15k, the '25 single standard deduction amt)
+		- amt of unearned inc taxed at parents rate is still unearned inc in excess of 2.7k, even if child is entitled to a larger standard deduction
+	- parent may elect to incl on own return the unearned inc of applicable child provide that
+		- inc is bw 1350 and 13500 
+		- consists fo solely of interest, div, CG dist
+		- ![[Pasted image 20260105173828.png]]
+		- 
