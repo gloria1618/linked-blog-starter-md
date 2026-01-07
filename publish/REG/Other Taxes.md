@@ -31,7 +31,7 @@ Kiddie Tax
 		- childs tot unearned inc (div, interest, rent, royalties, etc)
 		- minus 2.7k
 			- (child's min allowable '25 standard deduction of 1350 + additional 1350 in '25, which is taxed at childs regular inc tax rate)
-	- if child also earned income of more than 1350 the [[standard deduction]] is
+	- if child also earned income of more than 1350 the [[Standard Deductions]] is
 		- earned income + 450 ('25 max fo 15k, the '25 single standard deduction amt)
 		- amt of unearned inc taxed at parents rate is still unearned inc in excess of 2.7k, even if child is entitled to a larger standard deduction
 	- parent may elect to incl on own return the unearned inc of applicable child provide that
