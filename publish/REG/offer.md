@@ -1,0 +1,23 @@
+- express (oral/written) or implied (conduct)
+- stmt by offeror that gives recipient the power to form a contract by accepting before the offer is terminated
+	- [[Termination of Offer]]
+- Intent to make a contract
+	- offer sufficient enough for reasonable person to assume offer was serious offer to enter into contract
+	- offeror's subj intent irrelevant
+	- contract law gen follows obj theory (would reasonable person believe?)
+	- stmts made in jest/frustration and understood by reasonable person are not offers
+- Ads
+	- not offers bc not addressed to specific person
+	- usually considered invitations seeking offers
+	- exception: ads limiting scope of ppl who can accept considered offers
+		- ex: reward $ for finding lost dog, drink for first 100 ppl at toms ... bc only way to accept is w conduct (performance)
+- Terms Must be Definite & Certain
+	- essentials depends on contract type
+	- offer for sale of goods gen need only incl qty term
+		- [[UCC]]: gen only req qty term 
+		- [[CL]]: must incl all terms (party, price, time, qty, type)
+			- identity of offeree & subj matter
+			- price to pay
+			- time of performance
+			- qty involved
+			- type of work to perform

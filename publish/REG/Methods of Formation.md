@@ -1,0 +1,21 @@
+- Express Contract
+	- formed by lang, oral, written
+- Implied in Fact Contract
+	- contract formed by conduct
+	- ex: bob tells doc he's sick, doc gives antibiotic, entered into contract for doc's services even tho no written/oral promises exchanged, conduct implies intent
+	- ex: go up to register to pay
+- Implied in Law Contract/Quasi Contract
+	- not a contract at all
+	- remedy to prevent unjust enrichment of defendant
+	- ex: I give 10k down pmt, contract oral, owner backs out, I can recover down pmt in quasi contract but cannot force sale of house
+	- sale of land- writing req for contract to be enforceable
+- Unilateral Contract
+	- accept w complete performance (conduct)
+	- one promise, given in exchange for service
+	- contract not formed until performance completed
+	- ex: $ for lost dog
+- Bilateral Contract
+	- accept w a promise
+	- 2 promises, promise exchanged for a promise
+	- contract formed as soon as promises exchanged 
+	- ex: promise $100, if u promise to dye hair

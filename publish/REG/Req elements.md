@@ -1,0 +1,7 @@
+- offer & acceptance 
+	- mutual asset
+		- agreeing to 'same bargain at same time'
+		- meeting of the minds
+	- [[offer]]
+- exchange of consideration (both sides get smthn, smthn of legal value)
+- no defenses to enforcement (fraud, duress, undue infl, mistake)

@@ -1,0 +1,32 @@
+- Revocation of offeror
+	- gen rule: offeror can revoke an offer any time before acceptance by comms the revocation to offeree
+	- true even if offeror promises to keep offer open
+	- option contract
+		- offeree pays to keep offer open, then irrevocable
+		- distinct contract in which promisor promises to keep offer open in exchange for consideration from the promise
+	- revocation can be direct/indirect, where the offeree receives correct info that offer no longer holds
+		- express (oral/written)
+		- implied (conduct/sell to someone else)
+	- offers, rejections, counteroffers, revocations are gen effective when received by offeree
+		- but where revocation is publication, it is effective when published
+		- ^acceptances gen effective when sent/placed in mailbox?
+		- 
+- Rejection of the offeree
+	- once offer effectively rejected, it cannot be accepted
+		- can reject expressly (oral/written)
+	- counteroffer considered to be both
+		- rejection of original
+		- offer (where original offeror is now offeree)
+	- inquiry is not rejection/counteroffer
+	- if attempted acceptance is invalid for any reason, it becomes a counteroffer
+		- u alr rejected it but then u say 'i accept', its at most a new offer
+- By operation of law
+	- DIDI
+	- Death
+	- Incompetency
+	- Destroyed
+		- before accepted, oferee's power of acceptance terminated
+	- Illegal
+	- if either party dies/incompetent prior to acceptance, offer terminated
+		- not necessary to comms death/incompetency to other party
+	- exception: option contract not terminated by death

@@ -1,0 +1,3 @@
+- Sales Article (Article 2) governs contracts for sale of goods (moveable things)
+	- number of special rules applying to contracts for sale of goods
+- Statutory law that has been widely adopted thru US
