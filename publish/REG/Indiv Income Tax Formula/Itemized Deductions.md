@@ -51,7 +51,7 @@ Sch E - rental expenses
 		- so deduct whats repaid to reduce the expense
 		- reimbursement by empl that exceed total cost will be incl in GI
 		- reimbursement of any expense deducted in prior yr will be incl as GI in yr received 
-- Taxes n Losses: state/local (property and either income or sales, up to 10k)
+- Taxes: state/local (property and either income or sales, up to 10k)
 	- state, local, foreign taxes (excl federal)
 		- cash method, taxes gen deductible in yr paid
 		- accrual txpyr, taxes gen deductible in yr accrue
@@ -79,7 +79,7 @@ Sch E - rental expenses
 	- Income Taxes (SALT + Foreign taxes)
 		- taxes withheld from paychecks during yr are deductible
 		- estimated taxes paid during yr are deductible
-			- due dates for est by quarter: Q1: April 15, Q2: June 15, Q3: Sep  15, Q4: Jan 15 of next yr
+			- due dates for est by quarter: Q1: April 15, Q2: June 15, Q3: Sep15, Q4: Jan 15 of next yr
 				- so only first 3 are deductible in first year 
 		- assessments for prior yr's taxes that are paid in current yr are deductible
 			- aka underpaid in prior yrs and paying now
@@ -131,7 +131,7 @@ Sch E - rental expenses
 - Interest expense
 	- Home mortgage
 		- deductions allowed for 'qualified residence interest' on 1st/2nd home (principal residence and one other)
-		- home that is used for personal purposes for at least 14 days in tax yr qualifies as '2nd home'
+			- home that is used for personal purposes for at least 14 days in tax yr qualifies as '2nd home'
 		- mortgage interest allocated to:
 			- part of home that is used exclusively for business may be deductible on Sch C
 			- rental of home may be deductible on SchE
