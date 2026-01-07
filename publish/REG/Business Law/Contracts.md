@@ -37,6 +37,15 @@ Methods of Formation & Sources of Contract Law
 						- if attempted acceptance is invalid for any reason, it becomes a counteroffer
 							- u alr rejected it but then u say 'i accept', its at most a new offer
 					- By operation of law
+						- DIDI
+						- Death
+						- Incompetency
+						- Destroyed
+							- before accepted, oferee's power of acceptance terminated
+						- Illegal
+						- if either party dies/incompetent prior to acceptance, offer terminated
+							- not necessary to comms death/incompetency to other party
+						- exception: option contract not terminated by death
 			- Intent to make a contract
 				- offer sufficient enough for reasonable person to assume offer was serious offer to enter into contract
 				- offeror's subj intent irrelevant
