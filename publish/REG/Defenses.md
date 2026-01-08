@@ -1,3 +1,10 @@
+Defenses summary: DUMIS
+- Duress
+- Undue Infl
+- Mutual mistake/misrep (unt/intentional)
+- Intoxicated
+- Statute of frauds/limitations
+
 - [[Fraud]]
 - [[Duress]]
 - [[Undue Influence]]
@@ -46,9 +53,42 @@
 		- impact on contract
 			- statute of limitations prov that legal action must be commenced w/in certain period of time
 			- gen, if stat of lim period has expired on contract, unenforceable
-			- stat of limit doesnt make it void, merely bars access to judicial [[remedies]]
+			- stat of limit doesnt make it void, merely bars access to judicial [[Remedies]]
 			- contract stat of lim vary: typically 4-6 yrs
 			- actions for breach usually measured from time cause of action accrued (ie date of breach)
 	- [[Statute of Frauds]]
 	- [[Impossibility]]
 	- Accord and satisfaction + Substituted contract
+		- accord - agrmt to subs one contract for another, satisfaction is the execution of the accord
+		- accord n satisfaction discharge original duty
+		- until accord satisfied, party may sue under original contract or accord
+		- subs contract sim to accord n satisfaction, but duties under original contract are discharged immediately
+	- Novation
+		- available as a defense to a party who has been *released* from a contract 
+		- occurs when new contract subs in a new party for old party in existing contract 
+		- all parties must agree to release
+		- release/agrmt to discharge one of parties w/o replacing party is not noviation, j simple release
+			- usually req
+				- new consideration
+				- detrimental reliance to be enforceable 
+			- [[CL]]
+				- to make modification enforceable to release a party, party needs to be compensated 
+				- so if alb wants to back out of fixing computer, he gotta pay me
+				- all parties must voluntarily agree
+			- [[UCC]]
+				- to make mod enforceable to release a party, the party not req to be compensated
+				- all parties must voluntarily agree
+	- [[Conditions]] can affects party's duty to perform
+	- Prevention of performance is a breach
+		- if one party prevents other from performing contract duties, a material breach has occured
+			- ex: auditor couldnt perform bc other party failed to coop n hindered performance
+		- nonbreaching party excused from performance
+	- Parol evidence rule
+		- makes certain evidence inadmissible
+		- prohibits either party in lawsuit from intro evidence at trial that relates to info that happened before contract signed
+		- apply to fully integrated written contracts 
+			- ie written contracts that appear to be intended to reflect entire agrmnt
+		- parol evidence rule prohibits any oral/written stmts made prior to/contemporaneously w written contract that contradict the terms of the contract
+		- subsequent modifications are admissible
+		- could tho say fraud, duress, minor, mistake, undue infl?
+		- ![[Pasted image 20260107213549.png]]

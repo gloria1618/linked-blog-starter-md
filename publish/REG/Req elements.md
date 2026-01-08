@@ -1,9 +1,18 @@
+Elements of Legally Enforceable Contract summary: COAXL
+- Capacity
+	- Competent
+	- Adult
+- Offer
+- Acceptance
+- Exchange consideration
+- Legal
+
 - offer & acceptance 
 	- mutual asset
 		- agreeing to 'same bargain at same time'
 		- meeting of the minds
-	- [[offer]]
-	- [[acceptance]]
+	- [[Offer]]
+	- [[Acceptance]]
 - exchange of consideration
 	- price of contracting
 	- must be supported by legally sufficient consideration on both sides
@@ -17,7 +26,6 @@
 	- void = unenforceable by either party
 		- DAPIE, very few void defenses 
 	- voidable = may be avoided at option of party adversely affected 
-
 	- ![[Pasted image 20260107200042.png]]
 	- destruction of subj matter/death
 	- adjudicated incompetent
