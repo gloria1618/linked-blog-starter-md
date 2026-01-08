@@ -16,9 +16,10 @@
 	- innocent party's duty to perform is discharged bc they have defense 
 	- void = unenforceable by either party
 		- PIE
+		- physical force
 		- very few void defenses 
 	- voidable = may be avoided at option of party adversely affected 
 	- [[Fraud]]
-	- Duress
-	- Undue Influence
-	- Mistake
+	- [[Duress]]
+	- [[Undue Influence]]
+	- [[Mistake]]
