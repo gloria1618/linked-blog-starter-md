@@ -1,0 +1,54 @@
+- [[Fraud]]
+- [[Duress]]
+- [[Undue Influence]]
+- [[Mistake]]
+- other defenses
+	- Illegality
+		- impact on contract
+			- consideration/subj matter of contract illegal, contract gen void
+			- ex of illegality:
+				- agrmts to commit crime/tort (wrongful act)
+				- agrmts in restraint of trade (un.necessary/reasonable covenant to not compete)
+				- gambling contracts
+				- usurious contracts - illegally high interest rates
+		- licensing req
+			- if contract illegal bc party doesnt have req license, enforceability depends on reason for license
+			- what if work is performed w/o license?
+				- if license req to raise revenue:
+					- contract enforceable
+					- ex:  vendor
+				- if license req to protect public
+					- contract void
+					- ex: doc, attorneys, cpa, electricians
+	- Contract involv minor
+		- impact on contract
+			- minor (usually under 18) may disaffirm contract
+				- anytime while a minor
+				- even within a reasonable time after becoming an adult
+			- minor must return whatever they possess when disaffirm
+			- being a minor is valid defense except in case of necessities (food, clothing, shelter alr consumed)
+		- ratifying a contract
+			- ratification is all or nothing, not parts. ratification doesn't req consideration. minor has right to disaffirm, adult doesnt have right to rescind merely bc minor may disaffirm
+			- can become bound on contracts entered as minor upon reaching age of majority by ratifying contract
+			- contract may be ratified by
+				- expressly ratifying entire contract orally/writing
+				- failing to disaffirm w/in reasonable time after reaching majority
+				- retaining/accepting benefits
+	- Intoxication
+		- impact on contract
+			- intoxication valid defense to contract only if:
+				- intoxication prevents promisor from knowing nature/signficance of their promise
+				- other party knew of impairment
+	- Adjudicated mental incompetency
+		- impact on contract
+			- contract made by someone who is adjudicated mentally incompetency is void
+	- Statute of limitations 
+		- impact on contract
+			- statute of limitations prov that legal action must be commenced w/in certain period of time
+			- gen, if stat of lim period has expired on contract, unenforceable
+			- stat of limit doesnt make it void, merely bars access to judicial [[remedies]]
+			- contract stat of lim vary: typically 4-6 yrs
+			- actions for breach usually measured from time cause of action accrued (ie date of breach)
+	- [[Statute of Frauds]]
+	- [[Impossibility]]
+	- Accord and satisfaction + Substituted contract

@@ -1,0 +1,6 @@
+- gift - lack of consideration, no bargained for exchange
+- Exception: donations
+	- promise made to donate to charity that detrimentally and justifiably relies on promise is enforceable
+- Past/Moral consideration
+	- if smthn had alr been given/performed before promise made, it won't satisfy bargain req
+	- ex: if u save drowning man and man wants to give reward, can't sue bc his promise didnt induce you to perform act 

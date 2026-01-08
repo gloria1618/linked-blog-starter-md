@@ -1,0 +1,31 @@
+- offeree's assent to enter into contract
+- like offers, doesn't need to be in writing
+- doesnt even req words
+	- nod, fall of gavel (auction) constitutes acceptance
+- Who May Accept
+	- gen rule is that only person to whom offer was made may accept
+	- offers are not assignable
+	- option contracts are assignable (alr contract)
+- Method of Acceptance
+	- gen, acceptance may be made in any manner reasonable under circumstances
+		- if no comms method specified, acceptance sent by reasonable means is effective upon dispatch
+	- if offeror specified method of comms, must be used
+		- effective when sent
+	- purported acceptance utilizing another method is a counteroffer
+- Acceptance generally must be Unequivocal
+	- UCC
+		- qty must be incl in contract
+		- minor changes to acceptance can be made, mirror image rule doesnt apply
+	- CL
+		- parties, price, time, qty, type must be incl in contract
+		- follow mirror image rule 
+			- req an acceptance to mirror offer to be effective
+		- attempted acceptance that changes some terms/adds new, not valid acceptance but is counteroffer+rejection
+- Mailbox Rule
+	- gen, effective upon dispatch if properly addressed
+	- irrelevant if properly addressed acceptance is lost/delayed (still contract)
+	- Offeror may opt out
+		- by stating in offer that acceptances must be received to be effective
+		- acceptance must be received before offer terminates
+	- ![[Pasted image 20260107025153.png]]
+	- ![[Pasted image 20260107025224.png]]

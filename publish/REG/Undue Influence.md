@@ -1,0 +1,5 @@
+- undue infl is exception to gen rule that fairness not req
+- party's free will to contract overcome by defendant's abuse of a position of trust/confidence
+- person in position of trust/confidence (ie spouse, trustee, guardian, attorney, etc) uses position to take adv of other's weakness, infirmity, distress
+- related parties have fiduciary duty of fairness; engaging in transaction that is not at arm's length is a valid defense
+- undue influence = voidable

@@ -1,0 +1,7 @@
+- when party's free will to contract overcome by unlawful use of threat of harm
+	- if harm physical force, contract void
+		- P in PIE for void
+	- if eco/social, contract voidable
+- fairness not req as long as terms are not unconscionable and parties are not related
+- merely taking adv of other person's eco condition to negotiate a favorable contract (if no threat involved) doesnt constitute duress 
+- did u create their duress??

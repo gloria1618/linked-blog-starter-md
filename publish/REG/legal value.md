@@ -1,0 +1,35 @@
+- agrmt is of legal value if it constitutues either
+	- detriment to the promisee
+	- benefit to promisor
+- promisor's promise supported by consideration only if 
+	- promisee agrees to do smthn that they're not alr obligated to do (detriment) or
+	- promisor will obtain some benefit
+- ex: promises to
+	- perform acts/refrain from performing 
+	- pay $
+	- give land, goods, stock, etc.
+- need not have monetary value
+	- if promisee promises to do smthn they alr not obligated to do/promises to refian from smthn that they could legally do
+	- $50 to give up smoking (legal right)
+	- cup of coffee if u pass cpa
+- need not flow to party
+	- consideration need now flow to one of the parties
+	- promise to do smthn for/give smthn to a third party is sufficient
+		- ex: dad promises $10 to Alb for fixing my computer
+- court will not inquire into adequacy
+	- as long as consideration not sham, courts will not inquire
+	- no req that consideration exchanged be nearly equal value
+- fairness gen not req as long as
+	- it is not unconscionable
+	- it is at arms length 
+		- not related
+		- lawyer shouldnt take advantage of client/parent of child
+- preexisting legal duties gen not sufficient
+	- in [[CL]] means that price term cannot be modified unless consideration for modification
+	- ![[Pasted image 20260107182449.png]]
+	- Exception: modification by both parties
+		- ^ if carols sings 5 more mins longer than needed to, now modification is binding
+	- Honest Dispute as to Duty
+		- if scope of legal duty owned is subj to honest dispute, then modifying agrmnt relating to it will ordinarily be given effect 
+			- ex: tell builder sheet rock, builder only primes, but was prime and paint both part agrmtn, ehh give 1k to paint as well and he does, will be enforceable
+		- occurs bc parties are giving up right to sue to have dispute settled, and forbearance to sue is valid consideration
