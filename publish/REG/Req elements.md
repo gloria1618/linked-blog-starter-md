@@ -4,5 +4,21 @@
 		- meeting of the minds
 	- [[offer]]
 	- [[acceptance]]
-- exchange of consideration (both sides get smthn, smthn of legal value)
-- no defenses to enforcement (fraud, duress, undue infl, mistake)
+- exchange of consideration
+	- price of contracting
+	- must be supported by legally sufficient consideration on both sides
+	- law will not enforce gratuitous promises
+	- 2 elements
+		- smthn of [[legal value]] given by each party
+		- must be a [[bargained for exchange]]
+- no defenses to enforcement 
+	- defenses can make a contract unenforceable
+	- innocent party's duty to perform is discharged bc they have defense 
+	- void = unenforceable by either party
+		- PIE
+		- very few void defenses 
+	- voidable = may be avoided at option of party adversely affected 
+	- [[Fraud]]
+	- Duress
+	- Undue Influence
+	- Mistake
