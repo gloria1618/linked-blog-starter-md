@@ -11,15 +11,16 @@
 	- 2 elements
 		- smthn of [[legal value]] given by each party
 		- must be a [[bargained for exchange]]
-- no defenses to enforcement 
+- no [[Defenses]] to enforcement 
 	- defenses can make a contract unenforceable
 	- innocent party's duty to perform is discharged bc they have defense 
 	- void = unenforceable by either party
-		- PIE
-		- physical force
-		- very few void defenses 
+		- DAPIE, very few void defenses 
 	- voidable = may be avoided at option of party adversely affected 
-	- [[Fraud]]
-	- [[Duress]]
-	- [[Undue Influence]]
-	- [[Mistake]]
+
+	- ![[Pasted image 20260107200042.png]]
+	- destruction of subj matter/death
+	- adjudicated incompetent
+	- physical duress
+	- illegality/impossible
+	- execution fraud
