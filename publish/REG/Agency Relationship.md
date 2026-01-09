@@ -36,9 +36,9 @@ Agent's Power to Contractually Bind Principal
 - agents power to bind a principal to a 3rd party can arise thru:
 	- grant of [[Actual authority]]
 		- agent has power and right
-	- [[Apparent authority]] or estoppel
+	- [[Apparent authority]] or [[Estoppel]]
 		- agent has power, no right
-	- ratification
+	- [[Ratification]]
 		- agent no power, no right, but principal chooses to be bound by unauthorized act
 
 

@@ -1,0 +1,7 @@
+- tim claims to be pete's agent
+- pete doesnt correct
+- pete estopped from denying agency relationship
+- if person has not made any comms that indicate another is person's agent, but person
+	- intentionally/carelessly caused 3rd party to believe another is person's agent, and
+	- 3rd party detrimentally n justifiably relies on belief,
+	- person will be estopped from denying other person acted as their authorized agent n will be bound
