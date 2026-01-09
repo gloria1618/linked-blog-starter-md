@@ -33,10 +33,10 @@ Power of Attorney
 [[Terminate]]
 
 Agent's Power to Contractually Bind Principal
-- agents power to bind a principal can arise thru:
+- agents power to bind a principal to a 3rd party can arise thru:
 	- grant of [[Actual authority]]
 		- agent has power and right
-	- apparent authority or estoppel
+	- [[Apparent authority]] or estoppel
 		- agent has power, no right
 	- ratification
 		- agent no power, no right, but principal chooses to be bound by unauthorized act

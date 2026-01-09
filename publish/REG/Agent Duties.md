@@ -1,0 +1,36 @@
+- key fiduciary duties 
+	- agent has whatev duties that are expressly stated in contract (either orally or in writing)
+	- agent owes following implied duties: LORA
+		- duty of Loyalty
+			- must act solely in the principal's interest in connection w agency
+			- agent breaches this duty when they have interests adverse to principal 
+				- no self dealing, competing, kickbacks
+			- ![[Pasted image 20260108212805.png]]
+		- duty of Obedience
+			- must obey all reasonable directions of the principal whether oral/written
+			- duty not absolute - should refuse unethical/illegal
+			- ![[Pasted image 20260108213149.png]]
+		- duty of Reasonable Care
+			- owes principal duty to carry out the agency w reasonable care, dont be negligent
+		- duty to Account 
+			- unless otherwise agreed, agent has duty to acct to the principal for all prop & $ received and paid out when acting on behalf
+			- agent cannot comingle the principals property w the agent's property
+- Hiring a Subagent
+	- can agent hire other empl to help them out?
+		- yes, can hire assistants - subagents
+		- if agent authorized to hire subagent, subagent owes duty of care to both agent and principal
+
+Principal's Remedies (agent breaches contract/agrmt/implied duties)
+- Tort damages
+	- tort is a wrongful act that can be
+		- negligent (due to accident/mistake)
+		- intentional (fraud)
+	- principal can sue and recover damages from agent for committing the wrongful act 
+- Contract damages
+	- can the principal sue the agent for breach of contract? 
+		- contract is legally enforceable agrmt where both parties gen have to have capacity and exchange consideration
+		- ![[Pasted image 20260108224706.png]]
+- Recovery of Secret Profits
+	- if agent obtained secret profit (3rd party commission/kickbacks), principal can recover profit, usually by imposing constructive trust on profit
+- Withheld Compensation
+	- if agent committed an intentional tort, or intentionally breached duty to principal, principal may refuse to pay agent
