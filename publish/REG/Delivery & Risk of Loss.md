@@ -1,0 +1,65 @@
+- delivery n risk of loss can be independent of title
+- as gen rule, sellers basic duty: (many contracts stray from this rule)
+	- hold conforming goods for buyer
+	- give buyer reasonable notice to enable buyer to take delivery
+- UCC has specific rules for when/where deliver of goods is to be made
+	- rules apply if contract silent
+- risk of loss (who bears loss if goods destroyed) gen depends on time of delivery
+	- if goods damaged/destroyed after risk of loss passed to buyer, buyer not discharged from contract, rather buyer must still pay contract price
+- For Risk of Loss to Pass
+	- step 1: ID goods
+		- title n risk of loss cannot pass to buyer until goods are first identified
+		- goods identified when
+			- marked
+			- segregated or
+			- in some manner id as goods for specific buyer
+	- step 2: parties must agree on contract terms
+		- if parties designate when/where delivery will occur of risk of loss will pass, their agrmt governs
+	- step 3: default rules apply in absence of agrmnt
+		- code divides cases w no agrmnt on delivery/risk of loss into 2 categories
+		- Noncarrier cases
+			- default rule - seller has no duty to deliver/ship goods
+			- buyer will usually pick up at sellers business place (or seller's residence if seller not merchant)
+			- if seller not merchant, risk of loss passes to buyer upon seller's tender of delivery of goods to buyer (aka, says 'ready for pickup')
+				- ![[Pasted image 20260108172743.png]]
+			- merchant seller, risk of loss passes only upon actual delivery to buyer (ie buyer takes physical possession)
+				- ![[Pasted image 20260108172757.png]]
+		- Carrier cases
+			- parties agree that common carrier will be used to ship goods to buyer
+			- FOB - free on board, delivery term, always followed by location
+			- if common carrier involv, contract either
+				- shipment contract (FOB, seller's city)
+					- risk of losses passes to buyer when goods delivered to carrier
+					- if its boat, passes when goods placed nxt to boat bc cant get on boat
+					- ![[Pasted image 20260108173836.png]]
+				- destination contract (FOB, buyers city)
+					- risk of losses passes to buyer when
+						- goods reach destination
+						- seller tenders delivery
+			- Effect of Breach on Risk of Loss
+				- if seller sends nonconforming goods (dont meet contract description), risk of loss remains on seller, regardless of shipping terms, unless buyer accepts defective goods
+					- nonbreaching party (buyer) given all options (accept/reject)
+			- ![[Pasted image 20260108174226.png]]![[Pasted image 20260108174419.png]]
+		- 
+- All sales final, unless otherwise agreed .... UCC provides 2 types of nonfinal sales
+	- Sale on Approval
+		- risk on seller until approval
+		- buyer has right to return goods w/in x days
+		- sale not final until buyer gives approval (ie sale w trial period)
+		- title n risk of loss remain w seller until buyer approves
+		- ![[Pasted image 20260108175059.png]]
+	- Sale/Return Contracts
+		- risk on buyer until returned 
+		- sale/return is completed sale on delivery, but buyer has right to return goods (aka sale on consignment)
+		- risk of loss passes to buyer when seller completes delivery req
+		- risk remains w buyer until goods are completely returned 
+		- lots of times w retailer, distributor
+		- ![[Pasted image 20260108175129.png]]
+- Title - ownership
+	- title can pass at time/place parties agree on , but before title passes, goods must be identified to the contract
+	- if no agrmnt when title passes, title passes when seller completes delivery req (if any)
+		- time of delivery varies depending on delivery terms used (shipment/destination)
+			- psst (noncarrier when tenders, carrier shipment when goods in truck, carrier destination when goods delivered)
+	- if buyer rejects goods, whether right/wrongful rejection, title reverts to seller 
+		- if it was nonconforming goods, risk of loss remains w seller but the buyer has title
+	- ![[Pasted image 20260108180115.png]]

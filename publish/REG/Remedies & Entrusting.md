@@ -1,0 +1,87 @@
+some sim to CL
+
+Remedies of Buyer & Seller
+- Anticipatory repudiation - sue or wait
+	- when either buyer/seller indicates in adv of performance that they will not perform
+	- what can nonbreaching party do when other breaches?
+		- sue immediately
+		- cancel contract
+		- demand assurances
+		- wait until time of performance and sue then (if other party fails to perform)
+	- repudiating party (breacher) has right to withdraw the repudiation until other party relies (eg filing suit)
+- Right to Demand Assurances if Reasonable Grounds Exist
+	- under UCC Sales Article, if one party has reasonable grounds to believe that other party will not perform when req, they may make written demand for assurance of performance
+	- failure to give assurance of performance w/in reasonable time is an anticipatory repudiation
+		- nonbreaching party may sue immediately, cancel contract, or wait for time of performance and sue later
+- Punitive Damages - not available in sales
+	- available only for fraud (intentional, willful, wanton, or malicious act); not for contract breach
+- Duty to mitigate - avoid damages
+	- both buyer/seller has duty to mitigate damages
+	- cannot recover for damages that couldve been avoided
+
+Seller's Remedies (if buyer breaches)
+- Lawsuit
+	- seller can cancel/rescind and/or sue for damages
+- Sell
+	- seller has right to resell goods
+	- sell may also sue buyer for any losses seller may have
+		- usually diff bw contract price and resale price + any additional/incidental damages (storage, ad fees)
+- Withhold
+	- seller may withhold delivery if buyer has failed to make req pmt or has repudiated contract
+	- can also stop delivery of goods in transit for same breaches
+- Can seller sue for full contract price?
+	- seller can collect full contract price + incidental damages
+		- if goods cannot be resold for any price (often case w specially manuf) or
+		- goods are destroyed after risk of loss has passed to buyer
+			- if buyer hasnt paid, seller can sue full contract price
+			- if buyer has paid, seller can keep full contract price
+	- if risk of loss hasnt passed to buyer and goods destroyed, seller cant sue for full contract price
+- Liquidated damages 
+	- must be reasonable
+	- Presence of a liquidated damage clause (same as CL [[Remedies]])
+		- specifies amt of damages in event of contract breach and valid if amt is
+			- reasonable w respect to harm done
+			- not penalty
+	- Absence of liquidated damage clause (unique to UCC)
+		- even if no clause, if buyer  made down pmt and breaches, seller may keep lesser of
+			- $500
+			- 20% of sales price
+
+Buyer's Remedies (seller breaches)
+- buyer has right to reject for any nonconformity
+- under UCC, seller must make 'perfect tender' - a delivery free from any defects
+- buyer can cancel contract and sue for damages
+- if goods dont conform to contract, buyer may
+	- reject all goods
+	- reject some goods
+	- accept all good
+- if buyer accepts some goods, buyer can sue for diff in value
+- For Accepted Nonconforming Goods
+	- buyer usually has right to inspect goods prior to pmt
+		- however, buyer may not inspect prior to pmt in COD sale (cash on delivery)
+	- upon inspection, if goods nonconforming, buyer has right to  (diff from CL where seller pays any monetary damages even for minor breach)
+		- reject goods
+		- revoke acceptance of goods
+		- cancel contract
+		- sue for damages 
+			- damages usually diff bw value of conforming goods and value of goods as delivered + incidental/consequential damages (reasonably foreseeable)
+- For Rejected/Undelivered Goods
+	- if goods undelivered/buyer rightfully rejects, buyer may
+		- cover (ie buyer can cancel and purchase comparable goods, or cover, adn sue seller for diff bw contract price and cost of cover)
+		- sue for diff bw mkt price and contract price + any foreseeable incidental/conseq dmgs
+- Right to Specific Performance/Replevin
+	- buyer has right to spec performance that can be used in sales contract if goods unique or if buyer cannot reasonably cover
+	- Replevin - right to recover goods wrongfully in seller hands - can be used if 
+		- goods identified
+		- buyer cannot reasonably cover
+	- ![[Pasted image 20260108193348.png]]
+- Buyer's Rights on Seller's Insolvency
+	- what if seller files for bankruptcy after buyer made deposit on goods?
+		- if buyer paid part/all and seller insolvent, buyer may recover goods from seller if goods identified
+- Entrusting
+	- stolen goods can be recovered from third party (robber resells)
+	- very diff from entrusting goods to merchant who un.intentionally selsl goods to innocent third party (watch to fix, but they sell it)
+		- owner entrusts goods to merchant who deals in goods of kind sold
+		- merchant sells them in ord course of business
+		- purchaser gets good title even tho merchant didnt have good title
+		- owner can sue merchant but unless it's fam heirloom, owner usually will not be able to get goods back

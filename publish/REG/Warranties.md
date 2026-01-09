@@ -1,0 +1,61 @@
+- refresher
+	- under [[CL]] if services substantially performed but minor breach
+		- innocent party cant cancel contract
+		- party who commits breach may need to pay $ damages
+	- under [[UCC]] seller must make perfect tender
+		- goods, delivery must conform exactly to contract w no defects
+		- if dont conform, buyer may reject
+		- *to fulfill req of perfect tender, goods must conform to all warranties* (4)
+- Info
+	- implied warranties - warrantied by law, not written/oral
+		- auto implied in sales contract by law
+		- any implied warranty can be disclaimed if correct words used (even by merchants)
+	- how warranty made
+		- law, implied, or expressed
+		- part of basis of the bargain
+	- who makes warranty
+		- only implied warranty of merchantability req seller to be merchant
+		- any other warranty can be made by any seller, merchant, nonmerchant
+	- how warranty can be disclaimed
+		- every warranty could be disclaimed except the express warranty
+- Express warranty: oral/written
+	- smthn said/done that induces buyer to buy goods
+	- will arise from
+		- any stmt of fact/description of goods/sample.model made or shown by seller
+			- made before sale to induce buyer to purchase goods
+	- express warranty is that goods will conform to
+		- stmt of fact, description, sample/model
+	- can be made by any seller, oral/written
+	- smts of value/opinion not gen express warranty
+	- stmt must involve facts
+	- UCC req that express warranty be part of basis of bargain
+		- made before sale to induce buyer to purchase goods
+	- gen rule: once made, cannot be disclaimed
+	- ![[Pasted image 20260108182231.png]]
+- Implied warranty of title
+	- implied in every sales contract that seller owns goods (title), has right to sell
+	- impliedly warrants that no unstated encumbrances (ie no unstated liens)
+	- if seller merchant, thy also impliedly promise that goods dont infringe on patent/trademarks
+	- can only be disclaimed
+		- by specific language ('i dont warrant title')
+		- by circumstances that indicate seller is not guaranteeing they have title (eg judicial sale)
+	- general disclaimer (eg 'as is' 'w all faults') cannot disclaim title or express warranties 
+- Implied warranty of merchantability
+	- goods sold must fit ordinary purpose intended
+	- can be disclaimed by stmt that goods sold 'as is', 'w all faults'
+	- in absence fo gen disclaimer, merchantability can only be disclaimed by using word 'merchantability'
+	- disclaimer may be oral
+	- if disclaimer in writing, it must be conspicuous (no fine print)
+- Implied warranty of fitness for particular purpose
+	- goods sold must be fit for buyer's particular purpose
+	- when buyer relies on any seller (doesnt have to be merchant) to select goods suitable for buyer's particular purpose
+	- seller must know
+		- of particular purpose
+		- that buyer is relying on them to select goods
+	- can be disclaimed by selling goods 'as is', 'w all faults'
+	- if not disclaimed by 'as is' sale, fitness must be disclaimed by conspicuous disclaimer
+	- writing need not mention fitness
+Injury by defective product
+- anyone injured by defective prod can sue for breach of contract/warranty (privity not req) and/or commission of a tort (negligence)
+![[Pasted image 20260108183135.png]]
+![[Pasted image 20260108183439.png]]

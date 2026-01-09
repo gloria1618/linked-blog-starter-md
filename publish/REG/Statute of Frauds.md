@@ -17,7 +17,7 @@ Effect of Noncompliance
 	- doesnt prevent formation of contract, and
 		- no issue if no one wants to back out, only courts req writing
 	- makes contract unenforceable by one or both parties 
-Exception
+Exception [[UCC]]?
 - exceptions to when writing not req to enforce contract incl
 	- when alr been performed
 	- admitted
