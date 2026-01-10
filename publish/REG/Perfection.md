@@ -1,0 +1,58 @@
+- to acq max priority in collateral over other parties/creditors who may have interest in collateral, secured party must 'perfect'
+- date of perfection cannot be before date of attachment
+	- can occur at same time (eg taking possession of collateral)
+	- date of perfection key for est priority among mult secured creditors
+
+5 methods of perfection
+- Filing
+	- all types of collateral except deposit accts/money
+	- debtor must give creditor express/implied authorization to file
+	- docs to be filed (the financing stmt)
+		- law req 'notice' filing 
+			- does not req filing copy of security agrmt
+		- 'notice' given by filing of a 'financing stmt'
+		- financing stmt must give
+			- names, addresses of credit/debtor
+			- indication of collateral type covered by fin stmt (ex debtors inv n equip)
+	- Timing
+		- creditor can file fin stmt before all steps for attachment complete
+		- so security interest not perfected until attaches to collateral
+		- ** date of perfection cant be before attachment date, but filing early improves position in order of priority (first to file or perfect wins?)
+- Taking possession of collateral
+	- pledging 
+	- if creditor takes possession, oral agrmt ok
+	- similar to when pawn shop takes item in exchange for loan of $
+	- in order to take possession, must be smthn tangible
+	- prop owner can redeem pledged item by paying back amt borrowed
+- Control
+	- inv prop may be perfected by 'control'
+		- possession of certificate
+		- notice to broker
+	- secured party (or other purchaser) has control of an item of inv prop when secured party has taken whatev steps needed to be able to have inv prop sold w/o further action from owner/debtor
+	- if collateral is securities acct (few ppl actually phys possess stock/bonds the own), creditor will have control if owner/debtor instructs brokers/mutual fund company
+		- that secured party now has whatever right in acct owner has, or
+		- that broker/mutual fund company is to comply w secured party's orders w/o further consent of the owner/debtor 
+	- ![[Pasted image 20260110032226.png]]
+- Automatic perfection
+	- Article 9 provides that security interest can be perfected by attachment of security interest w/o an other req
+	- PMSI in consumer goods
+	- arises where creditor either
+		- sells collateral to debtor on credit n reserves a security interest, or
+		- adv funds used to purchase the collateral n reserves security interest
+		- *** item was not alr owned by debtor
+	- PMSI also when bank lends $ and asks for security interest in item debtor purchases
+	- historically only 2 types PMSI on exam
+		- PMSI in consumer goods
+			- only PMSI type that is auto perfected 
+			- must be personal use
+				- (PMSI in inv/equip collateral must be filed)
+		- small scale assignment of accts
+			- assignment of few AR
+			- auto perfected
+- Temporary perfection
+	- lasts 20 days for proceeds
+	- if creditor has perfected collateral n that collateral sold, creditor has temporary, perfected security interest in proceeds of collateral that was sold
+	- ![[Pasted image 20260110032918.png]]
+	- Movement of debtor (4mo grace period)
+		- if debtor moves from one state to another, perfection in first state gen valid for 4mo after debtor moves to 2nd state
+		- to maintain its priority, creditor must perfect in new state w/in this 4mo period

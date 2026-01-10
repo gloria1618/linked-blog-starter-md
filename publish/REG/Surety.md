@@ -1,5 +1,4 @@
 [[Cosureties]]
-[[No Surety]]
 
  * * req written evidence signed by surety to be enforceable
 
