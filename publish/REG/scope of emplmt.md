@@ -1,0 +1,23 @@
+Scope of Emplmt
+- emplyr not L to injured party merely bc emplee caused injury
+- injury must have occured w/in scope of emplmt
+	- injury occured while emplee working for emplyr w/in time/geo area which emplee was to work
+		- small detours from emplyr's directions fall w/in scope
+		- major deviations (frolic) from emplyrs directions fall outside scope of emplmt
+- Activities
+	- conduct causing injury need not actually have been authorized by emplyr
+	- conduct need only be
+		- of same gen type emplee hired to perform, and
+		- actuated, at least in part, by desire to serve emplyr
+	- ![[Pasted image 20260109185752.png]]
+	- Intentional Tort
+		- emplyr usually is:
+			- L only for emplee's negligence
+			- not L for intentional tort, since intentional torts are seldom w/in scope of emplmt
+				- however, where tort authorized/use of force authorized (as w bouncer), emplyr can be liable 
+	- Crimes
+		- emplyr gen not L in tort for emplee's conduct that constitutes serious crime
+		- ![[Pasted image 20260109185917.png]]
+- Cannot Limit L by Agrmt w Emplee
+	- agrmnt bw emplyr emplee that emplyr will not be L for emplee torts doesnt prevent a 3rd party from holding emplyr liable
+		- ex: UPS tells drivers not to drive on driveways when delivering, driver doesn't follow directions n gets into accident, UPS still liable. emplyr can seek reimbursement from emplee

@@ -41,4 +41,12 @@ Agent's Power to Contractually Bind Principal
 	- [[Ratification]]
 		- agent no power, no right, but principal chooses to be bound by unauthorized act
 
+[[Agent's L]] to 3rd parties for Contract Duties
+[[3rd Party L]] to perform Contract Duties
 
+[[Tort L]]
+
+
+principal's L doesn't depend on whether principal's existence/id was disclosed
+![[Pasted image 20260109181917.png]]
+BIDLID terminates both actual/appparent authority, no notice req
