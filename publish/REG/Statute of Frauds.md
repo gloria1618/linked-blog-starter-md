@@ -44,4 +44,4 @@ MYLEGS = marriage, yr, land, executors, goods, sretyship
 		- amt of contract as modified det whether writing req
 		- consideration not req to make modification enforceable, req is good faith and voluntary agrmt
 	- ![[Pasted image 20260107203045.png]]
-- contracts to act as **Surety** (ie pay debt fo another)
+- contracts to act as **[[Surety]]** (ie pay debt fo another)
