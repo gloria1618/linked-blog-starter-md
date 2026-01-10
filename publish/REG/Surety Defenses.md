@@ -1,0 +1,43 @@
+Defenses summary: SCRIP
+- Surety lacks capacity/bankrupt
+- Creditor in bad faith/consideration not given
+- Risk varied
+- Illegal debt
+- Pmt alr made/tendered
+
+- Defrauded Principal
+	- surety may use defense that principal debtor was induced to enter contract by creditor's fraud
+- Duress Upon Principal
+	- surety not L if principal debtor's promise was obtained by duress and surety was unaware of duress
+- Illegality of Principal's Obligation
+	- surety not L if underlying obligation bw creditor and principal debtor is illegal
+- Discharge of Principal's Obligation
+	- if underlying obligation paid or principal debtor tenders performance and creditor refuses to accept, surety is not L
+	- if creditor releases principal, surety is discharged unless creditor reserved rights against surety
+- Surety's Incapacity/Bankruptcy
+	- surety's own contractual incapacity (eg minor) or bankruptcy is defense
+- Lack of Consideration
+	- promise to serve as surety must be supported by consideration to be enforceable
+		- doesnt mean surety must be paid
+	- unpaid surety (aka 'gratuitous surety') will be bound if they make promise to act as surety before consideration flows from creditor to principal debtor
+		- consideration given: surety's promise made before sale or surety's promise induces creditor to perform an act
+		- lack of consideration: surety's promise made after sale or surety's promise did not induce creditor to perform an act 
+	- ![[Pasted image 20260109213821.png]]
+- Variations on Surety's Risk
+	- *any* variation of contract that changes gratuitous surety's risk will discharge gratuitous surety
+	- variation of contract that changes a compensated surety's risk will discharge surety only if change:
+		- is material
+		- inc surety's risk of loss 
+	- ![[Pasted image 20260109214027.png]]
+- Extension of Time v Delay in Collection
+	- if principal debtor n creditor agree to extend time
+		- gratuitous surety discharged
+		- compensated surety discharged if change is material n inc risk 
+	- if creditor doesn't agree to extend time, but rather merely delays in collection, surety not discharged 
+- Release of Cosurety 
+	- ![[Pasted image 20260109214407.png]]
+- if it was grautuitious surety, quill woulda been discharged in full
+
+No Defense Situations: Surety must pay
+- principal's fraud against surety not defense against creditor unless creditor knows of lie
+- principal debtor is/became bankrupt or incapacitated is not defense
