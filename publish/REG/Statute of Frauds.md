@@ -24,7 +24,7 @@ Exception [[UCC]]?
 	- involves sale of specially manufactured goods
 
 6 contracts req writing
-MYLEGS = marriage, yr, land, executors, goods, sretyship
+MYLEGS = marriage, yr, land, executors, goods, suretyship
 - contracts where consideration is **Marriage**
 - contracts which by terms cannot be performed w/in a **Year**
 	- one yr period - date of contract, not when performance begins

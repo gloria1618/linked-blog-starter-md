@@ -36,7 +36,7 @@ Defenses summary: SCRIP
 	- if creditor doesn't agree to extend time, but rather merely delays in collection, surety not discharged 
 - Release of Cosurety 
 	- ![[Pasted image 20260109214407.png]]
-- if it was grautuitious surety, quill woulda been discharged in full
+- if it was gratuitous surety, quill woulda been discharged in full
 
 No Defense Situations: Surety must pay
 - principal's fraud against surety not defense against creditor unless creditor knows of lie

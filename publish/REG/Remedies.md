@@ -1,10 +1,13 @@
+CL
+
 intended to put nonbreaching party in as good a position as they would have been w no breach
 remedy - what to do when a party fails to perform smthn they are contractually obligated to do
 
 First det subject matter of the agrmt 
 - CL
 	- Real estate
-	- Insurance services
+	- Insurance
+	- Services
 	- Emplmt
 - UCC
 	- sale of goods
