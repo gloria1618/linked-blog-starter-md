@@ -1,0 +1,18 @@
+- simplest form of business ownership
+- one person owns business, manages all affairs
+- not considered an entity separate from business
+- no formality req to form sole proprietorship, nothing needs to be filed w state where business operates (unless state/city req business license)
+- Personal Liability - sole proprietor personally L for all obligations
+- Duration
+	- cannot exist beyond life of sole proprietor
+	- may be terminated at anytime by owner
+- Tax trmt
+	- for tax purposes, business profits/losses flow thru to sole proprietor
+- Transferability
+	- free to transfer interest in sole proprietorship at will
+- Choice as Business Entity
+	- sole proprietorship may be good choice of business entity when indiv
+		- wants to form business they will manage
+		- wants to claim inc/loss of business on personal taxes
+		- doesn't want to bother w lots of formality
+	- indiv risks all of their A when entity formed
