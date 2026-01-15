@@ -1,0 +1,214 @@
+REG6
+- Worker Classification
+	- important for business to det if person is emplee or indep contractor
+		- no one factor determinative, its weighing process
+	- must consider
+		- business controls (or at least right to control) what/how work (e)
+		- worker owns own business/tools/etc (c)
+		- worker paid by job (c) or hourly/salary (e)
+		- job is limited duration (c) or ongoing/continuous (e)
+		- worker rec benefits (e)
+- Fed Insurance Contributions Act (FICA)
+	- FICA prov workers/dependents w benefits in case of
+		- death
+		- disability
+		- retirement
+	- participation
+		- all FT n part time emplee must participate
+		- SE must participate if net profit >400 in yr
+		- very few workers exempt (eg certain gov workers/ministers)
+	- funding
+		- funded by taxing inc earned from labor
+		- FICA consists of SS + Medicare
+		- Employer responsibility
+			- must match emplee contributions to SS (6.2%) and regular Medicare (1.45%)
+			- emplyr resp for paying tax, withholding emplee's contribution
+				- emplyr failing to withhold emplee contribution are L to pay emplee's half, but have right to reimbursement from emplee
+				- if emplyr voluntarily pays emplee's share, it is deductible for emplyr and taxable inc for emplee
+				- penalties apply to emplyrs failing to make timely FICA deposits/who fail to supply fed txpyr ID#
+		- Employee responsibility
+			- SS contributions of 6.2% of gross wages up to $176k
+			- Medicare contributions of 1.45% of entire gross wages
+			- Indiv w inc exceeding threshold amt L for additional Medicare tax of .9% of gross inc exceeding threshold amt
+				- gross inc incl all earned inc: salary, bonuses, commissions
+				- not wages: gifts, interest, dividends
+				- emplee elective salary deferral contributions to qual retirement plans are not subj to fed inc tax, but still subj to FICA tax
+		- SE responsibility
+			- pay into thru SE tax
+			- imposed on only 92.35% of net profit and only if that amt exceeds 400 in yr
+			- ![[Pasted image 20260114214858.png]]
+		- Deductibility by Emplyr
+			- emplyr's contribution deductible as ordinary business exp
+			- emplee's contribution not deductible
+			- bc SE person pays both contributions, half of SE tax deductible in arriving at AGI
+		- Benefits
+			- disability pay
+			- retirement pay
+			- survivor's benefits
+			- dependent's benefits
+			- medical benefits under Medicare (not Medicaid - state run)
+			- available to all covered empl regardless of whether rec benefits from private plan
+			- emplee may not opt out of SS, even if covered by private plan
+		
+		- ![[Pasted image 20260114215213.png]]
+- Unemployment Compensation (FUTA)
+	- excludes SE
+	- Fed Unemplmt Tac Act FUTA est state run sys of insurance to prov inc to workers who lost jobs thru no fault of own
+	- altho FUTA prov fed guidelines, states administer program/set standards/det pmt
+	- participation
+		- all emplyr who have quarterly payrolls of at least 1.5k or who employ at least one person for 20wks in yr must participate
+		- unlike FICA, SE don't participate
+		- ![[Pasted image 20260114220723.png]]
+	- funding
+		- unemplmt taxes are payroll taxes gen assessed only against emplyr
+		- fed unemplmt tax rate currently 6% on first 7k/yr of compensation per emplee
+		- emplyrs can get [[Tax Credits]] against fed tax due for pmts made on acct of *state* unemplmt taxes of up to 5.4% on first 7k
+		- state rate can be reduced if emplyr has below avg rate of unemplmt claims from prior employees 
+	  - emplyr deductibility
+		  - emplyrs pmt deductible as ord business exp
+		  - not deductible by emplee
+	- benefits
+		- unemplmt benefits gen available only when emplee's termination was not their fault
+		- benefits dist to emplee's by state gov
+		- amt paid varies state to state, but usually det by
+			- how long emplee worked
+			- their former rate of pay
+		- note pmts not limited to amt that has been paid by emplyr on employee's behalf
+		- ![[Pasted image 20260114221351.png]]
+- Worker's Compensation
+	- strict L
+	- if emplee get hurt on job, entitled to worker's comp as long as it wasnt intentional
+		- injury due to negligence still entitled to workers comp
+	- state run programs designed to enable emplee to recover for injuries incurred while on job
+	- in most states, coverage is compulsory
+	- emplyr's strictly L regardless of fault
+	- only req is that employee's injury occurred while in scope of emplmt 
+	- ![[Pasted image 20260114223206.png]]
+	- participation
+		- most emplyrs must participate in worker's comp programs
+		- exceptions for
+			- agricultural workers
+			- domestic workers
+			- casual workers (eg temp office workers)
+			- public emplee
+			- indep contractors
+		- some states also exempt emplyrs who have up to 3/4 emplee
+	- funding
+		- emplyr pays for worker's comp by purchasing insurance from
+			- state
+			- private carrier
+		- some states also allow emplyrs to be self insuring if can prove they're fin responsible
+		- in most states, coverage compulsory
+			- in states where coverage not mandatory, emplyr electing not to participate gives up CL defenses of 
+				- contributory negligence
+				- assumption of risk
+				- fellow servant doctrine
+			- damage awards not limited to what would be recovered under worker's comp (emplee can sue emplyr if elect out)
+	- deductibility
+		- workers comp insurance premiums are ord business expenses deductible by emplyr
+		- not deductible for emplee
+	- benefits
+		- for any injury/disease (incl aggravations of exisitng diseases) due to emplmt
+		- w workers comp, cant sue emplyr anymore but can 3rd party (built machines)
+		- incl
+			- $ for income loss
+			- disability
+			- loss of limbs
+			- prosthetic devices
+			- medical services
+			- burial costs
+			- survivor's benefits
+		- benefits not limited to what was paid in on emplee's behalf
+- Affordable Care Act (ACA)
+	- purpose to improve access to health care in US by prov workers w access to affordable health care coverage
+	- health care coverage may be offered thru:
+		- plan prov by emplyr
+		- plan purchased thru Health Insurance Mktplace, where emplee may qualify for fin assistance
+		- coverage prov under gov sponsored program such as Medicare, most Medicaid, health care programs for veterans
+		- direct purchase by employee from an insurance company
+	- participation
+		- both emplyrs/emplee req to participate
+		- certain emplyrs must
+			- offer health care coverage, or
+			- pay penalty
+		- indiv must obtain health care coverage for themself, spouse, n tax dependents
+	- funding
+		- both emplyr/emplee contribute to purchase of affordable coverage
+			- emplyr may subsidize cost of coverage in order to ensure it's affordable
+			- emplee will pay certain amt for coverage, whether purchased thru emplyr or thru another source
+	- emplyr responsibility
+		- under ACA, emplyrs 50+ FT employee called ALE applicable large emplyr
+		- ALE req to prov FT emplee oppro to purchase affordable min essential health care coverage for themselves n their dependents under eligible emplyr sponsored health care plan
+		- all types of emplyrs can be ALE, incl
+			- tax exempt org
+			- gov entities
+		- FT emplee: working for emplyr avg at least 30/wk or 130/month
+		- affordable: emplee contribution to plan doesn't exceed 9.5% of emplee's household inc for tax yr
+		- dependent: emplee's child who hasn't reached age 26
+		- emplyrs not complying w ACA will pay penalty for failure (no emplee penalty)
+		- emplyrs req to
+			- file annual info returns w IRS
+			- prov info emplees about coverage
+	- emplee responsibility
+		- indiv mandate - req all Americans to buy health coverage
+		- formerly, penalty imposed on ppl failing to purchase health coverage, but penalty elimnated
+		- emplee who have min essential coverage will report this on tax return each yr
+		- unempl ppl or ppl working for companies not req to prov affordable health care may purchase insurance thru Health Insurance Mktplace
+	- benefits
+		- ACA sets national standard for how health insurance is structured/priced, n places new req on indiv/emplyr
+			- does not create a national health insurance plan
+		- bc purchasing coverage mandatory, ACA makes it illegal for insurer
+			- to deny coverage to indiv w preexisiting conditions
+			- charge more for their coverage
+	- Penalties for Failure to Comply w ACA
+		- emplyr must pay fee for failure to comply w ACA
+		- not that an emplyr
+			- not obligated to calc its L
+			- shouldn't make pmt w/o first being contacted by IRS
+		- Penalty Type 1 (didnt offer)
+			- ALE will owe first type of emplyr shared responsibility pmt if:
+				- doesn't offer min essential coverage to at least 95% of its FT emplee (and their dependents)
+				- at least one FT emplee receives premium tax credit for purchasing coverage thru Health Insurance Mktplace
+			- on annual basis, this pmt = 2.9k/FT emplee, w first 30 emplee excl from calc 
+		- Penalty Type 2 (crappy coverage)
+			- even if ALE member offers min essential coverage to at least 95% of its FT emplee (and their dependents), it may owe type2/FT emplee who receives the premium tax credit for purchasing coverage thru Mktplace
+			- in gen, FT emplee could rec premium tax credit if:
+				- min essential coverage emplyr offers to emplee is not affordable
+				- min essential coverage emplyr offers to emplee doesn't prov min value, or
+				- emplee not one of at least 95% of FT emplee offered min essential coverage
+			- on annual basis, this pmt = 4350/FT emplee who rec premium tax credit 
+	- deductibility
+		- emplyrs may deduct cost of insurance premiums paid for benefit of employees as business expense
+		- none of penalties req of emplyr under emplyr shared resp provisions are emplyr tax deductible
+- Premium Tax Credit
+	- refundable credit helping eligible lower/moderate inc txpyrs (those earning bw 100-400% of fed poverty lvl) cover premiums for their health insurance purchased thru Health Insurance Mktplace
+	- thru 2025, those earning 400%+ of fed poverty lvl eligible for subsidies that cap mktplace health insurance premiums at no more than 8.5% of household inc
+	- eligiblity
+		- txpyr must meet all of following req
+			- household inc w/in certain range
+			- doesn't file tax return using MFS
+			- cannot be claimed as dependent by another
+			- be enrolled in health insurance coverage thru Mktplace for at least 1mo and:
+				- not able to get affordable care thru an eligible emplyr sponsored plan that provides min value
+				- not eligible for gov health coverage such as Medicare/aid
+			- txpyr eligibility for adv pmt of premium tax credits will be det by sys when apply for insurance thru Mktplace
+	- amount of credit depends on:
+		- income
+		- cost of plan
+		- txpyrs address
+		- family size
+	- credit can be rec monthly, in which case,
+		- paid directly to insurer to reduce premium costs
+		- can be taken as refundable credit against fed taxes
+- Foreign Corrupt Practices Act (FCPA)
+	- gen prohibits pmt of bribes to foreign officials to assist in obtain/retaining business
+	- elements of violation
+		- act applies if offered bribe made thru an instrumentality of interstate commerce, such as email/phone/mail
+		- bribes incl offer of anything of value, such as $/prop
+		- act covers pmt/promises made to someone other gov official if offeror knows any part of offer will be used as bribe a gov official
+	- penalties
+		- violations punishable by
+			- civil fines of up to twice amt of benefit expected received as result of bribe
+			- criminal penalties
+			- appt of indep auditor to monitor compliance
+			- imprisonment of up to 5yrs
