@@ -1,0 +1,7 @@
+- LLP similar to GP in most respects incl
+	- sharing of profit/loss
+	- all adv/disadv of GP
+- LLP vs GP
+	- Personal L
+		- partners gen not L for acts of fellow partners, emplee, agents
+			- 
