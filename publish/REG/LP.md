@@ -23,8 +23,13 @@ Limited Partnership
 			- general partner can buy interest of a Lpartner, but retains unlimited personal L
 		- may be secured/unsecured creditor of partnership
 	- Limited partners
+		- L limited to investments and unpaid capital contibutions
 		- cannot be held personally L for participating in mgmt
 		- may vote on extraordinary matters w/o incurring L
+			- no apparent/actual authority, cant take part in mgmt
+		- Lpartner has right to review
+			- fin info of LP
+			- tax returns of LP
 		- may assign interest in partnership
 			- assignment sim to assignment in GP, assignee has rights to profits
 			- unless otherwise agreed, assignor ceases to be Lpartner upon assignment of all LP interest

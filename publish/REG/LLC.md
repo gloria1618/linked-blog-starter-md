@@ -1,0 +1,45 @@
+hybrid of partnership in corp
+
+- Nature of LLC
+	- designed to provide owners (aka members) w 2 main features:
+		- limited liability that shareholders of corp have
+		- ability to be taxed like partnership (no double taxation)
+			- under tax laws, LLC taxed as partnership unless elect to be taxed as corp
+	- Controlling Law (Statute vs Operating Agrmt)
+		- LLC members may adopt op agrmt provisions diff from LLC statute, n gen op agrmts will control
+		- Op Agrmt (internal agrmt - oral/written)
+			- agrmt among members regarding operations
+			- intent to forestall n resolve disputes among members
+			- not filed w state
+			- under Uniform LLC Act, such op agrmt not be written
+- Formation
+	- formed by filing articles of org w secretary of state
+		- corps file articles of incorporation
+	- most states req articles to incl following:
+		- stmt that entity is LLC
+		- name of LLC, which must incl indication it is an LLC
+		- street address of LLC's registered office, name of registered agent
+		- if mgmt is to be vested in managers, a stmt to that effect, and
+		- names of persons managing company
+	- most states now allow 1person to form LLC
+- Operation
+	- unless articles/op agrmt prov otherwise, all members have right to participate in mgmt decisions
+	- ![[Pasted image 20260115195507.png]]
+	- Voting strength proportional to contributions (like corp)
+		- ex: member who contributed 5% of LLC's current capital entitled to 5% of total vote
+	- Profit/Loss allocated accord to contributions
+		- unless articles/op agrmt prov otherwise, profit/loss allocated on basis of members contributions in most states
+		- under Uniform LLC Act (ULLCA), followed only by few states but sometimes tested, profits shared equally regardless of capital contributions
+	- Transferability of Ownership Rights (like partnership)
+		- most statutes prov that unless op agrmt prov otherwise, member may not transfer all of their interest in LLC w/o unanimous consent of members
+		- member
+			- free to assign their interest in dist
+			- not free to assign any rights to manage LLC
+	- Book/Rec
+		- each member entitled to inspect/copy book/rec during regular business hrs
+- Termination
+	- LLC will dissolve upon
+		- expiration of period of duration stated in articles
+		- consent of all members
+		- death, retirement, resignation, bankruptcy, incompetence etc. of member (unless remaining members vote to cont business) --  these events dissociate member
+		- judicial decree or admin order dissolving LLC for law violation 

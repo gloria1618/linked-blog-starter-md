@@ -17,6 +17,6 @@ LLP vs GP
 			- ex: accounting, law practice
 	- Contents of Certificate of LLP
 		- LLP name
-		- name, location of its registered offic
+		- name, location of its registered office
 		-  # of partners
 		- description of partnership business, etc.

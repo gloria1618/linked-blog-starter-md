@@ -1,0 +1,36 @@
+rights, duties, obligations, authority
+
+- Voting Rights
+	- shareholders have right to vote, they can
+		- vote to elect (typically annually) or remove directors
+		- vote whether to approve fundamental changes to corp
+			- such as dissolution, amending articles req board n shareholder approval
+	- gen rule: one share, one vote unless articles prov otherwise
+		- Exception: cumulative voting for directors
+			- articles can give shareholders right to cumulative voting w respect to electing directors
+			- each share entitled to one vote for each director position being filled, n shareholder may case votes in any way, incl casting all for single candidate
+			- helps minority shareholders gain rep on board
+			- so like i got 1 share, 5 directors positions, so 5 votes, instead of each indiv... ill j do all 5 on director 5?
+- Distributions (Dividends)
+	- not legally req, so risk of fin distress decreases
+	- gen, shareholders dont have right to dist (incl cash dividends n repurchases of shares) unless n until its declared by BoD
+	- once board declares dist, shareholders treated as unsecured creditors of corp to extent of dividend
+	- dist decrease corp's shareholder's equity
+	- upon declaration, retained earnings decrease, L increase
+	- risk of fin distress inc
+		- upon pmt less cash available to service debt
+		- ![[Pasted image 20260115214534.png]]
+	- Preferred Shareholders
+		- corp need not give each shareholder equal right to receive dist
+		- shares may be divided into classes w varying rights
+		- ![[Pasted image 20260115214801.png]]
+			- ^cumulative preff shares not paid yet aka arreared dividends?
+		- ![[Pasted image 20260115214848.png]]
+	- Stock Dividends
+		- issued from corps own 'authorized buy unissued shares'
+		- bc no A dist: shareholders rec stock gen do not owe any taxes on it
+			- solvency of corp remains same
+				- RE down n paid in capital goes up, so no change to tot equity
+			- no damage to creditors/shareholders (unlike cash dividends)
+			- stock dividend not a dist of corp A
+- sdf

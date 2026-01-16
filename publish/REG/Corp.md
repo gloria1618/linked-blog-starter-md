@@ -1,0 +1,92 @@
+- Formation
+	- Created under Statute (not fed law)
+		- created by complying w state incorporation statute
+		- majority of states follow Revised Model Business Corp Act (RMBCA)
+	- Promoter
+		- procure capital commitments to form a corp
+		- enter into contracts before corp formed to obtain financing, things corp needs
+		- personally bound on contracts made
+		- corp not bound unless n until corp adopts contracts after corp is formed, either expressly/accepting contract benefits
+		- even if corp adopts promoter's contract, promoter remains L unless novation (agrmt that 3rd party will release promoter and subs in corp)
+	- Articles of Incorporation
+		- incorporators must file this w state (incorporators may/not be promoter)
+		- may incl anything incorporators consider approp but under RMBCA must incl:
+			- corp name
+			- names, addresses of corp's registered agent
+			- names, addresses of each of incorporators
+			- type, # of shares authorized to be issued
+		- ![[Pasted image 20260115204108.png]]
+		- ![[Pasted image 20260115204128.png]]
+		- Purpose Clause (Ultra Vires Act)
+			- corp may incl clause in articles stating business purpose for which corp formed
+			- if corp has narrow purpose clause and undertakes business outside clause/permitted by statute, it is said to be acting 'ultra vires'
+			- director/officer authorizing ultra vires act may be L to corp for damages caused
+			- ![[Pasted image 20260115204929.png]]
+		- Bylaws (Rules)
+			- in addition to articles of incorp, bylaws contain rules for running corp
+			- adopted by incorporators/board of directors, may be repealed/modified by board of directors
+			- not part of articles, not req to be filed w state
+	- C Corp: Member Privileges
+		- 1+ classes of shares must have unlimited voting rights
+		- pay first?
+			- dividends declared: preferred, then common stockholders
+			- liquidation when there is return on capital:
+				- creditors
+				- preferred, then common stockholders
+- Nature
+	- legal entity - exists as entity distinct from shareholders
+	- liability?
+		- only corp L
+		- gen shareholders, directors, officers not
+			- personally L for contracts made by corp
+			- L for corp torts, except to extent the shareholder/officer/director participated in tort 
+			- ![[Pasted image 20260115201725.png]]
+				- that's why get malpractice insurance
+	- Disregard of Corp Entity (Piercing Corp Veil)
+		- even if members (shareholders, officers, directors) of corp have limited L, court has authority to hold them personally accountable if violated privilege of legally conducting business
+		- courts gen will pierce corp veil for any of 3 reasons: IC Fraud
+			1. shareholders *Commingle* personal funds w corp funds or use corp A for personal use
+			2. corp *Inadequately* ('thinly) capitalized at time of formation (shareholders must start corp w sufficient capital to reasonably meet corp's prospective L)
+			3. corp formed to commit *Fraud* on existing creditors (eg sole proprietor transfers all A to newly formed corp so A not available to pay sole proprietor's existing creditors)
+		- ![[Pasted image 20260115210224.png]]
+- Taxation
+	- C Corp
+		- disadv - double taxation
+		- gen, corp taxed as entity distinct from owners
+		- C corp must pay taxes on any profits made
+		- shareholders gen dont pay taxes on profits until dist (ex dividends)
+	- S Corp
+		- adv- considered flow thru entity
+		- tax laws permit certain corp to elect to be taxed like partnerships 
+			- ie profits not taxed at corp lvl, but rather as shareholder inc
+		- many restrictions like
+			- stock can be held by no more than 100ppl
+			- shareholders must be indiv, estates, certain trusts
+			- corp must gen be a domestic corp
+			- can be only one class of stock
+			- foreign shareholders gen prohibited
+- Ownership/Mgmt
+	- owned by shareholders, managed by board of directors (elected by shareholders)
+		- exception: small closely held corp, shareholders also board of directors and officers
+	- unless articles of incorp prov otherwise, shareholders don't run corp
+- Adv over LLC
+	- gen has perpetual life
+	- freely transferable ownership, unless otherwise agreed
+		- small n closely held corp - may place restrictions such as not allowing shares to be sold 
+- Financing a Corp
+	- corp capital comes from issuance of many types of securities, incl
+		- equity obligations (stock)
+			- characteristics of equity securities for C corp:
+				- may choose to issue only one class of stock 
+					- s corp - can only have one class
+				- may choose to issue several classes/series of stock w varying rights
+				- preferred stock gen nonvoting, assume less risk
+				- common stockholders assume more risk n get paid last in liquidation
+			- consideration for stock
+				- unless articles prov otherwise, (eg by setting a par value for stock), board of directors has discretion to issue stock at any price they think approp
+				- under RMBCA, stock may be issued in exchange for any benefit to corp (eg money, prop, promises to perform services in future, promissory notes, etc)
+		- debt obligations (bond)
+	- ![[Pasted image 20260115210610.png]]
+
+[[Shareholders]]
+[[Directors.Officers]]
