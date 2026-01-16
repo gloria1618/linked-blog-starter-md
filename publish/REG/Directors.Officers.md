@@ -1,0 +1,69 @@
+Directors
+- directors not agents but still owe fiduciary duties
+- among specific duties of directors are:
+	- election, removal, supervision of officers
+		- directors gen review conduct of officers and may remove officer w/w.o cause
+	- adoption, amendment, repeal of bylaws
+	- fixing mgmt compensation
+	- initiating fundamental changes to corp's structure
+- Gen Voting Req/Restrictions
+	- directors cannot vote by proxy and must be physically present
+	- min # of directors must be present (quorum)
+		- can only work as group
+	- majority vote needed to approve
+- Declaration of Dist
+	- BoD has sole discretion to declare dist to shareholders, incl dividends, in form of cash , prop, or corp's own shares
+	- shareholders have no power to compel a dist
+	- directors who authorize dist in violation of law are personally L to extent dist exceeds what's lawful
+		- illegal = corp becomes insolvent/bankrupt
+	- can defend under right to rely (on CPAs when making decisions)
+	- director can recover from shareholder who received a contribution knowing it was unlawful
+- Fiduciary Duties & Business Judgement Rule
+	- directors are fiduciaries of corp, must act in corp's best interest
+		- directors are not insurers of corp's success
+	- direct not L to corp for acts performed or decisions made
+		- in good faith
+		- in manner director believes to be in best interest of the corp
+		- w care an ord prudent person in like position would exercise
+		- aka 'business judgement rule'
+	- thus director L to corp only for negligent acts or omissions (no Reasonable Care)
+	- Right to Rely
+		- director entitled to rely on info, opinions, reports, stmts (incl fin stmts) if prepared by any of following (reasonable reliance)
+			- corp officers, emplee, committee of board whom director reasonably believes to be reliable n competent
+			- legal counsel, accountant, other persons as to matters director reasonably believes w/in such person's prof competence 
+	- LORA: duty of Loyalty
+		- directors owe corp loyalty, must act in best interest of corp
+		- prohibits directors from competing w corp, but doesnt necessarily prohibit transacting business w corp
+		- action in which director has conflict of interest will be upheld only if:
+			- after full disclosure transaction is approved by disinterested majority of BoD or shareholders, or
+			- transaction was fair/reasonable to corp
+		- BoD has power to set director compensation
+	- Indemnification
+		- allowed unless director acts in bad faith
+		- gen, corp allowed to indemnify directors for exp for any lawsuit brought against them in their corp capacity 
+		- corp may also pay any judgement imposed in lawsuit on director, except in shareholder derivative suit
+			- ex: if shareholder brings suit against a director on behalf of corp for contract breach of fiduciary duty, corp cannot pay damages
+
+
+Officers
+- owe fiduciary duty and
+	- are indiv agents (and emplee) of corp who ord conduct its daily op
+	- may bind corp to contracts made on its behalf by actual/apparent authority
+- note that person may hold more than one office
+- Selection/Removal
+	- officers selected by directors, may be removed by directors w/w.o cause
+		- not elected by shareholders
+- Authority
+	- officers are corp agents, agency rules det authority/power
+	- corp president will:
+		- gen have apparent authority to enter into contracts
+			- to limit apparent authority, give notice to 3rd parties 
+		- act on behalf of corp in ord course of business
+- Fiduciary Duties, Indemnification
+	- corp officers, like directors, subj to fiduciary duties n must discharge their duties in good faith & w same care as ordinarily prudent person in like position
+	- like directors, officers:
+		- may be indemnified for exp n judgements from litigation brought against them in corp capacity
+		- protected by business judgement rule
+	- officers may also serve as directors
+	- officer not req to be, but may be, shareholder of corp
+	- ![[Pasted image 20260115230621.png]]

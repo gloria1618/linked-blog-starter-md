@@ -1,4 +1,3 @@
-rights, duties, obligations, authority
 
 - Voting Rights
 	- shareholders have right to vote, they can
@@ -27,10 +26,19 @@ rights, duties, obligations, authority
 			- ^cumulative preff shares not paid yet aka arreared dividends?
 		- ![[Pasted image 20260115214848.png]]
 	- Stock Dividends
-		- issued from corps own 'authorized buy unissued shares'
+		- issued from corps own 'authorized but unissued shares'
 		- bc no A dist: shareholders rec stock gen do not owe any taxes on it
 			- solvency of corp remains same
 				- RE down n paid in capital goes up, so no change to tot equity
 			- no damage to creditors/shareholders (unlike cash dividends)
 			- stock dividend not a dist of corp A
-- sdf
+- Right to Inspect Bks/Records
+	- upon 5dys written notice stating a proper purpose (one related to shareholder's rights in corp), a shareholder may inspect n copy corp's records
+	- shareholder may send an attorney, accountant, other agent to inspect 
+	- ![[Pasted image 20260115222630.png]]
+- Preemptive Rights
+	- when corp proposes to issue additional shares of stock, current shareholders often want to purchase shares to maintain proportional voting strength
+	- preemptive right - CL granted shareholders such right
+	- under RMBCA preemptive rights dont exist, unless articles of incorporation provide for them
+- Derivative Actions
+	- ![[Pasted image 20260115222839.png]]
