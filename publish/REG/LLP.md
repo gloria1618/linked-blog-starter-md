@@ -1,7 +1,22 @@
 - LLP similar to GP in most respects incl
 	- sharing of profit/loss
 	- all adv/disadv of GP
-- LLP vs GP
-	- Personal L
-		- partners gen not L for acts of fellow partners, emplee, agents
-			- 
+
+LLP vs GP
+- Personal L
+	- partners gen not personally L for acts/L/obligations of fellow partners, emplee, agents arising from
+		- error, omissions, negligence, malpractice, or
+		- wrongful acts committed by another partner/emplee/agent/rep of LLP
+	- L for own negligence/wrongful act and those under direct control/supervision
+	- gen partners not personally L for debts/contractual obligations of LLP
+- Formation
+	- LLP Must File w State
+		- gen, to become LLP, partnership must file doc w state 
+			- registration, stmt of qualification, application for registration, or certificate of LLP
+		- some states restrict LLPs onlyl to learned professions
+			- ex: accounting, law practice
+	- Contents of Certificate of LLP
+		- LLP name
+		- name, location of its registered offic
+		-  # of partners
+		- description of partnership business, etc.

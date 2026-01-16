@@ -100,6 +100,7 @@ Termination
 		- partners notice of withdrawal
 		- dissociation at any time
 			- if partner wrongly dissociates, L for breach
+			- say like written agrmt for 3yrs
 	- any remaining partners could agree to continue business, but as new partnership entity
 	- Events of Dissociation: partner dissociates from partnership when they ...
 		- give notice of withdrawal
@@ -113,7 +114,7 @@ Termination
 	- Dissociated Partner's L to Other Parties
 		- gen, dissociated partner remains L for debts incurred by partnership prior to dissociation unless there has been:
 			- release by creditor
-			- noviation
+			- novation
 		- dissociated partner may be held L for partnership debts incurred for up to 2yrs after dissociation unless partner gives notice of dissociation
 		- if new partner admitted, new partner not personally L for debts incurred by partnership before becoming partner
 - Dissolution of GP
@@ -126,7 +127,7 @@ Termination
 		- death of partner doesn't cause dissolution if remaining partners agree to cont w/in 90dys of death
 		- ![[Pasted image 20260115044452.png]]
 	- Partnership Cont after Dissolution
-		- partnership cont to exist after dissolution utnil business wound up, at which time partnership is terminated
+		- partnership cont to exist after dissolution until business wound up, at which time partnership is terminated
 			- ex: each partner will cont to have apparent authority to bind partnership, and each partner will cont to be L for obligations of partnership
 		- partnership terminated only after winding up process complete
 
@@ -147,4 +148,8 @@ Distribution of A - Final Acct
 			- incl partners who r creditors, must be paid before non creditors
 		- Partners
 			- after creditor obligations satisfied, each partner entitled to pmt, first to return contributions, then on acct of profits
-- ![[Pasted image 20260115045232.png]]![[Pasted image 20260115045243.png]]![[Pasted image 20260115045310.png]]
+- ![[Pasted image 20260115045232.png]]
+- ^ cindy owes 5.5k, others get some money..... losses follow profits
+- ![[Pasted image 20260115045243.png]]![[Pasted image 20260115045310.png]]
+- ^ think like this:  (40%/65%) * 5.5k
+- ^has to be over 65% bc otherwise ur calc 40, 25, and leaving space for nonexistent cindy

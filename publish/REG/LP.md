@@ -1,0 +1,52 @@
+Limited Partnership
+
+- Nature of LP
+	- made up of
+		- 1+ general partners
+			- personal L for all partnership debts
+		- 1+ limited partners
+			- L for partnership debts gen limited to investment (passive investment))
+		- ![[Pasted image 20260115181828.png]]
+	- gen, does not have perpetual life, unless partnership agrmt prov otherwise
+	- sim to corp
+		- formation
+			- only by filing w state
+			- only pursuant to state statute
+		- LPartners like shareholders
+			- capital contributed in exchange for partnership interest, but Lpartners don't participate in mgmt
+			- only vote on fundamental changes
+- Op of LP
+	- in LP, mgmt is responsibility of general partners, j like in GP
+	- general partner is personally L for all partnership debts
+		- if loss, only gen partner held personally L
+		- may also be Lpartner at same time
+			- general partner can buy interest of a Lpartner, but retains unlimited personal L
+		- may be secured/unsecured creditor of partnership
+	- Limited partners
+		- cannot be held personally L for participating in mgmt
+		- may vote on extraordinary matters w/o incurring L
+		- may assign interest in partnership
+			- assignment sim to assignment in GP, assignee has rights to profits
+			- unless otherwise agreed, assignor ceases to be Lpartner upon assignment of all LP interest
+		- new partner added only w unanimous consent
+		- does not owe fiduciary duty to partnership
+	- Extraordinary matters = Fundamental changes
+		- admission/removal of general partner
+		- dissolution
+		- amending articles of LP
+		- sale of subs all A outside ord course of business
+		- discussion not in ord course of business
+- ![[Pasted image 20260115182953.png]]
+- Termination of LP
+	- LP can be dissolved by
+		- occurrence of time/event stated in agrmt
+		- written unanimous consent
+		- withdrawal/death of a general partner
+			- death of Lpartner won't dissolve LP
+		- judicial decree
+	- ![[Pasted image 20260115183447.png]]
+	- Loss Situation
+		- if loss, only general partners are personally L
+			- LPartners have no personal L beyond their capital commitments
+		- if profits remaining, profit dist according to agrmt
+			- if no agrmt, profit div according to capital contributions
