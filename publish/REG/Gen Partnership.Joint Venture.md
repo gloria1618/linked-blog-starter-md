@@ -13,7 +13,7 @@ vs Joint Venture
 - courts sometimes try to distinguish JV from GP, but legal req/consequences/adv/disadv are identical
 - GP is ongoing business
 - for exam, key diff is that JV formed for
-	- single transaction/project (hotdog stand for parage)
+	- single transaction/project (hotdog stand for parade)
 	- related series of transactions/projects
 - if unclear if intended to enter into partnership, an agrmt to share profits gives rise to presumption that partnership intended
 	- if u lend $ as creditor, u would collect principal/interest but not profits

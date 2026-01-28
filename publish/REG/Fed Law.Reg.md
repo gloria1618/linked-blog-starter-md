@@ -53,7 +53,7 @@ REG6
 		- ![[Pasted image 20260114215213.png]]
 - Unemployment Compensation (FUTA)
 	- excludes SE
-	- Fed Unemplmt Tac Act FUTA est state run sys of insurance to prov inc to workers who lost jobs thru no fault of own
+	- Fed Unemplmt Tax Act FUTA est state run sys of insurance to prov inc to workers who lost jobs thru no fault of own
 	- altho FUTA prov fed guidelines, states administer program/set standards/det pmt
 	- participation
 		- all emplyr who have quarterly payrolls of at least 1.5k or who employ at least one person for 20wks in yr must participate
@@ -162,7 +162,7 @@ REG6
 			- charge more for their coverage
 	- Penalties for Failure to Comply w ACA
 		- emplyr must pay fee for failure to comply w ACA
-		- not that an emplyr
+		- note that an emplyr
 			- not obligated to calc its L
 			- shouldn't make pmt w/o first being contacted by IRS
 		- Penalty Type 1 (didnt offer)

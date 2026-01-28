@@ -1,4 +1,4 @@
-
+Shareholder
 - Voting Rights
 	- shareholders have right to vote, they can
 		- vote to elect (typically annually) or remove directors
