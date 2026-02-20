@@ -1,1 +1,0 @@
-what category of men is mobius, sugawara and loid?

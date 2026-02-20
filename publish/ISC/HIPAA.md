@@ -1,0 +1,38 @@
+- Health Insurance Portability n Accountability Act (HIPAA) of 1996
+	- req Dep of Health n Human Services to adopt national standards promoting health care priv/sec
+	- Privacy Rule governs privacy of protected health info (PHI) - med records
+	- applies to specific healthcare related businesses, 'covered entities', incl any of following:
+		- health care providers transmitting health info electronicallly
+		- health plans
+		- health care clearing houses
+			- institution that electronically transmits diff types of med claims data to insurance carriers
+		- service providers who need access to PHI to perform services for covered entities
+	- Privacy Rule permits covered entity to use/disclose PHI, w no further authorization req
+		- to indiv
+		- for treatment, pmt, health care op
+		- incident to an otherwise permitted use/disclosure
+		- w valid authorization
+		- after giving indiv oppro to agree/object
+		- as limited/redacted dataset for research, public health, or health care operations
+		- for public interest/benefit activities prov by law
+	- Security Rule governs electronic PHI, all covered entities must
+		- ensure confidentiality, integrity, availability of all electronic PHI
+		- protect against reasonably anticipated threats to security of info
+		- protect against reasonably anticipated impermissible uses/disclosures
+		- ensure compliance by covered entity's workforce
+	- req safeguards for covered entities or business assoc, incl
+		- Administrative safeguards
+			- standards incl sec mgmt processes, assigned sec resp, workforce sec, info access mgmt, sec awareness/training, sec incident procedures, contingency plans, evaluation
+		- Physical safeguards
+			- facility access controls, workstation use/sec, device/media controls
+		- Technical safeguards
+			- access/audit/dataintegrity controls, person/entity authentication, transmission sec
+
+Health Info Tech for Eco n Clinical Health Act (HITECH) of 2009
+- HIPPA amended by HITECH act
+- to promote transition from paper to electronic records
+- amendments
+	- increased penalties for HIPAA violations
+	- req patients receive option to obtain records in electronic form
+	- added 'business assoc' as covered entities
+	- most sig change was addition of breach notif rules req covered entities prov breach notice to impacted indiv w/in 60dys after breach discovery

@@ -1,0 +1,64 @@
+- set of security/privacy controls applicable to all info sys, now standard for federal info sec sys
+- stricter compared to other two - designed for protecting info sys against sophisticated threats
+	- other 2 for cost effectiveness, best practice implementation
+- tho there is cost based approach to SP 800-53 implementation, org must carefully evaluate adopting framework bc can be burdensome given nearly 1,200 controls
+
+- Purpose/Applicability
+	- est controls for sys/orgs that can be implemented w/in sys/org that process, store, transmit data/info
+	- standards designed to 
+		- help orgs id sec/priv controls to manage risk, and
+		- satisfy following sec/priv req
+			- Office of Mgmt n Budget OMB Circular A-130
+				- req controls for fed info sys
+			- Fed Info Security Modernization Act FIMSA
+				- req implementation of min controls to protect federal info n info sys
+- Target Audience
+	- sys admins
+		- indiv w sys, info sec, priv, risk mgmt, oversight resp
+		- authorizing officials, CIO, ISO, senior agency info and/or security officers
+	- sys developers
+		- program managers, sys engineers, hard/software devs, etc.
+	- logistical personnel
+		- procurement officials, sys integrators, prop managers
+	- sec n priv personnel
+		- sys sec/priv officers
+	- sec n priv assessment n monitoring personnel
+		- auditors, internal auditors, inspectors general, sys evaluators, control assessors, indep verifier/validators, analysts
+	- commercial entities - 3rd party vendores
+		- industry partners, component producers, security, priv/data backup/storage vendors
+- Org Responsibilities
+	- when managing sec/priv risks, following req by org
+		- well defined sec n priv req for sys
+		- use of trustworthy info sys components (ie hard/firm/software)
+		- rigorous sec n priv planning n sys development life cycle mgmt
+		- application of sys sec n priv practices for sys integration of info sys
+		- comprehensive sec n priv practices documentation
+		- continuous monitoring of info sys to eval ongoing effectiveness of controls
+	- 3 control implementation approaches to be implemented on per control basis
+		- Common (Inheritable) Control
+			- implement at org lvl, adopted by info sys
+		- Sys Specific Control
+			- implement at info sys lvl
+		- Hybrid
+			- implement at org lvl where approp, rest at info sys lvl
+- SP800-53 subdiv into 20 control fam covering org risk
+	- AC - Access Control - how org manage application/resource access
+	- AT - Awareness/Training - how org deliver training on info sec risk
+	- AU - Audit/Accountability - how eval info sec controls
+	- CA - Assessment, Auth, Monitoring - how assess threats
+	- CM - Configuration Mgmt - how asset/software configured securely
+	- CP - Contingency Planning - how prepared for downtime/outages
+	- IA - Identity/Authentication - how id/auth managed
+	- IR - Incident Response- how prep to react to info sec/events
+	- MA - Maintenance - how ensure secure maintenance of infrastructure
+	- MP - Media Protection - how info on physical media managed/protected
+	- PE - Physical n Env Protection - how facilities secured from intrusion/harm
+	- PL - Planning - how org manage info sec planning
+	- PM - Program Mgmt - how org securely manages its info sec program
+	- PS- Personnel Security - How emplee eval for potential compromise
+	- PT - PII Proccessing/Transparency: - How PII managed
+	- RA - Risk Assessment - How env risk eval?
+	- SA - Sys/Services Acquisition - How sys securely eval n acquired
+	- SC - Sys/Comms Protection - How data securely transmitted digitally
+	- SI - Sys/Info Integrity - How integrity of data maintained/eval
+	- SR - Supply Chain Risk Mgmt - how org secure its supply chain

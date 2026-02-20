@@ -1,0 +1,29 @@
+effective May 2018
+EU gen applicability law reg data privacy
+- prov circumstances when lawful to process personal data, such as w proper consent or when complying w legal obligation
+- one of strictest in world, imposes steep penalties for violators, w fines reaching $Ms
+- law's scope extends beyond EU, applies to any of following
+	- data processors based in EU, even if actual processing outside of EU
+	- data processors not based in EU if processor offering good/service to those in EU or monitoring behavior of those in EU
+	- data processors not based in EU but where EU law applies via public international law (eg EU embassies)
+- following principles must be followed when processing data (responsible for, demonstrate compliance)
+	- Lawfulness, Fairness, Transparency
+		- data must be processed lawfully, fairly, and in transparent manner
+	- Purpose Limitation
+		- data must be processed for specified, explicit, legitimate purposes
+		- further processing beyond purpose is permitted for public interest archiving, scientific/historical research or stat purposes 
+	- Data Minimization
+		- data processing must be adequate, relevant, limited to what is necessary for purpose
+	- Accuracy
+		- Data must be accurate, kept updated
+	- Storage Limitation
+		- data must be stored only for as long as is necessary
+		- storing for longer permitted for public interest archiving, scientific/historical research, stat purposes
+	- Integrity, Confidentiality
+		- Data must be processed securely n protected against unauthorized/unlawful processing, accidental loss, destruction, damage
+- Privacy Shield
+	- to support transatlantic commerce, EU and US implemented Safe Harbor Framework, allowing companies to transfer data bw EU n US legally
+		- ultimately, EU's court declared framework invalid in 2015
+		- as result, negotiated Privacy Shield 2016 to replace
+		- July 2020, Privacy Shield declared invalid 
+	- until new agrmt, companies transferring data across Atlantic live in uncertainty 

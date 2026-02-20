@@ -1,0 +1,36 @@
+[[HIPAA]]
+[[GDPR]]
+[[PCI DSS]]
+- Privacy Laws
+	- exist to protect indiv's private life, keep personal deets out of public domain
+	- crate trust bw consumers/enterprises so when consumer's personal info is shared, sensitive info will be safeguarded (ex cc, healthcare)
+	- regulate how those entrusted w priv info collect, process, maintain, disclose it
+	- modern priv laws in US focus on particular data/entity types (healthcare, fin, fed)
+		- no single fed law applying gen n reg all personal data
+		- GDPR - General Data Protection Regulation
+			- EU enacted one comprehensive data priv law applying generally n governs how all entrusted w personal data should handle such info
+		- some states like Cali - similar priv law of general applicability that apply to those doing business in state or data of ppl in state
+- Data Breaches - exposure of confidential info to unauthorized ppl
+	- Unintentional - breach from negligence/error
+	- Intentional - from bad actors illegally gaining access to data
+	- sig consequences like
+		- business disruption
+		- reputational harm
+		- fin/data loss
+		- potential legal/regulatory implications
+	- IBM Cost of Data Breach Report 2022 shows avg cost is over 4M, 4 categories of exp
+		- Detection/Escalation
+			- cost to detect, ex forensics/investigative efforts
+		- Notification
+			- cost to notify necessary parties, ex customers/regulators
+		- Post-breach Response
+			- cost to rectify effects of breach
+			- paying regulatory fines, implementing credit monitoring services for customers, prov ongoing comms to consumers
+		- Loss of Business/Revenue
+			- rev temporarily lost during down time caused by data breach, n lead to loss of customers
+	- consumer impact can = exposure of personal info, at risk of identity/monetary theft
+		- name
+		- home address
+		- SS #
+		- pmt or banking info
+	- 

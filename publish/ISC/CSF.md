@@ -1,0 +1,78 @@
+voluntary framework w 3 primary components to manage cybersecurity risk:
+- CSF Core
+	- describes cybersec outcomes that can by used by any org size
+	- focuses on reducing org's cybersec risks
+	- 6 functions repping diff pts in security risk mgmt lifecycle that helps enhance cybersec protection... pne sing: governID, protect, detect, respond, recover
+		- govern
+			- oversight needed for other 5
+		- identify (ID)
+			- understand A's n suppliers of org
+			- cybersec risks related to A n suppliers
+			- ID improvement oppro related to org's
+				- cybersec risk mgmt policies
+				- plans
+				- processes
+				- procedures
+				- practices
+		- protect (PR)
+			- org's ability to secure A to prevent/reduce likelihood/impact of adverse cybersec events
+			- safeguards incl
+				- id mgmt, authentication, access control
+				- awareness, training
+				- data security
+				- platform security
+				- infrastructure security
+		- detect (DE)
+			- timely discovery of cybersecurity attacks/incidents by analyzing
+				- anomalies
+				- indicators of compromise
+				- other potentially adverse events that may indicate attack/incident 
+		- respond (RS)
+			- ability to contain effects of cybersec incidents
+			- outcomes cover
+				- incident mgmt
+				- analysis
+				- mitigation
+				- reporting
+				- comms
+		- recover (RC)
+			- supporting restoration of normal op to reduce incident impact
+			- comms recovery efforts effectively/appropriately
+	- ![[Pasted image 20260219150001.png]]
+	- 6 functions> categories (specific activ/needs) > subcat (mgmt/technical activ)
+	- ![[Pasted image 20260219152702.png]]
+	- ![[Pasted image 20260219152723.png]]
+	- ![[Pasted image 20260219152754.png]]
+- CSF Tiers
+	- inform org of effectiveness of csf org prof
+	- measure of orgs info sec infrastructure sophistication 
+		- dont serve as means to implement 6 functions
+		- categorize degree to which info sec practices *integrated* thruout org
+		- complement an orgs existing cybersec risk mgmt methodology
+		- can be used as benchmark to comms its org wide approach to managing cybersec risks
+	- 4 lvls, orgs select tier based on their risk lvl
+		- 1 - partial
+			- small business
+			- ![[Pasted image 20260219155324.png]]
+		- 2 - risk informed
+			- ![[Pasted image 20260219155346.png]]
+		- 3 - repeatable
+			- ![[Pasted image 20260219155407.png]]
+		- 4 - adaptive
+			- ![[Pasted image 20260219155445.png]]
+	- div by 4 diff lvls, then subdivided into
+		- cybersec risk governance
+		- cybersec risk mgmt
+- CSF Organizational Profiles
+	- det success/failure of info sec implementation
+	- mechanism by which NIST rec to measure cybersec risk n how to min risk
+	- incl 1 or both
+		- Current Profile - specifies outcome org achieving (or attempting) based on current cybersec posture
+		- Target Profile - specifies desired outcome org has prioritized achieving, adn considers anticipated chngs to org's cybersec posture
+	- Community Profile - baseline outcomes dev among many org due to shared interest/goal of industry/sector/topic/usecase
+	- repeatable, 5 step approach to help inform cont improvement of org's cybersec posture... mne: some guy created AI
+		- Scope Org Profile
+		- Gather info needed to prep Org Profile
+		- Create Org Profile
+		- Analyze gaps bw Current n Target Profile, create action plan
+		- Implement action plan, update Org Profile
