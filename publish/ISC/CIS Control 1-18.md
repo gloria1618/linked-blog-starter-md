@@ -1,0 +1,141 @@
+- 1 Inv n Control of Enterprise A
+	- helps org actively track/manage all IT A connected to org's IT infrastructure phys/virtually w/in cloud env
+	- allows org to know totality of IT A that should be monitored/protected
+	- IT inventory list will allow org to track various data pts for company A
+		- ![[Pasted image 20260221154024.png]]
+	- visibility into how data flows in org
+		- which devices contain sensitive info helps IT managers prioritize sec/maintenance
+			- ex: knowing which server/laptop store emplee rec closely monitored for needed updates, threats, irregularities
+	- potential external devices connecting to org network (like thru guest network, even if segregated from core network)
+		- ex: temp access granted to auditors, permanent access given to managed service providers MSP to manage IT ops
+	- portable end user devices periodically connecting to network then dissapearing
+		- holistic view difficult 
+	- ![[Pasted image 20260221155035.png]]
+- 2 Inv n Control of Software A
+	- rec to track/manage all software applications so only authorized software installed
+		- guidance on finding unmanaged/auth software alr installed so it can be removed/remediated
+	- software w/in scope
+		- op sys
+		- programming software/library
+		- business app
+		- drivers
+		- open source software
+		- application programming interface (API)
+		- some firmware
+	- control lists/policies
+	- software inv list 
+		- whether most current software patches installed
+		- applications reaching end of life support are renewed/transitioned out
+		- any additional safeguards needed are in place to compensate for software risks
+	- ![[Pasted image 20260221160440.png]]
+- 3 Data Protection
+	- develop ways to securely manage entire life cycle of data, for initial ID/classification data to disposal 
+		- id, archive, label, classify data to understand implications of data being lost/compromised
+		- classification categories at enterprise discretion, should be based on sensitivity like 'internal/public/sensitive/confidential'
+	- after sensitivity defined, data mapping developed that id various software apps that access each of these sensitivity lvls
+		- also can retention reqs, access control lists, access logging mechanisms, data disposal plans 
+		- encryption can be strat used to further secure data at rest/transit so that data compromise is avoided
+	- ![[Pasted image 20260221163511.png]]
+	- ![[Pasted image 20260221163538.png]]
+- 4 Secure Configuration of Enterprise A/Software
+	- est/maintain secure baseline configurations for their enterprise A incl
+		- servers
+		- network devices
+		- mobile/portable end user devices
+		- non computing A such as IoT devices
+		- op sys
+		- other corp managed hard/software
+	- many apps sold preconfigured w default settings designed for ease of install/usage
+	- default config may have exploitable vulnerabilities, allowing unauthorized users to gain access to org's core network
+	- publicly available security standards, such as CIS Benchmarks Program or NIST National Checklist Program Repository, can be used by orgs as starting pt for A reconfiguration
+	- sec hardening can be incorp into adj targeting sec configurations so cont 'hardened' against new forms of attack. improvements incl
+		- removing unused/unecessary software
+		- closing network ports that are openly exposed to internet
+		- changing default passwords
+		- turning off non essential services
+	- sec tools like firewalls, intrusion detection/prevention sys, data loss prevention DLP sys, mobile device mgmt MDM software to secure networks/EUD
+		- orgs w mult types of env/data classification lvls may have several sec baselines to address
+		- once target configuration lvls implemented, should be cont monitored for deviations n necessary updates
+	- ![[Pasted image 20260221170239.png]]
+	- ![[Pasted image 20260221170252.png]]
+- 5 Acct Mgmt
+	- manage credentials/auth for user accts, privileged user accts, service accts for company hard/software
+	- accts must be inventoried/tracked to apply approp controls
+		- centralized acct mgmt tools/services utilized for consolidated acct mgmt across org
+		- org should develop+comms acceptable use policy/acct safety guidelines
+		- credentials treated as highly sensitive info, formal training to edu users on acct safety best practices/acct sec policy
+		- may incl password req, controls for inactivity, acct lockout policies
+	- administrator accts should be restricted to specific use cases
+		- end users req administrator privileges should have separate accts to run 
+	- ![[Pasted image 20260221195602.png]]
+- 6 Access Control Mgmt
+	- expands on 5 by specifying access type of user acct
+		- ideally only necessary privileges req for job role
+		- org should follow principles of 'least privilege', 'need to know'
+	- protocols for granting/revoking access based on job duties,roles,resp
+		- access control models to facilitate process by defining roles w/in org, assigning approp access to each role to provide separation of duties 
+			- RBAC role based access control
+			- PBAC policy based access control
+		- for accts w admin/remote access should have additional security layer
+			- MFA multi factor auth
+			- PAM privileged acct mgmt
+	- comprehensive, ideally centralized, for hire/fire (provisioning) emplee 
+		- sophisticated methods - all access across org cut off synchronously w/in mins of chng
+	- ![[Pasted image 20260222012740.png]]
+- 7 Cont Vulnerability Mgmt
+	- cont id/tracking vulnerabilities w/in infrastructure to remediate/eliminate weak points
+	- req org to keep abreast of threats/vulnerabilities to be able to defend em
+		- attackers can exploit/leverage vulnerabilities to compromise A, gain foothold in network
+		- zero day exploits - unknown vulnerabilities, no known solution to weak pt
+	- proactive in scan/monitor/manage vulnerabilities to reduce window of oppro
+		- as new vul discovered, assess for likelihood of exploitation/impact to rank/prioritize
+		- preferable to use vuln scanning tools mapping vuln to industry recog publications
+			- CVE common vuln n exposures
+			- CCE common configuration enumeration
+			- OVAL open vuln n assessment lang
+			- CPE common platform enumeration
+			- CVSS common vuln scoring sys
+			- XCCDF extensible configuration checklist description format
+	- ![[Pasted image 20260224191416.png]]
+- 8 Audit Log Mgmt
+	- enterprise log mgmt process to alert/recover from attack in (near) real time using log collection, analytic features 
+	- logs for prevention, troubleshooting, incident response, discovering patterns, detecting anomalies
+		- system logs - list of events: start/end times, points of restoration, sys crashes
+		- audit logs - specific user, record when log in/out, accesses file, opens app
+			- caputered from variety of connections, whether directly to org network via hard wired connection, wirelessly, or VPN
+			- be notified when failed user attempt to connect w/o approp privileges 
+	- event log - critical to incident response, facilitate processes for legal matters like
+		- eDiscovery
+		- accountability for auditing
+		- lessons learned for process improvement
+		- data retention for compliance req
+	- address entire life cycle of audit logs from log collection to log disposal
+	- ![[Pasted image 20260224201329.png]]
+	- ![[Pasted image 20260224201345.png]]
+- 9 Email n Web Browser Protections
+	- detect/protect against cybercrime thru email/internet by directly engaging emplee
+		- email clients/web browsers provide direct access to users vulnerable to social engineering and delivering malicious payloads
+	- attacks like phishing, BEC business email compromise can be conducted using email to target senior execs controlling data/fin resources or target high value A w data for exploitation/fin gain
+		- vuln can be exploited to intro malware to network, so only supported/updated versions should be used
+	- policies/tools to enforce URL filtering, block certain file types, restrict options such as ability to install add ons
+		- URL blocking can be done thru DNS domain name sys filtering, effectively blocking access to domains on blacklist
+	- ![[Pasted image 20260224203217.png]]
+- 10 Malware Defenses
+	- preventing installation/propagation of malware on A/network
+	- forms like virus, worms, spy/ad/ransomware, keyloggers
+	- endpt A/devices leveraged as entry pts/targets
+		- steal intellectual prop/login credentials, destroy data, encrypting data for ransom, executing other nefarious activities
+		- malware freq relies on insecure enduser behavior such as clicking links, opening attachments, installing software, inserting flash drives to infiltrate the org 
+	- LotL- 'living off the land', minimizes likelihood attacker gets caught by using org's existing tools against itself
+		- existing tools/apps alr have access to wide variety of company apps, allowign quick window into company sys
+	- hackers use stolen credentials, powershell, FTP, WMI windows mgmt instrumentation interface, and other built in tools 
+	- ![[Pasted image 20260225135029.png]]![[Pasted image 20260225134002.png]]
+- 11 Data Recovery
+	- est data backup, testing, restoration processes allowing org to effectively recover A to pre incident state
+	- org data can be targeted by ransomware that encrypt data
+	- human error, misconfigurations, natural factors (power outages, flooding, etc.) 
+	- data value, sensitivity, classification, retention req all factor into mechanism/cadence used for backup/storage methods
+	- automating backup process, utilizing offsite storage in diff geo location, using encryption are reccomended
+		- should be tested once/quarter to confirm protocols/tech, restore files using a test bed environment
+	- ![[Pasted image 20260225135509.png]]
+	- 
