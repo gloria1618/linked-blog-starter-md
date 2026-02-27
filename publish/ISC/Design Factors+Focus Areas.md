@@ -1,0 +1,54 @@
+infl design of IT governance sys, w tot of 11 factors to be considered
+
+- Enterprise Strat
+	- IT gov strat gen incl primary n secondary strat
+	- ex: growth/acquisition strat, innovation/differentiation strat, cost leadership strat, client service/stability strat
+- Enterprise Goals
+	- goals support start n structured based on balanced scorecard dimensions
+		- financial 
+		- customer
+		- internal
+		- growth
+- Risk Profile
+	- addresses current risk exposure for org, maps out which risks exceed org's risk appetite
+	- risk incl IT op incidents, software adoption/suage issues, noncompliance, tech based innovation, geopolitical issues 
+- IT Issues
+	- regular IT audit findings of poor IT quality/control
+	- insufficient IT resources
+	- frustration bw IT n other dep
+	- hidden IT spending
+	- data quality
+	- noncompliance w applicable reg
+- Threat Landscape
+	- env in which org operates
+	- may be classified as normal/high as result of 
+		- geopolitical threat/issue
+		- industry sector
+		- eco issues
+- Compliance Req
+	- compliance demands on org low/normal/high
+		- normal - typical of industry
+		- high - subj to higher than avg compliance req 
+- Role of IT
+	- Support
+		- IT sys not critical for op business/maintaining continuity
+	- Factory
+		- has immediate impact in business op n cont if fails
+	- Turnaround
+		- drives innovation but not req for crit business op
+	- Strategic
+		- crucial for both innov/business op
+- Sourcing Model for IT
+	- type of IT procurement model org adopts, ranging from outsourcing, cloud based, built in house, hybrid
+- IT Implementation Methods
+	- Agile dev method
+	- DevOps
+	- traditional (waterfall)
+	- hybrid 
+- Tech Adoption Strat
+	- First mover strat - emerging tech adopted asap for edge
+	- Follower strat - adopted after proven
+	- Slow adopter - late
+	- enterprise sizes
+		- large: tot FT emplee 250+ default
+		- small/med: 50-250 FT emplee
