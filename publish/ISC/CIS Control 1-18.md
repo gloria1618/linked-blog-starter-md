@@ -48,7 +48,7 @@
 	- many apps sold preconfigured w default settings designed for ease of install/usage
 	- default config may have exploitable vulnerabilities, allowing unauthorized users to gain access to org's core network
 	- publicly available security standards, such as CIS Benchmarks Program or NIST National Checklist Program Repository, can be used by orgs as starting pt for A reconfiguration
-	- sec hardening can be incorp into adj targeting sec configurations so cont 'hardened' against new forms of attack. improvements incl
+	- sec hardening can be incorp into adjusting target sec configurations so cont 'hardened' against new forms of attack. improvements incl
 		- removing unused/unecessary software
 		- closing network ports that are openly exposed to internet
 		- changing default passwords
@@ -65,8 +65,9 @@
 		- org should develop+comms acceptable use policy/acct safety guidelines
 		- credentials treated as highly sensitive info, formal training to edu users on acct safety best practices/acct sec policy
 		- may incl password req, controls for inactivity, acct lockout policies
-	- administrator accts should be restricted to specific use cases
+	- administrator accts should be restricted to specific use cases (targeted)
 		- end users req administrator privileges should have separate accts to run 
+	- SSO MFA
 	- ![[Pasted image 20260221195602.png]]
 - 6 Access Control Mgmt
 	- expands on 5 by specifying access type of user acct
@@ -102,7 +103,7 @@
 	- logs for prevention, troubleshooting, incident response, discovering patterns, detecting anomalies
 		- system logs - list of events: start/end times, points of restoration, sys crashes
 		- audit logs - specific user, record when log in/out, accesses file, opens app
-			- caputered from variety of connections, whether directly to org network via hard wired connection, wirelessly, or VPN
+			- captured from variety of connections, whether directly to org network via hard wired connection, wirelessly, or VPN
 			- be notified when failed user attempt to connect w/o approp privileges 
 	- event log - critical to incident response, facilitate processes for legal matters like
 		- eDiscovery
@@ -128,7 +129,9 @@
 		- malware freq relies on insecure enduser behavior such as clicking links, opening attachments, installing software, inserting flash drives to infiltrate the org 
 	- LotL- 'living off the land', minimizes likelihood attacker gets caught by using org's existing tools against itself
 		- existing tools/apps alr have access to wide variety of company apps, allowign quick window into company sys
-	- hackers use stolen credentials, powershell, FTP, WMI windows mgmt instrumentation interface, and other built in tools 
+		- hackers use stolen credentials, powershell, FTP, WMI windows mgmt instrumentation interface, and other built in tools 
+	- solutions should be automated, centrally mnged, maintained, deployed to all potential entry pts
+		- security features preventing execution of malicious codes should be enabled when possible, any software autorun/play disabled default 
 	- ![[Pasted image 20260225135029.png]]![[Pasted image 20260225134002.png]]
 - 11 Data Recovery
 	- est data backup, testing, restoration processes allowing org to effectively recover A to pre incident state
@@ -138,4 +141,108 @@
 	- automating backup process, utilizing offsite storage in diff geo location, using encryption are reccomended
 		- should be tested once/quarter to confirm protocols/tech, restore files using a test bed environment
 	- ![[Pasted image 20260225135509.png]]
-	- 
+- 12 Network Infrastructure Mgmt
+	- procedure/tool to manage/secure network infrastructure
+		- both phys/virtual devices such as firewalls, gateways, routers, switches, wireless access pts
+	- network architecture documentation/diagrams kept up to date to accurately reflect org's network topology/layout
+		- documentation should have critical vendor contact info to increase likelihood that sys upgrades/patches are timely
+		- monitor for end of life network components to make approp upgrades prior to end date or est mitigating controls
+	- org must cont. id/remediate insecure default network config settings, misconfigured network settings, insecure protocol usage, outdated network software
+		- commercial tools available to help evaluate network against rules to det whether in conflict
+		- sanity checks should be run every time sig change to firewalls, access control lists, other filtering mechanism
+			- sanity checks ensure hard/software work flawlessly
+	- ![[Pasted image 20260225144741.png]]
+- 13 Network Monitoring/Defense
+	- monitor/defend network infrastructure against internal/external sec threats
+		- software solutions may be highly proficient, but some fine tuning needed
+		- human error/new attack schemes possibility
+			- cont monitoring req
+	- DoS Denial of Service
+		- overwhelms network by flooding it w illegitamate requests so rendered useless
+	- Ransomeware
+		- gain access to system
+		- block emplee from accessing
+		- demand pmt to regain access
+		- threaten to keep all sys blocked or publish sensitive data to public/dark web
+	- to combat DoS/ransomeware, should est event logging/alert mech 
+		- implemented thru tools like sec info and event mgmt SIEM to help centralize/assist in log anal
+		- traffic flow monitoring, alerting, detection safeguards w tools like
+			- network intrusion prevention sys NIPS
+			  next gen firewalls NGFW
+			  data loss prevention DLP sys
+			- endpt detection n response EDR
+	- many org have own sec/network op center (aka SOC/NOC) uniquely equipped to run robust IT networking op
+		- smaller org dont have resources, so outsource IT function to managed service providers MSP
+	- ![[Pasted image 20260225150740.png]]
+- 14 Sec Awareness n Skills Training
+	- est sec awareness/training program to reduce cybersec risk
+	- infl emplee behavior to be concious abt tactics used by attackers
+		- social engineering 
+		- human error, negligence, misuse of org A also intro sec issues 
+	- regular training educating staff on
+		- recognizing unusual behavior
+		- social engineering
+		- best prac for handling org A/dta
+		- risks involved w using insecure networks/devices
+		- org's processes for reporting incidents, issues, concerns
+	- training shouldnt be annual occurence, more freq n incl mssgs like
+		- impact of recent data breaches at well known companies
+		- rise of phishing during tax szn
+		- info on phony gift rewards via email
+	- ![[Pasted image 20260225151743.png]]
+- 15 Service Provider Mgmt
+	- develop process to eval 3rd party service providers that have access to sensitive data or resp for managing some/all of IT functions
+	- risk intro when they dont hold to same sec standards as org
+		- partly bc only few industry standards available in public domain
+			- ex: Shared Assessments program for fin industyr, Higher Edu Community Vendor Assessment Toolkit HECVAT for higher edu
+	- est service provider mgmt processes to oversee entire service provider life cycle
+		- assess, performance/standards catalogued from initial engagement thru decommissioning for adherence to sec standards/protocols/best prac
+		- SOC sys n org controls audit reports used to assess risks of doing business w service providers
+	- ![[Pasted image 20260225152700.png]]
+- 16 Application Software Security
+	- est safeguards managing entire life cycle of software that is acquired, hosted, dev in house to detect/deter/resolve cybersec weaknesses 
+		- software dev life cycles shortened and more complex
+		- many new apps are aggregations of various sources, so critical to understand facets to thwart bad actors 
+	- software vuln exist for many reasons like flawed design, poor infrastructure, coding errors, poor authentication protocols, failure to test for software anomalies
+		- specific vuln mentioned in CIS control doc
+			- buffer overflows
+			- cross site scripting XSS
+				- inject content/code into website to take it over
+			- SQL injections
+				- SQL query to extract/corrupt data
+			- race conditions
+				- 2 apps share same data, race to get data first
+	- IT managers must consider whether best prac/safeguards being followed, like secure design standards/secure code reviews, and sec testing tools are integrated into software dev lifecycle SDLC
+		- rec to intro app sec as early in SDLC bc coding changes as dev progresses becomes more complex
+		- processes also to inventory 3rd party software components, tools, apps
+			- ensure software up to date
+			- configurations settings reviewed
+			- compensating controls for attack mitigation
+	- common blind spot is lack of visibility into SaaS platforms
+		- can be hosted anywhere and software dev/rev dont usually involve clients
+		- should inquire about practices, consider obtaining SOC reports to obtain assurance whether op accord to terms of service lvl agrmts
+	- some larger orgs may consider implementing bug bounty program where emplee paid for finding flaws  > camaraderie, healthy comp, effective
+	- ![[Pasted image 20260225153549.png]]
+- 17 Incident Response Mgmt
+	- est incident response mgmt program to detect/respond/prepare potential cybersec attacks
+	- law/reg may req notif of breaches and impose fines for noncompliance, making it important to have programs to detect/contain/eliminate threats
+		- HIPAA
+		- GDPR
+	- incident response process should incl
+		- designation of key contact
+		- est of incident response team
+		- dev of comms plans for notif impacted business units, stakeholders, regulatory agencies
+	- exercises to test incident response process to id effectiveness/oppro for improvements
+	- ![[Pasted image 20260225160633.png]]
+- 18 Penetration Testing
+	- test sophistication of cybersec defense sys by sim attacks to find n exploit weakness
+		- dramatic demonstration
+	- diff from vuln testing in control 7 bc goes beyond id weaknesses
+		- attempts to exploit weak pts, what additional damage
+	- 'red team' exercises focus on specific tactics, techniques, procedures TTPs to see how org does against some attackers
+	- ex: health care/fin instit possess SS #'s, bank info, cc, other that can exploit customers
+	- gen begins w discovery/obs of org's env, scanning to locate vuln
+		- then vuln become targets, team of testers exploit those targets to demonstrate how attacker can bypass controls
+		- results studied, org revises
+		- process performed at least annually for large org w sig cybersec risk 
+	- ![[Pasted image 20260225161253.png]]![[Pasted image 20260225161723.png]]
