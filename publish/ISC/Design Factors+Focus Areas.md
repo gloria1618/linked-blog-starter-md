@@ -52,3 +52,8 @@ infl design of IT governance sys, w tot of 11 factors to be considered
 	- enterprise sizes
 		- large: tot FT emplee 250+ default
 		- small/med: 50-250 FT emplee
+
+Focus Areas
+- diff types of governance issues, domains, topics, that can be solved by combo of mgmt/governance obj, alogn w underlyign concepts
+	- ex: cybersec, cloud computing, digital transformation, etc. unlimited
+	- what does org do and how?

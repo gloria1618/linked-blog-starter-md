@@ -30,6 +30,6 @@ COBIT '19 dev using
 - [[3 principles for governance framework]]
 - other standards/reg
 - community contribution
-- >> forms [[COBIT core model]], then can be customized thru [[Design Factors+Focus Areas]] to arrive at tailored enterprise governance sys for any org
+- >> forms [[COBIT core model]], then can be customized thru [[Design Factors+Focus Areas]] to arrive at tailored enterprise governance sys for any org...... + [[Publications]]
 
 ![[Pasted image 20260226212427.png]]

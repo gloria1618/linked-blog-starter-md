@@ -1,0 +1,92 @@
+[[Protocols]]
+refers to hard/software, layout, topology of network resources enabling connectivity/comms bw devices on computer network
+
+Network Infra Hardware
+- Modem
+	- connects network to internet service provider's network, usually w cable
+	- brings internet to home/office
+	- modem receives analog signals from internet service provider n translates those signals into digital signals
+	- each modem has public IP address
+- Routers
+	- connects devices to form network
+	- read source/destination fields in info pkt headers to det efficient path thru network
+	- link bw
+		- modem
+		- org's switches
+	- if no switches, router will connect directly to user's device 
+- Switches
+	- sim to routers in that they connect/divide w.in computer network
+	- no adv func like router, such as assigning IP addresses
+	- can turn one network jack into multiple 
+- Gateway
+	- computer/device acting as intermediary bw diff networks
+	- transforms data from one protocol into another
+	- protocol- rules governing how info transmitted
+		- most common TCP/IP transmission ctrl protocol/internet protocol
+	- interprets diff protocols and converts to approp format, usually bw company network n internet
+- Edge Enabled Device
+	- allow compute, storage, networking func to be closer to devices where data/sys request originates
+	- benefit of this dist. computing power - faster network response times, operability bc dont need to transmit to remote central server to process
+- Server
+	- physical/virtual machines that coord
+		- computers
+		- programs
+		- data part of network
+	- most business networks use client/server model, client sends request to server and it prov response/exec action
+	- web, printer, file, database servers
+- Firewalls
+	- software app/hardware protecting network traffic by filt it thru sec protocols w predefined rules
+	- for company, rules may be aligned w policies/access guidelines
+	- intended to
+		- prevent unauth access to org
+		- prevent emplee from downloading malicious programs/accessing restricted sites
+	- Basic pkt filt
+		- anal traffic transmitted in pkts
+		- det whether firewall software configured to accept
+		- can be set to only allow trusted sources (IP addresses) to transmit across network
+	- Circuit lvl gateways
+		- verify pkt source, meet rules/policies
+	- Application lvl gateways
+		- inspect pkt itself
+		- resource intensive, slow
+	- Network Address Translation Firewall
+		- assign internal network address to specific, approved ext sources so those sources are approved to be inside firewall
+	- Stateful Multilayer Inspection Firewall
+		- combine pkt filtering, network address translation
+	- Next Gen Firewall
+		- assign diff firewall rules to diff applications/users
+		- so low threat application has more permissive rules assigned while high security application may have highly restrictive ruleset assigned 
+
+Topology - Physical Layout
+- refers to phys layout of equip/nodes in network, essential for understanding how to properly engineer network for optimal performance
+- each topology has diff req for components
+	- length/type of connecting cables
+	- data transmission rate
+	- node position
+- variables based on
+	- network size
+	- performance needs
+	- env which network built
+- Bus 
+	- linear/tree
+	- data transmitted by any node on sys at same time - can cause signal interference
+		- to avoid, cables must be terminated (prop finished) at each end so that signal transmission is optimally managed
+	- disadv: if central line down, entire network down
+- Mesh
+	- numerous connections bw nodes, w
+		- all nodes connected in full mesh, and
+		- only some connected in partial mesh
+	- common in wireless networks
+	- allows high lvl of traffic, stability if damage
+	- costly to implement/maintain
+- Ring
+	- nodes in circular
+	- must first go thru every other device bw source n destination first
+	- there are
+		- unidirectional ring paths for data transmission in one direction
+		- multi directional paths allowing 2 data transm
+		- adv - data collision min/elimnated, but slow
+- Star
+	- passes thru central hub which acts as switch/server, then trasmits to peripheral
+	- can be mult hubs, so if one fails only nodes connected to that hub fails
+	- hub is single pt of failure, but easier to id damage
