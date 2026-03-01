@@ -1,4 +1,5 @@
 [[Protocols]]
+[[Architecture]]
 refers to hard/software, layout, topology of network resources enabling connectivity/comms bw devices on computer network
 
 Network Infra Hardware

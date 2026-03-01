@@ -1,0 +1,77 @@
+Part 4: Network Infrastructure Protocols
+
+- devices in network comms w other devices using protocols
+- type of protocol governs way data transmitted based on method used, such as type of
+	- cable
+	- port
+	- wireless transmission mechanism
+
+Open Systems Interconnection (OSI) Model
+- dev by ISO International Org for Standardization
+- helps explain
+	- how protocols work
+	- how networking devices comms w each other
+- OSI model segregates network functions into 7 diff layers, w each layer responsible for specific data exchange function
+- 7-1 down Encapsulation
+	- adds header/footer to data pt received from prev layer
+- 1-7 up Decapsulation
+	- 7 Application
+		- interface bw applications used and network protocol needed to transmit mssg
+		- doesn't rep actual app being used
+		- common, known protocols
+			- HTTP hypertxt transfer protocol
+			- FTP file transfer protocol
+			- SMTP simple mail transfer protocol
+			- EDI electronic data interchange
+	- 6 Presentation 
+		- transforms data from 7 into format other devices using OSI model can interpret
+		- encryption
+		- common formats
+			- ASCII american standard code for information interchange
+			- JPEG joint photographic experts group
+			- MPEG moving picture experts group
+	- 5 Session
+		- allows sessions bw communicating devices to be est/maintained
+		- sessions allow networking devices to have dialogue w each other
+		- common protocols
+			- SQL structured query language
+			- RPC remote procedure call
+			- NFS network file system
+	- 4 Transport
+		- support/control comms connections bw devices
+		- involves setting rules for
+			- how devices referenced
+			- amt of data that can be transmitted
+			- validating data's integrity
+			- det whether data lost
+		- common protocols
+			- TCP transmission control protocol
+			- UDP user datagram protocol
+			- SSL secure sockets layer
+			- TLS transport layer security
+	- 3 Network
+		- adds routing n address headers/footers to data, such as source/destination IP addresses
+		- detects errors
+		- common protocols
+			- IP internet protocol
+			- IPSec 
+			- NAT network address translation
+			- IGMP internet group mgmt protocol
+	- 2 Data Link
+		- data pkts formatted for transmission
+		- det by hardware/networking tech, usually Ethernet
+		- adds MAC Media Access Control addresses
+			- device ids acting as source/destination reference #'s to route mssgs 
+		- some protocols
+			- ISDN integrated services digital network
+			- PPTP pt to pt tunneling protocol
+			- L2TP layer 2 tunneling protocol
+			- ARP address resolution protocol
+	- 1 Physical
+		- converts mssg from 2 (data link) into bits to be transmitted to other phys device
+		- receives mssgs from other device, converts back to format that can be interpreted by layer 2
+		- rep actual networking device, mssg to electrical impulses
+		- used protocols
+			- HSSI high speed serial interface
+			- SONET synchronous optical networking
+			- V.35, X.21
