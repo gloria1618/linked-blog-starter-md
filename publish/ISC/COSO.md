@@ -1,0 +1,92 @@
+ENTERPRISE RISK MGMT - INTEGRATING W STRAT N PERFORMANCE
+- COSO committee of sponsoring orgs
+	- created by Treadway Commission
+	- dev guidance, best prac for 
+		- internal control
+		- enterprise risk mgmt
+		- governance
+		- fraud deterence
+	- Enterprise Risk Mgmt - Integrating w Strat n Performance
+		- framework cat methods for addressing org's risk into 5 components, w 20 supporting principles
+		- set of 20 principles designed
+			- practical, customizable so any org can implement
+			- w thought that mgmt and BoD could use as standard for reasonable expectations when managing risks assoc w business obj n strat
+![[Pasted image 20260301015301.png]]
+- Governance + Culture
+	- governance 
+		- sets company tone
+		- reinforces importance of having oversight of enterprise risk mgmt
+	- culture related to org's target behavior/value, involves understanding risk
+- Strat + Obj Setting
+	- considered w enterprise risk mgmt n strat during strat planning process
+	- org's risk appetite should be aligned w its strat, business obj should be put into place to help achieve lvl of appetite thru
+		- id risk
+		- assessing risk
+		- responding to risk
+- Performance
+	- req org prioritize risks based on risk appetite so business obj are assessed, met, reported to key stakeholders
+- Review n Revision
+	- involv rev performance over time, making revisions to func as needed
+- Info, Comms, Reporting
+	- rec continual process in place supporting sharing both internal/external info thruout org
+
+
+- COSO ENTERPRISE RISK MGMT FOR CLOUD COMPUTING
+	- specific to org for applying COSO framework to cloud computing
+	- gen, org must integrate governance of cloud computing into its overall risk mgmt strat
+	- prov key risk mgmt considerations for org using CSP
+	- when outsourcing to CSP, ownership of risk remains w org
+	- proper governance of cloud computing/CSP may incl Cloud Computing Steering Committee that oversees could computing efforts
+	- org should understand CSP's value/culture 
+	- org must consider
+		- how CSP affects org's risk profile
+		- how CSP risk can impact performance
+		- what resp belong to CSP
+		- how CSP internal controls address risk
+	- if CSP outage, crit sys at org may be down
+	- CSP may prov firewall/VPN capabilities, but configuration/enforcement may be left to org
+	- org should
+		- continously update
+		- reassess ERM when there are changes to org's cloud needs/CSP
+	- applying COSO framework to Est computign governance
+		- COSO ERM framework helps est ideal configurations for cloud options by applying 8 components
+		- allows mgmt to tailor solution based on org's own risk appetite
+	- Cloud Risks - risk to consider when eval CSP n their services
+		- security/compliance
+		- rate of competitor adoption
+		- being in same risk ecosys as CPS/other tenants
+		- transparency
+		- reliability/performance
+		- lack of application portability (vendor lock in)
+		- additional risks
+			- cyberattacks
+			- IT organizational change
+			- data leakage
+			- CSP LT viability
+			- risk inc private > public
+			- risk inc w less control IaaS > SaaS
+				- ![[Pasted image 20260301021350.png]]
+	- Cloud Eval/Adoption
+		- org should understand
+			- behavior/profile of other tenants
+			- whether their activ can have direct impact on IT op
+		- in effect, ERM composition of 2 org sharing same cloud will be combined to differing degrees, depending on model selected
+		- mgmt should
+			- eval prior to committing to cloud sol
+				- some cloud app quickly adopted w min inv, others subs time/exp
+			- det whether fully understand any compliance risks of CSP assuming some func w.in org
+				- can remove transparency/oversight that otherwise existed w.in org before cloud sol
+		- ![[Pasted image 20260301021935.png]]
+	- Rec Risk Responses
+		- mgmt should adapt program/controls so each risk related to cloud env has approp response
+		- to reduce likelihood of unauthorized cloud activ, policies need to be implemented
+			- important for data/compliance issues, making data classification processes/policies necessity 
+		- periodic assessment of CSP control env to det if safeguards in place/works
+		- mgmt oversight, designing way controls are monitored
+		- when incidents occur, incident mgmt plan to control/mitigate threat
+		- vendor lock in risk common, but not always evident w long standing vendor relations
+			- CSP exit strat give orgs contigency plan
+		- monitor regualtory env for changes to min noncompliance risk
+			- countries rapidly implementing protective rules to restrict sensitive info use outside of borders
+			- if org publicly traded, noncompliance disclosures may be req if CSPs are supporting crit business processes
+![[Pasted image 20260301020707.png]]
