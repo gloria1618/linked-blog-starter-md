@@ -1,0 +1,54 @@
+Part 1
+Enterprise Resource Planning ERP System
+- cross functional sys that
+	- support diff business functions
+	- facilitate integration of info across deps like
+		- acct, customer mgmt, finance, HR, inv mgmt, manuf, mktg, vendor mgmt
+- ERP solution
+	- facilitates real time comms bw sys
+	- typically op under centralized database n user interface
+- interface may offer mult modules that function
+	- indep or
+	- as integrated sys across dep
+
+- AIS acct info sys
+	- sys accountants/fin mngers interact w most
+	- collects, records, stores acct info
+	- compiles info using acct rules to report both non/fin info to decision makers
+	- AIS Subsys
+		- TPS Transaction Processing Sys
+			- converts eco events to fin transactions (JE)
+			- dist info to support daily op
+			- typically covers 3 main [[transaction cycles]]: sales, conversion, expenditure
+		- FRS Financial Reporting Sys
+			- aggregates daily fin info from TPS/other sources for infrequent events  to enable timely regulatory n fin reporting
+			- mergers, lawsuit settlements, natural disasters
+		- MRS Mgmt Reporting Sys
+			- prov internal fin info to solve daily business problems
+			- budgeting, variance analysis, cost volume profit analysis
+		- obj of AIS n 3 subsys
+			- record valid transactions
+			- properly classify transactions
+			- record at correct value
+			- record in correct acct period
+			- properly present transactions, related info in fin stmts 
+	- Event Sequence
+		- transaction data from source docs entered by end user 
+			- or order entered thru internet by customer
+		- original source docs filed if exist
+		- trans rec in journal
+		- trans posted to gen/subsidiary ledgers
+		- trail blnces prepped
+		- adjustments, accruals, corrections entered
+		- fin reports gen
+	- AIS Audit Trail
+		- allows user to
+			- trace transactions from source doc to ledger
+			- vouch from ledger back to source docs
+			- ex
+				- source docs often stored as elect docs
+				- sophisticated scanning sys can turn paper to elec docs before processed
+		- useful for service auditors in SOC2 engagement, esp if service org is an outsourced acct firm prov
+			- bookkeeping, payroll, other fin services
+			- service auditor would need to track transaction origination to final output, such as payroll check register report or fin stmts
+		- ![[Pasted image 20260301152933.png]]
