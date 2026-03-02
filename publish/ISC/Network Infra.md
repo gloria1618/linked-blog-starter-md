@@ -24,6 +24,7 @@ Network Infra Hardware
 	- transforms data from one protocol into another
 	- protocol- rules governing how info transmitted
 		- most common TCP/IP transmission ctrl protocol/internet protocol
+			- if u wanna comms w outside world, speak this boi, french like diplomatic language
 	- interprets diff protocols and converts to approp format, usually bw company network n internet
 - Edge Enabled Device
 	- allow compute, storage, networking func to be closer to devices where data/sys request originates

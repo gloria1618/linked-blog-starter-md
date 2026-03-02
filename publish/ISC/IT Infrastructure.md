@@ -9,6 +9,9 @@ topics covered in this module applicable to both
 - orgs internal emplee
 - indiv auditing org
 
+(entity prov service -- audited by service auditor 
+entity receiving service would be audited, user auditor)
+eceiving is auditor)
 SOC2 engagements - examinations where 3rd party eval n reports on service org's sys controls as it relates to AICPA's 5 Trust Services Criteria:
 1. Security
 2. Availability
@@ -38,7 +41,6 @@ SOC2 engagements - examinations where 3rd party eval n reports on service org's 
 	- EUD
 		- w emplee/consumer, edge of network, w human
 		- diff from programmers, admin, dev resp for build/maintain/repair
-- DIDNT FINISH PART 1
 
 - Internal Computer Hardware
 	- microprocessors
