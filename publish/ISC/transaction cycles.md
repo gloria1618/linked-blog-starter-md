@@ -1,0 +1,79 @@
+Part 2/3
+![[Pasted image 20260301153738.png]]
+- Revenue Cycle (and Cash Collection)
+	- key AIS func incl
+		- AIS allows real time access to inv subsidiary ledger to check availability upon receiving customer order
+		- auto approves/denies credit based on customer's credit record, pmt history
+		- AIS concurrently records sales invoices in database, digitally transmits inv release orders to warehouse, digitally sends packing slips to shipping dep
+		- AIS has terminal for shipping dep to digitally input shipping notices upon shipment
+			- input triggers sys to update customer's credit record, reduce inv subsidiary ledger records, insert shipping date in sales invoice records, update gen ledger accts, dist mgmt reports (eg inv summary, sales summary)
+		- AIS has terminal for cash receipts clerk to access cash receipt sys n record remittance
+		- AIS closes sales invoice, posts to gen ledger accts, updates customer's pmt record, dist mgmt reports (eg transaction listings, discrepancy reports, gen ledger change reports)
+	- ![[Pasted image 20260301154024.png]]
+- Purchasing/Disbursement Cycle
+	- key AIS functions incl 
+		- AIS reads requested purchase to verify on approved list, then displays list of approved vendors w contact info as input to competitive bidding/selection
+		- digitally preps PO purchase order n delivers to vendor
+		- AIS has terminal for receiving dep to enter PO #, inputs qty rec 
+			- concurrently updates receiving report file, reconciles qty rec against open PO records, closes PO if not exception, updates inv subsidiary ledger, updates gen ledger accts 
+		- has terminal for accts payable clerk to enter invoices from suppliers into sys
+			- sys auto links invoices to PO records + receiving report rec, creates digital A/P voucher stored in centralized repository
+		- AIS auto approves pmt of invoices, sets pmt date acoording to invoice terms
+		- prints, dist signed checks to mail room for mailing
+			- sys rec pmts in check register file, closes vendor invoice, updates associated gen ledger accts, dist transaction reports to users
+	- ![[Pasted image 20260301153809.png]]
+- Other processes involv recog and/or facilitation of transactions
+- Treasury Cycle
+	- integrated w other transaction cycles
+	- other cycles prov much of capital available to company (revenue) that in turn used to 
+		- pay exp
+		- pay emplee
+		- purchase fixed A
+	- AIS integration allows effective cash mgmt
+	- various source docs such as deposit slips, checks, stock mkt data, interest data used to post JE affecting cash balances
+	- acct dep performs bank reconciliations by using bank stmts to reconcile cash acct blnce at bank w gen ledger
+		- AIS has control features to help prevent fraud
+	- JE posted for each cash change, sys auto prov updated gen ledger info
+	- can prov various reports to assist w cash mgmt
+		- reports cover cash receipts, other trends in cash collections/disbursements
+		- can also prov changes in investments/est on interest.div pmts
+		- helps predict cash flows
+	- ![[Pasted image 20260301153850.png]]
+- HR/Payroll
+	- AIS integrated w HRMS HR mgmt sys for real time emplmt data changes
+		- benefits, pay rates, deductions, emplmt status, new hires, terminations
+	- w op sys, allows emplee to enter timekeeping data in real time to produce
+		- time/attendance files
+		- labor usage file
+	- allocates labor costs to job costs, accum in/direct labor exp at end of work period (daily/wk) on batch basis, calc payroll, updates emplee records, produces payroll registers for A/P n cash disbursements dep
+	- creates digital JE, attaches original docs to entires, auto updates gen ledger
+	- ![[Pasted image 20260302023809.png]]
+	- ![[Pasted image 20260302023824.png]]
+	- ![[Pasted image 20260301153913.png]]
+- Production/Fixed A Cycle
+	- AIS rec work order for production run from prod planning dep, new prod order input as new record in WIP subsidiary ledger
+	- as labor/materials added to production run, doc reflecting events, such as material requisitions/labor tix, sent to AIS
+		- AIS auto updates WIP acct as production progresses
+	- tracks standard production costs for labor, materials, MOH manuf overhead. AIS records variances bw standard production costs n actual costs
+	- closes WIP acct when receives final ticket marking production move from WIP to FG inv 
+	- preps JE as changes to WIP acct recorded, auto updated the gen ledger
+	- has terminal for fixed A groups to create record of A subsidiary ledger that incl each A's useful life, salvage value, deprec methodology, loc
+	- AIS auto
+		- updates gen ledger
+		- prep JE
+		  creates depreciation schedule
+	-  auto calc deprec, accum deprec, BV at period end
+		- sys then creates JE file, updates gen ledger accts acoordigly
+	- when A disposed, clerk records disposal, prompting sys to
+		- calc gain/loss of disposal
+		- prep JE
+		  post adj entries to gen ledger
+- General Ledger + Reporting Cycles
+	- AIS updates general ledger as various transactions occur, JE posted
+	- at acct period end, auto produces trial blnce, shwoign dr cr blnces in each acct
+		- acct dep rev trial blnce, related wksht to det adjustments
+	- acct dep posts adj entries
+		- dprec, prepaid exp, unrecorded rev
+	- prod final fin stmts after adj entries made, dr cr trial blnce =
+		- prod reports showing variances/performance over acct period
+	- auto closes temporary accts, carries forward BS accts into nxt period
