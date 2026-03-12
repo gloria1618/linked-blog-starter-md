@@ -49,7 +49,7 @@
 	- default config may have exploitable vulnerabilities, allowing unauthorized users to gain access to org's core network
 	- publicly available security standards, such as CIS Benchmarks Program or NIST National Checklist Program Repository, can be used by orgs as starting pt for A reconfiguration
 	- sec hardening can be incorp into adjusting target sec configurations so cont 'hardened' against new forms of attack. improvements incl
-		- removing unused/unecessary software
+		- removing unused/unnecessary software
 		- closing network ports that are openly exposed to internet
 		- changing default passwords
 		- turning off non essential services

@@ -35,9 +35,58 @@ Process improvements enhancing AIS performance
 			- language barriers reduce quality of service
 		- Security
 			- security of info w 3rd party might be compromised 
-		- 
+		- Qualifications of Outsources
+			- credentials may be flawed
+			- offshore degrees may not incl same training lvl as domestic degrees
+		- Labor Insecurity
+			- inc when jobs move to ext service provider, out of country bc of globalization, or both
 - Offshore op
+	- relate to outsourcing to diff country
+	- commonly
+		- info tech prov by managed service prov MSP
+		- business processes (call centers, acct op, tax compliance)
+		- software RnD
+		- knowledge processes (processes req adv knowledge n specialized skills like reading x rays)
 Tech mass adoption
 - RPA robotic process automation
-- NLP natural lang processing NLP
-- neural networks
+	- programs capable of extracting info from specific user interface, then initiates further processes based on data extracted
+		- user interface like customer complaint form, goods order form
+	- is refinement of general web scraping tools that scour the Web looking for instances of specified txt to collect all material surrounding it
+	- content may be
+		- forms entered by users
+		- existing web pg content
+	- gen web scraping tools often collect ancilliary data unintentionally, intro noise
+		- RPA uses this as pt of refinment
+	- RPA can mimic human interaction w many kinds of computer systems
+	- ![[Pasted image 20260309162757.png]]
+- LiDAR light detection n ranging
+	- emits laser pulses towards target, measures time to return to sensor
+	- not considered RPA, but ex of how AI n machine learning supercharged old tech to allow self driving cars advancement
+- NLP natural lang processing
+	- tech to en/decode, interpret human lang
+	- req mapping of stuff like pragmatics, syntax, phonetics, pitch, tone, ensure NLP det proper response/action chain
+	- tech needed for household IoT voice command
+	- acct apps incl parsing txt docs/speeches made by execs to extract/catalog any fin relevant data
+- AI
+	- umbrella term to describe sys created to perform complex tasks that typically req human intelligence/judgement
+	- ML machine learning
+		- subset of AI involving use of algorithms/data sets supplied for computers to learn, make decisions
+- Neural Networks
+	- basic pieces
+		- input layer
+			- diff variables feed into hidden layer
+		- hidden layer
+			- series of weights applied, based on inputs selected, which direct algorithm to output
+			- typically mult layers embedded in acting as neurons guiding input based on cum value of all weighted pts
+			- weights may be initially predet, but intent is to learn from prior trends based on inputs
+			- computing architecture to make fuzzy logic decisions for inference engines, common in fraud detection
+		- output/results layer
+	- key tech in machine learning apps
+	- deep learning 
+		- specialized subset of neural networks used to capture patterns in large datasets
+		- aka 'engine' of hidden layer in neural networks
+
+
+Managing System Changes
+- waterfall method
+- agile method
