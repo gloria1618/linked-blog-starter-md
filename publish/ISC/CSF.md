@@ -2,7 +2,7 @@ voluntary framework w 3 primary components to manage cybersecurity risk:
 - CSF Core
 	- describes cybersec outcomes that can by used by any org size
 	- focuses on reducing org's cybersec risks
-	- 6 functions repping diff pts in security risk mgmt lifecycle that helps enhance cybersec protection... pne sing: governID, protect, detect, respond, recover
+	- 6 functions repping diff pts in security risk mgmt lifecycle that helps enhance cybersec protection... mne sing: governID, protect, detect, respond, recover
 		- govern
 			- oversight needed for other 5
 		- identify (ID)

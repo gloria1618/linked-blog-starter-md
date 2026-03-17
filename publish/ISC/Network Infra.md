@@ -87,8 +87,8 @@ Topology - Physical Layout
 	- there are
 		- unidirectional ring paths for data transmission in one direction
 		- multi directional paths allowing 2 data transm
-		- adv - data collision min/elimnated, but slow
+	- data collision min/elimnated, but slow
 - Star
-	- passes thru central hub which acts as switch/server, then trasmits to peripheral
+	- passes thru central hub which acts as switch/server, then transmits to peripheral
 	- can be mult hubs, so if one fails only nodes connected to that hub fails
 	- hub is single pt of failure, but easier to id damage

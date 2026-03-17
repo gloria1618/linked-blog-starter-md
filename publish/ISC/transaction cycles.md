@@ -57,7 +57,7 @@ Part 2/3
 	- tracks standard production costs for labor, materials, MOH manuf overhead. AIS records variances bw standard production costs n actual costs
 	- closes WIP acct when receives final ticket marking production move from WIP to FG inv 
 	- preps JE as changes to WIP acct recorded, auto updated the gen ledger
-	- has terminal for fixed A groups to create record of A subsidiary ledger that incl each A's useful life, salvage value, deprec methodology, loc
+	- has terminal for **fixed A** groups to create record of A subsidiary ledger that incl each A's useful life, salvage value, deprec methodology, loc
 	- AIS auto
 		- updates gen ledger
 		- prep JE
