@@ -1,0 +1,71 @@
+ [[Sys Availblty Ctrls]]
+ availability incl
+	- sys availability - business data accessible, IT sys op normally
+	- availability or an org's human capital, personnel being ready/able to perform in normal op
+- risk of normal op failing in part/whole must be eval/mitigated thru business resiliancy programs
+- sys downtime can cause loss of
+	- revenue, data, trust, customers
+- availability scope
+	- ![[Pasted image 20260318231638.png]]
+
+Part 3: Sys Availability Risks
+- bc tech crit, sys availability might be largest risk
+- Risks, Accompanying Threats
+	- Failure of IT infra
+		- avail of sys may directly be affected by failures in hard/software, network apps
+		- failures can result from
+			- use of outdated infra
+			- lack of sys maintenance
+			- sys infected w malware
+		- phys damage to sys from
+			- natural disasters
+			- political threats - terrorist attack, war
+			- accidental/malicious damage from indiv
+		- cyberattacks overloading n damaging sys, like denial of service
+	- Insufficient Capacity/Resources
+		- slow/disrupted if IT infra cant meet processing/storage needs
+		- not having approp resources like staff to op/maintain IT infra
+	- Lack of Business Resiliency
+		- insufficient/nonexistent
+			- lose critical, confidential, private data
+			- recover slowly from disruption
+			- never recover
+- IT processes to mitigate against risks, prov access to data/IT sys in event of threat
+	- Mirroring
+		- applies to data storage/backup
+		- copying database onto diff machine for data redundancy if primary database fails
+	- Replication
+		- copy/transfer data bw diff databases loc in diff sites like
+			- geo diff data center
+			- cloud
+		- allows op to resume quickly using data in 2ndary site after sys failure
+- Metrics for Sys Availability
+	-  using 3rd party service org to manage IT op, service org gen adheres to
+		- AST
+			- Agreed Service Time
+			- amt of time services are op, in hrs/dys
+		- min amt of DT specified in SLA (service lvl agrmt)
+	- MTD
+		- Max Tolerable Downtime
+		- amt of time org can tolerate outage w/o LT sig damage
+		- MSP have contractual amt of DT that can't be surpassed w.in given time period, gen monthly
+	- RPO 
+		- Recovery *Point* Obj
+		- max threshold for acceptable data lost after unplanned neg event
+		- defines 'age' of data that must be recovered to resume normal op
+		- app/processes less crit may have higher RPO
+	- RTO
+		- Recovery Time Obj
+			- max time it should take to restore op to target state after sys failure
+			- ex: org says no longer than 12hrs to restore IT op
+	- MTTR
+		- Mean Time to Repair
+		- avg time length to repair damaged/inoperable device
+		- sim to RTO, but is avg taken over time period instead of target/goal
+	- RTA
+		- Recovery Time Actual
+		- actual time to restore op to target state
+	- RPA
+		- Recover Point Actual
+		- actual pt in time which data can be recovered
+		- eg recover all trading data up to 2 mins prior to incident

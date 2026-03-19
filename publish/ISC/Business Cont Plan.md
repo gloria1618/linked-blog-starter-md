@@ -1,0 +1,21 @@
+Business Continuity Plans
+- focused on keeping business op (disaster recovery IT focused)
+	- more comprehensive than disaster recovery
+	- contain contingency/mitigation procedures around all BP incl
+		- relocating facilities
+		- HR tasks
+		- managing relations w customer/supplier
+- goal - how to cont/restore op most efficient/effective manner w consideration given to all aspects of org
+- consider
+	- id orgs key BP
+	- id risks existing in key BP
+	- det acceptable downtime for key BP
+	- implement mitigation/contingency plans to address risks/downtime
+- SOC2 Engagement Consideration of Business Cont Plan Testing
+	- during SOC2 engagement, service auditors may verify that org's business cont plan testing is performed periodically
+	- auditors focus during engagement is to det whether org's BCP
+		- based on relevant/likely scenarios
+		- focused on components that can sig impair company
+		- consider scenarios in which key personnel lacking
+		- periodically revised based on test results
+- ![[Pasted image 20260319020120.png]]

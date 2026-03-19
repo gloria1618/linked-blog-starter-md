@@ -1,4 +1,4 @@
-[[COSO]]
+[[COSO ERM]]
 - computing model using shared resources over internet
 - customers rent storage space, processing power, proprietary software, combo on remote servers from another company
 - 

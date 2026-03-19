@@ -1,0 +1,16 @@
+- crisis
+	- unexpected, large scale incident that can cause major neg effects on org/stakeholders
+- decisions difficult if org doesn't have clearly defined roles, resp, procedures
+- goal of crisis mgmt plan
+	- lessen impact of crisis
+	- protect ppl
+	- protect org rep
+	- return to normal op asap
+- crisis mgmt policies should address
+	- risk assessment of potential crises, how to prop respond
+	- procedures for implementation incl steps mgmt/emplee must perform to op plan
+	- crisis response command center - directives come from here, phys/virtual loc
+	- crisis mgmt role/resp set so org understands who's in charge of all fin decisions and role/resp of each indiv
+	- int/ext comms lines est so parties can comms during crisis
+	- prop train emplee on crisis mgmt policy/proc to understand necessary courses of action 
+	- 

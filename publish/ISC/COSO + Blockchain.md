@@ -1,0 +1,94 @@
+COSO Internal Control Frmwork + Blockchain S2M2
+
+- COSO dev guidance/framewrk covering areas of
+	- internal control
+	- risk mgmt
+	- fraud deterrence
+- w/in 5pt Internal Ctrl - Integrated Frmwrk ('the framework'), there's 2 categories w principles that pertain specifically to IC over IT
+	- Control Activities
+		- principle 11 - should be gen ctrls over tech to achieve org obj
+			- to est ctrls, org must understand dependency bw
+				- gen ctrls over tech
+				- use of tech in BP
+			- org must also est ctrls over
+				- relevant tech infrastructure
+				- security mgmt
+				- tech
+				- acquisition
+				- maintenance process
+	- Info n Comms
+		- principle 13 - orgs should acquire, create, use quality info to support IC
+			- principle incl
+				- id org's info needs
+				- capture both ext/int sources of data
+				- process relevant data into useful info
+				- maintain quality when processing 
+		- principle 14 - effective comms of info necessary to support IC
+			- comms internal info to proper stakeholders, incl BoD
+			- prov comms lines separate from those directly to mgmt
+			- select relevant comms methods
+- ![[Pasted image 20260318200936.png]]
+
+
+
+- Blockchain
+	- ctrl sys org designed to govern creation/dist of Bitcoin
+	- resistant to
+		- alteration
+			- bc each block adds to prior, enabling everyone to view all blocks in chain 
+			- immutable, irreversible
+		- multiparty transaction validation
+		- decentralized nature
+			- ability to be partially detached from gov control, altho many nations regulate
+				- trading of certain types of crypto
+				- exchanges on which currencies trade
+			- some cases, crypto banned entirely, while others req registration of currencies as securities and req exchanges to meet same standards as stock exchanges like Nasdaq/london stock exchange
+	- developed
+		- to prevent Bitcoin from being replicated
+		- limit its initial creation so only finite # of Bitcoin
+- Bitcoin
+	- cryptocurrency - digital currency existing only in e- form
+	- must be 'mined' to confirm transactions
+- mining crypto involv person/group performing cryptography
+	- solving of complex math equations
+- thru cryptography, blocks of fixed # of transactions are confirmed at a time
+- reward for solv/validating eq is
+	- receipt of bitcoin
+	- validation of new block of transactions
+- since e-data easily copied/altered, acct sys governing must prevent 
+	- otherwise currency worthless thru counterfeits
+- audit trail for blockchain users/service auditors doing SOC2
+	- auditor can use chain to verify transactions by validating cryptographic signatures, time stamps, tracing wallet addy
+	- verify security of network nodes, supporting infra to enhance phys/virtual integrity of blockchain
+		- not all data needed to validate transaction on blockchain, may need to consider potential for off chain data
+			- may incl personal info tied to address, business data such as supply chain using blockchain tech to doc production updates
+
+APPLYING COSO TO BLOCKCHAIN
+- COSO prov guidance on how IC frmwrk should be leveraged to implement ctrls to address risk assoc w blockchain tech
+- org must manage ctrl env where entity is intertwined w 
+	- other entities
+	- ppl participating in blockchain
+- org will not have complete ctrl
+- no entity can be held accountable bc no centralized mgmt overseeing activ
+	- org cant simply engage SOC auditor to assess controls
+	- orgs must find alt ways to gain assurance over blockchain ctrls
+- blockchains attributes
+	- inc visibility of transactions
+	- inc availability of data
+	- allow mgmt to support its fin records
+		- mgmt can prov fin info to stakeholders faster, more effectively
+	- make audits of blockchain transactions easier bc of auto audit trails
+- in SOC2 engagement, service auditor should consider trust services criteria as it relates to each of COSO's 5 components
+	- ex: eng team should det whether processing integrity of transactions processed on blockchain ledger meets standards req in COSO ctrl env, such as principal 4's req to demonstrate commitment to competence
+- due to decentralized nature, certain ctrl components might not be met in trad sense
+	- component 2 - oversight resp
+	- component 5 - accountability
+	- service auditors may need to adjust perspective on how ctrl is met/restrict SOC2 engagements to org w centralized blockchain
+- when implementing COSO's ctrls to blockchain setting, org should consider
+	- focus on preventative ctrls due to vol/speed of transactions processed
+	- inc freq of detective ctrls, due to vol
+	- dev ctrls using other anal tech like AI, like LLM good at id bugs in code
+	- dev code of conduct, est policies that comply w KYC (know ur customer) regulations, AML (anti money laundering) policies
+	- create cross disciplinary teams w segregation of duties in mind, clear reporting lines that id all users participating in blockchain's creation/maintenance 
+
+![[Pasted image 20260318204502.png]]![[Pasted image 20260318204516.png]]

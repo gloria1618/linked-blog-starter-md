@@ -1,0 +1,44 @@
+- BIA
+	- helps id/assess risks in building business resiliency program
+	- id essential business units, dep, processes and org impact in event of failure/disruption
+- BIA will id
+	- how quickly essential business units/processes can return to full op after disaster
+	- resources req to resume business op
+	- ex: specific dep may utilize custom hard/software, op in loc w challenging geo/weather conditions, or depend on 3rd party vendors
+- (H) high impact, dep
+	- cant op w/o this resource
+	- may experience high recovery cost, or
+	- fail to meet org's obj/maintain rep
+- (M) moderate/med impact
+	- could partially func temp for dys/wk
+	- may experience some recovery cost
+	- may fail to meet org obj/maintain rep
+- (L) low impact
+	- could op for extended time period
+	- may notice an effect on achieving org obj/maintain rep
+- BIA steps
+	- Est BIA Approach
+		- agrmt on necessary approach to performing BIA, org clearly outlines
+		- execs, relevant mngrs define impact types/criteria, time frames to observe, methodology to use
+	- ID Crit Resources
+		- mngrs clearly define crit func, delineate which IT resources req to perform them
+		- highlights org processes that are most vuln to disruption
+		- involv combo of interviews w key personnel, documentation rev
+	- Define Disruption Impacts
+		- id, eval impact of service disruption by understanding its effects overtime and resources neg affected/req to deal w disruption
+		- risks can incl quant.qual effects, may be natural/human inflicted threats
+	- Est Losses
+		- mgmt team outlines exhaustive list of potential risk/events that could occur that would disrupt op, assign each threat a likelihood probability
+			- probability - annualized rate of occurence
+		- Annualized Rate of Occurence ARO - potential losses can be quantified w variables in illustration to calc annualized loss expectancy
+		- ![[Pasted image 20260319122655.png]]
+	- Est Recovery Priorities
+		- depends on max outage time a particular resource can handle, w resources w lower tolerance threshold targeted first 
+	- Create BIA Report
+		- may be completed at dep, business unit, product, any other approp lvl/means of segregating business to eval risks
+		- indiv reports can be combined to form company wide BIA
+	- Implement BIA Recc
+		- involv senior mgmt
+			- eval comprehensive BIA report
+			- det which risks pose greatest threat
+			- implement preventative/corrective actions to remediate threats

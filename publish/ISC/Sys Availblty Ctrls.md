@@ -1,0 +1,53 @@
+ - ctrls incl
+	 - activ to prevent sys disruption, loss of info
+	 - procedures to cont op or prov quick recovery
+- Physical ctrls
+	- phys access ctrls 
+	- fire alarm/sprinklers 
+	- facility design
+- IT infra ctrls
+	- ctrls around IT infra incl hard/software, network components, can prov mitigation of malicious attacks/other actions
+	- cont using anti-malware software, patch mgmt to fix vuln
+	- periodic rev of IT infra components to ensure not outdated
+	- network security ctrls
+	- access, authorization logical ctrls
+- UPS Uninterrupted Power Supply
+	- aka battery backup, prevents sys from shutting down improperly during outage
+	- if power failure, UPS switches to own power source instantly so no power interruption 
+- Redundancy
+	- redundant hard/software, storage, IT A as normal op
+	- RAID 
+		- Redundant Arrays of Indep Drives
+		- record data on mult disk drives at one time for data redundancy 
+- Sys Backup
+	- Full
+		- exact copy of entire database
+		- create: time consuming
+			- most org do weekly full, daily partial
+		- restore: least time consuming 
+	- Incremental
+		- copying only data that changed since last backup
+		- produces set of incremental backup files, each for 1day
+		- create: fast
+		- restore: slowest
+			- first load last full backup
+			- install each subseq incremental backup in order
+	- Differential
+		- copies all changes made since last full backup
+			- each new differential backup contains cum effects since last full backup
+		- create: except for 1st day after full, daily differential backups take longer than incremental
+		- restore: slower than full, faster than incremental 
+			- last full backup + single differential backup
+	- ![[Pasted image 20260319135340.png]]
+- Detecting Deficiencies in Ctrl Design
+	- Availability - 1/5 trust services criteria
+		- covers ctrls regarding orgs sys op/performance
+		- if org service commitment/obj necessitate sys avail, then incl in SOC2 audit
+		- specific criteria for availability incl... OC2 auditors should consider to detect deficiencies in avail ctrls
+			- infra capacity/monitoring
+				- obsv monitoring tool showing capacity metrics being monitored (eg CPU utilization, disk I/O)
+				- if no prop monitoring, org risks maxing out infra capacity
+					- if prop recovery infra not in place, org risks sig DT/data loss
+			- backups/recovery infra
+			- testing recovery plans
+				- request, rev disaster recovery+BCP, request evidence showing when plans last tested w results
