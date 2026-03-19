@@ -43,7 +43,7 @@
 	- Availability - 1/5 trust services criteria
 		- covers ctrls regarding orgs sys op/performance
 		- if org service commitment/obj necessitate sys avail, then incl in SOC2 audit
-		- specific criteria for availability incl... OC2 auditors should consider to detect deficiencies in avail ctrls
+		- specific criteria for availability incl... SOC2 auditors should consider to detect deficiencies in avail ctrls
 			- infra capacity/monitoring
 				- obsv monitoring tool showing capacity metrics being monitored (eg CPU utilization, disk I/O)
 				- if no prop monitoring, org risks maxing out infra capacity
