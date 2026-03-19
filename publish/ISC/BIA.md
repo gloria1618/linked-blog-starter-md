@@ -29,8 +29,8 @@
 		- risks can incl quant.qual effects, may be natural/human inflicted threats
 	- Est Losses
 		- mgmt team outlines exhaustive list of potential risk/events that could occur that would disrupt op, assign each threat a likelihood probability
-			- probability - annualized rate of occurence
-		- Annualized Rate of Occurence ARO - potential losses can be quantified w variables in illustration to calc annualized loss expectancy
+			- probability - annualized rate of occurrence
+		- Annualized Rate of Occurrence ARO - potential losses can be quantified w variables in illustration to calc annualized loss expectancy
 		- ![[Pasted image 20260319122655.png]]
 	- Est Recovery Priorities
 		- depends on max outage time a particular resource can handle, w resources w lower tolerance threshold targeted first 

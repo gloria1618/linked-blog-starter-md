@@ -1,5 +1,5 @@
 Business Continuity Plans
-- focused on keeping business op (disaster recovery IT focused)
+- focused on keeping business op (vs disaster recovery IT focused)
 	- more comprehensive than disaster recovery
 	- contain contingency/mitigation procedures around all BP incl
 		- relocating facilities

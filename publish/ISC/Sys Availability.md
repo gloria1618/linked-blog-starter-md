@@ -2,7 +2,7 @@
  availability incl
 	- sys availability - business data accessible, IT sys op normally
 	- availability or an org's human capital, personnel being ready/able to perform in normal op
-- risk of normal op failing in part/whole must be eval/mitigated thru business resiliancy programs
+- risk of normal op failing in part/whole must be eval/mitigated thru business resiliency programs
 - sys downtime can cause loss of
 	- revenue, data, trust, customers
 - availability scope
@@ -61,7 +61,7 @@ Part 3: Sys Availability Risks
 	- MTTR
 		- Mean Time to Repair
 		- avg time length to repair damaged/inoperable device
-		- sim to RTO, but is avg taken over time period instead of target/goal
+		- sim to RTO, but is avg taken over time period (for all da failures) instead of target/goal
 	- RTA
 		- Recovery Time Actual
 		- actual time to restore op to target state

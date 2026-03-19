@@ -19,6 +19,7 @@ Disaster recovery - consists of plan for restoring/cont IT func in event of dest
 		- prewired, incl hardware, office equip to perform functions
 		- backup copies of essential data file/programs maybe maintained at loc/nearby
 		- expensive
+		- immediate
 	- warm site
 		- alr hardware installed
 		- falls short of hot site processing capabilities/actual business during normal ops due to lack of fully op computer/office equip
