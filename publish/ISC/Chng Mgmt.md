@@ -1,5 +1,9 @@
 [[Risks]]
-
+[[Ctrls]]
+[[Method]]
+[[Patch Mgmt]]
+[[Sys Conversion]]
+[[Testing Strat]]
 - Chng Mgmt
 	- policies, proced, resources employed to govern chng in org
 	- changes

@@ -1,0 +1,24 @@
+- systemic process of 
+	- id specific vuln/software bugs in op sys/apps
+	- addressing them w patches bw releases
+- promotes sys security, enhances likelihood that sys running smoothly 
+- effective path mgmt process incl
+	- Eval new patch releases (reactive)
+		- as vendors discover new vuln, they release patches so that org can implement fixes
+		- IT managers must eval patches, det how impact org, devise plans to implement
+	- Use vulnerability tool (proactive)
+		- helps org track security ctrls, id weakness on their own so mgmt can id patches as needed, as opposed to waiting till vendor/ext party discovers
+	- Test patches in test env
+		- implementing patches in nonproduction env critical, if possible, so don't neg impact sys performance
+		- not all org have manpower/technical know-how to test patches
+	- Approve/deploy patches
+		- after successfully rev/tested by IT admin, updates deployed to approp sys during scheduled DT to min disruptions
+	- Verifying patches deployed
+		- verification of successful patching should be performed after testing/deployment, then monitoring so any sys issues can be id/resolved
+- many orgs have reg sch for announcing patches to clients
+	- allows company time to anticipate/prep, but may be exploited 
+	- ex: fraudster plans attack launching same day patch is announced bc they know that it'll be dys/wks before patch is disseminated/implemented by all orgs
+- for service orgs subj to SOC2 audits, AICPA rec maintaining documented patch mgmt process to meet its trusts services criteria regarding prop auth/implementing chngs to meet obj
+- service auditors testing related ctrls in SOC2 eng should inspect service org's pol/proc to det whether they incl rules on
+	- patch mgmt
+	- chng mgmt

@@ -1,0 +1,112 @@
+Testing & Implementing Chng Ctrl Policies
+- depending on chng mgmt ctrls being implemented, diff procedures for testing ctrls
+- procedures vary based on 
+	- type of app
+	- infrastructure components
+	- sys configurations to which ctrl being applied 
+- closed loop verification - crit chng mgmt step involving
+	- cont monitoring output from chngs
+	- comparing it w desired outcomes
+	- calibrating chngs to min discrepancies from acceptance criteria 
+- procedures for testing chng mgmt ctrls for IT resources incl mult components 
+- Acceptance Criteria
+	- when eval chng ctrl polices, mgmt should est acceptance criteria that are measurable/specific so chng can be obj eval
+	- adeq structured acceptance criteria help enhance likelihood chngs to sys/processes are
+		- clear/concise
+		- prop tested prior to implementation
+		- adeq doc
+		- approved by stakeholders
+		- eval so impact understood
+		- rev/monitored after implementation
+	- metrics either quant/qual, ex:
+		- Performance
+			- quant
+				- up/downtime
+				- speed in min/sec
+			- qual - could j be rating by a testing panel of perceived performance
+		- Compliance
+			- may be measured by obj qual assessment w yes/no
+			- either app/infra does or doesnt comply
+			- typically eval by expert in particular regulation/standard who would compare aspects of sys to applicable standard
+		- Functionality 
+			- qual - assess if app/infra component performs target func, how efficient/practical to use sys 
+		- Scalability
+			- quant
+				- max # of transactions that can be processed
+				- users who can be logged on
+				- customers that a sys can handle
+- Logging
+	- anal logs is critical part of test/implementing chng ctrl polices
+	- logging - process of rec events into log/database so org can track activ
+	- let det whether chng ctrl policies followed, investigate known policy violations
+	- Application Logs
+		- record app data
+		- when emplee access/view tbl/executes certain function
+		- error occurs causing program to stop func
+	- Change Logs
+		- track chngs req, approved, implemented - may be part of disaster recovery program
+		- allows IT admin to restore sys back to given pt in time prior to chng 
+	- Event Logs
+		- record events occurring in sys incl
+			- directory logs 
+				- data on events involv AD (Active Directory), which is related to authenticating users, governing privileges for user/group, devices that access AD
+			- DNS (domain name sys) server logs
+				- info on source/destination IP addresses, query/response deets, time stamps, errors 
+			- endpt logs 
+				- record events at device lvl
+				- what devices connect to laptop, files/programs installed on device, networks it connects to 
+			- security event logs
+				- track access to sys resources like shared folders, printers, files
+			- system logs
+				- when sys started, rebooted, updated
+	- Firewall Logs
+		- rec all traffic flowing thru firewall
+		- pkt info containing ports used, IP address, protocol used, action taken by firewall, reason for action, time/date pkt transmitted
+	- Network Logs
+		- aka perimeter logs
+		- prov intelligence from devices guarding network's perimeter such as VPN, firewalls, intrusion detection sys 
+		- org can detect attacks, id misconfigured devices, other potentially threatening behavior
+	- Proxy Logs
+		- proxy servers can control internet access, enhance performance
+		- logs for proxy servers show deets like which sites user visits, time, how long viewed certain pgs
+		- ![[Pasted image 20260322012828.png]]
+- Test Results
+	- sys admin should eval results of testing the design/implementation of chng ctrl policies
+	- such eval incl
+		- rev written chng mgmt policies, confirm policies up to date, det whether proper acceptance criteria are documented in those policies
+		- rev doc for implemented chngs, request evidence showing org's chng mgmt policy followed when implementing chngs
+		- confirm all necessary authorizations were obtained thruout proj 
+- Monitoring
+	- in context of test/implementing chng ctrl policies provides
+		- accountability
+			- emplee held resp for actions thru authenticating unique user ID, audit trails, other surveillance 
+				- monitored/reviewed for any policy violation/breach, w unacceptable occurrences > disciplinary action/termination
+		- ability to troubleshoot
+		- tools for id, solving problems
+	- monitoring techniques, such as rev audit trails/performing log anal, help admin eval sys events to id, diagnose, troubleshoot problems
+	- log analysis
+		- form of monitoring involving analyzing logs for
+			- anomalies, patterns, trends, unauth behavior
+		- difficulty: volume of data
+			- automated tools critical 
+- Testing using Cont Adoption
+	- cont software dev practices like cont integration/deployment
+		- designed to streamline testing process/provide feedback loop that is more timely than trad 'build,test,deploy'
+	- dev reg merge changes to code in central repository in which they automate building/testing code
+		- helps id bugs faster
+		- enhances app quality
+		- shortens time to release software updates
+	- cont deployment, software automatically
+		- created
+		- tested
+		- deployed to production env
+	- mins cycle time for writing code/releasing new software v, while maintaining some form of testing so app/sys op will not be interrupted 
+	- risk
+		- not all code is proven
+		- bugs will occasionally be released to live env
+	- challenging for coding that is
+		- complex
+		- has high lvl of interdependences bw apps
+	- ctrls such as automated testing, static code analysis, code reviews can help reduce risks, be more in line w closed loop verification concept
+	- cultural shift from 'build,test,deploy' to cont env may be difficult
+		- more work req upfront to det whether sufficient standardized testing processes are in place, rather than applying customized testing as products dev 

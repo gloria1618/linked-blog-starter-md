@@ -1,0 +1,53 @@
+- key part of chng mgmt to id potential risks bc of chng
+- risk
+	- are present in all steps of chng from acquisition > implementation
+	- can affect existing sys, processes, emplees
+- when assessing chng mgmt risks in SOC2, service auditors should refer to AICPA trust services criterion CC8.1
+	- recc service orgs have policies/prac to prop authorize, design, dev/purchase, configure, doc, test, approve, implement chngs to org's
+		- infrastructure, data, apps to meet corp obj
+
+- Selection/Acquisition Risks
+	- Lack of Expertise
+		- purchasing agent doesn't have expertise/org perspective to meet org needs
+	- Lack of Formal Selection/Acquisition Process
+		- doesnt have/follow
+		- risks overspending, inapprop related party transaction/kickbacks, software not aligning w IT governance strat
+	- Soft/Hardware Vuln/Incompatibility
+		- risk that proper safeguards/sec features needed to adeq protect org from unauth use dont exist 
+		- risk that newly acquired is incompatible w each other or w existing resources that will remain in production
+	- >AICPA trust services criterion CC5.1
+		- recc orgs select/dev ctrls helping mitigate risks to meet business obj....context to ways ctrl can be met:
+		- Service Org's Perspective
+			- perform annual risk assessments to det whether id risks/ctrls linked to those risks are adequate
+			- if new ctrls needed due to new processes, org can use proper chng mgmt process to implement 
+		- Service Auditor's Perspective 
+			- obtain, inspect annual risk assessment performed by org to det new ctrls were implemented to address risk not sufficiently addressed by exisiting ctrls
+			- inspect sample of sys change requests to det whether proper chng mgmt process used
+- Integration Risks
+	- software must be integrated into existing sys/processes 
+	- one of most difficult to manage, bc many nuances further complicating emplee perceptions/attitudes towards accepting chng
+	- User Resistance
+		- resistance to adoption by emplee, esp tech 
+		- risk emplee dont adapt chng, ignore training, dont follow thru approp
+	- Lack of Mgmt Sys
+		-  user resistance magnified if mgmt doesnt prov resources/adeq support
+	- Resource Concerns
+		- chng often can be resource intensive in both fin/labor
+		- approp resources may not be made available for chng, leads to ineffective implementation 
+	- Business Disruption
+		- potential for brief/prolonged info sys failures
+		- could cause sig disruptions to core func, LT neg consequnces for org
+	- Lack of Sys Integration
+		- org may op many diff sys, some legacy, that don't effectively adapt/integrate w modern sys
+- Outsourcing Risks
+	- some orgs choose to outsource chng mgmt process
+		- cost savings
+		- leverage expertise of external agency
+	- Lack of Org Knowledge
+		- leave org vuln, bc must rely on 3rd party to fully comprehend org's business model/needs so 3rd party can integrate chng into org w/o disruption
+	- Uncertainty of 3rd Party's Knowledge/Mgmt
+		- external party has weak/ineffective mgmt, inexperienced/underqualifed staff, lack of tech expertise
+		- causes outsourcing of IT to fail
+	- Lack of Security
+		- outsourcing IT func can lead to transmission of sensitive/confidential data
+		- risk ext org doesnt have sufficient safeguards to ensure info secure

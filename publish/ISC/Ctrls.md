@@ -1,0 +1,103 @@
+- once all chng mgmt process risks id, ctrls designed to min possibility that inherent risks will
+	- cause business disruptions
+	- neg impact IT sys
+- Chng Mgmt Ctrls
+	- Policies, Procedures
+		- clear chng mgmt guidelines to outline how process executed 
+	- Emergency Chng Policies
+		- separate contingency policies, procedures direct emergency chng situations
+		- expedieted process, maintains audit trail n approp ctrl
+		- when crisis, time sensitive threat req quick response
+			- ex: op sys patch exposing to sever sec threats
+	- Standardized Chng Requests
+		- using consistent forms n request protocols
+		- helps complete all req chngs timely
+	- Impact Assessment
+		- analysis documenting effect chng will have, potential disruption
+	- Authorization
+		- req designated lvls of auth for chngs
+			- incl material modifications to initial plan
+	- Separation of Duties
+		- protects A, info from being used improperly
+		- ex: distinguish team members who design/develop from mem who put into production
+	- Conversion Ctrls
+		- when migrating from existing to new sys/process
+		- min data conversion errors related to impacted IT A/resources
+	- Reversion Access
+		- ability to revert to prior sys/process if unexpected complications
+		- parallel implementation
+			- maintain 2 env at initial onset of chng
+				- dev env - 1 w chng
+				- prod env - 1 w.o chng
+	- Pre-Implementation Testing
+	- Post-Implementation Testing
+		- reconciling transactions in new env against same transactions processed in old env will validate if chng implemented prop
+	- Ongoing Monitoring
+		- cont periodic rev
+		- may start at shorter intervals (weekly) but can move to greater intervals (month/quarter/annual)
+
+Eval Impact of Sys Changes on IC
+- trust services criteria for SOC2 req org to id/assess potential impact chngs could have on sys of IC
+- org should perform annual risk assessment process eval following:
+	- eco, regulatory, phys env in which org op
+	- business env, industry, competition, consumer dynamics
+	- effect of how new/modified business lines, expanding thru acquisition or downsizing thru divesting can affect IC
+	- mgmts attitude towards IC
+	- chngs in tech env
+	- partnerships w vendors/other business
+- service auditors should also consider trust services criteria when testing 
+	- may involv inspecting mgmts annual risk assessment to enhance likelihood that mgmt id need to implement new controls to mitigate risks that weren't sufficiently addressed
+	- should sample sys chng req to verify mgmt followed chng mgmt process for new controls that were id 
+
+
+PART 2
+- Documenting Sys Ctrls
+	- documentation can be form of chng mgmt ctrl in that provides log of chngs made to sys/process
+	- good doc prac help track/mng changes
+		- efficiently
+		- effectively
+		- compliant w relevant reg/policies
+	- documenting sys chngs allows orgs to better understand how sys func/evolves, useful for 
+		- troubleshooting
+		- staff training/edu
+		- improv sys performance
+	- Baseline Configuration
+		- est starting pt for reconfigurations so chngs deployed in consistent/secure env
+		- used as benchmark to compare current progress/performance of sys
+		-  useful when searching for patterns/trends, allows IT team to
+			- better understand root cause of issues
+			- eval effectiveness of chngs implemented
+		- checklists often employed when launching from baseline
+			- starting pt is baseline, then items on checklist marked w time stamps as completed
+		- baseline images
+			- creating image w graphical depiction of sys which outlines important
+				- devices
+				- personnel
+				- interconnectivity
+			- as chngs made and image updated, mngers can compare to understand
+		- baseline configuration metrics
+			- system uptime
+			- resource utilization
+				- if inc so that more computing resources were req then sys update may be considered unsuccessful 
+			- failover time
+				- backup resources coming online in a sys outage
+	- System Component Inventory
+		- item list comprising sys, incl
+			- hard/software
+			- peripherals
+			- other IT A
+		- inv should incl
+			- component purpose
+			- loc
+			- current status
+			- whether func prop
+		- info can be used to track
+			- components nearing end of life
+			- repairs/maintenance made
+			- component owners
+			- upgrades/replacements needed
+			- guidance related to troubleshooting
+			- specs 
+
+[[Test&Implement]]
+
