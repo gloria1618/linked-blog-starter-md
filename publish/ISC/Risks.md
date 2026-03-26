@@ -29,7 +29,7 @@
 	- User Resistance
 		- resistance to adoption by emplee, esp tech 
 		- risk emplee dont adapt chng, ignore training, dont follow thru approp
-	- Lack of Mgmt Sys
+	- Lack of Mgmt/Stakeholder Support
 		-  user resistance magnified if mgmt doesnt prov resources/adeq support
 	- Resource Concerns
 		- chng often can be resource intensive in both fin/labor

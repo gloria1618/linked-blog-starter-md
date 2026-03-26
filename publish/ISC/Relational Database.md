@@ -1,0 +1,51 @@
+- warehouse, op data store often built as relational database
+- most common method for storing structured data
+- flat files
+	- plaint text w no structural interrelations w.in file
+	- excel, csv 
+- Benefits
+	- Completeness
+	- No Redundancy
+		- takes up unnecessary resources
+		- unnecessary processing to check for mult v. of truth
+		- inc risk of data entry errors
+	- Business Rules Enforcement
+		- designed, used to aid in placement/enforcement of IC, business rules 
+	- Comms, Integration of BP
+		- should be designed to support BP across org, results in better comms across functional areas, more integrated BP
+
+- series of related tables
+- Data Elements
+	- Tables
+		- aka entities 
+		- 2+ related tables
+		- org structures est clmn, row to store specific types of data records
+		- each table reps obj in database
+			- ex: database w data relevant to sales process has tables for customer, employee, sales orders, inv
+	- Attributes = columns
+		- each clmn must be both unique/relevant to table purpose
+			- characteristic/property
+				- ex: 'Last Name'
+		- Database Keys
+				- while each attribute in table must be uniquely named, each row not inherently uniquely named w.o database key
+				- helps uniquely id each record in tbl, so uniquely id each field at cross section of attribute/record, facilitate relationships bw related tbls
+			- Primary key
+				- req in every table, usually one column
+				- solidifies each row in tbl unique, aka unique identifier
+					- rarely truly descriptive, usually like a code 
+					- ex: student ID, online order #, invoice #, acct #, SS #, drivers license #
+				- Composite primary key
+					- 1+ attribute combined uniquely id each record
+			- Foreign key
+				- 
+			- Descriptive attributes
+	- Records = rows
+		- info about one entity w.in table
+			- ex: single customer in customers table
+	- Fields
+		- space at intersection of clmn/row in table in which data entered 
+		- data value = info placed inside field
+	- Data Types
+		- each attribute/column has designated data type
+		- specifies how data stored, how data in given attribute can be anal
+			- num, text, date/time
