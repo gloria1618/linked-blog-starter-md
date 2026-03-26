@@ -1,3 +1,4 @@
+[[Data Dictionary]]
 - warehouse, op data store often built as relational database
 - most common method for storing structured data
 - flat files
@@ -37,7 +38,8 @@
 				- Composite primary key
 					- 1+ attribute combined uniquely id each record
 			- Foreign key
-				- 
+				- attributes in 1 tbl, primary key in another
+				- exist to implement relations bw tables
 			- Descriptive attributes
 	- Records = rows
 		- info about one entity w.in table
@@ -49,3 +51,5 @@
 		- each attribute/column has designated data type
 		- specifies how data stored, how data in given attribute can be anal
 			- num, text, date/time
+
+![[Pasted image 20260326124415.png]]

@@ -1,0 +1,16 @@
+- creating/using data dictionary helps
+	- database admin maintain database
+	- analysts id data needed
+- data dictionaries
+	- type of metadata - data abt data
+	- prov, summarize info about data in database to 
+		- make it easier to work w 
+		- understand how it can be used to inform decisions, build meaningful reports
+	- can be as simple as deets on attribute name n description of attribute
+- crit to know data thru database schemas, dictionaries thoroughly before attempting to perform any data anal/reporting
+
+- when working w data stored in relational database, more attributes available to keep track of in data dictionary like
+	- if attribute is database key (primary/foreign)
+	- if field is req
+	- data type
+	- 
