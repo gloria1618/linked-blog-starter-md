@@ -1,0 +1,55 @@
+- Database Model
+	- high lvl design of data structures in info sys
+	- conceptual rep of data structures in info sys
+	- not restricted to relational databases
+	- Conceptual (least complex)
+		- high lvl, big picture rep of data structures
+		- defines main entities/relations, w/o deets on attributes/physical implementation
+		- to understand overall structure/meaning, useful for comms design w stakeholders
+		- possible additional deets, up to n incl attribute values
+		- ![[Pasted image 20260326140737.png]]
+	- Logical 
+		- incl also attributes, at lvl of data itself
+		- useful for data oriented proj, such as designign data warehouse/sys dev
+		- if og conceptual model is more detailed to incl attributes, then diff is logical model 
+			- will id PK, FK in each entity
+			- adjusts any entity-relationship issues related to 1NF, 2NF
+		- ![[Pasted image 20260326141250.png]]
+	- Physical (most complex)
+		- incl many items in data dict like attribute names/data types
+		- specifies how data stored in database
+		- entities referred to as tbls, attributes as clmns bc model complete enough that database can be built based on description 
+		- tbles, relations, attributes PK FK, deets incl in data dict incl like data type, if field req, defualts
+		- guide for database implementation, sys performance impvments
+		- date/time 24:00:00 time
+		- ![[Pasted image 20260326141449.png]]
+	- ![[Pasted image 20260326142152.png]]
+- Database Schema
+	- actual implementation/execution of design in specific relational database
+	- instructions telling database engine how to org data in compliance w data models
+		- defines structure of database, incl tbl clmns relations bw entities
+		- specifies how data stored, ult accessed in database
+	- data model set, then actual implementation follows schema
+	- for data warehouse/mart, 2 more popular schemas are star/snowflake
+	- ![[Pasted image 20260326142535.png]]
+	- Fact Tbl
+		- contains metrics, aka facts
+		- measure the business, like sales, COGS, profits
+		- no descriptive elements about business, but do have FK to dimension tbls
+			- FK relate to each row of data in fact tbl corresponding dimensions to prov context
+	- Dimension Tbl
+		- descriptive/contextual data for measures, like dates, prod/customer names
+			- these descriptive attributes describe dimension, for ex time table stores various aspects of time like yr, quarter, month, day
+	- Star Schema
+		- most common/simplest for dimensional modeling
+		- org into central fact tbl assoc w dimension tlbs around it
+	- Snowflake Schema
+		- dimension tbls more normalized, brok down into mult related tbls
+		- more complex bc req more tables/FK to link
+		- more flexible bc allows for detailed info to be stored about dimensions
+		- balance bw normalized n star schema
+	- summary
+		- star/snowflake dimensional modeling easier for reporting/business to understand
+		- most business intel BI tools (tableau/powerBI) works great w star/snowflake
+		- since dimensional modeling doesn't result in normalized databases, adv of '1v of truth' lost
+		- data redundant, so whenever chng needed in sys, chng will need to be updated in every area where its duplicated

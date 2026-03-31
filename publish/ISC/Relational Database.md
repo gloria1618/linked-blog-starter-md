@@ -1,4 +1,6 @@
 [[Data Dictionary]]
+[[Normalization]]
+[[Model,Schemas]]
 - warehouse, op data store often built as relational database
 - most common method for storing structured data
 - flat files

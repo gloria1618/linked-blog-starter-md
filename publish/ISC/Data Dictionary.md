@@ -13,4 +13,6 @@
 	- if attribute is database key (primary/foreign)
 	- if field is req
 	- data type
-	- 
+	- if,what default value
+	- field size
+	- notes needed to understand each field

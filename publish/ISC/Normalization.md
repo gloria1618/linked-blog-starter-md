@@ -1,0 +1,30 @@
+- normalization
+	- database design technique reducing redundancy, eliminating undesirable characteristics like
+		- insertion
+		- update/deletion anomalies
+	- divides larger tables into smaller tables n links them
+		- to eliminate redundancy, reasonably assure logically stored
+	- 1NF 1st Normal Form
+		- each cell/field only has one piece of info, one value/clmn
+		- each record in every table must be uniquely id
+			- w (composite) primary key
+	- 2NF 2nd Normal Form
+		- req all non-key attributes in table to depend on entire primary key
+			- meaningful for composite PK
+			- if table has composite PK, every nonkey attribute needs to describe each component of PK, not j a piece of it
+		- ex: in SalesOrderDeets tbl, has composite PK of SO.ID n InvID
+			- Qty.Ordered passes 2NF
+			- Inv.Name doestn bc only describes Inv.ID
+			- it is uneccesary to understand anything about SO.ID to gather what the Inv.Name is based on InvID
+	- 3NF 3rd Normal Form
+		- each column in tbl describes only PK
+		- est that none of nonkey attributes depend on nonkey attributes
+			- aka no transitively dependent clms allowed
+			- no smthn that depends on smthn that depends on PK
+		- 2NF is abt req every attribute to depend on entire PK
+		- ex: SalesOrder tbl has PK of SO.ID & FK of EmpleeID
+			- EmpleeID is good
+			- if also EmpleeName, bad bc depends on FK of EmpleeID, not j PK of SO.ID
+  THE TRUTH, THE WHOLE TRUTH, NOTHING BUT THE TRUTH
+- THE KEY, THE WHOLE KEY, NOTHIGN BUT THE KEY
+- pk, every attribute rely on entire PK, every attribute rely only on PK
