@@ -1,0 +1,21 @@
+[[Cyberattacks]]
+highest sec concerns for senior execs, those charged w IT governance incl
+- data breaches
+	- info compromised, utilized w.o auth of owner
+		- ransomware
+		- phishing
+		- malware
+		- compromised passwords
+- theft
+- service interruptions
+	- unplanned event causing gen sys/major app inoperable for unacceptable time
+		- malware
+		- DDoS dist denial of service
+		- SQL injections
+		- password attacks
+- regulatory noncompliance
+	- HIPPA
+	- GDPR
+	- PCI-DSS
+	- ISO/IEC 27001
+	- info sec standard applicable to any business in any sector addressing ctrls related to ppl, processes, tech processing protected info/data

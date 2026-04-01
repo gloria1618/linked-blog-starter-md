@@ -1,0 +1,165 @@
+- any malicious activity 
+	- targeting computer info sys, infrastructures, computer networks, personal comp devices, and
+	- attempts to collect, disrupt, deny, degrade, destroy info sys resources/info itself
+
+
+Attacks
+- Network based
+	- to gain unauth access/disrupt op for users, infra of network targeted incl
+		- switches, routers, servers, cabling
+	- Back/Trapdoors
+		- bypass sec access proc thru undocumented entry/exit pt to network 
+		- trapdoor - often installed by sys owners to bypasss sec measures to gain quick access
+		- backdoors (un)intentionally left available due to prod defects
+		- not attack, facilitate entry
+	- Covert Channels
+		- transmit data using methods not og intended for data transmission by sys designers
+		- violate sec policy but don't exceed access authorization, so can comms data in small parts
+		- based on method of hiding info
+			- Storage channels
+				- data transmitted by mod storage loc, allowing another party w lower sec permission to access
+			- Timing channels
+				- use delay/gaps in transmitting data pkts to hide transmission
+		- ![[Pasted image 20260331234723.png]]
+	- Buffer Overflows
+		- overload program's buffer, the temp storage
+		- may cause program to overwrite memory of an app/crash
+		- then inject malicious code/take ctrl of sys
+	- DoS Denial of Service
+		- flood sys network by congesting it w traffic greater than bandwidth it was designed to handle
+		- excess volume consumes network's resources, so cant respond to service requests, vuln to network protocol/app exploitation
+	- DDoS Distributed DoS
+		- mult attackers/compromised devices working in unison to flood traffic
+		- manipulate network equipment/services op more powerful than DoS
+	- MITM man in the middle, eavesdropping
+		- acts as intermediary bw 2 parties intercepting comms, acting as legitimate entity w.in a typical secure session
+		- as info passed, read/redirect traffic
+		- Replay eavesdropping
+			- eavesdrop on secure network comms, intercept, 'replays' mssg later to intended target to gain access to network/data behind firewall
+			- dont need skill of decrypting mssg bc alr tapped into network
+	- Port Scanning
+		- scan network for open ports to find vuln to exploit to gain unauth access to network
+		- while ports can be physical, this focuses on logical ports used for protocols like TCP port 80, which is one of most common ports on internet
+		- normal to have open ports, but misconfigured open ports w vuln
+		- common vuln incl
+			- unsecured/unpatched protocols
+			- poor login credentials
+			- poorly configured firewalls
+	- Ransomware
+		- typ malware locking user/op sys/app/ability to access data unless ransom paid
+	- Reverse Shell
+		- aka 'connect-back shells'
+		- victim initiates comms w attacker from behind org fierwall so attacker can bypass firewall/network safeguards and remotely ctrl victim's machine
+		- since og contact not est from outside of org network, normal filt/firewall protection bypassed
+		- ![[Pasted image 20260401000000.png]]
+	- Return-Oriented
+		- aka 'return oriented programming attacks'
+		- soph technique utilizing pieces of legit og sys code (each a gadget) in seq to perform op for attacker
+		- each gadget ends w a 'return' instruction causing series of code to execute n carry out complex op
+	- Spoofing
+		- impersonating to obtain unauth sys access w falsified credentials or imitating legit person/entity by using fake IP address, domain, email
+		- ARS Address Resolution Spoofing
+			- all devices on network have MAC (Media Access Ctrl) addresses mapping to IP address
+			- involves fraudulent act of falsifying mapping of MAC addresses on network to IP addresses
+			- means can channel mssgs to alt destinations
+		- DNS Spoofing
+			- DNS server translates domain names to IP addresses
+			- involv perp mod domainnametoIPaddy mapping knows as DNS domain name sys
+			- ex website might be converted to 111.100.1.10
+				- if mapping tweaked to redirect to another IP address leading to mimicked site, victim enters/downloads sensitive/malicious
+		- Hyperlink Spoofing
+			- alteration of hyperlink URLs redirecting victim to nefarious loc
+- Host based
+	- targets single host like laptop, mobile devices, server to disrupt func, obtain unauth access
+	- Brute Force
+		- password cracking scheme using automated program to guess, tries all possible combos based on preset algorithm
+	- Keystroke Logging
+		- tracks seq of keys pressed to collect confidential data
+		- often delivered as Trojan horses
+	- Malware
+		- soft/firmware intended to perform unauth process that has adverse impact on confidentiality, integrity, availability of info sys 
+		- viruses, worms, trojan horses, adware, spyware, other code based programs infecting a host
+	- Rogue Mobile Apps
+		- malicious apps appearing legit
+		- fraudulent party creating mobile apps that is installed by victim unsuspectingly, app steals info, gives unauth access, etc
+- Application based
+	- targets specific software/apps (desktop/web) like database/sites to gain unauth access/disrupt func
+	- SQL Injection
+		- inject malicious SQL code into existing SQL code on org website to gain unauth access to data
+		- may not have direct access to database server, but can gain access thru org's web server, which may connect directly to database server
+		- ![[Pasted image 20260401011940.png]]
+	- XSS Cross Site Scripting
+		- sim to SQL injection, but inject code to org's website that attacks users visiting site
+		- visit site, browser executes code, performs attack, compromises user's data
+	- Race Condition
+		- exploits sys/app relying on specific seq of op
+		- by forcing app to perform 2+ op out of order/simultaneously, attacker may gain unauth access/execute fraud act
+	- Mobile Code
+		- aka virus
+		- software program designed to move bw computers to infect other apps by altering them to incl version of code
+		- Overwrite
+			- del/overwrites info in file, typ removal of virus req del file
+		- Multi-partite
+			- mixture of infection methods to infect files, trying diff ways to infect file if others fail
+		- Parasitic 
+			- launches when app w virus launches and same rights as launched program given to virus
+		- Polymorphic
+			- mutates by changed structure to avoid detection
+		- Resident
+			- installs copy of itself on computers memory
+- Social engineering
+	- psychological manipulation/deception to get emplee to 
+		- divulge sensitive info
+		- prov unauth access
+		- assist attacker in committing fraud
+	- Phishing
+		- authentic looking, bogus email requesting info, directing to fake website that requests info
+		- Spear Phishing
+			- targets corp emplee by posing as legit dep/emplee
+		- BEC Business Email Compromise aka whaling
+			- targets execs, high ranking
+			- schemes to get exec to 
+				- transfer $ thru wire
+				- pay fake foreign suppliers
+				- send sensitive data to someone impersonating attorney/emplee
+			- NOT BUSINESS ENV N CONCEPTS
+	- Pretexting
+		- sim to BEC, spear phishing, but creates fake identity/scenario so urgency
+		- pretext, false reason
+	- Catfishing
+		- create fake online persona to lure victim into personal relationship
+		- appeals to emotional nature of victim, requests moneygiftsetc
+	- Pharming
+		- often in combo w phishing, victim enters info into website/portal imitating legit site
+		- link to fraud site may be in phishing email
+		- may even involve manipulation of DNS domain name sys so website's URL replicates correct address
+	- Vishing
+		- using telephonic sys Voice over Internet Protocol VoIP
+		- spoofed/fraud caller ID tied to legit business/person
+		- often use incoming recorded mssgs that may be interactive, use key tones/voice recognition to convert info input 
+- Physical 
+	- 
+- Supply chain
+
+Threat Agents
+- int/ext attacker that could negatively impact data sec thru theft, manipulation, ctrl of sensitive info/sys
+- Attacker, Threat Actor, Hacker
+	- indiv or groups aka hacking rings/APT adv persistent threats
+	- targeting ppl/orgs to gain access to sys, networks, data
+	- broad classification, wide obj range
+		- steal prop, destabilize businesses, spy on gov, disseminate T/F info, fin gain
+- Adversary
+	- actors w interests conflicting w org
+	- incentivized to perform malicious actions against orgs cyber resources
+	- like intercepting purchases, data theft, tampering w hardware prior to installation, social engineering attacks, etc
+- Gov/State Sponsored Actors
+	- fund, direct, sponsored by nations
+	- steal/exfiltrate intellectual prop, sensitive info, funds to further espionage
+- Hacktivists
+	- to promote social causes/political agendas
+	- on self proclaimed relatively moral basis by staying away from targets like hospitals, churches, other orgs w altruistic purpose/mission
+- Insiders
+	- emplee organically dev/infiltrated
+	- sig internal threat bc amout of access
+- Ext Threats
+	- threats from outside org, entity, indiv that is target of cyberattack
