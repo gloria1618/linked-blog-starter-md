@@ -1,0 +1,66 @@
+
+- netwrk is sys of phys/virtual devices connected using wire(less) that comms mixture of diff protocols so users can send, receive, store data
+- Network Hardware
+	- Access Point (AP)
+		- wireless connection pt for users to directly connect to wired network using wireless enabled devices
+	- Bridges
+		- connects separate networks that use same protocol, even if diff topologies/transmission speeds
+		- op at data link layer
+	- Gateway
+		- connects mult networks using diff protocols, translating
+		- can op in all layers of network
+		- freq op in application layer
+	- Computers/Mobile Phone/Tablet
+		- desk/laptop EUD, primary means of user interaction w network
+	- Hubs
+		- connection pts linking mult sys/devices usign same protocol w.in single network
+		- rec data pkts n forward to all other devices
+	- Switches
+		- sim to hubs, but instead of broadcasting, only route traffic to target destinations, connecting various devices w.in a network for most modern orgs
+		- more ports, more robust than hubs, can share pkt filters
+	- Routers
+		- ctrl data flow on network using same protocol by rec data pkts n forwarding to destination based on IP address
+	- Modems
+		- modulate bw digital n analog to support networks
+		- most commonly used to connect computers to internet
+	- Proxies
+		- form of gateway
+		- doesnt translate protocols
+		- mediator performing functions on behalf of another network using same protocol instead of j connecting networks
+		- gateway bw users n internet blocks hackers from entry to priv network
+	- Servers
+		- support computer/networks by performing diff core func, like running apps w.in app servers, storign files w file server, store data w database server
+	- Signal Modifiers
+		- devices like amplifiers (inc), concentrators (combine), repeaters (regenerating) rec signals then modify it
+		- types of signals could be electrical, radio freq, audio, optical
+
+
+(Network) Security Methods
+- Network Segmentation/Isolation
+	- process of ctrlling network traffic so its either
+		- inaccessible
+		- sep from outside comms/other seg w.in orgs own network
+	- pocketed isolation improves overall network sec
+- Firewall
+	- phys devices, software, or both that filter/monitor in/out traffic to public network to block malicious 
+- SSID Service Set Identifier
+	- name assigned to wireless network
+	- broadcast by wireless AP w.in certain range so wireless enabled devices can connect
+	- a way to improve wireless network sec is to make networks less visible by disabling SSID broadcasting so broadcasting device, usually router, stops acting as beacon transmitting signal to nearby devices giving SSID name, reducing visibility
+- VPN Virtual Private Network
+	- built on top of existing physical networks that provides means of secure comms using encryption protocols like 
+		- tunneling
+			- process where data pkts in one protocol are encapsulated in pkts w.in a diff protocol, creating tunnel of protection
+		- IPsec internet protocol sec
+			- uses cryptography to encrypt comms, prov access ctrl, authenticate using IP protocols
+			- op sim to tunneling, but can be used to only encrypt certain data pieces (payload) rather than entire IP pkt
+			- gives VPN users secure remote access to org apps, data, sys
+- WPA wifi protected access (og WEP, wired equivalent privacy)
+	- security protocol encrypting wireless internet connections bw following devices
+		- routers
+		- swithches
+		- mobile dev
+	- 
+- Endpt Security
+- System Hardening
+- MAC Media Access Ctrl Filtering

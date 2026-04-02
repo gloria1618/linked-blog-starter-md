@@ -1,0 +1,62 @@
+[[Sec Policies]]
+[[Netwrk Protection Methods]]
+
+
+- prov guidance on IC, fraud deterrence, risk mgmt
+- COSO 2013
+	- most recent v
+	- often refers to COSO cube showing how elements of IC sys work together
+- COSO 2017 ERM enterprise risk mgmt
+	- companion framework to COSO 2013
+	- use as reference to assess risks, dev strats around risk n business performance
+- cyber risk thru COSO lens lets mgmt to better comms
+	- risk tolerance lvls
+	- business obj
+- if clear priorities est by mgmt, emplee tasked w cybersec can focus on
+	- assessing risk assoc w sys most likely to be attacked
+	- pts of potential vuln in IT sys
+- ![[Pasted image 20260401183908.png]]
+- Obj: ORC
+	- Operational 
+		- incl performance measures/safeguards help inc likelihood that org's IT A protected
+		- effective/efficient business op
+	- Reporting
+		- FACT
+			- fair, accurate, complete, timely
+		- inc prob that cybersec ctrls in place so dont affect int/ext non/fin reporting
+		- transparency, reliability, timely, trustworthy as det by stdrd settign bodies, regulators, org policies
+	- Compliance 
+		- adherence to gov laws, reg
+		- incl compliance w industry stdrd like issued by NIST, HIPAA, GDPR
+- IC Framework: CRIME
+	- Control Env
+		- tone at top, ethical values
+		- senior mgmt, those charged w goveranance should
+			- raise awareness of cybersec threats
+			- guide dev of key IT polices, proc, process
+			- prov guidance on incident response mgmt
+			- edu workforce on roles safeguarding digital A/resources
+	- Risk Assessment
+		- perform risk assessments to eval int/ext factors
+		- can apply to cyber threats by anal risks, likelihood, impact magnitude
+		- assessments prov reasonable assurance orgs managing cyber risks to acceptable risk tolerance
+	- Info n Comms
+		- FACT
+		- consistent relevant lang, follow best prac for sharing info, comms int/ext w right stakeholders to support IC
+		- sharing info about org policies on
+			- cyber threats
+			- how to detect potential cyber threats
+			- how to respond 
+		- ex of effective comms
+			- business impact anal reports rev by mgmt outlining impact of interrupting key business func
+			- emplee mtgs on policies abt cybersec
+			- periodic emails addressing cybersec IC to whole org
+			- mandatory annual trainings of cyber threats, org policies
+	- Monitoring Activ
+		- of IC should be ongoing to id areas of risk vuln, det effective/efficient
+		- ex should be in place, eval, adj
+			- penetration testing
+			- vuln scanning, assessments
+			- periodic phishing reports
+	- (Existing) Ctrl Activ
+		- pol/proc in place to help det whether top tone set by ctrl env is implemented at all org lvls

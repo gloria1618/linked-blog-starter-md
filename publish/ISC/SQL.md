@@ -28,7 +28,7 @@
 		4. FROM which tbl
 		5. GROUPBY also contains descriptive attribute to groupby
 	- HAVING
-		- ??????????????????
+		- to filt based on agg measure bc WHERE cant do that
 		- ![[Pasted image 20260328024112.png]]
 	- WHERE
 		- like filter

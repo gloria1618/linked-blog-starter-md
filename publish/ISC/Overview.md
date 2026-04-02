@@ -1,4 +1,6 @@
 [[Cyberattacks]]
+[[Risks of]]
+[[Threat Modeling]]
 highest sec concerns for senior execs, those charged w IT governance incl
 - data breaches
 	- info compromised, utilized w.o auth of owner

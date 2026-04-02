@@ -1,0 +1,78 @@
+- sec pol, stdrds, proc subj to rev in SOC2 engagement
+	- highest lvl
+		- collection of security POLICIES, serving as overview of orgs sec needs, strat plan for implementation
+			- foundation of sec framework, serving as guide for implementation
+			- doc outlines extent to which sec measures applied to various resources
+				- clear terms
+				- definitive role/resp
+				- acceptable lvls of risk
+			- evidence of due care by senior mgmt against intrusion, attack, disasters
+	- mid lvl
+		- set of STNDRDS org uses as benchmark to accomplish goals def by sec pol
+			- mandated by law or from industry standards
+			- might def min lvl of performance n prov recc on how to implement pol
+			- common standards
+				- NIST frameworks
+				- priv laws like GDPR
+				- industry standards like PCI DSS
+	- bottom lvl
+		- stdrd op PROC (SOPs) that are typically detailed docs outlining how to perform business processes/ctrls/sec tasks
+			- involv combo of sys, software, phys actions so goals of sec pol/standards acheived
+			- recc to segment SOPs so not all in single doc, prevent one person from having instructions for every sec practice in org
+			- policy owners in sep deps can own SOPs relevent to job role, org func
+
+
+
+- orgs often have domain specific pol helping partition diff org focus pts
+	- user policies governing emplee behavior w IT
+	- regulatory policies to comply w laws
+	- sys based policies covering network/software
+- orgs often create **AUP** acceptable use policies to govern domains and carry out sec pol
+	- ctrl doc to regulate/protect tech resources by
+		- assigning varying lvls of resp to job roles
+		- listing acceptable behaviors by emplees n vendors
+		- specifying consequences of violating AUP
+	- users asked to sign, agree to AUP terms prior to access to sys, app, devices
+	- gen covers
+		- def, scope, purpose of policy
+		- acceptable use of personal devices for business activ
+		- acceptable mobile devices approved for use
+		- device maintenance
+		- confidentiality
+		- monitoring, enforcement of actions on devices
+		- restricted activ, software downloads
+		- software req for sec purposes
+		- sec req
+		- terms abt termination if violated policy
+- ex of sec pol/related processes in place
+	- data classification, business impact assessment
+	- selection, documentation, implementation of sec ctrls
+	- assessment of sec ctrls
+	- use access authorization, provisioning
+	- monitoring of sec ctrls
+
+
+ - Mobile Device Sec Pol 
+	- strict pol should be dev w proper technological safeguards to channel mobile dev use n interaction w org's network
+	- AUP for mobile devices
+		- subset of company wide AUP that defines pol for tablets, smartphones, smart watches, etc
+		- these devices give same access as trad hardware
+		- stipulate password protection rules, multifactor auth req, req encryption, web browsing rules, parameters for connecting to public networks, pol abt other apps or file downloads
+- BYODevice Policies
+	- allows emplee to use personal devices for work activ n connecting directly to org network
+	- may incl same elements of AUP + following relevant to j personal devices for work
+		- Monitoring, enforcement of actions on personal devices
+			- purview varies, enforce approp lvl of monitoring to prevent malicious intrusions, but set standards for respecting privacy
+		- Ownership of data on device
+			- gen assume info pertaining to org records, clients, vendors, contacts are org prop, not emplee
+		- Personal L, indemnification
+			- may stipulate when personally or org liable
+			- indemnification, def who resp for compensating someone for losses in event emplee/org assigned blame
+		- Restricted activities, app downloads on personal devices
+			- may be written so some apps disallowed to prevent breach, leak, access to network
+	- also applies to nonmobile devices
+	- risks
+		- leaking sensitive data
+		- breaking compliance w regulations
+		- prov another inlet for bad actors
+		

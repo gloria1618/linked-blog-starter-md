@@ -24,6 +24,7 @@ Symbols
 	- end
 		- thick circle
 		- every pool at least one end 
+		- mult ends > mult ways to end/ends early
 	- intermediate
 		- double lined circle
 		- not req

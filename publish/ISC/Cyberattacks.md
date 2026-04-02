@@ -138,8 +138,33 @@ Attacks
 		- spoofed/fraud caller ID tied to legit business/person
 		- often use incoming recorded mssgs that may be interactive, use key tones/voice recognition to convert info input 
 - Physical 
-	- 
+	- Intercept Discarded Equip
+		- obtain access to outdated/discarded equip in trash, thru orgs accepting discarded equip, steal info stored
+	- Piggybacking
+		- use auth person's access to gain entrance to phys loc/electronic access
+	- Targeted by Attackers
+		- on premise infra bc know many org lack soph cybersec defenses
+		- lack due to cost of implementation/lack of awareness of potential threats
+	- Tampering
+		- gain phys access to IT infra, mod way its network collects, stores, process or transmit data
+		- can be done phys rewiring cabling, plugging in directly to network equip, adding unauth device to existing network
+	- Theft
+		- phys steal data, hard/software
 - Supply chain
+	- cyber tactics to target prod/dist of goods w.in SC so there's larger disruptions in normal op of company, gov, other entity
+	- Embedded Software Code
+		- insert code into prepackaged soft/firmware being sold to org that later installs after purchase
+	- Foreign sourced Attacks
+		- many govs have deep/widespread ctrl of orgs in private sector
+		- use prod sold to other countries for surveillances/malicious code
+	- Pre-Installed Malware on Hardware
+		- install malware on devices that will be used by orgs in SC, such as USB drives, camera, phones
+		- once org connects them to network, malware executes
+	- Vendor Attack
+		- perpetrated on key vendors of org so normal prod of goods/op disrupted
+	- Watering Hole Attack
+		- id websites of suppliers, customers, regulatory entities known to be used by several orgs/entire industries
+		- look for weaknesses at that 3rd party that can be used to deliver malware etc
 
 Threat Agents
 - int/ext attacker that could negatively impact data sec thru theft, manipulation, ctrl of sensitive info/sys
@@ -163,3 +188,23 @@ Threat Agents
 	- sig internal threat bc amout of access
 - Ext Threats
 	- threats from outside org, entity, indiv that is target of cyberattack
+
+Stages in Cyberattack
+- Reconnaissance
+	- discover, collect info about IT sys
+	- facility loc, network type, infra deployed, sec measures, emplee names, mgmt hierarchy
+	- specific vuln like open ports, software apps not patched
+- Gaining Access
+- Escalation of Privileges
+	- maybe thru credentials of user w higher priv
+- Maintaining Access
+- Network Exploitation/Exfiltration
+	- stealing, mod, disabling access, malicious
+- Covering Tracks
+	- during/after
+	- concealing entry/exit pts
+		- disabling audit func
+		- clearing lgos
+		- mod logs/registry files
+		- removing all files/folders created
+
