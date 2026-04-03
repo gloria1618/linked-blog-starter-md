@@ -1,0 +1,57 @@
+- purpose is to protect org w diversified sec tactics
+- combines
+	- physical access ctrls
+	- logical/technical ctrls
+	- admin ctrls to provide ctrl redundancy
+- redundancies implemented to offset possible sec defects that could arise in event of multipronged breach
+
+Defense in Depth
+- most common layered sec sol
+- multilayered sec approach relying on
+	- Personnel
+		- experts that op sec func/tools effectively to attempt to make sure multilayered defenses effectively implemented
+		- involv highly skilled IT prof w expertise to understand how layers interact holistically
+	- Policies
+		- pol governing how tech used must be create, implement, monitored to det if tools working as designed
+	- Tech
+		- technical ctrls applied incl sec sol like
+			- intrusion detection/prevention sys, antivirus software, firewalls, endpt sec
+	- Phys Access Ctrls
+		- cameras, gates, locks, fences, badge ctrl access, restricted access to climate ctrled devices
+	- Logical Access Ctrls
+		- rule based ctrl carried out by soft/hardware to prevent unauth access
+		- such ctrls embedded in user authentication sys/software that req validation of id thru login, multifactor auth, diff permission based logical access methods
+
+- Redundancy n Diversification
+	- eliminates single pt of failure
+	- counter attacks targetign diff weaknesses
+	- duplication w.in duplication intro more sec and sec becomes more diverse, potentially more effectie
+	- redundancy can be administred thru
+		- layering processes
+			- breaks up op into smaller chunks that can be 
+				- managed by diff ppl
+				- performed by machine/computer
+				- completely isolated form other parts of process
+			- to protect crit pieces of op/sensitive info so diff lvls of sec for diff lvls of importance
+			- ex: bank, 1 person grants vault access remotely, another phys removes vault contents, another transports contents, w all ppl counting contents w other emplees
+		- isolating processes
+			- using machine/computer involves segmenting processes using logical ctrls (such as virtual ctrls) to isolate diff processes in a sys
+			- prevents processes from infl each other
+			- allows sec breach to be contained in virtual machine w.o spreading to other processes
+		- abstraction
+			- hiding complexity of certain tasks so only relevant info to specific person doing func is presented
+			- to simplify complex tasks
+			- limits user access, only detail lvl needed to do job
+			- abstraction can be applied to both apps/networks in either cloud/local env
+			- ex: access ctrls, user rights may be assigned to obj, obj group, type of priv, allowing user to only access/perform certain func
+				- allows sec admin to create/assign diff priv lvls to users
+		- concealing data
+			- sim to abstraction which is abt removing underlying deets to do , this about hiding data
+			- implemented by assigning users to sec lvl that must align w same sec lvl assigned to 
+				- specific data sets
+				- sections of apps
+				- certain objs so only those needing access get it
+		- segmenting hardware
+			- divides network into smaller units, each governed by own sec pol/ctrls
+			- same goal as process isolation but enforced phys w sep machines (instead of logically sep)
+			- not as common, typ to large org w network dist geographically 

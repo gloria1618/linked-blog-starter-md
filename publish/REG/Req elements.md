@@ -11,7 +11,7 @@ Elements of Legally Enforceable Contract summary: COAXL
 	- mutual asset
 		- agreeing to 'same bargain at same time'
 		- meeting of the minds
-	- [[Offer]]
+	- [[offer]]
 	- [[Acceptance]]
 - exchange of consideration
 	- price of contracting

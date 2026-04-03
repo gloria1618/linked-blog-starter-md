@@ -1,0 +1,35 @@
+[[ID.auth methods]]
+
+- Cybersecurity Practices that can be engineered into architecture of IT, embedded into policies
+	- Zero Trust
+		- assumes network always at risk, even after user authenticated
+		- shifts focus away from 1 time to continuous auth at every pt of interacton w network
+		- NIST est ZTNA zero trust network architecture model to help implement cont auth principles thru ZTA
+		- ZTA
+			- designed to prevent breaches, limit internal lateral movement by impl
+				- set of sys design principles
+				- coord cybersec, sys mgmt strat based on acknowledgement that threats exist both in/outside trad network boundaries
+			- Basic tenets
+				- all dev/data sources considered resources, even those not directly mnged by org
+				- all comms must be secure regardless of network loc
+				- access to resources granted on per session basis
+				- access det w dynamic pol, other env/behavioral attributes
+				- org monitor/measures integrity/security of all A
+				- all auth2 mech dynamic, strictly enforced prior to access grant
+				- detailed info collected abt current state of org's As, infra, comms
+				- orgs private network not considered implicit trust zone
+				- some devices on network might not be owned/configurable by org
+				- some devices connecting to orgs infra might not be org resources
+				- no resource inherently trusted
+				- remote users shouldn't trust local network connections
+	- Least Privilege
+		- focus on access needed for job
+		- user/sys granted min auth/sys resources to perform a func
+		- safeguards so privileges dont become excessive, allow priv creep where access to sys gradually inc over time as job role evolves
+			- common when emplee promoted, chngs positions -- access to prior role not removed
+	- Need to Know
+		- focus on data itself needed for job
+	- Whitelisting
+		- allow/whitelisting - id list of apps/components that are auth to run on orgs sys and only allowing those to execute
+		- deny/blacklisting - di apps/components not auth on network and prevent them from running
+		- rules enforced by automated software programs designed to prevent apps from executing unless on whitelist

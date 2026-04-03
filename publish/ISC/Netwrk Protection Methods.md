@@ -58,9 +58,47 @@
 - WPA wifi protected access (og WEP, wired equivalent privacy)
 	- security protocol encrypting wireless internet connections bw following devices
 		- routers
-		- swithches
+		- switches
 		- mobile dev
-	- 
+	- doesnt encrypt traffic traveling thru wired connection once it's out of wireless AP
+	- WPA2 - sim protocol prov additional layer of encryption w AES Adv Encyption Stndrd 
+	- WPA3 - even more sec thru
+		- more sophisticated encryption
+		- secure handshakes (process of est connection bw computer/device)
+		- stronger password protections
 - Endpt Security
+	- every device (hosts) connected to network should have some form of local sec sep from other sec measures on network/comms channel
+	- ex
+		- antivirus, malware screening software,
+		- authentication, authorization mechanisms
+		- auditing software
+		- local host firewalls
+		- prevention sys
+		- host based intrusion detection
 - System Hardening
+	- multipronged comprehensive sec approach reducing risk by min # of AP thru which org can be attacked
+	- attack vectors - AP
+	- ex in context of potential recc after vuln scan
+		- Database Hardening
+			- create diff privilege lvls so clear delination 
+			- encrypt data at rest
+		- Endpt Hardening 
+			- remove admin rights for users on local devices so endpt users can only perform auth func
+			- restrict downloading certain files from internet/email
+			- implement local firewalls, malware screening on all laptops
+			- make harder for users to inadvertently compromise network
+		- Network Hardening
+			- revise firewall rules so configured to remove unused ports, block unnecessary protocols
+		- Server Hardening
+			- phys seg servers in sec facility, further sep backup servers geographically
+			- dev test procedures for servers connecting to network for first time, inc likelihood that admin rights set up prop
+			- test servers in op after business hrs to min func/service disruption
 - MAC Media Access Ctrl Filtering
+	- MAC addy aka phys/hardware addy
+	- unique id on devices in network used as address for comms w other network devices
+	- filtering where AP blocks access to unauthorized devices using list of approved MAC addy
+
+
+Service Auditor Consideration of Logical/Physical Access
+- SOC2 engagement may consider org's ctrls related to network components in a scenario where org permits remote access by auth emplees only w multifactor authentication over an encrypted VPN connection
+- auditor would observe remote login session to det multifactor authentication over VPN was req to access network

@@ -1,7 +1,9 @@
 [[Sec Policies]]
 [[Netwrk Protection Methods]]
-
-
+[[Auth2]]
+[[Vuln Mgmt]]
+[[Layered Sec]]
+[[P.D.C.ctrls]]
 - prov guidance on IC, fraud deterrence, risk mgmt
 - COSO 2013
 	- most recent v
