@@ -1,0 +1,90 @@
+[[TSC]]
+[[Opinion]]
+
+- User entity
+	- org utilizing outsourced services
+- Service Org
+	- org prov services
+- Service orgs prov user entity w 
+	- personnel, expertise, equipment, tech
+	- ex: outsourced payroll, CSP, cc processing orgs, enterprise IT outsourcing, customer support, fintech services
+- user entities/business partners usually need info on 
+	- design
+	- op
+	- effectiveness of ctrls w.in servorg sys
+- to support risk assessment proc, UE might request SOC sys n org ctrl report
+- service auditor performs SOC exam in accordance w attestation stndrds issued by AICPA
+- SOC1
+	- Internal Ctrl over Fin Reporting
+	- exam/report on servorg ctrls likely to be relevant to UE IC over fin reporting
+	- reports restricted to
+		- mgmt of servorg
+		- UE of servorg's sys
+		- indep auditors of such UE
+	- doesn't incl potential users of servorg
+	- either Type1/2 report depending on user needs 
+- SOC2
+	- Trust Services Criteria
+	- exam/report on 5 categories
+		- sec, availability, or processing integrity of sys
+		- conf/priv of info processed by sys
+	- for use w those who have sufficient knowledge/understanding of
+		- service org
+		- service it prov
+		- sys used to prov services, etc
+	- mgmt, service auditor should agree on intended users (specified parties)
+	- expected knowledge of specified parties
+		- nature of service prov
+		- servorg sys interactions w UE, subservice org, other parties
+		- IC, limitations
+		- complementary UE ctrls
+		- complementary subservice org ctrls
+		- UE resp, impact to effectively use servorgs services
+		- applicable trust services crit
+		- risks impacting servorg service commitments/sys req, how ctrls address risk
+	- either Type1/2 report depending on user needs 
+- SOC3
+	- Trust Services Crit for General Use Report
+	- sim to SOC2, reports whether ctrls w.in sys effective to prov reasonable assurance that servorg service commitments/sys req achieved based on applicable TSC
+	- diff from SOC2, SOC3 doesnt incl 
+		- description of sys (detailed ctrls w.in sys not disclosed)
+		- description of auditors ToC, results
+	- gen for users who
+		- need assurance abt ctrls at servorg relevant to sec, avail, processing integrity, conf, priv but
+		- lack knowledge/understanding of SOC2 report
+	- always Type 2 report
+- SOC for Cybersec Engagement
+	- examine, report on descrip of entity's cybersec risk mgmt program n effectiveness of ctrls w that program
+- SOC for SC Engagement
+	- examine, report on ctrls over TSC of a sys used to produce, manuf, dist prod
+
+- SOC Report Types
+	- SOC report differs on 
+		- SOC engagement
+		- whether Type1/2 report issued
+	- Type 1
+		- fairness of presentation of mgmts descrip of servorg sys
+		- suitability of *design* of ctrls to acheive related ctrl obj incl in description *as of specified date*
+	- Type 2
+		- fairness of presentation of mgmts descrip of servorg sys
+		- suitability of *design n op effectiveness*of ctrls to achieve related ctrl obj incl in descrip *thruout specified period*
+	- SOC 1/2 either Type1/2 report depending on user needs 
+	- SOC3 always Type2
+	- ![[Pasted image 20260406171041.png]]
+- Contents of Type 1/2 reports
+	- main components of SOC report consistent for SOC 1/2
+	- Type 1 comprised of
+		- mgmts descrip of servorg sys
+		- written assertion by mgmt abt if, as of specified date, based on crit
+			- mgmts descrip of sys fairly presents servorg sys that was designed/implemented
+			- ctrls related to ctrl obj stated in mgmts descrip of sys were suitably designed to achieve those ctrl obj
+		- expresses opinion on matters above
+	- Type 2
+		- mgmt descrip
+		- written assertion  - thruout specified period
+			- same
+			- and op effectively
+		- expresses opinion on matters above and incl description of ToC, results
+	- ![[Pasted image 20260406171616.png]]
+
+![[Pasted image 20260406171639.png]]
