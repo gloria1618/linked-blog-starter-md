@@ -1,0 +1,50 @@
+Insurance as Mitigation Strat for Security Incident
+
+- cyber insurance pol relatively new, hedge against cyberattacks if successful attack
+- fin relief can help w
+	- cost of restoring data
+	- temporary disruption in business op
+	- lost revenues
+	- managing PR needs
+- as threats evolve, insurance carefully def
+	- insurable losses
+	- req for issuing coverage
+- common losses typ covered
+	- Business Interruption Loss
+	- Cyber Extortion Losses
+		- ransom, attorney/IT expert fee
+	- IR Costs
+		- inc cost assoc w recovery of lost/stolen data by ext IT/MSP
+	- Replacement Costs for Info Sys
+		- corrupted software/phys damaged hardware
+	- Litigation/Attorney Fees
+		- consults w attorney to address lawsuits (esp class action) or j get legal advice on how to proceed to min future L
+	- Reputational Damage
+		- costs of PR, crisis mgmt, mktg to customers abt data breach
+		- harm to brand, LT impact unlikely covered
+	- Info/ID Theft
+		- cost of losses related to attacker using emplee ID that stemmed from attack
+- most cyber insurance req some up front mitigating risk ctrls to min likelihood n impact
+	- Background checks
+	- Compliance w Reg
+		- attestation, HIPPA, PCIDSS, etc
+	- Disaster Recovery
+		- drplan, testing
+	- Emplee Training
+	- Company Pol
+		- often request copy of personnel pol covering sec as it relates to emplee, customers, vendors
+		- pol usually specify 
+			- acceptable use, access to data
+			- device use
+			- prohibited practices by vendor/emplee
+	- Indep Risk Assessment
+	- IRP
+	- IT Ctrls
+		- firewalls
+		- intrusion detection/prevention sys
+		- antivirus/endpt software
+		- cntrlled access to A
+		- MFA etc
+	- Mandatory Pen Training (penetration)
+	- Loss History
+		- rev losses from prior incidents, price risk for client based on those losses 

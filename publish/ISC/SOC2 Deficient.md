@@ -1,0 +1,54 @@
+Detect Deficiencies in SOC2 Engagement
+
+- sec, confidentiality, priv testing w orgs subj to SOC audits
+- during SOC2, auditor
+	- eval results of proc performed
+	- conducts qual/quant anal of whether id description misstmts, deficiencies in suitability of design, and in type 2 exam the op effectiveness of ctrls result
+		- in description not presented in accord w description criteria
+		- in ctrls not suitably designed or op effectively
+	- do walk thru of 
+		- IT sec/conf/priv pol
+
+- gen walk thru proc to be performed by SOC2 engagement service auditor incl
+	- follow transaction/event/activ form origination to disposition thru sys using same docs used by personnel 
+		- when considering conf/priv, obj to understand how PII/proprietary info handled thruout life cycle
+	- inquiry, obsv, inspection of relevant doc/flowchart/questionaire/decision tbls to understand design of ctrls
+	- inquiry about instances during period in which ctrls dont op as described/designed
+	- question variations in process for diff types of events/transactions
+- approp performed walk thru prov oppro to verify auditors understanding of
+	- transaction flow
+	- design of ctrls in relation to orgs sec/conf/priv service commitments
+		- evidence abt ctlrs in descrip suitably designed n implemnted
+		- type 2 exam - op effectively
+- when eval results of procedures, investigate nature/cause of id description misstmts/deficiencies/deviations in ctrl effectiveness n det
+	- if id description misstmts result in either
+		- failure to meet 1+ description creiteria
+		- presentation that could be misunderstood by users if opinion was not modified to reflect the id descrip mistmts
+	- if id deviations
+		- are within expected deviation rate, acceptable
+		- = deficiency 
+	- if performed proc prov approp basis for concluding that ctrl op effectively thruout specified period
+	- if id deficiencies likely to have pervasive effect on achievement of service commitments/sys req based on applicable trust services crit
+		- ctrl crit used to eval/report on suitability of design n op effectiveness of ctrls
+	- magnitude of effect of deficiencies on achievement of service commitments/sys req based on applicable trust service crit
+	- if users could be misled if auditors opinion not mod to reflect id defic
+- factors maybe considered to det if id deviations pervasive effect on other ctrls
+	- effect that entity lvl ctrl have on op of other ctrls
+		- deviation in entity lvl ctrls often pervasive on other ctrls
+	- extent of segmentation
+		- technique enhancing sec by div network/sys across org
+	- extent to deficiencies in certain key ctrls have pervasive effect on other ctrls 
+- mod opinion if 
+	- material descrip misstmts
+	- material deficiencies in suitability of design of ctrls
+	- type 2 exam: deviations in op effectiveness of ctrls
+- (suspected) fraud id, respond approp
+	- discuss w org senior mgmt (engaging party, other approp, unles senior mgmt fraud)
+	- senior mgmt fraud, comms to those charged w goveranance, discuess nature/timing/extent of proc needed to complete exam
+	- request senior mgmt consult w approp qualified 3rd party
+	- consider implications to rest of engagement
+		- auditors risk assessment
+		- reliability of written rep from org mgmt
+	- obtain legal advice about consequences of diff courses of action
+		- comms w 3rd parties
+		- withdraw from engagement

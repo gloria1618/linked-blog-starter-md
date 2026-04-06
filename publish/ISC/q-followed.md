@@ -1,0 +1,48 @@
+Procedures to Test If Org Follows its IRP
+
+- test if plans respond as expected to both hypothetical/actual
+- Simulations
+	- aka tabletop exercises
+		- round table, verbally walks thru incident as if real time or
+		- pen/penetration test - conducts exercises where emplee/hired programmer executes attack so response can be observed
+	- annual testing of IRP to det if proc
+		- up to date
+		- accurate
+	- lessons learned from sims used to implement chngs when updating IRP
+	- SOC2 auditor may insepct doc for recent IRP review to det
+		- if plan tested in past yr
+		- that drills conducted to sim incidents were resolved, service availability restored
+	- auditors may also inspect IRP for revision in response to performed testing
+- IRP Metrics
+	- MTTD Mean Time to Detect 
+	- MTTA Mean Time to Acknowledge
+		- time to acknowledge incident once occurred
+		- from incident reported to when recog as actual threat that req response
+	- MTTC Mean Time to Contain
+		- aka MTTRemediation
+		- avg time to stop, isolate incident
+	- MTTR to Repair
+		- time to restore sys to normal op/target state
+	- MTBF between Failures
+	- Sys Availability/DT
+	- SLA Compliance
+		- eval if qual/quant specified performance lvls met
+- Post Incident Rev
+	- rev chain of events post incident w high scrutiny by senior mgmt/sec experts can be performed to eval
+		- how effective IRP
+		- if personnel/tech complied w plan
+	- may involve
+		- anal logbooks
+		- eval sys configurations
+		- interviewing employees involved
+		- performing further vuln testing
+- Periodic Audits
+	- un/scheduled audits of IR pol/reviews 
+- Cont Monitoring
+	- employing automated tools that constantly anal sys logs, network traffic, unusual behavior
+- Indications Org Didnt Respond Approp
+	- inc in freq/severity of incidents
+	- time to id/contian incidents
+	- inc in data center DT or IT infra damage
+	- cost of fines, attorneys, consultants
+	- decline in company reputation

@@ -1,0 +1,47 @@
+Walk thrus in Company Fuctions/Departments
+
+- Fin/Acct
+	- focus on conf/priv pol followed so
+		- min PII collected
+		- each user only access min lvl of PII, proprietary data to execute job 
+	- for sec, focus on ensuring sec pol to only allow auth emplees access to sys that ctrl any acct func that involv CPR
+		- withdraw/transfer cash
+		- collect/divert pmts
+		- report fin info
+- Corp Training/Edu
+	- probs func by mult indiv from diff dep
+	- walk thrus should incl
+		- view sec/conf/priv content being delivered to emplees, det whether approp to job roles
+		- emplee acknowledgement of pol/proc
+		- attending courses delivered by trainers
+		- rev material/assessments given to trainees
+		-  interview training staff abt plans for making revision/updates to training program
+- HR
+	- gatekeeper for onboarding new emplee, ult has access to orgs sys
+	- for conf/priv, focus on how HR follow pol/proc to
+		- id/collect PII
+		- manage access to PII
+		- process of handling violations
+	- for sec, focus on prac abt
+		- background checks
+		- def sec roles for both contractors/FT emplee
+		- comms sec pol
+		- monitoring emplee activ
+		- processes for revoking access priv as emplee transfer/terminated
+- IT Risk Mgmt
+	- ids current/potential conf/priv risks so can be eliminated, min, transferred
+	- for conf/priv, focus on id ways dep monitors conf/priv ctrls, id/comms potential violations
+	- for sec, focus on id ways dep
+		- tracks A/sys that should be protected
+		- id potential vuln/threats
+		- assess op/fin impacts of risks
+		- dev mitigation strats
+		- periodically rev risk mgmt plans
+- in relation to sec, service auditors will perform proc to understand how entity comms info thru sec awareness training programs 
+- proc auditor may perform to obtain understanding of orgs comms may incl rev docs related to 
+	- sec awareness/training programs
+	- comms of code of conduct
+	- employee handbks
+	- info sec pol
+	- incident notif proc
+	- available doc to understand service orgs process for comms to personnel resp for sys sec, other matters 
