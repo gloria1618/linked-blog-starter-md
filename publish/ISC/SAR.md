@@ -1,0 +1,26 @@
+- Security Assessment Reports (SARs)
+	- issued as evidence of ctrls (not) complying w stated sec goal/obj
+	- NIST def: report prov disciplined/structured approach to doc
+		- findings of assesor
+		- recc to correct id issues/vuln in sec ctrls
+	- gen incl detailed assessment findings awa summary used to det effectiveness of priv/sec ctrls
+	- Grade each proc performed by assessor
+		- satisfied (S)
+			- assessment obj met, acceptable result
+		- other than satisfied (O)
+			- could not obtain sufficient info that met stmts in assessment proc
+			- may be anomaly in op or ctrl implementation
+	- SAR gen incl
+		- Summary of Findings
+			- intro, synopsis of key findings, recc actions
+		- Sys Overview
+			- outlines info mgmt sys being assessed incl hard/software, personnel, relevant resources
+		- Assessment Methodology
+		- Security Assessment Findings
+			- gaps/deficiencies discovered
+		- Recc
+			- prescriptive direction to remediate deficiencies
+		- Action Plan
+			- roadmap covering steps to remediate deficiencies
+![[Pasted image 20260404010018.png]]
+![[Pasted image 20260404010038.png]]

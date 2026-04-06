@@ -1,0 +1,68 @@
+Comms of Sec Knowledge/Awareness
+- reg sch sec awareness training encouraged/mandated by various info sec frameworks/reg
+	- ex: NIST, GDPR, HIPAA, SOC2 emphasizes need
+- methods of comms
+	- fully outsourced
+	- managed solely in house
+		- req teaching tools, req resources from 3rd party unless created int
+	- combo
+- course delivery methods
+	- indiv/group sessions
+	- live/on demand sessions
+		- live in person/remote
+- assessments
+	- quiz, exam, case studies, sim
+- adeq doc of course planning, delivery methods also performed for consistency/eval purposes
+- Roles
+	- Mgmt
+		- design/eval sec awareness programs
+		- coord w 3rd party vendors hired to dev/perform training
+	- Specialized IT Personnel
+		- carry out pol set forth in sec awareness prog
+		- network sec engineers, penetration testers, incident response/compliance analysts
+		- may need initial, recurring training specific to certain func like
+			- disaster recovery procedural training
+			- content related to new reg w which org must comply
+	- All other Emplee
+		- follow sec proc based on job roles
+		- emplee other than mgmt/specialized roles should only be resp for sec paractices relevant to basic user roles like
+			- training on id phishing email
+			- best prac on remotely connecting via VPN
+- prov at all stages of emplee job, hire n refresher annually min
+- tailor to emplee job role
+- Hallmarks of successful sec awareness program
+	- phishing sims
+		- comms once click on link/download
+			- to teach person abt scam
+			- maybe in form of follow up email or direct comms from IT/HR
+		- often req additional training
+		- results summarize w metrics, anal over time to eval emplee awareness
+			- click rate
+				- % of emplee that clicked
+			- reclick rate
+			- report rate
+			- non responder rate
+				- % of emplee who ignored n didnt respond in any way
+			- reply rate
+	- program supporters/champions
+		- preferably full task force over champion
+		- metrics of effectiveness
+			- emplee consultations
+				-  # of times emplees consult w sec program champion
+			- security behaviors (w/w.o champion)
+				- capture/compare sec awareness measures in dep w champions vs not
+			- champion density v sec behaviors
+				- correlation coefficient
+	- reg emplee engagement
+		- % of emplee completed training
+		- avg time taken per session
+		-  # of emplee who attended each training sesh
+		- likelihood emplee would recc training to others
+		-  # of emplees attending bc of referral
+		-  # of q's from emplees abt training content
+		-  # of emplees requesting sec info/visit related org intranet website
+		- quant/qual metrics on social media interactions
+	- metrics to measure program success, like
+		- amt of $ allocated to program
+		-  # of resources dedicated
+		- corrective action plans for deficiencies discovered

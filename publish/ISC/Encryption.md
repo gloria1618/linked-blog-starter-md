@@ -1,0 +1,48 @@
+- mitigate risk of breaches/loss w cryptography so data protected during collection, processing, storage
+- apply algorithm to transform plaintxt to ciphertxt
+- [[cipher]]txt only decoded by
+	- using key w math encoded algorithm, offering receiver nonrepudiation that senders is who they say they are
+- nonrepudiation = assurance
+- encryption models can use diff types of keys/key combos w.in a model
+- Keys
+	- Public
+		- shared publicly or w group
+	- Private
+		- only known to one user
+		- refers to both private key (1/2 key in asymmetric) or shared private key (symmetric)
+- Symmetric Encryption
+	- single shared/private for de/encryption of data w.in a group
+	- (shared) private key
+		- used by all members in group to both de/encrypt
+		- can be in form of #, letter, string of random
+	- commonly used by banks to encrypt sensitive customer data for time sensitive transactions as decrypting needs to be quick as customer doing transaction
+	- drawbacks
+		- doesnt facilitate nonrepudiation bc any person w shared key can de/encrypt
+		- no way to tell where mssg originated
+		- diff to scale
+			- every combo of users in group must each share priv keys
+			- keys must be generated each time participants leave group
+	- ![[Pasted image 20260404142632.png]]
+- Asymmetric Encryption
+	- public key encrypts mssg, private key decrypts or vice versa
+	- only 2 opposite keys can be used in tandem for this to work
+	- digital signing, blockchain
+	- drawbacks
+		- keys gen longer n need 2, encryption algorithm is typ more complex
+		- so req more computing power
+			- so more time consuming
+			- could lead to inc in tech expense
+	- ![[Pasted image 20260404143014.png]]
+
+
+- Hashing v Encryption
+	- hashing 1way, makes it unscrambleable
+		- to maintain integrity of data transmitting, validating that mssg is from true sender
+		- comparing 2 hash values tells user that mssg is legit
+	- Encryption 2way, encrypt n decrypt
+		- to secure data transfer to maintain confidentiality
+	- since hash values cant decrypt, often combo w encryption to 
+		- securely transfer mssg using encryption
+			- decrypt w priv/public key
+		- then validate authenticity of mssg w hashing
+			- hash value rec by receiver compared to hash value from sender to ensure identical

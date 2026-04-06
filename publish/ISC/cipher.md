@@ -1,0 +1,14 @@
+- ciphers are result of applying encryption algorithms encoding unencrypted mssgs into an encrypted form
+- Substitution Ciphers
+	- replace each chara of plaintxt mssg w another
+	- basic ones use key to replace, complex involv math to subs
+	- ex: modulo func, chara can be converted into # s that's then used to decrypt mssg
+- Transposing Ciphers
+	- rearrange letters of mssg to form unreadable ciphertxt, often usign matrix to perform columnar transposition
+	- ![[Pasted image 20260404184721.png]] MEET AT TWELVE
+- Running key ciphers
+	- encrypt mssgs that are long as mssgs themselves
+- Block ciphers
+	- op on chunks of mssg then apply encryption
+- Stream ciphers
+	- can op on single/few chara, known as stream

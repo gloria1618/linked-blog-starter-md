@@ -1,0 +1,133 @@
+Common Preventative, Detective, Corrective Ctrls
+- authorizaton
+	- def by SOC2 as process of granting access priv to user, program, process by person who has authority to grant such access
+
+
+- Preventative
+	- to thwart malicious activ from occuring
+	- prevent attackers from accessing devices, apps, networks
+	- Safeguarding Practices
+		- strong prev soft/hardware ctrls should be w good pol/proc like
+		- req strong passwords
+		- multifactor auth
+		- background checks
+		- lock unattended devices
+		- follow strict guidelines regarding sensitive data
+	- Edu, Training
+		- inform emplee abt cybersec risks, corp tools to mitigate
+	- Regular Sec Updates
+		- broad, comprehensive, regularly for phys/logical sec measures to be protected 
+	- Encryption
+	- Firewalls
+		- monitor/filter traffic based on set of predefined rules so only trusted party/networks can connect
+	- Patches
+		- both preventative/corrective ctrl
+	- Phys Barriers
+		- locked door/cabinet, access ctrls like badge entry, sec guards, fences, gates, surveillance sys
+	- Device/Software Hardening
+		- hardening - sec tools so tot of vuln pts reduced 
+	- Intrusion Prevention Sys IPS
+		- network sec sol detecting, stopping cyberattack before reaching targeted sys
+		- by rec direct feed of traffic so all data coming into network pass thru IPS, sim to firewall
+	- Access Ctrls -- Authorization Models
+		- Discretionary DAC
+			- decentralized ctrl allowing for data owners, custodians, creators to manage their own access
+			- owners can
+				- grant access to others based on judgement
+				- delegate tasks to other custodians as see fit
+			- data owner enforcing DAC can 
+				- ctrl passing of info to other users/obj
+				- grant/chng sec attributes of users
+				- choose sec attributes to be assoc w newly created/revised obj
+				- chgn rules governing AC
+		- Mandatory AC
+			- nondiscretionary ctrls, admin centrally manage/enforce rules consistently across env, not based on id
+			- easier to manage, less customization
+		- Role Based AC
+			- based on job rule instead of indiv assigning 
+		- Rule Based AC
+			- manages access to areas, devices, databases according to predet set of rules/access permissions indep of users role
+			- admin tasked w setting sec permissions to allow access based on defined criteria 
+			1. access rules created by sys admin
+			2. rules integrated thruout AC sys
+			3. user presents access credentials
+			4. ctrl mech checks credentials against access rules
+			5. grant/denied
+		- Policy Based PBAC
+			- combo of user roles/pol consisting of rules to maintain/eval access dynamically
+			- more like framework to eval users access based on info on user -  like id, role, clearance, op need, risk
+			- gen more flexible than rule based bc anal of theoretical priv based on actual priv
+			- can better accommodate needs of wider range of AC as org grow n pol chng
+		- Risk Adaptive/based AC
+			- apply ctrls based on
+				- risk lvl of A 
+				- id of user
+				- intentions of accessing A
+				- sec risk that exists bw user n sys/A
+	- ACL Access Ctrl List
+		- rules outlining which users have permission to access certain resources
+		- admin acct restrictions, governing type of action user can execute like
+			- edit file, apply read only status, execute program
+		- can be broad, filter all of orgs network traffic, or
+		- can be more focused, only filtering access to specific file/directories for diff users
+		- Filesystem ACL
+			- grant/deny priv in op sys by restricting to certain files, folder, directory
+		- Networking ACL
+			- used to regulate type of traffic allowed to flow across network by configuring routers, switches, etc w array of lists to enforce
+			- also improves network performance by restrict/channel data flow
+		- sim to firewalls bc filter traffic but ACL for mng user access, firewall to protect
+		- gen dont have ability to recog where data pkt originated, other connection deets
+		- Stateful ACL
+			- monitors state of network traffic to eval deets like source/destination addy
+			- distinguishes bw (ill)legit pkts that it (doesnt match known) allow to make connections 
+- Detective
+	- designed to detect threat event while occurring, assist during investigation/audit after occured
+	- NIDS Network Intrusion Detection Sys
+		- monitors incoming traffic on all devices by
+			- matching specific elements of traffic to library of known attacks
+			- sending sys alerts when events meeting predef crit detected
+	- Antivirus Software Monitoring
+		- scans files in real time, compares to lib of known viruses
+		- sch sys scans should occur automatically, performed regularly
+		- if detected, remove/quarantine immediately
+		- quarantined virus req further action by IT personnel 
+	- Network Monitoring Tools
+		- pkt sniffers
+			- anal data pkts transmitted on network
+		- NPM network performance monitoring
+			- measure network stats (pkt loss, uptime, availability)
+		- SNMP Simple Network Mgmt Protocol
+				- measure network stats, error rates
+	- Log Anal
+		- rec/monitor data to anal for anomaly/trend to indicate unauth events
+		- manual/automated process
+	- IDS Intrusion Detection Sys
+		- sec sol scanning env to monitor/anal 
+		- KADJFLKSJGLASJFG;AJFG
+- Corrective
+	- to fix known vuln resulting from
+		- recent sec incidents
+		- sec self assessments
+		- chnges in industry practices
+	- these ctrls become preventative/detective once in place/op effectively
+	- Reconfigurations
+		- mod app/sys configuration to rectify known vuln can restore affected op, prevent further damage
+		- revamp firewall rules, retool op sys settings, alter AC settings
+	- Updates/Patches
+		- to accomplish obj like enhance sys performance, add new features, plug holes
+	- Revised Pol/Proc
+		- periodically review/revise prac to eliminate sed issues w.o having to purchse new tech/mod existing sys
+		- simple as splitting job into 2, additional lvl of review, changing way in which sensitive data handled
+	- Updated Emplee Training
+		- train emplee to recog hallmarks of common fraud schemes
+		- edu on reacting when suspected fraud occurs
+		- how to change behavior to prevent
+	- Virus Quarantining
+		- actual/suspected viruses
+		- accomplished in automated manner thru antivirus software or manually after suspicious activ flagged from sys log review 
+	- Recovery/Cont Plans
+		- robust plan to quickly 
+			- recover from disaster/attack
+			- cont op so period which normal business op interrupted is min
+	- Antivirus Software Removal of Malicious Viruses 
+		- most modern id actual/potential *and* expunges viruses

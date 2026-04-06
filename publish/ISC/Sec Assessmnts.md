@@ -1,0 +1,88 @@
+[[Comms]]
+
+- protect against cyberattacks crit part IC goals
+- to mng cybersec risks crit to 
+	- follow est risk mgmt framework
+	- assess/respond to threats cont basis
+- Risk Mgmt Framework
+	- mnging risk req planning/participation at all lvl
+	- NIST framework for managing risk: NIST Special Publication 800-39
+	- FARM (Framework, Assessing, Responding, Monitoring)
+		- est risk Framework
+			- involv defining env in which risk based decisions made
+			- form strat enabling to do nxt 3
+			- req id
+				- risk assumptions/constraints/tolerance
+				- priorities, trade off
+		- [[Assess risk]]
+			- addresses way orgs assess risk in context of risk framework
+			- goal to ID
+				- threats to nations, org, indiv, A, op
+				- vuln int/ext to org/entities
+				- severity of impact
+				- probability of harm
+		- Respond to risk
+			- consistent, org wide response based on risk assessment by
+				- dev alt action course for risk response
+				- eval alt action courses
+				- det approp action courses consistent w org risk tolerance
+			- implement risk response based on selected action courses
+			- oh DEAR what we do??
+				- if u Dev n Eval Approp Response u good
+		- Monitor risk 
+			- eval monitor risk over time by
+				- det ongoing effectiveness of risk resp
+				- id risk impacting chngs to info sys/env
+				- cont watch IT infra
+			- ![[Pasted image 20260403210656.png]]
+
+- Sec Assessments conducted by
+	- sys auditors
+	- developers
+	- assessors
+	- inspector general
+	- sys integrators
+	- other sys owners
+	- if performed so others have assurance abt op/assertions, then AICPA SOC stndrds apply
+- Process
+	- focus si to gather info to make obj conclusions abt sec/priv ctrls in cost effective manner
+	- done by 
+		- consider quality, maturity of org's risk mgmt process
+		- tailoring assessment using concepts, methods, ctrl obj available in stndrds such as NIST 800-53A Rev5
+	- results of assessments help orgs
+		- id potential deficiencies in risk mgmt process
+		- id sec/priv related deficiencies in sec sys env, then det approp resp
+		- prioritize risk responses
+		- support monitoring activ, sys authorization decisions
+		- inform budgeting, investing decision makers
+- Evidence
+	- sources incl
+		- prev conducted product/sys assessments
+			- often conducted by 3rd partyes to eval
+				- sec func of prod
+				- related configuration settings
+			- may have been performed to demonstrate regulation compliance or dev/vendor claims
+		- doc of sys developmental activ
+			- artifacts prod by dev, op, assessors, other sys owners during SDLC sys dev life cycle
+			- may be in form of
+				- design specs
+				- testing/code anal
+				- interviews w related emplee
+				- other doc conducted by org/3rd party assessor 
+		- doc of op activ
+			- records of remediation efforts
+			- incident reports 
+			- results of cont monitoring
+	- helps det effectiveness of sec func/activ
+		- priv/sec ctrls currently deployed
+		- chng mgmt prac regarding sys/op
+		- compliance w pol, reg, stndrds
+	- lvl of deet available from all evidence sources can affect type of 
+		- testing
+		- anal
+		- eval performed
+		- artifacts w less coverage/depth
+			- prov lower lvl of assurance
+			- may req more rigorous, comprehensive, focused testing
+			- 
+	- 
