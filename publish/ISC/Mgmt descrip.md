@@ -1,0 +1,89 @@
+Mgmts Sys Description 
+- SOC1 - report service on ctrls relevant to IC over fin reporting
+	- description must prov sufficient info to
+		- allow user auditor to understand how servorg processing affects UE fin stmts
+		- assess risk of material misstmt of UE FS
+	- description
+		- doesnt omit/distort info relevant to sys
+		- prepared to meet common needs of broad range of UE/auditors, thus may not incl every aspect a UE may consider important in its own particular env
+	- form/extent
+		- det by mgmt
+		- may depend on size/complexity of servorg
+	- Common sections
+		- Types of services prov
+			- defined scope of services, classes of transactions processes
+		- Proc performed
+			- proc, w.in both manual/auto sys, by which services provided
+			- incl procedures to initiate, auth, record, process, correct, transfer transactions to reports n other info for UE
+		- Sys functionality
+			- how sys captures/addresses sig events/conditions (other than transactions)
+		- Subservice Orgs
+			- services performed by entities the servorg uses to prov services to UE
+			- whether carve out/inclusive method used
+			- any complementary subservice org ctrls needed to meet ctrl obj
+		- Ctrls
+			- descrip of ctrl obj/design to achieve obj
+			- incl freq, timing, person/parties resp for performance, info source to which ctrl applied
+		- CRIME? info on other aspects of ctrl env, risk assessment process, info/comms, ctrl activ, monitoring activ relevant to services prov
+		- Prepare reports
+			- process to prep reports/other info for UE
+		- Deficiencies in information
+			- if applicable, info used in performance of proc to initiate, auth, record, process, record transactions
+				- if applic, related acct rec, supporting info
+			- incl correction of incorrect info,  how info transferred to report, other info prepped for UE
+		- CUEC complementary UE ctrls
+			- ctrls that must be implemented by UE to meet ctrl obj
+		- Relevant deets of chngs to servorg sys during period covered by descrip (Type2 only)
+- SOC2 examines descrip, suitability of ctrl design, op effectiveness relevant to TSC (Typ2)
+	- mgmt resp for presenting sys descrip to let users (UE, business partners, other relevant parties) understand sys+ data processing/flow thruout n from sys
+	- descrip
+		- prepped in accord w specific crit
+		- describes proc/ctrls in place to mitigate risk
+	- Common section
+		- Types of services prov
+		- Principal service commitments, sys req
+			- commitments made to UE n sys req to achieve them
+			- Service commitments
+				- declaration made by mgmt to UE n others (ex UE customers) abt sys used to prov service
+			- Sys Req
+				- specifications abt how sys should function
+					- to meet commitments to UE, others, vendors, business partners
+					- to comply w relevant law/reg/industry guideline
+					- to achieve obj of servorg relevant to TSC addressed by descrip
+		- Sys Components used to prov services
+			- infra, software, ppl, proc, data
+		- ID sys incidents
+			- incidents resulting from ctrls not suitably designed/op effectively/sig failure in achievement of 1+ service commitment/sys req
+			- nature, extent, timing of sys incident and disposition (based on mgmt judgement) that occured as of descrip date (T1), during time period in descrip (T2)
+		- Applicable TSC
+			- incl ctrls in place for reasassur serv comm sys req
+		- CUEC
+		- Subservice org
+			- subserv orgs n ctrls at subserv
+			- inclusive method
+				- nature of service prov, ctrls w clear differentiation bw ctrls at servorg n subserv, portions of sys attributable to subserv w relevant aspects (infra, software, ppl, proc, data)
+			- carve out method
+				- mgmt doesnt incl descrip of ctrls that op only/primarily at subserv
+				- but descrip should contain deets abt nature of serv prov, ctrl types, applicable TSC intended to be met by CSOC, subserv resp for implementing CSOC, indication that related service commitment/sys req only achieved if CSOC suitably designed/op effectively 
+				- CSOC = complementary subserv org ctrls
+		- Irrelevant specific crit
+			- explanations for why specific TSC not relevant
+		- Deets of sys/ctrl chngs during period relevant to servcomm/sysreq (Type 2 only)
+- Cybersec Engagement
+	- cybersec risk mgmt program is set of pol/proc/ctrls designed to 
+		- protect info/sys from sec events compromising achievement of cybersec obj
+		- detect, respond, mitigate, recover, timely , sec events that arent prevented
+	- Categories of descrip crit incl
+		- Nature of business/op
+		- Nature of info at risk
+		- Cybersec obj
+		- Factors w sig effect on inherent cybersec risks
+		- Cybersec risk governance structure
+		- Cybersec risk assessment proc
+		- Cybersec comms, quality of cybersec info
+		- Monitoring of cybersec risk mgmt program
+		- Cybersec ctrl processes
+	- mgmt resp for
+		- dev/present descrip of cybersec risk mgmt program
+		- make assertion abt if descrip presented in accord w descrip criteria
+		- make assertion abt effectiveness of ctrls w.in program based on set of ctrl crit
