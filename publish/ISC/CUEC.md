@@ -1,0 +1,32 @@
+Complementary UE Ctrls
+- ctrls needed tto be implemented by UE in combo w servorg ctrls, to prov ra
+	- ctrl obj in mgmt sys descrip (SOC1)
+	- servcomm/sysreq (SOC2) achieved
+- when CUECs id, servorg mgmt req to ensure sys descrip has certain disclosures abt those ctrls, incl stmt that UE resp for implementing CUEC
+- sometimes, servorg ctrls cant prov ra servcomm/sysreq achieved w/o UE performing certain activ in defined manner
+	- servorg expects UE to implement ctrls, perform completely/accurately/timely
+	- servorg mgmt id CUECs in sys descrip
+- CUEC ex
+	- sec monitoring
+	- MSP env chngs
+	- encrypted fin data
+	- phys AC
+	- authorization pol
+- servorg usually able to prov ra...... achieved w/o CUEC implementation bc servorg restricts servcomm/sysreq to those
+	- that are its resp
+	- that it can reasonably perform
+- ![[Pasted image 20260407222337.png]]
+
+- SOC1
+	- relevant CUEC ensuring ctrl obj met should be described in sys descrip
+	- recc stmt made, if applic, servorg ctrls only achieved if CUEC designed/oe
+- SOC2
+	- sys descrip incl relevant CUEC, stmt that UE resp for those ctrls
+		- state engagement didnt incl eval of if CUEC eval for sd/oe
+		- incl lang abt how CUEC interact w servorg ctrls
+	- sometimes, sep SOC2 reports may exist for subserv that outline relevant CUEC and potentially fall w.in scope of servorg ctrls
+
+- if CUEC, CSOC, both needed to achieve
+	- related ctrl obj in mgmt sys descrip (SOC1)
+	- servcomm/sysreq
+	- >> stmt to that effect in opinion section of report

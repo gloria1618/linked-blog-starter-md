@@ -31,7 +31,7 @@ Mgmts Sys Description
 			- if applicable, info used in performance of proc to initiate, auth, record, process, record transactions
 				- if applic, related acct rec, supporting info
 			- incl correction of incorrect info,  how info transferred to report, other info prepped for UE
-		- CUEC complementary UE ctrls
+		- [[CUEC]] complementary UE ctrls
 			- ctrls that must be implemented by UE to meet ctrl obj
 		- Relevant deets of chngs to servorg sys during period covered by descrip (Type2 only)
 - SOC2 examines descrip, suitability of ctrl design, op effectiveness relevant to TSC (Typ2)
@@ -65,7 +65,7 @@ Mgmts Sys Description
 			- carve out method
 				- mgmt doesnt incl descrip of ctrls that op only/primarily at subserv
 				- but descrip should contain deets abt nature of serv prov, ctrl types, applicable TSC intended to be met by CSOC, subserv resp for implementing CSOC, indication that related service commitment/sys req only achieved if CSOC suitably designed/op effectively 
-				- CSOC = complementary subserv org ctrls
+				- [[CSOC]] = complementary subserv org ctrls
 		- Irrelevant specific crit
 			- explanations for why specific TSC not relevant
 		- Deets of sys/ctrl chngs during period relevant to servcomm/sysreq (Type 2 only)
