@@ -1,7 +1,7 @@
 [[TSC]]
 [[Opinion]]
 [[Contents]]
-
+[[carve.inclusive]]
 - User entity
 	- org utilizing outsourced services
 - Service Org
