@@ -1,0 +1,77 @@
+Performing ToC/Proc in SOC2
+
+- auditor must obtain evidence that
+	- descrip presents sys that was designed/implemented in accord w descrip crit
+	- ctrls sd/oe(t2)
+sd
+- evidence gathered when obtaining understanding of sys/ctrls, det descrip fair, is useful when assessing ctrl sd
+- to supplement evidence, may perform combo of
+	- inquiry personnel abt design/ctrl op/sys events
+	- inspect docs
+	- additional walk thrus
+	- read applicable supporting sys doc
+	- det whether attacks, vuln exploitations, emerging risks, threats adeq addressed
+- when eval sd of ctrl, consider
+	- ctrl freq
+	- competence/authority of indiv performing
+	- precision/sensitivity of tasks w.in ctrl
+	- evidence contradicting assertion that ctrl functioning as designed
+oe
+- if ctrl sd
+	- potential to meet aTSC >
+	- enabling ctrls to prov ra servcomm/sysreq achieved
+		- sd ctrls op as designed by indiv w needed authority/competence to perform ctrl
+		- ctrl that oe prov ra of achieving servcomm/sysreq based on aTSC
+- auditor
+	- tests oe of ctrls in descrip based on aTSC
+	- performs ToC to obtain evidence abt oe of ctrls
+- evidence from ToC relates to
+	- how ctrls applied
+	- consistency with which they were applied
+	- whom/what manner they were applied
+	- if use inclusive method for subserv, apply ToC to subserv ctrls too
+- auditor resp for det NET of proc needed to get sufficient/approp evidence abt ctrl oe thruout eng period (t2)
+	- Nature
+		- how ctrls tested
+		- nature/obj of tests to eval oe are diff from those performed for sd
+		- design/perform ToC, often do following
+			- make inquiries, perform other proc like inspection, observation, reperformance to obtain evidence abt 
+				- how ctrl applied
+				- consistency w which ctrl applied thruout period
+				- by whom/what means ctrl applied
+			- det if ctrls to be tested depend on other ctrls, if yes then if necessary to get evidence supporting oe of those other ctrls
+			- eval/det effective method for selecting items to be tested to meet obj/proc
+		- consider reliability of evidence by
+			- eval completeness/accuracy of info
+			- det if sufficiently precise to meet needs
+	- Extent
+		-  # of proc performed, sample size, # of obsv of ctrl activ
+		- extent based on prof judgement after considering
+			- tolerable deviation rate
+			- expected deviation rate
+			- freq w which ctrls op
+			- relevance/reliability of evidence that can be obtained to support concl that ctrl oe
+			- testing period length
+			- sig of ctrl to achievement of servcomm/sysreq based on aTSC
+			- extent to which audit evidence obtained from tests of other ctrls supporting achievement of servcomm/sysreq based on aTSC
+	- Timing
+		- when ctrls tested, testing freq
+		- factors relevant to auditors det of timing of ToC
+			- period of time during which info avail to 
+				- e files may be overwritten after time period
+				- proc may occur only at certain times during period
+				- some proc may need to be performed after period end, like rev reconciliations gen after period end
+			- if ctrls leave evidence of op, if not if ctrl should be obsv
+			- sig of ctrl being tested
+		- may perform ToC
+			- at interim dates
+			- at end of eng period
+			- after eng period if tests relate to ctrls in op during period but don't leave evidence until after end of period
+		- when tests performed at interim date, auditor should det what proc needed to obtain evidence abt ctrl performance thru end of period
+- combo of ctrls needed when 1+ ctrl req to address risk that would prevent servorg from achieving 1+ servcomm/sysreq
+
+
+#### Reporting Failures, Sys Incidents, Concerns
+- should gain understanding of proc to report
+	- sys failures/incidents
+	- complaints by ext/int sys users 

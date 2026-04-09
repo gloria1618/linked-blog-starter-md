@@ -1,0 +1,46 @@
+- Materiality
+	- serv auditor req to 
+		- consider materiality during risk assessment
+		- det NET of proc needed to obtain sufficient approp evidence to support opinion
+	- materiality def/interpretations diff bw SOC 1/2 but in both auditor req
+		- to reassess materiality if auditor obtains new info that woulda caused em to assess initial materiality diff
+	- SOC1
+		- consideration incl fair presentation of sys descrip
+			- in context of fair pres of descrip relates to info being reported on, not fin stmts of UE
+			- qualitative factors like
+				- if sig aspects of processing incl in descrip
+				- if relevantn info omitted/distorted
+		- materiality w respect to ctrl oe(t2) incl consideration of 
+			- qual - deviation cause/nature
+			- quant - tolerable/observed deviation rate
+		- ![[Pasted image 20260408174733.png]]
+	- SOC2
+		- materiality described as
+			- likelihood/magnitude of risk threatening servcomm/sysreq achievement
+			- if ctrls desing, implement, op were effective in mitigating risks to acceptable lvl based on aTSC
+		- auditor should consider
+			- threat nature
+			- likelihood/magnitude of risks arising from those threats to servcomm/sysreq achievement on aTSC
+		- auditors consideration of materiality
+			- is matter of prof judgement
+			- affected by auditor's perception of common info needs of broad range of users
+		- typ considers whether misstmts in descrip/def in sd/oe(t2), could reasonably be expected to infl relevant decisions made by range of report users
+		- if eng designed to meet info needs of specific subset of SOC2 report users, and report restricted to them
+			- auditor considers possible effect of such misstmts on decisions that may be made by that subset of users 
+- Mistmt 
+	- Descrip Mistmt
+		- error/omission in sys descrip
+	- Deviation/Exception
+		- id mistmts from failure of ctrl to op in a specific instance
+		- deviation could result in deficiency
+	- Design Deficiency
+		- when ctrl needed to meet ctrl obj is missing/improperly designed so even if op as designed, ctrl obj wouldnt be achieved
+	- Oe Deficiency
+		- prop designed ctrl fails to op as designed
+		- person performing ctrl doesnt possess competency needed to perform ctrl effectively
+	- auditor accum mistmts related to each subj matters of eng
+		- descrip
+		- sd of ctrls
+		- oe of ctrls (t2)
+	- mistmts/deficiences related to specific subj matter in auditor's opinion could affect other subj matters in opinion
+	- ![[Pasted image 20260408175736.png]]

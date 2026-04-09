@@ -1,9 +1,15 @@
 [[TSC]]
-[[Opinion]]
 [[Contents]]
-[[carve.inclusive]]
+[[mgmt resp]]
 
-SEE S4/M3 FOR EXAMPLES OF REPORT
+step1 [[obj.planning]]
+step 2[[risk assessment]]
+step 3 [[respond to assessed risks]]
+step 4 [[eval descrip]] sys mgmt is fairly presented in accord w descrip crit
+step 5 obtain/eval [[evidence]] abt sd ctrl n oe(t2)
+step 6 eval proc results
+step 7 form opinion
+SEE S4/M3 FOR EXAMPLES OF REPORT 2nd vid?
 
 - User entity
 	- org utilizing outsourced services

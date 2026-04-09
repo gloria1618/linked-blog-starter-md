@@ -1,0 +1,117 @@
+#### Understanding Sys, Sys Req, Servcomm in SOC 2 Eng
+- sys def 
+	- infra, software, proc, data design, implement, op by ppl to achieve 1+ org specific business obj in accord w mgmt specified req
+- sys boundaries
+	- need to be clearly def, comms to report users in SOC eng
+	- specific aspects of servorg's
+		- infra, software, ppl, proc, data needed to prov services
+	- when sys for mult serv share aspects, infra, software, ppl, proc, data... the sys overlaps, but boundaries of each sys diff
+		- fin rep sys bounded by components of sys related to fin transaction initiation, auth, record, process, reporting
+		- sys related to processing integrity boundaries may extend to other op like risk mgmt, int audit, IT, call center processses
+		- in SOC2 that addresses conf/priv crit, sys boundaries cover at min, all sys parts related to life cycle of conf/personal info w.in well defined processes n informal ad hoc procedures
+- business obj/subobj relate primarily to
+	- achievement of sys servcomm made to UE n sys req
+		- servcomm may be est for many diff aspects of service being prov, incl
+			- algorithm specifics used in sys calc
+			- hrs sys avail
+			- published password stndrds
+			- encryption stndrds use
+			- may also be est for 1+ TSC in descrip
+	- compliance w law/reg regarding provision of services by sys
+	- achievement of other obj servorg has for sys
+- sysreq may also
+	- define how sys should func to meet service commitments
+	- comply w law/reg
+	- achieve other obj
+	- ex
+		- workforce member fingerprinting, background checks est in gov banking reg
+		- sys edits restricting values accepted for sys input, which are defined in application design docs
+		- max acceptable intervals bw periodic rev of workforce mem logical access as documented in sec pol manual
+		- data definition, tagging stndrds, incl any assoc metadata req (eg Simple Obj Access Protocol), est by industry groups/other
+		- business processing rules/stndrds  est by reg (eg Health Insurance Portability/Accountability Act)
+	- sys req may result from servorg commitments related to 1+ TSC
+
+#### Assessing Suitability of Servcomm/Sysreq
+- mgmt resp for 
+	- achieving servcomm/sysreq
+	- disclosing principal servcomm/sysreq in sys descrip in manner that alllows SOC2 report users to understand
+		- how ctrl op
+		- how mgmt/auditor eval sd/oe(t2)
+- servcomm made to UE may differ based on UE needs
+- mgmt 
+	- doesnt need t o disclose every servcomm to every UE
+	- should disclose those relevant to common needs of broad range of SOC2 report users
+- when deciding whether disclosures in descrip are approp, auditor should consider if
+	- servcomm presented in sufficient detail for report users to understand relation bw
+		- ctrl implemented by servorg
+		- sysreq
+		- servcomm
+	- descrip summarizes principal servcomm common to broadreport users
+	- describe only ctrls implemented
+	- prov sufficient detail abt each ctrl to enable report users, esp UE n business partners, to understand how each ctrl may affect their interactions w servorg
+- ![[Pasted image 20260408184658.png]]
+
+#### Risk Assessment Considerations of Servorg
+- in SOC eng, risk assessment begins w servorg id/assess types/likelihood n impact of risks affecting
+	- prep of descrip
+	- sd ctrls
+	- oe of ctrls (t2)
+- how entities id/mng risk could affect ability to meet commitments/ctrl obj
+	- risk may incl
+		- un/intentional int/ext acts
+		- id threats/vuln/deficiencies to n of sys
+		- use of subserv to store, process, transmit sensitive info on servorg behalf
+		- type of emplee personnel w sys access
+		- lack of CUEC CSOC 
+- Inherent risk factors
+	- risk present before consideration of ctrls
+	- in all SOC, risk assessment primarily focuses inherent risks that affect
+		- prep of sys descrip
+		- effectiveness of ctrls
+	- Chngs in Op Env
+		- new promulgated reg/stndrd may req new ctrl, exisiting to be reviews
+	- New Personnel
+		- perf manual ctrls could inc risk that ctrls dont op effectively
+	- New/Revamped Info Sys
+		- New IT sys could affect ctrl func, UE
+	- Rapid Growth
+		- inc in customers could reduce effectiveness of some ctrls
+	- New Tech
+		- may perform sim func diff, could affect UE
+	- New Business Model/Prod/Activ
+		- divertign resources could impact certain ctrls at servorg
+	- Corp Restructing
+		- may affect reporting resp/resources that serve UE
+	- Expanded Foreign Op
+		- org w emplee in foreign loc may have difficulty responding to chngs in user req
+	- New Acct Stndrds
+	- Chngs in Eco Conditions
+		- slowing eco growth may impact range of services offered 
+- auditor must perform risk assessment proc that
+	- sufficient to enable auditor to id/assess risk of material mistmt
+	- prov basis for design/perform proc responsive to risks
+
+#### Performing Risk Assessment Proc
+- part of risk assessment, auditor should understand sys, incl ctrls w.in sys
+- understanding should incl processes/proc to
+	- prep sys descrip, incl determination of ctrl obj
+	- id ctrls designed to achieve ctrl obj
+	- assess sd
+	- assess oe (t2)
+- if servorg has int audit func, servauditor understanding of sys incl
+	- nature of int audit func resp, how they fit into org structure
+	- activ performed, to be performed by int audit func as it relates to servorg
+- understanding may incl
+	- inquire mgmt/those charged w goveranance/others w.in servorg who, in servauditor judgment, may have relevant inof
+	- obsv op, inspect doc/report/printed n elec records of transaction processing
+	- inspect selection of agrmts w UE n business partners
+	- reperform application of ctrl
+	- read relevant reports received from regulators, int auditors, other specialists (SOC2)
+- may accomplish risk assessment proc
+	- thru performing walkthru
+	- concurrent w proc performed to obtain info abt
+		- if sys descrip presented in accord w descrip crit
+		- if ctrls suitably designed, oe to meet ctrl obj
+- should also perform risk asssessment proc to id fraud/noncompliance risk w law/reg
+	- risks could incl mgmt override of ctrls, misapprop A, creation of false/misleading doc/rec
+

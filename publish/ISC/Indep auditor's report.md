@@ -53,7 +53,7 @@ SOC1
 			- when applicable, fi work of internal audit func used in ToCC to obtain evidence, descrip of internal auditor's work n serv auditors proc w respect to that work
 	- Other Matter (T1 only)
 		- stmt auditor didnt perform any proc abt oe of ctrls, therefore expresses no opinion thereon
-	- Opinion
+	- [[Opinion]]
 		- IAMR, based on crit in assertion
 			- mgmt sys descrip fairly presents whats design/implemented Date(t1/2)
 			- ctrls related to ctrl obj in descrip sd to prov ra ctrl obj achieved if oe Date(t1/2)

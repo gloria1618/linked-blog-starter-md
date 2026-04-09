@@ -1,0 +1,46 @@
+[[material.misstmt]]
+Obj n Planning Considerations for Serv Auditor
+- planning SOC req serv auditor to 
+	- obtain understanding of key areas
+	- formulate assessments of risk relevant to eng
+- during planning, resp for
+	- det whether to accept or cont eng
+	- agreeing on eng terms
+	- reaching understanding w mgmt abt written assertion
+- SOC1 also resp for
+	- assessing risk of material mistmt
+	- obtain understanding of sys, assess suitability of crit used by mgmt in preparing sys descrip
+- SOC2/3 resp for
+	- est overall eng strat 
+		- set scope, timing, direction, guide dev of eng plan incl
+			- consideration of materiality
+			- id risks of material misstmts (SOC2)
+	- perform risk assessment proc
+		- incl understand sys, how sys ctrl design, implement, op to prov ra servcomm/sysreq ach (SOC2)
+- Agreeing to Eng Terms
+	- SOC is ex of assertion based examination eng, so relevant eng stdrds apply
+	- auditor n servorg should agree upon terms like
+		- obj, scope 
+		- resp of auditor n responsible party (probs mgmt), incl resp of mgmt to prov representation letter
+		- id crit used to measure, eval, disclose info abt subj matter
+		- acknowledge eng conducted in accord w attestation stndrds est by AICPA, n inherent limitations of eng
+- Independence
+	- indep assessment proc may address matters like
+		- scope of services
+		- fee arrangements
+		- firm/indiv fin relations
+		- firm business relations
+		- alumni/familial relations w client n client personnel
+	- servauditor not req to be indep of each UE
+	- Servorg n Servauditor
+		- auditor needs to be indep w respect to responsible party(parties)
+			- resp party most often servorg
+	- Subserv n Servauditor
+		- mgmt of subservorg also resp party (so auditor should be indep of) if
+			- servorg uses subserv org
+			- mgmt elects to use inclusive method to present certain info abt subserv org in sys descrip
+	- Lacking Indep
+		- not indep, but req by law/reg to accept eng n report on subj matter, should
+			- disclaim opinion
+			- specifically state servaud not indep
+		- neither req to prov/preclude from prov, reasons for lack of indep, but should incl all reasons if any given 

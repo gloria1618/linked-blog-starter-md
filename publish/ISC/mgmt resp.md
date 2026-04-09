@@ -1,0 +1,79 @@
+ServOrg Mgmt Resp
+- auditor req to est prior to accepting SOC eng
+	- an understanding w servorg mgmt about resp of
+		- servorg mgmt
+		- auditor
+- mgmt decisions priro to engaging auditor can affect NET nature, extent, timing of procedures the auditor performs
+- auditor should
+	- est comms w mgmt
+	- det approp ppl w.in servorg mgmt/governance structure w whom to interact
+		- incl auditor's consideration of who has approp resp for, knowledge of, relevant matters
+- SOC1, mgmt resp for prior to eng
+	- Defining engagement scope
+		- which services/transaction classes, func, business units, func areas, applications likely to be relevant to UE IC over fin rep
+		- if servorg has contractual obligations to prov type 1/2 to 1+ UE, incl freq w which report to be issued, period that will be covered by report
+		- recurring/existing engagement, prior report prov useful starting pt for defining scope
+	- Report type (1/2)
+	- Det the as of date (t1), period (t2)
+	- ID subserv org, where serv prov to servorg likely relevant to UE IC over fin rep
+		- whether subserv org presented using carveout/inclusive in sys descrip
+	- Have reasonable basis for assertion
+	- Select crit to be used, state in assertion, det crit are approp for mgmt purposes 
+	- Specify/state ctrl obj, whether any ctrl obj specified by law/reg/another party, incl party specfying ctrl obj
+	- ID risks threatening achievement of stated ctrl obj n design, implement, doc ctrls that sd/oe to prov ra that stated ctrl obj will be met
+	- Prep written assertion w mgmt sys descrip n prov both to UE
+	- if servauditor plans to use internal auditor to prov direct assistance, prov servauditor w written acknowledgement that
+		- int auditors prov direct assistance to serv auditor will be allowed to follow serv auditor's instructions
+		- servorg wont intervene in work of int auditor performed for servauditor
+	- Disclose to servauditor
+		- incidents of noncompliance w law/reg, fraud, uncorrected misstmts that aren't trivial, may affect 1+ UE, whether incidents haave been approp comms to affected UE
+		- knowledge of any actual, suspected, alleged intentional acts that could adversely affect presentation of descrip, or completeness/achievement of ctrl obj in descrip
+		- any deficiencies in design of ctrls which mgmt is aware
+		- all instances which ctrls haven't op as designed
+		- any events subseq to period covered by sys descrip, up to date of servauditors report, that could have sig effect on mgmt assertion
+- SOC2 mgmt resp
+	- # Prior
+	- Def eng scope
+		- serv to UE (subj matter)
+		- sys to prov serv
+		- report type (1/2)
+		- id risks of business partners/subserv
+		- det the as of date (t1), period (t2)
+		- eval effect of subserv on syscomm/sysreq
+		- carveout/inclusive in descrip
+			- inclusive - obtain agrmt from subserv mgmt to participate in eng
+		- select TSC to incl in scope
+	- Specify principal servcomm made to UE/business partners, needed sysreq to op sys
+	- ID/anal risks preventing/threaten achieving servcomm/sysreq (in descriop)
+	- design, implement, op, monitor, doc ctrls sd/oe(t2) to prov ra abt ability to achieve servcomm/sysreq based on aTSC
+	- # During
+	- prep sys descrip, assertion incl completeness/accuracy/method of presentation of descrip/assertion
+	- reasonable basis for assertion
+	- written assertion w mgmt descrip, prov both to report users
+	- design, implement, doc ctrls sd/oe(t2) to prov ra ...
+	- Prov auditor w access to
+		- all relevant info (record,s doc, SLA, internal audit, etc)
+		- additional info requested
+		- personnel to obtain relevant evidence
+	- Prov auditor w written rep at eng conclusion
+	- if servauditor plans to use internal auditor to prov direct assistance, prov servauditor w written acknowledgement
+		- --- soc1 same
+	- Disclose to auditor
+		- incidents of noncompliance w law/reg, fraud, uncorrected misstmts that aren't trivial, may affect 1+ UE, whether incidents haave been approp comms to affected UE
+		- knowledge of any actual, suspected, alleged intentional acts that could adversely affect presentation of descrip, sd/oe(t2)
+		- any deficiences in design 
+		- all instances which ctrls haven't op as designed
+		- all id sys incidents resulting in sig impairment of achievement servcomm/sysreq as of date of descrip (t1) during period (t2)
+		- any subseq events to descrip period, up to date of auditor report, that could sig effect mgmt assertion 
+- SOC3 
+	- # During
+	- Define scope
+	- **sim to SOC but mgmt no sys descrip
+	- specify principal servcomm/sysreq made to UE
+	- id/ana risks preventing achieving 
+	- design, implement, monitor, doc ctrls to prov ra
+	- id subserv, det incl/carveout
+		- carvout - id CSOC
+	- prov written assertion disclosing
+		- sys boundaries
+		- servorg principal servcomm/sysreq

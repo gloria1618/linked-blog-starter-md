@@ -1,0 +1,89 @@
+Evaluating if Mgmt Sys Descrip is Fairly Presented
+
+SOC1 
+- auditor req to 
+	- obtain, read mgmt descrip
+	- eval if aspects of descrip that are incl in eng scope are presented fairly, IAMR, based on suitable crit in mgmt assertion
+- eval of if descrip fairly presented incl if
+	- ctrl obj stated are reasonable in circum
+	- ctrls id in descrip were implemented
+	- CUEC CSOC are adeq described
+	- subserv services adeq described, incl carveout/inclusive
+- attributes of suitable crit for eval fair presentation of mgmt descrip incl
+	- if mgmt descrip presents how sys design/implemented, incl following info abt sys if applicable:
+		- serv type prov, incl transaction classes
+		- proc, w.in auto/manual sys, by which serv prov
+		- info used in proc performance, incl related acct rec, supporting info involv in initiate, auth, rec, process, report transactions
+		- how servorg sys captures, addresses sig events/conditions other than transactions
+		- process used to prep reports, other info for UE
+		- serv performed by subserv 
+		- specified ctrl obj, ctrl designed to achieve those obj
+		- other aspects of 5 ctrl areas CRIME relevant to serv prov
+	- if mgmt descrip incl relevant details of chngs to sys during period covered by descrip (t2 only)
+	- if descrip doesnt omit/mislead info relevant to sys, while acknowledging descrip
+		- is prepped to meet common needs of broad UE n their auditors
+		- may not incl every aspect of servorg sys that each indiv UE may consider important
+- consider n assess
+	- adeq of lvl of detail in descrip
+	- nature of UE
+	- avail doc form servorg
+		- pol/proc manual
+		- legal contracts
+		- process narratives
+	- thru inquiriesproc, det whether sys has been implemented
+
+##### Eval if Descrip Presents Sys that was Desing/Implemented in Accord w Descrip Criteria
+- service auditor should
+	- obtain, read descrip of service org sys
+	- perform proc to det if - title
+- det title involv comparing
+	- understanding of serv prov to UE
+	- sys based on TSC incl in eng scope
+- accord
+	- describes sys that was implemented
+	- incl info about each description criterion, to extent relevant to sys being described
+	- doesn't inadvertently/intentionally omit/distort info likely relevant
+- not accord
+	- state/imply certain IT parts exist when dont
+	- state/imply some process/ctrls implemented when not
+	- contains stmts that cant be obj eval
+- det if accord involv eval if each stated ctrl implemented
+	- ctrl implemented = placed into op
+	- if concl certain ctrls in description not implemented, may request servorg to delete those from descrip
+		- if mgmt doesn't, auditor considers impact of concl abt descrip/presentation of report
+
+#### Performing Procedures to Obtain Evidence
+- proc auditors may perform 
+	- discuss w mgmt, personnel content of assertion/descrip
+	- read annual report
+	- read servcomm/sysreq to det if approp for eng circumstances
+	- inspect doc supporting risk assessment (incl risk mitigation plan)
+	- obv ctrls performed by personnel
+	- read contracts w UE, business partners, n mktg materials
+	- read docs to understand risk gov structure, process (board mins, org charts, comms)
+	- read docs for comms resp for sys sec to org personnel (handbook, code of conduct)
+	- read int audit reports, 3rd party assessments, audit committee presentations, other doc related to monitoring activ
+	- read sample contracts w subserv, vendors
+	- read incident response, recovery plans documentation for servorg process for recovering from id sys events
+- Walk thru/other proc
+	- walk thru proc incl
+		- follow transaction, event, activ from orginiatin to final disposition thru sys using same docs as personnel
+		- inquiry, obsv, inspection of relevant docs, flowcharts, questionares, decision tbls to facilitate understanding of design of ctrls
+		- inquiry abt instances during period in which ctrls didn't op as described/designed
+		- q process variations of diff event types/transactions
+	- approp performed walk thru
+		- prov oppro to verify understanding of flow transactions, ctrl design
+		- pro evidence abt whether ctrls incl in descrip
+			- sd/implemented
+			- oe(t2)
+- Eval of Descrip Disclosures
+	- serv auditor should 
+		- eval if descrip misleading w.in context of eng based on evidence obtained
+		- consider if additional disclosures needed to supplement descrip
+	- additional disclosures may incl
+		- sig interp made in apply crit in eng circumstances
+		- subseq events, depending on nature/sig
+	- if believe descrip mistated/misleading, ask mgmt to amend descrip
+		- if mgmt refuses, consider effect on opinion abt descrip
+- 
+	- 

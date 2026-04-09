@@ -4,5 +4,5 @@ Contents of Auditor's Report for SOC Engagement
 	- [[Mgmt descrip]] of sys
 	- [[Mgmt assertion]]
 	- [[Indep auditor's report]]
-	- [[auditors ToC, results]]
+	- auditor's [[ToC, results]]
 

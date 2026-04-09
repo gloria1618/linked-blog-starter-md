@@ -65,7 +65,7 @@ Mgmts Sys Description
 			- carve out method
 				- mgmt doesnt incl descrip of ctrls that op only/primarily at subserv
 				- but descrip should contain deets abt nature of serv prov, ctrl types, applicable TSC intended to be met by CSOC, subserv resp for implementing CSOC, indication that related service commitment/sys req only achieved if CSOC suitably designed/op effectively 
-				- [[CSOC]] = complementary subserv org ctrls
+				- CSOC = complementary subserv org ctrls
 		- Irrelevant specific crit
 			- explanations for why specific TSC not relevant
 		- Deets of sys/ctrl chngs during period relevant to servcomm/sysreq (Type 2 only)
