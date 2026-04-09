@@ -82,3 +82,6 @@ SOC1
 ![[Pasted image 20260407191725.png]]
 ![[Pasted image 20260407191745.png]]![[Pasted image 20260407191809.png]]
 ![[Pasted image 20260407191827.png]]
+
+
+## ## Contents of the Service Auditor’s Report for a SOC 2® Engagement: Part 2 s4m2 for ex

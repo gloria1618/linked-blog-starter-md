@@ -1,14 +1,16 @@
 [[TSC]]
 [[Contents]]
 [[mgmt resp]]
+[[written rep]]
 
 step1 [[obj.planning]]
 step 2[[risk assessment]]
 step 3 [[respond to assessed risks]]
 step 4 [[eval descrip]] sys mgmt is fairly presented in accord w descrip crit
-step 5 obtain/eval [[evidence]] abt sd ctrl n oe(t2)
-step 6 eval proc results
+step 5 obtain/eval [[evidence]] abt sd ctrl n oe(t2) in SOC2
+step 6 [[eval results]] of proc in SOC2
 step 7 form opinion
+[[subseq]]
 SEE S4/M3 FOR EXAMPLES OF REPORT 2nd vid?
 
 - User entity

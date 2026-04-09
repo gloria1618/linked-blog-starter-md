@@ -1,0 +1,35 @@
+Evaluating Results of Proc in SOC2
+- auditor must consider all info/evidence obtained during eng
+	- evidence from all source (int/ext)
+	- evidence that both corroborates/contradicts mgmt assertions
+- absence of info should be considered as evidence
+- if evidence sufficient/approp based on prof judgement, additional proc to gather more evidence
+	- if unable to obtain necessary further evidence, consider implications for opinion 
+- auditor must
+	- eval results of all proc performed
+	- qual/quant anal
+		- anal performed on deviations in
+			- ctrl oe resulting in descrip not presented accord w descrip crit
+			- ctrls not sd or oe (t2)
+- when eval proc results, investigate nature/cause of id descrip mistmts, deficiencies/deviation in ctrl effectiveness n determine
+	- whether id descrip mistmts result in either
+		- failure to meet 1+ descrip crit
+		- presentation that could be misunderstood by users if opinion not modified to reflect id descrip mistmts
+	- if id deviations 
+		- within expected deviation rate, acceptable
+			- if yes, then if performed proc prov approp basis for concl ctrl oe thruout specified period
+		- constitute deficiency
+		- are likely to have pervasive effect on achieve of servcomm/sysreq based on aTSC
+		- are likely to affect only 1 of em
+	- if
+		- prev tested (combo) ctrls prov suff approp evidence abt if ctrls op effectively, or
+		- additional testing of ctrls/other ctrls needed to det if ctrls effective thruout period
+			- if unable to apply additional proc to selected items, consider reasons for limitation, concl whether selected items are deviations from prescribed policy/scope limitation
+	- magnitude of effect of such deficiencies on ach of servcomm/sysreq based on aTSC
+	- if report users could be misled if opinion not mod to reflect id deficiencies
+	- considerations of any known/suspected fraud/noncompliance w law/reg
+
+- mod opinion if id
+	- material descrip mistmt
+	- material deficiencies in sd or oe(t2)
+- whn mod opinion, understanding of nature/cause of descrip mistmts/deficiencies lets auditor det how to approp mod opinion

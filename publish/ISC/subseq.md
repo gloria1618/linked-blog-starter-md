@@ -1,0 +1,44 @@
+Subsequent Events, Subsequently Discovered Facts
+- Nature of Subseq Events
+	- transaction/events after eng period, but before date of auditor report, that could have sig effect on 
+		- descrip
+		- sd ctrl
+		- oe ctrl (t2)
+		- mgmt assertion
+	- disclosure of event/transactions in descrip may be needed to prevent report users from being misled
+	- auditor req to inquire of mgmt if aware of any such events
+		- if yes, apply approp proc to obtain evidence abt events
+		- obtain evidence by inquiring abt oe by inspecting
+			- relevant int auditors reports issued during subseq period
+			- other practitioner's reports issued during subseq period
+			- relevant reg agencies reports issued during subseq period
+			- reports on other prof eng for that entity
+- Subsequent Events Likely to Affect SOC Report
+	- likely to affect ys descrip/mgmt assertions
+		- ![[Pasted image 20260409170425.png]] 
+- Subseq Events Unlikely to Affect
+	- not all likely to impact report, as event/underlying situation may not have existed until after period covered by report, and auditor may concl no impact on descrip, sd, oe (t2)
+	- some subseq events may be sufficiently sig to warrant disclosure by mgmt in sys descrip or auditor in report
+	- ex warranting disclosure
+		- acquired by another company
+		- experienced major op disruption caused by weather/natural disaster
+		- made sig chngs to info sys, incl either sys conversion or outsourcing a portion of op
+	- once aware of subseq event that is sig, auditor should request mgmt disclose event in either
+		- mgmt assertions
+		- sys descrip
+	- if mgmt refuses to disclose, that if undisclosed would mislead users, consider taking following actions
+		- mod auditor report, disclose event
+		- withdraw from eng
+- Subseq Discovered Facts AFTER Report Issuance
+	- auditor not req to perform any proc regarding
+		- descrip
+		- sd
+		- mgmt assertion
+		- oe
+	- however, auditor resp for responding approp to facts that become known after report date
+	- use prof judgement to det if subseq discovered facts, had been known by report date, may have caused revise in report
+	- det if facts existed at date of report, and if so, if persons who would attach importance to facts are currently using, or likely to use report
+		- may do this thru discussions w mgmt/approp parties n thru performance of additional proc that auditor considers necessary to det if descrip/assertion/report need revision or if prev issued report is approp
+	- auditor may det necessary to notify persons currently/likely to use report depending on factors like
+		- time elapsed since report date
+		- when issuance of subseq report is imminent 

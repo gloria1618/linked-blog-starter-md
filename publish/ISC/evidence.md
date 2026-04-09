@@ -74,4 +74,21 @@ oe
 #### Reporting Failures, Sys Incidents, Concerns
 - should gain understanding of proc to report
 	- sys failures/incidents
-	- complaints by ext/int sys users 
+	- complaints by ext/int sys users by inquiring of mgmt abt ctrls
+- mgmt resp for id NET of sys incidents in sys descrip, making that an ideal place to start rev for such incidents
+- auditors may consider info related to following in gaining understanding/evidence
+	- quart/annual board meetings should indicate comms of failures to senior mgmt/BoD, awa IRP from sig event
+	- inquiries abt 3rd party administered whistleblower hotlines avail to int/ext users to understand if mgmt monitors workforce/customer complaints awa sanction personnel violating code of conduct
+		- verification, test op by
+			- test dialing hotline
+			- rev op proc related to complaint intake
+			- doc sys failures
+	- ext/int sys users should be prov w doc resp, pol, proc related to security commitments, incl instructions to report/escalate sec failures, sys incidents, concerns, complaints
+		- common place for doc around policies, proc, comms plans is company intranet for emplee, customer portal, websites
+		- chngs, sec alerts, known issues should be doc n comms to int/ext sys users
+	- mgmt monitors/prov training to personnel
+	- ex/int users prov w sys descrip/boundaries, sys processes that incl infra, software, ppl, proces, proc, data
+		- commonly in org intranet for int, internet for ext
+	- agrmts ext w service prov, business partners that incl clearly defined terms, conditions, resp for serv prov, business partners
+	- planned chngs to sys components  are rev, approve, sch int, then comms w potential impact to int/ext users
+		- commonly in IT maintenance sch, comms for int users, customer portal/website for ext users
