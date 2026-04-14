@@ -1,0 +1,49 @@
+
+Obtaining Written Representations from Mgmt
+- auditor req to obtain writt rep form mgmt
+- rep intended to
+	- confirm explicit/implicit rep given to auditor
+	- indicate, doc cont approp of those rep
+	- reduce possibility of misunderstanding bw auditor n mgmt
+- auditor det approp indiv w.in mgmt/governance structure based on their 
+	- resp
+	- knowledge of subj matter of eng
+- writ rep
+	- should be as of date of issued SOC report
+	- address subj matter/periods covered by auditor's opinion
+	- auditor wouldnt ordinarily be able to issue report until received rep letter
+	- if subserv + inclusive used for sys descrip, writ rep should be obtained from subserv org too
+- writ rep should do
+	- include mgmt assertion abt subj matter based on crit
+	- state
+		- all relevant matters reflected in measurement/eval of subj matter/assertion
+		- all known matters contradicting subj matter/assertion, any comms from reg agencies/others affecting subj matter have been disclosed to auditor (incl comms received bw end of period addressed in written assertion n report date)
+	- acknowledge resp for
+		- subj matter/assertions
+		- selectign crit
+		- det such crit are approp for mgmt purposes
+	- state known subseq events related to subj matters of report that would have material effect on subj matter/assertion have been disclosed to auditor
+	- state mgmt has prov auditor w all relevant access/info
+	- state mgmt believes effects of uncorrected mistmts (description mistmts/deficiencies) are IM, indiv/agg, to subj matter
+	- state mgmt has disclosed to auditor
+		- all deficiencies in IC relevant to eng
+		- knowledge of any actual, suspected, alleged fraud/noncompliance w law/reg affecting subj matter
+		- all other matters deemed approp by auditor (eg chngs to ctrls)
+		- noncompliance instances w law/reg, uncorrected mistmt attributable to servorg (SOC2), incl those affecting 1+ UE (SOC1)
+		- knowledge of any actual/suspected/alleged fraud by mgmt/emplee that could adversely affect
+			- fairness of presentation of mgmts descrip of sys, completeness, achievement of ctrlobj in descrip (SOC1)
+			- sys descrip or ach of servcomm/sysreq (SOC2)
+		- id sys incidents resulting in sig impairment of servorg ach of servcomm/sysreq Date(1/2)
+	- state sig assumptions made in making any material estimates are reasonable (SOC1)
+
+#### Not provided
+- if 
+	- mgmt doesnt prov 1+ of requested rep;
+	- auditor concl that there's sufficient doubt abt competence, integrity, ethical values, diligence of those prov writ rep; or
+	- concl writ rep are otherwise not reliable, auditor should
+		- discuss matter w approp party
+		- reeval integrity of those from whom rep requested/received, eval effect this may have on reliability of rep n evidence in gen, and
+		- if any matters are not resolved to satisfaction, take approp action
+- failure by mgmt to prov written rep may constitute scope limitation
+	- in such cases, if matters remain unresolved, auditor may preclude from issuing unmodified opinion
+	- depending on circum, auditor may withdraw if permitted by law/reg

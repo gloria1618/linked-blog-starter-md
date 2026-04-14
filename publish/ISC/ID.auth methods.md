@@ -15,7 +15,7 @@ first person's id claimed, then authenticated
 	- Context Aware Auth
 		- used to id mobile device users w contextual data pts like time, geo loc, point of access (mobile app, desktop browser, call center, etc.) or IP address
 	- Digital Signatures
-		- e stamp of auth, usually encrypted n attached to mssg for non repudiation (proof of id)
+		- e stamp of auth, usually encrypted n attached to mssg for nonrepudiation (proof of id)
 		- cryptography w 
 			- sender encrypting mssg w private key
 			- receiver decrypting mssg w sender's public key
@@ -65,7 +65,7 @@ Password Managers/Storage
 - PW storage/mgmt apps 
 	- store pw by hashing rather than as plaintxt
 	- hashed pw then stored in databases, when user enters a pw, the hashing algorithm is computed using that word
-	- computed hash value compared to hash value stored in database, access granted if match 
+	- put in pw then computed hash value compared to hash value stored in database, access granted if match 
 - Hashing
 	- converting pw into illegible txt w hash algorithms like SHA secure hash algorithms
 - hashed pw are 1way, not intended to be reversed tho possible

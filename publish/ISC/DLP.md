@@ -45,7 +45,7 @@ Deleting Confidential Information
 		- prep media for reuse by replacing old data w unclassified data
 	- deleting
 	- purging
-		- perm removes data from sys to improve sys performance, purged data could be archived outside of sys (eg cloud ERP data retrieved by user before ERP provider purged all data)
+		- perm removes data from drive/sys to improve sys performance, purged data could be archived outside of sys (eg cloud ERP data retrieved by user before ERP provider purged all data)
 		- repeats clearing process mult times, may combine w another method like 
 		- degaussing
 			- strong magnetic field to erase data on storage devices that use magnetism like magnetic tapes

@@ -44,7 +44,7 @@ Common Preventative, Detective, Corrective Ctrls
 			- nondiscretionary ctrls, admin centrally manage/enforce rules consistently across env, not based on id
 			- easier to manage, less customization
 		- Role Based AC
-			- based on job rule instead of indiv assigning 
+			- based on job role instead of indiv assigning 
 		- Rule Based AC
 			- manages access to areas, devices, databases according to predet set of rules/access permissions indep of users role
 			- admin tasked w setting sec permissions to allow access based on defined criteria 
@@ -102,8 +102,9 @@ Common Preventative, Detective, Corrective Ctrls
 		- rec/monitor data to anal for anomaly/trend to indicate unauth events
 		- manual/automated process
 	- IDS Intrusion Detection Sys
-		- sec sol scanning env to monitor/anal 
-		- KADJFLKSJGLASJFG;AJFG
+		- SOC2 may inspect IDS config to det
+			- cont monitoring of client's network 
+			- early prevention of potential sec breaches
 - Corrective
 	- to fix known vuln resulting from
 		- recent sec incidents
@@ -116,7 +117,7 @@ Common Preventative, Detective, Corrective Ctrls
 	- Updates/Patches
 		- to accomplish obj like enhance sys performance, add new features, plug holes
 	- Revised Pol/Proc
-		- periodically review/revise prac to eliminate sed issues w.o having to purchse new tech/mod existing sys
+		- periodically review/revise prac to eliminate sec issues w.o having to purchase new tech/mod existing sys
 		- simple as splitting job into 2, additional lvl of review, changing way in which sensitive data handled
 	- Updated Emplee Training
 		- train emplee to recog hallmarks of common fraud schemes

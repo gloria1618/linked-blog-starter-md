@@ -58,3 +58,58 @@ CRIME
 				- how mng chngs, prevents unauth chngs from being made
 			- Risk Mitigation
 				- how entity mnges risk mitigation activ arising from potential business disruptins, use of vendor/business partner
+![[Pasted image 20260413224605.png]]
+- A series
+	- additional criteria for availability
+	- ability to ensure all sys cont available as needed by
+		- maintain/monitor processing capacity
+		- id/respond to threats
+		- ensure recovery plan in place/tested
+	- A1.1 maintain, monitor, eval current processing capacity, use of sys parts
+		- to mgmt capacity demand
+		- enable implementation of additional capacity to meet entity obj
+	- A1.2
+		- ensure sys available by
+			- id env trheats
+			- design detection measures
+			- implement protection mech/alerts
+			- respond to env threats
+			- comms threat events
+			- data backup
+			- offsite storage
+			- implement alt infra
+			- consider data recoverability to meet obj
+	- A1.3
+		- entity tests recovery plan proc to ensure sys recovery meets entity obj
+- PI series
+	- processing integrity
+	- consideration related to create, use, comms quality info so obj met regarding
+		- prod.service specs
+		- ctrls for complete/accurate
+		- productivity
+		- sys specs
+	- PI1.1 obtain/gen, use, comms relevant/quality info abt processing obj to support use of prod/services
+	- PI1.2/.3 implement pol/proc over sys *inputs*/*processing* to result in prod/serv/reporting meeting obj
+	- PI.4 implement pol/proc to make available/deliver output completely, accurately, timely to meet entity obj
+	- PI.5 implement pol/proc to store inputs, items in processing, n outputs completely, accurate, timely in accord w sys specs to meet obj
+- C series
+	- C1.1id/maintain confidential info to meet confidentiality obj
+	- C1.2 dispose of conf info to meet conf obj
+- P series
+	- privacy, relating to 
+		- collecting personal data
+		- obtaining consent when collect/use data
+		- use data for specific purposes only
+		- mng access to indiv data resp
+		- disclose pol to 3rd parties/indiv prop
+		- complete/accurate records
+		- monitor/enforce prac in place
+	- P1.0 Notice/Comms of Obj Related to Priv
+	- P2.0 Choice/Consent
+	- P3.0 Collection
+	- P4.0 Use, Retention, Disposal
+	- P5.0 Access
+	- P6.0 Disclosure/Notification
+	- P7.0 Quality
+	- P8.0 Monitor/Enforcement
+

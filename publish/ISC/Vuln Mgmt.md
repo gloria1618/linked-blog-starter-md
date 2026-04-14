@@ -47,12 +47,12 @@ Vuln Scanners
 	- anal data pkts transmitted across sys
 	- id protocols being used
 	- fingerprinting, id's type of op sys n apps running on victims sys
-- attackers can also use scanners to id weakness, exploit
+- attackers can also use our own scanners to id weakness, exploit
 	- wait to launch attacks after databases updated n rolled out to customers
 	- w larger org, updates predictable, attackers can plan so dangerous
 
 Vuln Assessments
-- typ don part of initial risk anal, then subs performed quart/annually
+- typ done part of initial risk anal, then subs performed quart/annually
 - vuln scanners often
 	- used in these assessments
 	- obsv over time to det if threats still linger 

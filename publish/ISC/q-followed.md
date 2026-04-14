@@ -9,7 +9,7 @@ Procedures to Test If Org Follows its IRP
 		- up to date
 		- accurate
 	- lessons learned from sims used to implement chngs when updating IRP
-	- SOC2 auditor may insepct doc for recent IRP review to det
+	- SOC2 auditor may inspect doc for recent IRP review to det
 		- if plan tested in past yr
 		- that drills conducted to sim incidents were resolved, service availability restored
 	- auditors may also inspect IRP for revision in response to performed testing
@@ -42,7 +42,7 @@ Procedures to Test If Org Follows its IRP
 	- employing automated tools that constantly anal sys logs, network traffic, unusual behavior
 - Indications Org Didnt Respond Approp
 	- inc in freq/severity of incidents
-	- time to id/contian incidents
+	- time to id/contain incidents
 	- inc in data center DT or IT infra damage
 	- cost of fines, attorneys, consultants
 	- decline in company reputation

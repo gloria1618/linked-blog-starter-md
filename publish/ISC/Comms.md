@@ -27,7 +27,7 @@ Comms of Sec Knowledge/Awareness
 		- follow sec proc based on job roles
 		- emplee other than mgmt/specialized roles should only be resp for sec paractices relevant to basic user roles like
 			- training on id phishing email
-			- best prac on remotely connecting via VPN
+			- best prac4 on remotely connecting via VPN
 - prov at all stages of emplee job, hire n refresher annually min
 - tailor to emplee job role
 - Hallmarks of successful sec awareness program

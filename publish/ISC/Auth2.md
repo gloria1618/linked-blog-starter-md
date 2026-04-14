@@ -3,7 +3,7 @@
 - Cybersecurity Practices that can be engineered into architecture of IT, embedded into policies
 	- Zero Trust
 		- assumes network always at risk, even after user authenticated
-		- shifts focus away from 1 time to continuous auth at every pt of interacton w network
+		- shifts focus away from 1 time to continuous auth at every pt of interaction w network
 		- NIST est ZTNA zero trust network architecture model to help implement cont auth principles thru ZTA
 		- ZTA
 			- designed to prevent breaches, limit internal lateral movement by impl
@@ -23,13 +23,13 @@
 				- no resource inherently trusted
 				- remote users shouldn't trust local network connections
 	- Least Privilege
-		- focus on access needed for job
+		- focus on *access* needed for job
 		- user/sys granted min auth/sys resources to perform a func
 		- safeguards so privileges dont become excessive, allow priv creep where access to sys gradually inc over time as job role evolves
 			- common when emplee promoted, chngs positions -- access to prior role not removed
 	- Need to Know
-		- focus on data itself needed for job
+		- focus on *data* itself needed for job
 	- Whitelisting
 		- allow/whitelisting - id list of apps/components that are auth to run on orgs sys and only allowing those to execute
-		- deny/blacklisting - di apps/components not auth on network and prevent them from running
+		- deny/blacklisting - ID apps/components not auth on network and prevent them from running
 		- rules enforced by automated software programs designed to prevent apps from executing unless on whitelist

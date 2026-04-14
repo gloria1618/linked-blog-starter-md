@@ -45,7 +45,7 @@
 	- other sys owners
 	- if performed so others have assurance abt op/assertions, then AICPA SOC stndrds apply
 - Process
-	- focus si to gather info to make obj conclusions abt sec/priv ctrls in cost effective manner
+	- focus is to gather info to make obj conclusions abt sec/priv ctrls in cost effective manner
 	- done by 
 		- consider quality, maturity of org's risk mgmt process
 		- tailoring assessment using concepts, methods, ctrl obj available in stndrds such as NIST 800-53A Rev5
@@ -58,7 +58,7 @@
 - Evidence
 	- sources incl
 		- prev conducted product/sys assessments
-			- often conducted by 3rd partyes to eval
+			- often conducted by 3rd parties to eval
 				- sec func of prod
 				- related configuration settings
 			- may have been performed to demonstrate regulation compliance or dev/vendor claims

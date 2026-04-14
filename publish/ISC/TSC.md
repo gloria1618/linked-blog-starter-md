@@ -38,3 +38,6 @@ Applicability of TSC to SOC2/3 Engagements
 		- suitability of design + op effectiveness of ctrls of an entity, other than servorg, over 1+ sys relevant to 1+ TSC
 			- ex: SOC SC engagement
 		- suitability of design of ctrls over TSC to achieve entity's obj based on related TSC
+
+
+

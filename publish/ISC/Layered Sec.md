@@ -24,14 +24,14 @@ Defense in Depth
 
 - Redundancy n Diversification
 	- eliminates single pt of failure
-	- counter attacks targetign diff weaknesses
-	- duplication w.in duplication intro more sec and sec becomes more diverse, potentially more effectie
-	- redundancy can be administred thru
+	- counter attacks targeting diff weaknesses
+	- duplication w.in duplication intro more sec and sec becomes more diverse, potentially more effective
+	- redundancy can be administered thru
 		- layering processes
 			- breaks up op into smaller chunks that can be 
 				- managed by diff ppl
 				- performed by machine/computer
-				- completely isolated form other parts of process
+				- completely isolated from other parts of process
 			- to protect crit pieces of op/sensitive info so diff lvls of sec for diff lvls of importance
 			- ex: bank, 1 person grants vault access remotely, another phys removes vault contents, another transports contents, w all ppl counting contents w other emplees
 		- isolating processes

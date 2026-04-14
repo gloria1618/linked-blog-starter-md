@@ -2,9 +2,8 @@
 	- tech infra supporting comp sys (network, computer, etc)
 	- digital data contained w.in
 - IRP must distinguish bw recog/responding to event/cybersec incident
-	-COMBE BACK
 	- Event
-		- observable occurrence in sys/network
+		- observable occurrence in sys/network, can be benign
 		- ex incl user connecting to shared file server, server rec request for web pg, user sending email, firewall blocking connection attempt
 		- also incl cybersec chngs that have effect on orgs ops, mission, manuf capabilities, reputation
 	- Adverse Event
@@ -36,7 +35,7 @@
 	2. Detection
 		- detect/id incidents
 		- recog deviations from normal op
-		- eval deviatins
+		- eval deviations
 		- classify as acceptable event/problematic cybersec incident
 	3. Containment
 		- contain incident from spreading
@@ -74,14 +73,14 @@ Org/Frameworks
 	- Incident Handlers Handbook
 	- guidance given on applying diff commands to id unusual
 		- processes, files, registry keys
-	- also explains methods to scan for abnormal network activ, irregularities in sch tasks, unexplained accts, suspicioius user behavior
+	- also explains methods to scan for abnormal network activ, irregularities in sch tasks, unexplained accts, suspicious user behavior
 - NIST
 	- Computer Sec Incident Handling Guide
 	- info on organizing incident response efforts like prov guidance on dev pol/proc
 	- recc on composition IR team
 	- detailed action plans, scenarios w applied guidance in appendix
 - ISO Int Org for Standardization
-	- ISO/IEC 27000 family of stndrds
+	- ISO/IEC 27000 family of stndrds, recc incl
 - ![[Pasted image 20260406011019.png]]
 - Other IRP Org/Frameworks
 	- ITIL Info Tech Infra Lib
@@ -94,7 +93,7 @@ Org/Frameworks
 
 - IRPs Tailored to Specific Attacks
 	- many org have multipronged IRP tailored to specific cybersec assaults
-	- = having mult IRP specifically designed to deal w a num of unique incidents, usually attacks to which org must vuln
+	- = having mult IRP specifically designed to deal w a num of unique incidents, usually attacks to which org most vuln
 	- IBM id attacks most often aligned w IRP, in order of most freq implemented
 		1. DDoS attacks
 		2. Mobile code like mal/spyware, virus, trojan, worm

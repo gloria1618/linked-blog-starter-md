@@ -12,7 +12,7 @@ Detect Deficiencies in SOC2 Engagement
 - gen walk thru proc to be performed by SOC2 engagement service auditor incl
 	- follow transaction/event/activ form origination to disposition thru sys using same docs used by personnel 
 		- when considering conf/priv, obj to understand how PII/proprietary info handled thruout life cycle
-	- inquiry, obsv, inspection of relevant doc/flowchart/questionaire/decision tbls to understand design of ctrls
+	- inquiry, obsv, inspection of relevant doc/flowchart/questionnaire/decision tbls to understand design of ctrls
 	- inquiry about instances during period in which ctrls dont op as described/designed
 	- question variations in process for diff types of events/transactions
 - approp performed walk thru prov oppro to verify auditors understanding of
@@ -22,7 +22,7 @@ Detect Deficiencies in SOC2 Engagement
 		- type 2 exam - op effectively
 - when eval results of procedures, investigate nature/cause of id description misstmts/deficiencies/deviations in ctrl effectiveness n det
 	- if id description misstmts result in either
-		- failure to meet 1+ description creiteria
+		- failure to meet 1+ description criteria
 		- presentation that could be misunderstood by users if opinion was not modified to reflect the id descrip mistmts
 	- if id deviations
 		- are within expected deviation rate, acceptable

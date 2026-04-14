@@ -29,7 +29,7 @@
 		- mediator performing functions on behalf of another network using same protocol instead of j connecting networks
 		- gateway bw users n internet blocks hackers from entry to priv network
 	- Servers
-		- support computer/networks by performing diff core func, like running apps w.in app servers, storign files w file server, store data w database server
+		- support computer/networks by performing diff core func, like running apps w.in app servers, storing  files w file server, store data w database server
 	- Signal Modifiers
 		- devices like amplifiers (inc), concentrators (combine), repeaters (regenerating) rec signals then modify it
 		- types of signals could be electrical, radio freq, audio, optical
@@ -100,5 +100,5 @@
 
 
 Service Auditor Consideration of Logical/Physical Access
-- SOC2 engagement may consider org's ctrls related to network components in a scenario where org permits remote access by auth emplees only w multifactor authentication over an encrypted VPN connection
-- auditor would observe remote login session to det multifactor authentication over VPN was req to access network
+- SOC2 engagement may consider org's ctrls related to network components in a scenario where org permits remote access by auth emplees only w MFA over an encrypted VPN connection
+- auditor would observe remote login session to det MFA over VPN was req to access network

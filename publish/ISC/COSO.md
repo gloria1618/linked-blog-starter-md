@@ -26,14 +26,14 @@
 		- FACT
 			- fair, accurate, complete, timely
 		- inc prob that cybersec ctrls in place so dont affect int/ext non/fin reporting
-		- transparency, reliability, timely, trustworthy as det by stdrd settign bodies, regulators, org policies
+		- transparency, reliability, timely, trustworthy as det by stdrd setting bodies, regulators, org policies
 	- Compliance 
 		- adherence to gov laws, reg
 		- incl compliance w industry stdrd like issued by NIST, HIPAA, GDPR
 - IC Framework: CRIME
 	- Control Env
 		- tone at top, ethical values
-		- senior mgmt, those charged w goveranance should
+		- senior mgmt, those charged w governance should
 			- raise awareness of cybersec threats
 			- guide dev of key IT polices, proc, process
 			- prov guidance on incident response mgmt

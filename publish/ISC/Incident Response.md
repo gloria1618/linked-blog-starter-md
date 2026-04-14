@@ -1,7 +1,7 @@
 [[in Accord w IRP]]
 [[q-followed]]
 [[Insurance]]
-- doc of set of proc, ppl, info to detect/respond/limit consequnces of cyberattack
+- doc of set of proc, ppl, info to detect/respond/limit consequences of cyberattack
 - have formal/coord plan for responding to incidents, incl roadmap for implementing response capabilities detailing method of
 	- detection
 	- response timeline
@@ -55,7 +55,7 @@ Incident Response Personnel, Roles, Resp
 		- mult IR teams resp for specific logical/phys segments of network
 		- effective if computing resources widespread geo
 	- Coordinating Team
-		- 2ndary func of either centralized/dist IR team is coord w other dep w.o having authority over those teams
+		- 2ndary func of either centralized/dist IR team is coord w other dep w.o having authority over those teams (dispatch other teams as needed)
 - NIST Computer Sec Incident Handling Guide recc org consider 5 when selecting approp structure/staffing model for IR team
 	1. 24/7 Availability
 		- most org need IR staff available 24/7 by phone/onsite
@@ -77,7 +77,7 @@ Incident Response Personnel, Roles, Resp
 		- req mix of specialized knowledge/experience in non/tech
 		- deeper, up to date knowledge of detection, forensics, vuln, exploits
 		- often logical to outsource to MSP who can spread expense across client base
-- Common for IR team to perform additional duties
+- Common for IR team to perform additional duties (obv intrusion detection)
 	1. Edu/Awareness
 		- emplee outside IT team know about detecting, reporting, responding to incidents, less of a burden it will be on incident response team
 		- workshops, intranet sites, newsletters, posters, paraphernalia w sec tips/reminders

@@ -23,7 +23,7 @@ Attacks
 		- ![[Pasted image 20260331234723.png]]
 	- Buffer Overflows
 		- overload program's buffer, the temp storage
-		- may cause program to overwrite memory of an app/crash
+		- may cause program to overwrite memory of an app/crash, lets bypass
 		- then inject malicious code/take ctrl of sys
 	- DoS Denial of Service
 		- flood sys network by congesting it w traffic greater than bandwidth it was designed to handle
@@ -49,13 +49,14 @@ Attacks
 		- typ malware locking user/op sys/app/ability to access data unless ransom paid
 	- Reverse Shell
 		- aka 'connect-back shells'
-		- victim initiates comms w attacker from behind org fierwall so attacker can bypass firewall/network safeguards and remotely ctrl victim's machine
+		- victim initiates comms w attacker from behind org firewall so attacker can bypass firewall/network safeguards and remotely ctrl victim's machine
 		- since og contact not est from outside of org network, normal filt/firewall protection bypassed
 		- ![[Pasted image 20260401000000.png]]
 	- Return-Oriented
 		- aka 'return oriented programming attacks'
 		- soph technique utilizing pieces of legit og sys code (each a gadget) in seq to perform op for attacker
 		- each gadget ends w a 'return' instruction causing series of code to execute n carry out complex op
+		- imagine putting paper shreds back together
 	- Spoofing
 		- impersonating to obtain unauth sys access w falsified credentials or imitating legit person/entity by using fake IP address, domain, email
 		- ARS Address Resolution Spoofing
@@ -75,21 +76,22 @@ Attacks
 		- password cracking scheme using automated program to guess, tries all possible combos based on preset algorithm
 	- Keystroke Logging
 		- tracks seq of keys pressed to collect confidential data
-		- often delivered as Trojan horses
+		- often delivered as Trojan horses (u thought it was good/free)
 	- Malware
 		- soft/firmware intended to perform unauth process that has adverse impact on confidentiality, integrity, availability of info sys 
 		- viruses, worms, trojan horses, adware, spyware, other code based programs infecting a host
 	- Rogue Mobile Apps
 		- malicious apps appearing legit
 		- fraudulent party creating mobile apps that is installed by victim unsuspectingly, app steals info, gives unauth access, etc
+		- like trojan horse
 - Application based
 	- targets specific software/apps (desktop/web) like database/sites to gain unauth access/disrupt func
 	- SQL Injection
 		- inject malicious SQL code into existing SQL code on org website to gain unauth access to data
-		- may not have direct access to database server, but can gain access thru org's web server, which may connect directly to database server
+		- may not have direct access to database server, but can gain access thru org's web server, which may connect directly to *database* server
 		- ![[Pasted image 20260401011940.png]]
 	- XSS Cross Site Scripting
-		- sim to SQL injection, but inject code to org's website that attacks users visiting site
+		- sim to SQL injection, but inject code to org's website that attacks *users* visiting site
 		- visit site, browser executes code, performs attack, compromises user's data
 	- Race Condition
 		- exploits sys/app relying on specific seq of op
@@ -204,7 +206,7 @@ Stages in Cyberattack
 	- during/after
 	- concealing entry/exit pts
 		- disabling audit func
-		- clearing lgos
+		- clearing logs
 		- mod logs/registry files
 		- removing all files/folders created
 
