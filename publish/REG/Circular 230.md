@@ -1,3 +1,5 @@
+[[Standards- Return.Doc]]
+
 Treasury Dep Circular230 in IRS publication entitled
 'Regulations Governing Practice before the IRS'
 - "practice before the IRS"
@@ -107,40 +109,6 @@ Treasury Dep Circular230 in IRS publication entitled
 		- may become competent thru various means
 			- consulting w experts
 			- studying relevant law
-		- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			- 
 - Subpart C: Sanctions for Violating the Regulations
 - Subpart D: Rules Applicable to Disciplinary Proceedings
 - Subpart E: General Provisions 
