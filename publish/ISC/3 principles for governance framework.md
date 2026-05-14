@@ -1,4 +1,4 @@
-Cashmere Feels Great .... Awesome?
+Cashmere Feels  .... Awesome?
 
 1. Based on Conceptual Model
 	- gov frameworks should id key components/relationships bw components to provide for greater automation/max consistency
