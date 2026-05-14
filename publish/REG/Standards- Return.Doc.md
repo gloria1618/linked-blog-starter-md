@@ -1,0 +1,37 @@
+Circular 230 
+- Tax Returns
+	- practitioner may not willfully/recklessly sign tax return/advise client to take tax position they (should) now
+		- lacks reasonable basis, is unreasonable position
+			- frivolous/patently improper
+		- is willful attempt to understate tax L
+		- reckless/intentionally disregards tax rules/reg
+- Documents, Affidavits, Other Papers
+	- practitioner cannot advise client to 
+		- take position unless its not frivolous
+		- submit any doc to IRS that
+			- will intentionally disregard rule/reg unless believes in good faith that can challenge rule/reg
+- Advising Clients on Potential Penalties
+	- practitioner must inform client of any penalties that are reasonably likely to apply w respect to:
+		- position taken on tax return
+		- any doc submitted to IRS
+- Practitioner's Reliance on Info Furnished by Client
+	- practitioner may rely in 'good faith w.o verification' on info prov by clients
+	- unless info appears incorrect, inconsistent, incomplete
+		- must make reasonable inquiries if info questionable
+			- supporting docs eg receipts 
+- Written Advice
+	- practitioner may give written advice concerning 1+ fed tax matters
+	- written advice (incl e comms) must be reasonable, supported by fact/law
+	- practitioner must
+		- reasonably consider all relevant facts/circumstances
+		- not rely on rep unless reasonable
+		- not take into consideration fact that return may not be audited
+			- probability of getting caught irrelevant 
+- Def of Fed Tax Matters
+	- IRC law/reg
+	- any matter concerning application/interpretation of
+		- revenue provision of IRCode
+		- any provision of law impacting person's obligations under IRlaws/reg
+		- any other law/reg administered by IRS
+- Reliance on Advice of Others
+	- 
