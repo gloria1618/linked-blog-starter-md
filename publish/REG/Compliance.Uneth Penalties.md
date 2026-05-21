@@ -1,0 +1,73 @@
+Tax Return Preparer Compliance Penalties
+- under IRC Sec 6694
+	- to ensure tax return preparers are in compliance w fed laws
+- Authority
+	- only specific authoritative sources to det whether subs authority for tax treatment of item 
+		- eg whether to incl item in income, allowed as deduc etc
+	- primary authoritative sources to det tax treatment incl
+		- provisions of IRC, other statutory provisions
+		- revenue rulings/procedures, tax treaties/regulations, US Treasury dep, other official explanations of treaties
+		- court cases
+- Listed Transaction
+	- reportable transaction same as/subs sim to a transaction specifically id by Secretary of US Treasury Dep as tax avoidance transaction
+- Reportable Transaction
+	- info req to be incl w return/stmt bc type det by Sec of US Treasury Dep as having potential for
+		- tax avoidance (legally)
+		- tax evasion (illegally)
+	- special rules apply to listed/reportable transactions, tax shelters
+- Ordinary Negligence 
+	- failure to make reasonable attempt to comply w provisions of IRlaws 
+		- not fraud
+		- fraud=willful/reckless
+	- failure to exercise ordinary/reasonable care
+	- failure by txpyr to keep adeq bks/rec
+	- diff penalties for negligence v fraud
+	- ** as tax return preparer, not there to audit... but if looks improper, resp to make reasonable inquiries
+
+- Reasonable Basis Standard (lowest strd)
+	- met when =>20% likelihood of tax position being upheld by courts
+	- relatively high stndrd of tax reporting
+	- not satisfied by a return position that is merely arguable
+- Substantial Authority Standard (med)
+	- met when 40%<x<50% likelihood of tax position being upheld by courts
+	- obj stndrd, less stringent then high stndrd
+- More Likely Than Not Standard (highest)
+	- met when >50% likelihood of tax position being upheld by courts
+- ![[Pasted image 20260514175309.png]]
+
+- Understmt Due to Unreasonable Position
+	- IRC Sec 6694a
+	- assessed bc of understmt of txpyrs L due to unreasonable position taken by txpyr
+	- position deemed unreasonable unless
+		- there's reasonable basis for disclosed position (>20% chance of winning in court)
+		- subs authority for position (>40%)
+		- relates to tax shelter/reportable transaction which would meet morelikelythannot stdrd (>50%)
+	- Disclosure
+		- Form 8275
+			- if *not* contrary to US Treasury reg
+		- Form 8275-R
+			- contrary 
+	- Penalty
+		- unreasonable position if
+			- position disclosed, <20% chance position upheld
+			- undisclosed, <40% chance position upheld
+			- reportable transaction, <50% chance of winning
+		- ordinary negligence (no intent)
+		- penalty = to greater of 
+			- 1k
+			- 50% of income preparer received for tax return preparation services
+- Understmt Due to Willful/Reckless Conduct
+	- IRC Sec 6694b
+	- fraud
+		- willful attempt to understate tax L or
+		- reckless, intentional disregard of tax rules/reg
+	- higher penalty 5k or 75% of income preparer received 
+	- Penalty
+		- more egregious conduct, higher penalty
+		- = greater of 
+			- 5k
+			- 75% of income preparer derived w respect to tax return/refund claim
+		- penalty reduced by any penalty assessed as result of an unreasonable tax position by tax return preparer
+- Supporting Documentation
+	- preparer not req to obtain unless reason to suspect accuracy of info prov by client
+	- preparer must make reasonable inquiries if info appears incorrect/incomplete

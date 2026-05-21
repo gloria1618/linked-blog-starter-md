@@ -110,6 +110,34 @@ Treasury Dep Circular230 in IRS publication entitled
 			- consulting w experts
 			- studying relevant law
 - Subpart C: Sanctions for Violating the Regulations
+	- Compliance/Sanctions
+		- Firm's proced to ensure Circular 230 compliance
+			- internal ctrls in place/followed
+			- show good faith attempts to comply
+		- Potential failures to comply
+			- pattern/practice of noncompliance thru willfulness, recklessness, gross incompetence
+		- must disseminate, edu, test emplee for proc
+		- Sanctions for violations of regulations
+			- Secretary of Treasury may publicly reprimand, suspend, disbar any practitioner from prac before IRS if they
+				- shown to be incompetent
+				- fails to comply w Circular 230
+				- willfully/knowingly mislead/threatens (prospective) client w intent to defraud
+		- Incompetence/Disreputable Conduct: Not Acting in Good Faith
+			- for which practitioner may be sanctioned incl
+				- convicted of fed tax law crime, criminal offence involving dishonesty
+				- giving false/misleading info to the US Dep of Treasury
+				- willfully evading pmt of fed taxes, assisting others to evade tx pmt
+				- using threats to infl any IRS emplee
+				- recklessly giving false opinions
+				- willfully failing to sign a tax return
+				- willfully disclosing tax return where disclosure not authorized
+				- willfully prep/signing a tax return w.o tax preparer ID
+				- willfully rep txpyr before IRS w.o authorization to do so 
+		- Petition for Reinstatement
+			- practitioner disbar/suspended may petition for reinstatement before IRS after expiration of 5yrs following suspension/disbarment
+			- reinstatement will not be granted unless
+				- IRS satisfied petitioner not likely to engage in conduct contrary to regulations in Circular 230, and
+				- reinstatement not contrary to public interest
 - Subpart D: Rules Applicable to Disciplinary Proceedings
 - Subpart E: General Provisions 
 	- 

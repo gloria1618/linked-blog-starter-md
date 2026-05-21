@@ -34,4 +34,9 @@ Circular 230
 		- any provision of law impacting person's obligations under IRlaws/reg
 		- any other law/reg administered by IRS
 - Reliance on Advice of Others
-	- 
+	- practitioner may rely upon advice of others if
+		- advice reasonable
+		- reliance in good faith  > due diligence
+	- other person needs to be qualified, competent, free of conflicts
+- Standard of Review
+	- reasonable practitioner standard used to eval if practitioner complies w req (good faith)
