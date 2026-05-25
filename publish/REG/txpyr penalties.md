@@ -1,0 +1,55 @@
+IRS can seek to impose both civil/criminal penalties on txpyr
+- Earned Income Credit Penalty
+	- statutory restriction on claiming credit, rather than penalty
+	- no monetary penalty
+	- txpyrs who negligently claim earned income credit may not claim for 2subseq yrs or for up to 10yrs if claim fraudulent
+- Failure to Make Sufficient Est Tx Pmts
+	- dont have sufficient amt of withholdings, don't make timely pmts of est income tax (incl SE)
+	- accrues from date est income tax must be paid until tax return due date w.o extensions 
+	- indiv txpyrs, penalty doesnt apply if withholding + timely est pmts are
+		- <= 1k of current yr tax
+		- at least 90% of current yr's tax
+		- at least 100% of last yrs tax 
+			- 110% of last yrs tax if last yr AGI >150k
+		- = to est current yr tax based on 'annualization of income' method
+- Failure to File
+	- 5% of amt of tax due each/partial month the return is late, up to 25%
+	- if return 60+dys late, min penalty inc to lesser of
+		- 525
+		- 100% of tax due
+	- if no tax due, no penalty
+	- if both failure to file & pay penalty due, file penalty reduced by amt of pay penalty for same period
+	- for partnership/s corp, 255 for each/partial month (up to 12mo) the return is late (or req info missing) * # of ppl who are partners in partnership at any time during yr
+- Failure to Pay
+	- .5 of 1%/month (or any part of) up to max 25% of unpaid tax
+	- no penalty if at least 90% of tax paid in by unextended due date, and balance is paid by extended due date
+- Negligence Penalty w Respect to Understmt of Tax 
+	- accuracy based penalty for negligence/disregard of tax rule.reg
+		- negligence = any failure to make reasonable attempt to comply w IRC provisions, reasonable care
+			- not fraud which = intentional, willful, reckless
+		- disregard = careless, reckless, intentional disregard
+	- =20% of understmt of tax
+- Penalty for Subs Tax Understmt (Accuracy Related Penalty)
+	- =20% of understmt of tax
+		- same but harder to avoid when subs
+	- substantial = exceeds greater of 
+		- 10% of correct tax 
+			- 5% of correct tax if understmt due to overstating QBI deduction 
+		- 5k
+	- c corp other than personal holding companies, understmt subs if amt of understmt exceeds lesser of
+		- 10M
+		- greater of 10k or 10% of correct tax
+- Subs Valuation Misstmt
+	- =20% of understmt of tax if understmt exceeds 5k (10k corp)
+	- 2 distinct substantial valuation misstmt stndrds
+		- IRC Sec 482 transactions (related parties)
+		- Non Sec 482 transactions (non related parties)
+	- Defenses for charitable contributions must incl good faith, qualified appraisals, good faith investigation of value
+	- penalty cant be imposed in addition to negligence penalty or for subs understmt
+- Fraud Penalties
+	- both civil penalties
+		- at least 75% of understmt of tax due to fraud
+	- and criminal penalties can apply
+		- high as 100k, 500k for corps
+	- criminal penalty, potential imprisonment subj to inflation adj
+	- IRS must prove beyond a reasonable doubt txpyr criminally, willfully, deliberately attempted to evade tax

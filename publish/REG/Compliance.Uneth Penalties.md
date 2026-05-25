@@ -71,3 +71,47 @@ Tax Return Preparer Compliance Penalties
 - Supporting Documentation
 	- preparer not req to obtain unless reason to suspect accuracy of info prov by client
 	- preparer must make reasonable inquiries if info appears incorrect/incomplete
+
+## Unethical Behavior
+Tax Return Preparer Penalties for Uneth Behavior
+- Penalties under IRC Sec 6695 intended to protect txpyr from uneth behavior
+	- $65 ('25) per failure, max $32.5k return period/calendar yr 
+	- Fail to Prov Copy to Txpyr 6695, 6107
+		- doesn't apply if failure due to reasonable cause and not willful neglect
+	- Fail to Sign Return 6695
+	- Fail to Furnish ID # of Preparer 6695
+	- Fail to Prop Retain Records 6695, 6107, 6060
+		- req to keep copy of return/claim for 3 yrs following last day of return period
+		- copy of returns/client list
+	- Fail to File Correct Info Returns 6695, 6060
+		- info abt emplees working as tax return preparers (name, addy, tax ID, where they work, etc)
+- Negotiation of IRS Refund Check 6695
+	- any preparer endorse/negotiating refund check to txpyr pays penalty of $650 for each check endorsed
+- Fail to be Diligent in Det Client's Eligibility for Certain Tax Benefits Incl Earned Income Credit 6695(g)
+	- 650/failure
+	- due diligence req to det if client eligible for earned income credit, req incl
+		- eligibility checklists
+		- computation worksheets
+		- reasonable inquiries to txpyr
+		- record retention
+### Other Penalties
+ - Aid/Abetting Understmt of Tax L 6701
+	 - higher, applies to anyone (not j preparers)
+	 - IRS has burden of proof to est that someone is L for this civil penalty
+		 - burden of proof beyond a preponderance of evidence
+			 - civil case, only monetary penalties, no imprisonment/criminal fraud
+		 - exception to rule, gen txpyr has burden of proof in civil action against IRS
+			 - most civil cases, IRS presumed correct unless txpyr produces credible, documentary evidence contrary
+	- civil penalty 1k, 10k corporations
+	- criminal case, IRS has burden of proof beyond a reasonable doubt
+- Wrongful Disclosure and/or Use of Tax Return Info 6713, 7216
+	- preparer owes client duty of confidentiality (for return +workpapers)
+	- 250/wrongful disclosure and/or use of tax return info
+	- 10k max annual penalty
+	- can be guilty of misdemeanor and/or be imprisoned for not more than 1yr
+	- penalty exceptions
+		- disclosures allowed by any provision of IRC or pursuant to court order (enforceable subpoena)
+		- allowable uses (prep of state/local tax returns/declaration of est tax)
+		- disclosures/uses for quality/peer reviews, admin orders
+	- consent of client: confidential client info may be disclosed to any party if client specifically consents to info release
+![[Pasted image 20260521154107.png]]

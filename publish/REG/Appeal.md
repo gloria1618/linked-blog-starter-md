@@ -1,0 +1,61 @@
+Appeals + Fed Judicial Process
+
+- Appeals Process
+	- Appeals Conference
+		- no agrmt at rev agent lvl, txpyr rec copy of rev agent's report +30dy letter
+		- txpyr has 30dys to request admin appeal w appeals officer (appeals conference)
+	- Office of Appeals
+		- goal is to resolve dispute w.o litigation
+		- agrmt reached, txpyr signs Form 870-AD, waiving right to appeal
+		- no agrmt, 90dy letter issued 
+	- 90dy Letter (Notice of Deficiency)
+		- appeals conference not requested, or no agrmt after appeals conference
+		- 90dys to pay deficiency or file petition w US Tax Court
+			- no jury trial in US Tax Court, case heard by tax expert judge
+			- if petition, txpyr doesnt have to pay deficiency first
+		- if txpyr prefers case to be heard in US District Court/Court of Fed Claims, txpyr must pay tax deficiency first, then sue IRS for refund in court if IRS denies refund claim
+			- jury trial is option in US District Court
+- Fed Judicial Process
+	- no agrmt bw txpyr + IRS, dispute must be settled in fed court sys
+	- either IRS or txpyr can initiate process
+	- 3 trial courts avail
+		- US Tax Court (dont pay, no jury)
+			- specialized trial court hearing only fed tax cases
+			- Small Cases Div for disputes under 50k (not appealable)
+			- trials conducted before 1 judge (tax expert)
+			- cases cant be taken to Tax Court before IRS sends out 90dy notice of deficiency 
+			- Regular decision
+				- normally involv new/unusual pt of law
+			- Memorandum decision
+				- concerns application of existing law or interpretation of facts 
+		- US District Court (pay first, sue for refund, jury option)
+			- general trial courts of US fed court sys
+			- both civil/criminal (not j tax)
+			- at least 1 district court per state and others for territories 
+			- typ, txpyr requests hearing before US District Court that has jurisdiction over loc in which txpyr lives/conducts business
+			- disadv: pay tax L first, then sue
+			- potential adv: 1judge or jury trial option
+		- US Court of Federal Claims (pay first, sue for refund, no jury)
+			- nationwide court w jurisdiction over most claims for $ damages against US, eg tax refunds
+			- 16 judges, no jury trials on any matter
+	- Fed Court of Appeals
+		- appellate courts limited to rev to det if lower court applied proper law in decision arrival
+		- txpyr can choose route thru court sys they deem most favorable
+	- Burden of Proof
+		- most litigation, plaintiff has burden of proof
+		- most civil tax cases, txpyr has burden of proof
+		- in certain situations, burden of proof shits to IRS
+			- civil fraud, willfully aid.abet others
+			- criminal fraud
+			- cases where txpyr maintained adeq bks.rec + complied w IRS requests
+		- civil - preponderance of evidence
+		- criminal - beyond reasonable doubt 
+- ![[Pasted image 20260525141055.png]]
+- Court of Appeals + US Court of Appeals for Fed Circuit
+	- 1st lvl of fed appellate courts
+		- US Court of Appeals hear appeals from US District Court + US Tax Court
+		- US Circuit Court of Appeals hears appeals from US Court of Fed Claims
+	- US Supreme Court
+		- highest court in nation, last lvl of appeal
+		- 9 justices, heal all cases that supreme court agrees to consider (for which it grants a writ of certiorari)
+		- seldom hears tax cases

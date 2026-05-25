@@ -1,0 +1,41 @@
+[[Req of Reg Agencies]]
+
+Role of State Boards of Accountancy
+- Grant
+- Suspend
+- Revoke
+
+- State Boards of Accountancy have *sole* power to license, revoke, suspend
+	- statutes in all states grant SBA sole power to license CPA
+- Req for licensure vary by state
+	- CPA exam
+	- residency req
+	- edu req
+	- experience req
+- Disciplinary power of SBA
+	- each state det what's CPA prof misconduct sufficient for disciplinary action
+	- categories
+		- misconduct while performing acct services
+			- eg negligence, fraud, dishonesty, etc
+		- misconduct outside scope of acct services
+			- eg intoxication sig impairing ability to perform acct, insanity, etc
+		- criminal conviction
+			- eg commission of felony, failure to file tax returns, crimes relating to acct prac, etc
+	- after investigation, state board can conduct formal hearing for possible disciplinary action
+		- board must find it more likely than not the actions constituted prof misconduct
+			- proof beyond reasonable doubt not req
+		- due process gen req when penalty incl license loss, fine, jail
+			- all adverse state board decisions subj to judicial rev
+	- Penalties SBA can impose
+		- suspension/revocation of license
+		- monetary fine
+		- reprimand/censure
+		- probation
+		- req for CPE cont prof edu courses
+- v State Soc/AICPA
+	- due process/judicial rev not req
+	- cant impose fine, revoke, suspend
+- v State Board
+	- due process/judicial rev req
+	- can impose fines, revoke, suspend
+- 

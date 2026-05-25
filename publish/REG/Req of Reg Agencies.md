@@ -1,0 +1,47 @@
+Requirements of Regulatory Agencies
+
+- AICPA & State CPA Societies
+	- AICPA membership voluntary??
+	- Prof Code of Conduct
+		- applies to all AICPA members
+		- many state CPA societies/state boards incorp all/parts of Code
+	- JEEP Joint Ethics Enforcement Program
+		- AICPA + 49 state soc created
+		- enforces codes of conduct by means of single investigation + action
+		- investigative info shared bw AICPA, state soc
+- Disciplinary Actions
+	- AICPA, state CPA soc
+		- AICPA, state soc can sanction members
+		- can't suspend/revoke license
+		- AICPA may suspend/terminate membership for failure to pay dues/comply w membership retention req
+		- can suspend/terminate membership w.o hearing for
+			- proof of conviction of crime punishable by imprisonment for 1+yr
+			- proof of conviction for willful failure to file any return
+			- proof of conviction for filing/aiding in prep of false/fraud return
+			- suspension/revocation of license (by state board) as disciplinary measure by gov authority
+		- possible sanctions
+			- expulsion from aicpa/state soc
+			- suspension of membership
+			- req cpe courses as remedial (sim to state board)
+		- potential disciplinary matters investigated by Prof Ethics Division of aicpa
+		- notice of disciplinary action published in membership periodical (ie newsletter)
+	- IRS
+		- criminal penalties
+			- imposed on any person, incl tax return preparer, who counsel/prep return in fraud/false manner
+			- beyond a reasonable doubt
+			- burden on gov
+			- guilty: imprisoned up to 3yrs and/or fined max 100k (500k corp)
+		- civil penalties
+			- prohibit acctant from prac before IRS
+			- fines for various infractions
+			- preponderance of evidence + burden on txpyr
+			- civil fraud -- intent to evade tax + aid/abet others to evade tax (IRS has burden)
+	- SEC
+		- civil penalties
+			- only investigates criminal activity, doesnt prosecute criminal cases
+			- may suspend/revoke acctant right to prac before SEC
+				- acctant lacks chara/integrity/qualifications to rep others
+				- acctant acted uneth/prof, or willfully vilated fed sec law/reg
+				- acctant convicted of felony/misdemeanor
+				- acctant's license to prac public acct suspend/revoked as disciplinary measure by gov authority
+			- fines up to 100k (500k firm)
