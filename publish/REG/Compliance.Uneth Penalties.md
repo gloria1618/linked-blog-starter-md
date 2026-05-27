@@ -96,7 +96,7 @@ Tax Return Preparer Penalties for Uneth Behavior
 		- record retention
 ### Other Penalties
  - Aid/Abetting Understmt of Tax L 6701
-	 - higher, applies to anyone (not j preparers)
+	 - higher, applies to *anyone* (not j preparers)
 	 - IRS has burden of proof to est that someone is L for this civil penalty
 		 - burden of proof beyond a preponderance of evidence
 			 - civil case, only monetary penalties, no imprisonment/criminal fraud

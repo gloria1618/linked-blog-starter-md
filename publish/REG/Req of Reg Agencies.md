@@ -1,7 +1,8 @@
 Requirements of Regulatory Agencies
+NOT BOARD
 
 - AICPA & State CPA Societies
-	- AICPA membership voluntary??
+	- membership voluntary
 	- Prof Code of Conduct
 		- applies to all AICPA members
 		- many state CPA societies/state boards incorp all/parts of Code
@@ -12,7 +13,7 @@ Requirements of Regulatory Agencies
 - Disciplinary Actions
 	- AICPA, state CPA soc
 		- AICPA, state soc can sanction members
-		- can't suspend/revoke license
+		- can't suspend/revoke license (ONLY BOARD)
 		- AICPA may suspend/terminate membership for failure to pay dues/comply w membership retention req
 		- can suspend/terminate membership w.o hearing for
 			- proof of conviction of crime punishable by imprisonment for 1+yr
@@ -29,19 +30,21 @@ Requirements of Regulatory Agencies
 		- criminal penalties
 			- imposed on any person, incl tax return preparer, who counsel/prep return in fraud/false manner
 			- beyond a reasonable doubt
+			- due process
 			- burden on gov
 			- guilty: imprisoned up to 3yrs and/or fined max 100k (500k corp)
 		- civil penalties
-			- prohibit acctant from prac before IRS
+			- prohibit acctant from prac before IRS (but cant take away license, board)
 			- fines for various infractions
 			- preponderance of evidence + burden on txpyr
 			- civil fraud -- intent to evade tax + aid/abet others to evade tax (IRS has burden)
+			- ****IF NOT CRIM/CIVIL FRAUD OR AID/ABET THEN BURDEN PROOF ON TXPYR
 	- SEC
 		- civil penalties
 			- only investigates criminal activity, doesnt prosecute criminal cases
 			- may suspend/revoke acctant right to prac before SEC
 				- acctant lacks chara/integrity/qualifications to rep others
-				- acctant acted uneth/prof, or willfully vilated fed sec law/reg
+				- acctant acted uneth/prof, or willfully violated fed sec law/reg
 				- acctant convicted of felony/misdemeanor
 				- acctant's license to prac public acct suspend/revoked as disciplinary measure by gov authority
 			- fines up to 100k (500k firm)

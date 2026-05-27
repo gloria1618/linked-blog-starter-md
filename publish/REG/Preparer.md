@@ -13,7 +13,7 @@ Tax Return Preparer
 			- gen no authority to rep clients before IRS
 	- CPA license not req to be tax return preparer 
 - PTIN irs tax id #
-	- IRS.gov to get PTIN
+	- IRS.gov to get PTIN  
 	- all paid tax return preparers req to register w IRS, obtain PTIN
 - NOT a tax return preparer
 	- merely furnishes typing, reproducing, other mechanical assistance (data entry, solicit client info, copies, mailing)

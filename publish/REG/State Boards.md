@@ -23,7 +23,7 @@ Role of State Boards of Accountancy
 			- eg commission of felony, failure to file tax returns, crimes relating to acct prac, etc
 	- after investigation, state board can conduct formal hearing for possible disciplinary action
 		- board must find it more likely than not the actions constituted prof misconduct
-			- proof beyond reasonable doubt not req
+			- proof beyond reasonable doubt not req (criminal)
 		- due process gen req when penalty incl license loss, fine, jail
 			- all adverse state board decisions subj to judicial rev
 	- Penalties SBA can impose
@@ -34,7 +34,7 @@ Role of State Boards of Accountancy
 		- req for CPE cont prof edu courses
 - v State Soc/AICPA
 	- due process/judicial rev not req
-	- cant impose fine, revoke, suspend
+	- bc cant impose fine, revoke, suspend
 - v State Board
 	- due process/judicial rev req
 	- can impose fines, revoke, suspend
