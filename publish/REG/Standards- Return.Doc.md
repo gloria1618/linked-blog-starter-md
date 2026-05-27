@@ -30,7 +30,7 @@ Circular 230
 - Def of Fed Tax Matters
 	- IRC law/reg
 	- any matter concerning application/interpretation of
-		- revenue provision of IRCode
+		- revenue provision of IRC
 		- any provision of law impacting person's obligations under IRlaws/reg
 		- any other law/reg administered by IRS
 - Reliance on Advice of Others

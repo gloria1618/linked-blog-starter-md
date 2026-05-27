@@ -1,0 +1,80 @@
+[[Priv comms, conf, priv acts]]
+
+Legal Liabilities R4M4
+
+- civil actions for tax malprac usually based on either trad contract/tort principles
+	- contract princples
+		- impose obligation to prep tax return diligently, completely
+	- tort principles
+		- prov that prof has duty to exercise lvl of skill, care, diligence commonly exercised by other members of prof under sim circumstances 
+- to prove malprac against tax preparer, plaintiff must demonstrate all of following
+	- tax preparer owed a duty to txpyr
+	- breach of duty
+	- plaintiff suffered injuries
+	- breach of duty caused plaintiff's injury 
+- Breach of Contract
+	- if CPA doesn't fulfill engagement terms, client can hold CPA L for contract breach
+	- Contract L gen req privity, so only a party to contract (or named 3rd party beneficiary) can sue under contract theory
+	- ![[Pasted image 20260526163200.png]]
+- Commission of Tort 
+	- CPA L can arise from commission of tort
+	- tort = wrongful act
+		- Unintentional tort
+			- ordinary negligence (good faith mistake)
+				- negligence is breach of duty to exercise due care
+				- If CPA performs negligently, can be held L for $ damages
+				- stndrd of care owed by CPA to perform w same skill/care expected of ordinarily prudent CPAs under circumstances
+				- best defense is due diligence 
+					- doc everything in workpapers
+				- Elements of Ord Negligence
+					- to make case, plaintiff must show 
+						- (civil case > burden of proof on plaintiff)
+						- defendant owed duty of care to plaintiff
+						- defendant breached duty by failing to act w due care
+						- breach caused plaintiffs injury
+						- damages
+					- ex of ord neg
+						- fail to prop supervise, rev eng
+						- fail to warn of known IC weakness
+			- lacks reasonable care
+			- compensatory damages only
+		- Intentional tort (fraud)
+			- punitive damages
+				- constructive fraud: aka gross negligence (reckless)
+					- Elements
+						- same as actual fraud (MAIDS) but instead of intentionally deceiving, its acted reckless/grossly negligent
+						- to whom cpa L?
+							- L much broader than L for negligence
+							- CPA can be held L to anyone who proves elements MAIDS
+								- privity not defense to fraud
+								- best defense is lack of scienter (good faith)
+				- fraud: bad faith, intent
+			- Elements of Actual Fraud (intentional misrep)
+				- MAIDS
+					- Misrep of material fact
+					- Actual, justifiable reliance by plaintiff on misrep
+					- intent to Induce plaintiff's reliance on misrep
+					- Damages
+					- Scienter - intent to deceive, knew stmt false, bad faith
+				- ![[Pasted image 20260526165314.png]]
+- Who is Owed Duty?
+	- gen a CPA owes a duty of care (due diligence) to:
+		- clients
+		- any person/limited foreseeable class of ppl whom CPA knows will be relying on CPA's work (eg creditors, investors)
+		- exception
+			- minority of states follow Ultramares decision
+			- limits CPA L narrowly to persons in privity of contract w CPA (clients) and intended 3rd party beneficiaries 
+- ![[Pasted image 20260526165715.png]]
+- Compensatory Damages - for ord neg and/or contract breach
+	- damages assoc w return prep malprac incl following (reasonably foreseeable damages)
+		- Taxes
+			- possible reimbursement for any overpmt
+		- Penalties
+			- imposed bc of return errors
+		- Interest
+			- owed by txpyr bc errors
+		- Costs incurred to correct tax returns
+			- fees to file amended returns and/or challenge penalties
+		- Consequential Damages
+			- lost inv/income oppro
+	- punitive damages also avail if fraud 

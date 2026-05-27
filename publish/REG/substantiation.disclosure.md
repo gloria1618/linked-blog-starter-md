@@ -1,1 +1,60 @@
-S
+Substantiation and Disclosure of Tax Positions
+- Frivolous Tax Return
+	- <20% chance of succeeding
+	- no basis in law/other authority
+		- considered patently improper, merely arguable
+		- no defense -- must pay full penalty
+		- disclosure of position won't help to avoid penalties
+- Reasonable Basis Stndrd
+	- >=20% chance of succeeding
+	- will avoid negligence penalty if understmt is not subs even if txpyr doesn't disclose tax return position for which txpyr has reasonable basis
+	- will avoid subs underpmt penalty only if txpyr disclosed tax return position for which txpyr has reasonable basis
+	- gen rule: reasonable basis stndrd avoids most penalties (assuming position disclosed)
+	- General Avoidance of Penalties: Reasonable basis > 20%
+		- txpyr gen avoid any penalty by showing that txpyr
+			- had reasonable cause to support position
+			- acting in good faith
+			- didnt have willful neglect
+		- exception doesnt apply for
+			- tax shelters (>50%)
+			- subs tax understmt that was undisclosed (need subs auth >40%)
+- Subs Authority Stndrd
+	- >40% chance of succeeding
+	- avoids penalties for most undisclosed positions
+	- only anal/reports issued by Congress, IRS reg.rule.releases and court case decisions constitute subs auth
+	- tax articles/treatises don't constitute subs auth
+	- primary authoritative sources to det if subs auth for item tax treatment:
+		- applicable provisions of IRC, statutory provisions
+		- proposed, temporary, final reg construing such statutes (Treasury Reg)
+		- revenue ruling/procedures, tax treaties/reg thereunder, Treasury Dep, other official explanations of such treaties
+		- court cases
+- More Likely Than Not Stndrd
+	- >50% chance tax position upheld by courts
+		- more stringent than subs auth stndrd
+	- applicable to reportable, listed transactions + tax shelters
+- Disclosures for Uncertain Tax Positions
+	- may help txpyr avoid penalties for tax understmt
+	- Disclosure Stmt Form 8275
+		- to avoid understmt penalty, disclose positions on return that are contrary to Revenue Rulings, Rev Procedures, or other statutory provisions (except Reg)
+	- Regulation Disclosure Stmt Form 8275-R
+		- almost identical
+		- but used to disclose return positions contrary to Treasury Reg
+	- Reportable Transaction
+		- txpyr participating in reportable transaction must file Form 8886 disclosing it
+		- reportable transaction
+			- id by Secretary of US Treasury as scheme to avoid/evade taxes
+		- categories of reportable transactions incl
+			- listed transactions
+			- confidential transactions
+			- transactions w contractual protection
+			- loss transactions
+- Interest on Penalties
+	- interest on penalty for
+		- fail to file
+		- fail to pay
+		- negligence/fraud understmt
+	- gen rule
+		- interest accrues from tax return due date/extended due date (if filed for extension)
+			- ig this means for penalties 
+		- interest on underpaid tax begins to accrue from date tax was due w.o extension of time to file 
+			- ig this is for underpmt 

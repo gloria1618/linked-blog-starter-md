@@ -1,0 +1,37 @@
+Privileged Comms, Confidentiality, Privacy Acts R4M4
+
+- Privileged Comms
+	- rules of evidence protect info exchanged in certain confidential relations by granting an evidentiary privilege 
+		- eg attorney-client, doctor-patient
+	- info exchanged w.in relation cant be disclosed in court w.o consent of privilege holder
+	- Privileges avail to CPAs can incl
+		- attorney-client privl
+			- when cpa engaged by attorney to aid attorney in prov legal services bc cpa expertise needed
+		- work prod privl
+			- can protect tangible materials produced in prep for litigation as requested by attorney
+			- does not protect comms bw attorney/acctant abt prod 
+		- tax practitioner-txpyr privl
+			- applies to tax advice from tax practitioner that would qualify under attorney-client privl
+			- applies only to fed auth tax practitioners under IRC Sec 7525, state laws may vary
+			- applies to civil cases
+			- IRC Sec 7525 prov same common law protection of confid applying to comms bw txpyr-attorney as it does for comms bw txpyr-fed auth tax practitioner
+			- may only be asserted in noncriminal tax matter before IRS, noncriminal tax proceeding in fed court brought by/against US
+			- Federally Authorized Tax Practitioner
+				- indiv authorized under fed law to prac before IRS
+				- incl CPA, enrolled agents, enrolled actuaries
+
+- Special Rules Regarding Tax Shelters/Criminal Cases
+	- tax practitioner privl shall not applly to any written comms bw fed auth tax practitioner and _____________________ in connection w promotion of (in)direct participation of the person in any tax shelter
+		- any person
+		- any director, officer, emplee, agent, rep of the person
+		- any other person holding capital/profits interest in the person and
+- Workpapers
+	- belong to acctant (firm) that preps them, not client
+	- acctant prohibited from showing workpapers to anyone w.o client's permission, except
+		- in response to subpoena relevant to court case
+		- to prospective purchaser of CPA's practice, as long as they dont disclose the confidential info
+			- **altho may allow prospective purchaser to rev confidential workpapers, cannot turn over workpapers w.o client permission 
+		- to state CPA society voluntary quality ctrl review panel, when requested
+		- in defense of lawsuit brought by client
+		- to be used in defense of an official investigation by AICPA/state trial board
+		- when GAAP req disclosure of such info in fin stmts

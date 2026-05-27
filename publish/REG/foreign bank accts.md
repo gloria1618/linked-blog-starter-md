@@ -1,0 +1,50 @@
+Reporting Req for Foreign Bank Accts
+
+- FBAR
+	- Report of Foreign Bank + Financial Accts
+- BSA
+	- Bank Secrecy Act
+- FinCEN
+	- Fin Crimes Enforcement Network
+	- division of Treasury Dep
+
+- BSA req US ppl to report certain fin accts outside US by filing FBAR
+- FinCEN uses FBAR to id funds used for
+	- illegal activities
+	- unreported income from foreign sources
+- Who Files FBAR
+	- US person
+		- US citizen/resident
+		- entity created, organized, formed in US (corp, partnership, LLC, trust, estate)
+	- US person files FBAR if
+		- have fin interest in, or signature or other authority over, any fin acct maintained w fin institution located outside US, and
+		- agg value of accts >10k at any time during calendar yr 
+			- max value
+				- the highest value during calendar yr measured in foreign currency then converted to USD using exchange rates for last day of calendar yr
+	- Fin accts incl
+		- bank accts (checking, savings, CD)
+		- investment accts
+			- brokerage accts, other securities accts
+			- options, commodity futures accts
+			- cash value insurance, annuity policies
+			- mutual funds
+- FBAR Filing Req
+	- FBAR, FinCEN Form 114, must be filed electronically thru FinCEN BSA E-filing Sys
+	- due April 15 following end of calendar yr being reported
+	- there's auto 6mo extension to file
+	- Jointly Owned Accts
+		- if acct jointly owned by 2+ ppl, each US person w fin interest in acct is gen req to report entire value of acct on FBAR
+		- limited exception avail for spouses w JOO, allowing only 1 spouse to report acct on FBAR
+	- Exceptions
+		- entity named in consolidated FBAR filed by a >50% owner
+		- participants/beneficiaries of IRAs n tax qualified retirement plans
+		- beneficiaries of a trust
+- Report/Record Keeping Req
+	- keep rec w following info for each reported acct on FBAR for at least 5yrs
+		- name on acct
+		- acct #
+		- name, address of bank
+		- acct type
+		- max value during yr
+			- measured in foreign currency
+			- converted to USD w treasury exchange rates at last day of calendar yr

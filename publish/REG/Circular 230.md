@@ -12,7 +12,8 @@ Treasury Dep Circular230 in IRS publication entitled
 	- Duties/restrictions relating to prac before the IRS
 	- Sanctions for violation of regulations
 	- Rules applicable to disciplinary hearings
-- 
+
+dont need to know section #'s
 - Subpart A: Authority to Practice
 	- rules governing practice before IRS apply to 
 		- unlimited representation rights before the IRS (need not have prepped/signed ur return)
@@ -35,19 +36,20 @@ Treasury Dep Circular230 in IRS publication entitled
 			- advise client of consequences under tax law of noncompliance/error/omission 
 		- Common wrong answers
 			- dont need to withdraw from client until they correct error
+				- pattern is diff story?
 			- no need to notify IRS about client omission/error
 	- 10.22 diligence as to accuracy
 		- practitioner must exercise due diligence in 
 			- prep, approving, filing tax returns, other docs related to IRS matters
 			- det correctness of oral/written rep made by practitioner to clients/Treasury dep
-		- practitioner presumed to have exercised due diligence = rely on work product of another person if practitioner used reasonable care w respect to reliance
+		- practitioner presumed to have exercised due diligence = rely on work product of another person if practitioner used reasonable care w respect to reliance (due care when selecting who ya gonna rely on)
 			- reasonable reliance on work product of others is ok 
 	- 10.23 prompt disposition of pending matters
 		- no practitioner may unreasonably delay any matter before the IRS
 	- 10.24 assistance from/to disbarred/suspended persons + former IRS emplees
 		- practitioner cannot accept help from or assist ppl who r under disbarment/suspended from practice before the IRS
-	- 10.25 practice by former gov emplees, their partners/associates 
-		- no member of firm where former gov emplee works can rep txpyr where maybe conflict of interest, unless firm isolates former gov emplee from representation
+	- 10.25 practice by former gov emplees, *and* their partners/associates 
+		- no member of firm where former gov emplee works can rep txpyr where maybe conflict of interest, *unless firm isolates* former gov emplee from representation (so like part of IRS auditing them, and now firm u joined does their taxes)
 			- if gov emplee personally/substantially participated in a particular manner, that indiv can never represent/assist those parties
 				- most restrictive
 			- if gov emplee had 'official responsibility' for particular matter, they cannot rep those parties for 2yrs
@@ -90,7 +92,7 @@ Treasury Dep Circular230 in IRS publication entitled
 		- Comms Fee Info
 			- can be comms in many ways
 				- radio, tv, mail, ecommerce comms
-			- copies of comms must be retained for 36mo
+			- copies of comms, mailing list must be retained for 36mo
 	- 10.31 Negotiation of Txpyr Checks
 		- practitioner may not endorse/negotiate any refund check issued to client
 		- holding for safekeeping ok 
@@ -140,4 +142,3 @@ Treasury Dep Circular230 in IRS publication entitled
 				- reinstatement not contrary to public interest
 - Subpart D: Rules Applicable to Disciplinary Proceedings
 - Subpart E: General Provisions 
-	- 

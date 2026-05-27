@@ -1,6 +1,6 @@
 [[txpyr penalties]]
 [[substantiation.disclosure]]
-
+[[foreign bank accts]]
 - Audit Process
 	- fed income tax sys based on self assessment of taxes
 	- audit process ensures voluntary assessment + pmt of taxes is occurring 
