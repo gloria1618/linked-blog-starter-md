@@ -1,0 +1,127 @@
+### Adj Basis + Holding Period
+#### of A Sold: Purchase
+- Purchasing
+	- buyer has initial basis in prop when purchased
+	- Sales Price - Basis = Gain/Loss
+		- prop basis det gain/loss when selling
+	- gain usually taxable, loss maybe deductible
+- Basis
+	- Basis = Cost + Capital Improvements
+		- cost 
+			- incl all amts paid to purchase, prep for use, place into service
+			- ex: shipping/installation/testing costs, sales taxes
+		- capital improvements = cost spent to improve prop
+	- ![[Pasted image 20260528142913.png]]
+- Types of Purchased Prop
+	- Real Prop
+		- land + all items permanently affixed to land (building, paving, etc)
+	- Personal Prop
+		- all prop not classified as real prop
+		- ex: machinery, equip, trucks, car
+- Holding Period
+	- begins date prop acquired/purchased
+	- LT prop
+		- owned >1yr
+		- pay capital gain tax when selling if gain
+	- ST prop
+		- owned <=1yr
+		- gains taxed at ord inc tax rate
+- Reduce Basis for Accum Deprec
+	- deprec exp tax deductible
+	- *NBV* or Adj Basis of A
+		- basis adj downward by accum deprec
+- FMV
+	- tax on car received for prov service?
+		- yes, pay tax on FMV of prop
+	- Basis = FMV
+	- Taxable Income = FMV
+- NBV
+	- say nontaxable transaction such as 'like kind exchange' bw 2 parties
+		- no taxable inc recog by either
+		- basis will be NBV
+	- nontaxable transaction >> no taxable income >> NBV basis
+- Basis Spreading Adj
+	- receipt of nontaxable stock dividend/split req spreading basis of orig shares over both orig+new shares
+	- results in same tot basis, but lower basis/share
+	- ![[Pasted image 20260528144246.png]]
+#### of A Sold: Gifts
+- Donor
+	- makes a gift
+	- possible gift tax, depending on size
+- Donee
+	- receives gift
+	- never pays gift tax
+- areas most likely tested are det: 3
+1. Donee's Tax Basis in gifted prop
+	- gen basis rule
+		- donor's basis becomes donee's basis
+		- rollover cost = NBV
+			- ie donors NBV becomes donee's basis
+	- Sales Price - Basis = Gain/Loss
+	- Exception to gen rule:
+		- when FMV at gift date < donor's NBV
+			- basis of donee depends on donee's future sales price
+			- won't know donee basis until gift sold
+				- Scenario 1: sales price > NBV
+					- NBV as basis, gain recog
+					- Sales price - NBV= Gain
+					- ![[Pasted image 20260528145519.png]]
+				- Scenario 2: sales price < FMV
+					- FMV as basis, loss recog
+					- Sales price - FMV = Loss
+					- ![[Pasted image 20260528145623.png]]
+				- Scenario 3: sales price bw NBV and FMV
+					- sales price as basis, no G/L recog
+					- ![[Pasted image 20260528145738.png]]
+	- SUMMARY
+		- E to gen rule: FMV at gift date < donor's NBV
+		- 1: Sales price > NBV
+			- use NBV basis, gain
+		- 2: Sales price < FMV
+			- FMV basis, loss
+		- 3: Sales price bw NBV n FMV
+			- sales price basis, no g/l recog
+2. Deprec Basis for gifted prop
+	- deprec basis is lesser of
+		- donor's adj basis at gift date
+		- FMV at gift date
+	- ![[Pasted image 20260528150635.png]]
+3. Holding period of gifted prop
+	- LT prop gain
+		- tax at capital gain rates
+	- ST prop gain
+		- tax at ord income tax rate
+		- higher than capital gain rates
+	- Gen Rule: recipient of gift absorbs donor's holding period
+		- Scenario 1
+			- Exception: donee sells gifted prop at sale price > NBV
+			- donee uses donor's holding period
+		- Scenario 2
+			- Exception: sales price < FMV
+				- holding period begins at gift date
+				- donee cant claim donor's holding period
+				- no rollover of holding period
+				- loss recog
+		- Scenario 3
+			- Exception: sales price bw NBV, FMV
+				- holding period not relevant
+				- no g/l recog
+				- no tax ramifications occur
+#### Inherited A
+- Inherited Prop Basis
+	- Gen Rule: FMV of prop at death date
+		- prop acquired by inheritance gen takes stepped up/down basis to FMV at death date
+	- which basis better for txpyr?
+		- using higher FMV, higher basis?
+		- using lower NBV, lower basis?
+		- well if basis low, more gain recog
+	- IRS allows FMV (higher basis) use instead of NBV (lower basis), to pay less tax on inheritance
+		- adv of stepped up basis is diff bw NBV, FMV not taxed 
+- AVD Alt Valuation Date
+	- if elected, FMV on AVD may be used to value estate prop
+	- basis is FMV at earlier of 
+		- distribution date of A
+		- 6mo after death
+- Holding Period for Inherited Prop
+	- inherited prop auto considered LT prop regardless of how long held
+- GO THRU AND COPY V EXAMPLES

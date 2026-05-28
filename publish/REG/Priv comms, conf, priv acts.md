@@ -1,19 +1,19 @@
 Privileged Comms, Confidentiality, Privacy Acts R4M4
 
 - Privileged Comms
-	- rules of evidence protect info exchanged in certain confidential relations by granting an evidentiary privilege 
-		- eg attorney-client, doctor-patient
+	- Rules of Evidence protect info exchanged in certain confidential relations by granting an evidentiary privilege 
+		- eg attorney-client, doctor-patient ... patient.client has privl
 	- info exchanged w.in relation cant be disclosed in court w.o consent of privilege holder
 	- Privileges avail to CPAs can incl
 		- attorney-client privl
 			- when cpa engaged by attorney to aid attorney in prov legal services bc cpa expertise needed
 		- work prod privl
-			- can protect tangible materials produced in prep for litigation as requested by attorney
-			- does not protect comms bw attorney/acctant abt prod 
+			- can protect tangible materials produced in *prep for litigation* as requested by attorney
+			- does not protect comms bw attorney/acctant abt prod (woulda needed attornye-client)
 		- tax practitioner-txpyr privl
 			- applies to tax advice from tax practitioner that would qualify under attorney-client privl
-			- applies only to fed auth tax practitioners under IRC Sec 7525, state laws may vary
-			- applies to civil cases
+			- applies only to fed auth tax practitioners under IRC Sec 7525, state laws may vary say on cpa's
+			- applies to civil cases only (no tax shelter either)
 			- IRC Sec 7525 prov same common law protection of confid applying to comms bw txpyr-attorney as it does for comms bw txpyr-fed auth tax practitioner
 			- may only be asserted in noncriminal tax matter before IRS, noncriminal tax proceeding in fed court brought by/against US
 			- Federally Authorized Tax Practitioner

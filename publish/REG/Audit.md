@@ -21,6 +21,7 @@
 - Audit Timing
 	- most indiv returns audited w.in 2yrs from filing date
 	- return may also be audited at any pt prior to expiration of statute of limitations 
+		- varies, but no limit for fraud - vid
 - Correspondence Audit (Rev for Math Errors)
 	- as a result of IRS review of
 		- info errors
@@ -47,6 +48,7 @@
 	2. Unresolved Issues
 		- agrmt cant be reached w indiv rev agent, txpyr receives copy of revenue agent's report + 30dy letter (preliminary notice) notif txpyr of right to [[Appeal]]
 		- txpyr has 30dys to request admin appeal w appeals officer (not a Court of Appeals)
+		- pretty sure this is appeals conference 
 	3. Fast Track Remediation
 		- avail for small business owners, SE indiv
 		- mediator from IRS Office of Appeals assigned, goal: resolution in 60dys

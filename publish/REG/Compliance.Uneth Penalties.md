@@ -49,9 +49,9 @@ Tax Return Preparer Compliance Penalties
 			- contrary 
 	- Penalty
 		- unreasonable position if
-			- position disclosed, <20% chance position upheld
-			- undisclosed, <40% chance position upheld
-			- reportable transaction, <50% chance of winning
+			- position disclosed, <20% chance position upheld reasonable basis
+			- undisclosed, <40% chance position upheld subs auth stndrd
+			- reportable/taxshelter transaction, <50% chance of winning more likelythannot
 		- ordinary negligence (no intent)
 		- penalty = to greater of 
 			- 1k
@@ -113,5 +113,5 @@ Tax Return Preparer Penalties for Uneth Behavior
 		- disclosures allowed by any provision of IRC or pursuant to court order (enforceable subpoena)
 		- allowable uses (prep of state/local tax returns/declaration of est tax)
 		- disclosures/uses for quality/peer reviews, admin orders
-	- consent of client: confidential client info may be disclosed to any party if client specifically consents to info release
+		- consent of client: confidential client info may be disclosed to any party if client specifically consents to info release
 ![[Pasted image 20260521154107.png]]

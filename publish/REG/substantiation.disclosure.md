@@ -1,4 +1,4 @@
-Substantiation and Disclosure of Tax Positions
+Substantiation and Disclosure of Tax Positions (uh i think the defenses txpyr got)
 - Frivolous Tax Return
 	- <20% chance of succeeding
 	- no basis in law/other authority
@@ -7,8 +7,8 @@ Substantiation and Disclosure of Tax Positions
 		- disclosure of position won't help to avoid penalties
 - Reasonable Basis Stndrd
 	- >=20% chance of succeeding
-	- will avoid negligence penalty if understmt is not subs even if txpyr doesn't disclose tax return position for which txpyr has reasonable basis
-	- will avoid subs underpmt penalty only if txpyr disclosed tax return position for which txpyr has reasonable basis
+	- will avoid negligence penalty if understmt is *not subs* even if txpyr *doesn't disclose* tax return position for which txpyr has reasonable basis
+	- will avoid *subs* underpmt penalty only if txpyr *disclosed* tax return position for which txpyr has reasonable basis
 	- gen rule: reasonable basis stndrd avoids most penalties (assuming position disclosed)
 	- General Avoidance of Penalties: Reasonable basis > 20%
 		- txpyr gen avoid any penalty by showing that txpyr
@@ -18,6 +18,7 @@ Substantiation and Disclosure of Tax Positions
 		- exception doesnt apply for
 			- tax shelters (>50%)
 			- subs tax understmt that was undisclosed (need subs auth >40%)
+				- so liek if u disclosed, then reasonable basis stdrd gud
 - Subs Authority Stndrd
 	- >40% chance of succeeding
 	- avoids penalties for most undisclosed positions

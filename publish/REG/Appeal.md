@@ -38,12 +38,13 @@ Appeals + Fed Judicial Process
 		- US Court of Federal Claims (pay first, sue for refund, no jury)
 			- nationwide court w jurisdiction over most claims for $ damages against US, eg tax refunds
 			- 16 judges, no jury trials on any matter
-	- Fed Court of Appeals
+			- choose based on past precedent
+	- Fed Court of Appeals (see below?)
 		- appellate courts limited to rev to det if lower court applied proper law in decision arrival
 		- txpyr can choose route thru court sys they deem most favorable
 	- Burden of Proof
 		- most litigation, plaintiff has burden of proof
-		- most civil tax cases, txpyr has burden of proof
+		- most civil tax cases, txpyr has burden of proof (bc got books/rec)
 		- in certain situations, burden of proof shits to IRS
 			- civil fraud, willfully aid.abet others
 			- criminal fraud

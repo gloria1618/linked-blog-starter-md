@@ -14,6 +14,7 @@ Legal Liabilities R4M4
 	- breach of duty caused plaintiff's injury 
 - Breach of Contract
 	- if CPA doesn't fulfill engagement terms, client can hold CPA L for contract breach
+		- best defense is that they didnt comply, like didnt share needed items
 	- Contract L gen req privity, so only a party to contract (or named 3rd party beneficiary) can sue under contract theory
 	- ![[Pasted image 20260526163200.png]]
 - Commission of Tort 
@@ -41,6 +42,7 @@ Legal Liabilities R4M4
 		- Intentional tort (fraud)
 			- punitive damages
 				- constructive fraud: aka gross negligence (reckless)
+				- so like say needa go to TX but its too hot so u dont n j issue report w.o checking,,,, its j as bad as fraud
 					- Elements
 						- same as actual fraud (MAIDS) but instead of intentionally deceiving, its acted reckless/grossly negligent
 						- to whom cpa L?
@@ -48,6 +50,7 @@ Legal Liabilities R4M4
 							- CPA can be held L to anyone who proves elements MAIDS
 								- privity not defense to fraud
 								- best defense is lack of scienter (good faith)
+									- tryna say ord neg, not grossly neg
 				- fraud: bad faith, intent
 			- Elements of Actual Fraud (intentional misrep)
 				- MAIDS
