@@ -21,13 +21,13 @@ Privileged Comms, Confidentiality, Privacy Acts R4M4
 				- incl CPA, enrolled agents, enrolled actuaries
 
 - Special Rules Regarding Tax Shelters/Criminal Cases
-	- tax practitioner privl shall not applly to any written comms bw fed auth tax practitioner and _____________________ in connection w promotion of (in)direct participation of the person in any tax shelter
+	- tax practitioner privl shall not apply to any written comms bw fed auth tax practitioner and _____________________ in connection w promotion of (in)direct participation of the person in any tax shelter
 		- any person
 		- any director, officer, emplee, agent, rep of the person
 		- any other person holding capital/profits interest in the person and
 - Workpapers
 	- belong to acctant (firm) that preps them, not client
-	- acctant prohibited from showing workpapers to anyone w.o client's permission, except
+	- acctant prohibited from *showing* workpapers to anyone w.o client's permission, except
 		- in response to subpoena relevant to court case
 		- to prospective purchaser of CPA's practice, as long as they dont disclose the confidential info
 			- **altho may allow prospective purchaser to rev confidential workpapers, cannot turn over workpapers w.o client permission 

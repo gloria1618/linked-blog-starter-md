@@ -1,4 +1,6 @@
-### Adj Basis + Holding Period
+[[Gain.Loss]]
+### Adj Basis + Holding Period 
+R2M1
 #### of A Sold: Purchase
 - Purchasing
 	- buyer has initial basis in prop when purchased
@@ -44,6 +46,31 @@
 	- receipt of nontaxable stock dividend/split req spreading basis of orig shares over both orig+new shares
 	- results in same tot basis, but lower basis/share
 	- ![[Pasted image 20260528144246.png]]
+- ##### Purchasing Prop for Business
+	- Expense or Capitalize 
+		- Gen Rule: if useful life >1yr --> capitalize, w some exceptions 
+		- Capitalize
+			- improvements
+				- expenditure is improvement if
+					- results in betterment to prop (enlarge, expand, inc quality)
+					- subs extends useful life
+					- restores prop value
+					- adapts prop to new/diff use
+		- Expense
+			- repairs/maintenance
+				- costs to maintain prop in working condition, not add sig value/extend prop life
+				- immediately expensed
+			- material/supplies
+				- incidental material/supplies costing <=200, or
+				- consumed <=1yr
+	- De Minimis Safe Harbor Rule
+		- businesses can follow policy to immediately expense low cost personal prop items
+		- amt allowed to be deduc depends on if txpyr has applicable fin stmt AFS
+			- txpyr w AFS can deduct item's cost up to 5k
+			- txpyr w.o AFS, 2.5k/item
+			- if item cost more than allowable amt, entire cost must be capitalized
+		- ![[Pasted image 20260528191349.png]]
+		- ![[Pasted image 20260528191414.png]]
 #### of A Sold: Gifts
 - Donor
 	- makes a gift
@@ -111,7 +138,7 @@
 - Inherited Prop Basis
 	- Gen Rule: FMV of prop at death date
 		- prop acquired by inheritance gen takes stepped up/down basis to FMV at death date
-	- which basis better for txpyr?
+	- ~~which basis better for txpyr?
 		- using higher FMV, higher basis?
 		- using lower NBV, lower basis?
 		- well if basis low, more gain recog
@@ -124,4 +151,85 @@
 		- 6mo after death
 - Holding Period for Inherited Prop
 	- inherited prop auto considered LT prop regardless of how long held
-- GO THRU AND COPY V EXAMPLES
+- SEE SLIDES FOR (SIMPLE) EXAMPLES
+
+
+
+ ---------------------------------------------------------------------------------------------------- vid 4/5
+#### Property Converted from Personal > Business Use
+- 2 diff types of basis
+	- Tax Basis for Deprec
+		- calc sim to gifted prop basis
+		- basis of prop converted from personal to business use for deprec is lesser of
+			- orig cost basis, as adj for any prop improvements
+			- FMV on conversion date
+		- ![[Pasted image 20260528192414.png]]
+	- Tax Basis for G/L calc if sold/disposed
+		- basis depends on if prop sold at g/l
+		- basis may be diff than deprec basis
+		- det g/l occurred upon A sale
+			- compare sale price to adj basis on sale date
+				- adj basis = orig cost - deprec
+		- >>basis for det g is adj basis at sale date
+		- >>basis for det deductible loss is as follows
+			- take lesser of (at conversion date)
+				- adj cost basis
+				- FMV 
+			- then reduce lesser amt by any deprec deduc taken after conversion to business use
+		- SEE PART 2 FOR EXAMPLES
+
+ ---------------------------------------------------------------------------------------------------- vid 6/7
+#### Intangible Prop
+- incl patents, copyright, trademark, etc to protect ownership rights in these A
+- initial tax basis gen cost,purchase price
+- initial basis adj downward by amort deduc on A (adj basis)
+- Sec 197 Purchased Intangibles
+	- intangible A acquired w purchase of existing business
+	- portion of lump sum purchase price of business's A allocated to Sec197 intangible A
+	- incl
+		- goodwill
+		- going concern value
+		- covenant not to compete
+		- licenses, permits
+		- customer/supplier lists
+		- franchises, trademarks, trade names
+		- patents, copyrights, etc. owned by purchased business
+- RnD
+	- costs must be immediately capitalized, amortized
+- Patents, Copyrights
+	- initial basis of patent/copyright purchased directly (other than those acquired part of lump sum of existing business) is purchase price
+	- basis of self created patent/copyright incl
+		- dev costs
+		- legal cost
+		- gov fees
+	- value of inventor/author time not incl
+- Loan Costs
+	- loan closing costs, such as loan origination fees, are
+		- capitalized as intangible A
+		- amortized
+- Organizational + Startup Costs
+	- txpyrs allowed to imm expense 1st 5k of business organization costs + 1st 5k of startup costs
+	- 5k allowance reduced dollar for dollar when tot costs exceed 50k for each item 
+	- costs not imm expensed are capitalized as intangible A, amort over 15yrs
+	- Organizational Costs
+		- applies to (costs of) formation, organization of partnership, LLC, corp
+		- qualifying costs
+			- legal fees
+			- acct fees
+			- filing fees
+			- costs of organizational mtgs
+		- nonqualifying costs
+			- assoc w adding equity to business
+			- issue/sell stock/partnership interest
+			- transfer A to corp/partnership
+	- Startup Costs
+		- applies to startup of business organized as sole proprietorship, partnership, corp
+		- qualifying costs
+			- costs to investigate, create business incurred before business begin op
+			- investigation of potential mkt, loc, prod, etc
+			- mkting, advertising for opening
+			- costs to secure prospective distributors, suppliers, customers
+			- worker hiring/training
+			- facility, equip set up costs
+	- ![[Pasted image 20260528195742.png]]
+	- ![[Pasted image 20260528195755.png]]

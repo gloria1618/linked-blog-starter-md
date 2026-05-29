@@ -3,7 +3,7 @@
 Legal Liabilities R4M4
 
 - civil actions for tax malprac usually based on either trad contract/tort principles
-	- contract princples
+	- contract principles
 		- impose obligation to prep tax return diligently, completely
 	- tort principles
 		- prov that prof has duty to exercise lvl of skill, care, diligence commonly exercised by other members of prof under sim circumstances 
