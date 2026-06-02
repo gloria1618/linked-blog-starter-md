@@ -1,0 +1,65 @@
+R3M7
+
+### Sec 501(c)(3)
+- tax exempt org
+	- not for proft orgs that qualify for exemption from fed inc tax
+- 30+ diff types of tax exempt orgs designated in Sec501c of IRC
+- most common tax exempt org is Sec 501(c)(3)
+- Exempt Purpose
+	- tax exempt Sec 501(c)(3) org must be organized n op exclusively for 1+ of following purposes
+		- Religious
+		- Charitable
+		- Scientific
+		- Testing for public safety
+		- Literary
+		- Educational
+		- Fostering national/international amateur sports competition
+			- but only if none of activities involve prov athletic facilities/equip
+		- Prevention of cruelty to children/animals
+- Contributions to Sec 501(c)(3)
+	- unlike almost all other types of tax exempt orgs, contributions made to Sec 501(c)(3) qualify as deductible charitable contributions to donor 
+- Sec 501(c)(3) orgs classified as either
+	- Private Foundations
+		- classified as private unless fits into one of excl categories prov under Code
+		- for private foundation to be tax-exempt adn for contributions made to foundation to be tax deduc charitable contributions, foundations governing instrument must incl certain special provisions.... these incl a req
+			- that foundation will dist income each yr as req under tax law
+			- foundation will not engage in any act of self-dealing or retain any excess business holdings as defined in tax law 
+		- typ receive funding from single major source, such as fam/corp, rather from many
+		- primary activity of most priv foundation is making grants to other charitable orgs and indiv, rather than directly op charitable programs
+	- Public Charities
+		- Sec 501(c)(3) orgs falling into one of excl categories under Code, not subj to rules/restrictions applying to private foundations
+		- incl
+			- churches, schools, college/university, hospital, qualified medical research org that are publicly supported
+			- other broadly based, publicly supported orgs w limited inv income and unrelated business income
+			- not for profit orgs supporting public charities
+			- orgs testing products for public safety
+		- qualify as publicly supported, at least 1/3 of org's tot support must come from
+			- governmental units, and
+			- general public
+
+### Other Tax Exempt Orgs
+- some of more common types of tax exempt orgs other than Sec 501(c)(3)
+	- Corps organized under Congress act as an instrumentality of US, incl fed credit unions
+	- Title-holding corps organized for sole purpose of holdign title to prop, collecting income from prop, turning incoem over to tax exempt org
+	- Civic leagues, social welfare orgs 
+		- eg Kiwanis, Rotary Club, homeowners assoc, volunteer fire dep
+	- Labor, agricultural, horticultural orgs
+	- Business leagues 
+		- eg chamber of commerce, real estate board
+	- Social, recreational clubs
+	- Beneficiary, domestic fraternal socieities
+	- Mutual insurance companies
+	- Cemetery companies
+	- Veteran's orgs of past/present members of US Armed Forces
+- Political Orgs Sec 527
+	- political orgs
+		- entities organized, operated for purpose of collecting contributions, making expenditures for an exempt function
+		- exempt function of political org is infl or attempting to infl selection, election, appointment of an indiv to a
+			- fed, state, local public offic
+			- office in a political organization
+		- income from contributions, membership dues, political fundraising events, sale fo campaign materials is tax exempt if set aside/spent for exmpet function purpoes fo politcial org
+- Contributions
+	- altho orgs other than Sec 501(c)(3) may qualify for exemption form fed income tax under IRC, contributions to those are gen not tax deduc charitable contributions to donors
+	- exception 
+		- contributions to US instrumetnality
+		- volunteer fire dep if made exclusively for public purposes 

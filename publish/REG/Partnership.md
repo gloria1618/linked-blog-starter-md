@@ -1,0 +1,58 @@
+[[Partnership tax basis]]
+[[LLC tax class]]
+
+- S corp/partnerships are sim flow thru entities
+- partnership not subj to income taxes, but still files partnerhsip tax return (Form 1065)
+	- Form 1065 informational return prov detailed info abt partnership inc/exp, incl
+		- Sch K
+			- indicates all of sep stated items
+		- Sch K-1
+			- indicates amt/type of each partner's distributive share of ord business inc/loss and sep stated income/g/l/deduction items
+			- each partner L only for taxes due on distributive share of partnership inc, as reported on K-1, regardless of dist made/not
+				- includes on indiv income tax return
+
+### Partner's Share of Inc/Credits/Deduc
+- Form 1065
+	- partnership tax return
+- Sch K
+	- sep stated items, income/loss for partnership 100%
+- Sch K-1
+	- each partner's share (based on ownership %)
+- ![[Pasted image 20260602154049.png]]
+	- 1. ord business inc/loss  > Sch E
+	- guaranteed pmts are expense to partnership, but income to partner and taxable to em as salary
+	- ord business inc/loss will flow to partners indiv return via K-1
+- most business expenses deductible
+	- Guaranteed Pmts
+		- reasonable compensation paid to partner for services prov, ex: partner's salary
+		- use of capital w.o regard to partner's profit/loss sharing ration
+			- ex: capital A given to partner to use freely w.o assoc it w profit/loss sharing ration
+		- partnership allowed tax deduction for guaranteed pmt
+		- are a business exp to partnerhsip
+		- incl Sch K-1, ord+taxable inc to partner
+		- not incl in QBI for purposes of Sec199A QBI deduction for flow thru entities
+	- Fringe Benefits for Partners
+		- health insurance premiums
+			- incl in guaranteed pmts, along w pmts for services prov 
+			- partner deducts as adj for AGI for SE health insurance premiums on indiv return
+		- retirement plan contributions
+			- not incl in guaranteed pmts
+			- partner deducts as adj for AGI for SE retirement plan contributions on indiv return
+	- Organizational Expenditures + Startup Costs
+		- partnership may elect to deduct up to 5k of each, same as corp
+		- >50k, reduce deduction amt
+		- any excess amort over 180mo (beginning w mo op begin)
+		- GAAP, all costs expensed w.o limit
+		- Incl
+			- organizatonal
+				- fees paid for legal services in drafting partnership agrmt
+				- acct services
+				- partnership filings
+			- start up costs
+				- training costs
+				- advertising costs 
+				- testing costs incurred prior to business opening 
+		- Excl
+			- syndication costs
+				- offerign materials
+				- costs assoc w raising capital 
