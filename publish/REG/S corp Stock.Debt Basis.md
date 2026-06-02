@@ -1,0 +1,41 @@
+S Corp Shareholder Stock Basis & Debt Basis
+
+- calc of shareholder's basis in S corp stock is gen same as *partnerships*: BASE
+	- Beg basis
+	- Add (income, contributions)
+	- Subtract (dist, losses)
+	- Ending balance 
+- S corp shareholder basis
+	- B initial stock basis (contributions)
+	- A 
+		- additional contributions
+		- income/gain items (ord business inc, sep stated inc/gain items, tax exempt inc)
+	- S
+		- dist to shareholders
+		- nondeductible exp
+		- loss/deduction items (ord business loss, sep stated loss/deduc items)
+	- End basis in S corp stock 
+- so
+	- unlike partnerships, S corp shareholders don't incl any S corp debt in stock basis
+	- however, s corp shareholder does have sep debt basis in loans from shareholder to S corp
+		- **stock, debt basis tracked sep, but together form tax basis**
+	- when S corp repays part/all of loan, shareholders basis in debt reduced accordingly
+	- stock, debt basis cant be below 0
+		- affects both the pass thru of S corp loss/deductions and tax treatment of dist to shareholders
+	- ![[Pasted image 20260602011726.png]]
+	- ![[Pasted image 20260602011745.png]]
+- Tax Basis Limitation
+	- loss can only be flowed thru to S corp shareholder indiv inc tax return to extent of shareholder's basis
+		- S corp loss, loss flows thru to shareholder, they can only deduct loss if enough tax basis to cover loss
+		- incl stock and debt basis
+	- excess of tax basis is suspended until basis reinstated in future
+		- reinstated by any of items that inc stock basis: income, gains, additional contributions
+		- any inc in future yrs reinstate debt basis first, then stock basis
+	- so S corp shareholder permitted to pass thru for deduction on indiv inc tax return the pro rata share of s corp loss subj to following limit
+		- stock basis (minus dist)
+		- debt basis (direct shareholder loans to s corp)
+- Suspended Losses
+	- carried forward indef
+	- suspended loss remaining when dispose of S corp stock are lost
+- ![[Pasted image 20260602012449.png]]
+- ![[Pasted image 20260602012510.png]]

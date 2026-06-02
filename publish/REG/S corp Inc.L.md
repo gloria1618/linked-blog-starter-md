@@ -1,0 +1,36 @@
+- S corps are flow thru entities, very sim to partnership
+- Pass thru of Inc/L
+	- each shareholder receives Sch K-1, rep proportionate interest in sep stated items
+	- S corp sim to partnerships
+		- flow thru ord business inc/l & sep stated items of income, gain, l, deductions to the shareholders
+		- allocations to shareholders made on pershare, perday basis
+	- S corp diff from partnerships
+		- S corp shareholder's share of ord business inc not subj to SE tax, even if shareholder actively involv in op
+		- technically, partners run partnership, shareholders dont
+		- shareholder may be director/officer in running business, but shareholder's share of ord business inc not subj to SE tax
+	- ![[Pasted image 20260602005114.png]]
+- Separately State Items 
+	- see K-1 for complete list, sim to partnership
+	- shareholders taxed when sep state items earned, not when dist
+	- Sch E, passive
+		- rental real estate inc/l
+		- royalties
+	- Sch B, passive
+		- interest inc
+		- dividend inc
+	- Sch D
+		- net STCG/L
+		- net LTCG/L
+		- net Sec1231 G/L
+	- Sch A, itemized deductions
+		- charitable contributions
+	- Sec179 exp deduction.............MACRS DEPREC IS BUSINESS EXP
+	- ![[Pasted image 20260602005758.png]]
+- Sec 199A QBI Deduction
+	- below the line deduction of 20% of qualified business income may be avail on ord business income flow thru from S corp
+- Fringe Benefits
+	- Deductible in calc ord business inc
+		- for nonshareholder emplee 
+		- and those emplee shareholders owning <=2% of S corp 
+	- Nondeductible
+		- cost of fringe benefits for shareholders owning >2% nondeduc, unless corp incl benefits in the emplee/shareholder W2 income
