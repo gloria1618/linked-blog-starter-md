@@ -1,0 +1,121 @@
+ R3M3
+
+- Filing Req
+	- req to file US Corp Income Tax Return, Form 1120 by 15th day of 4th mo after tax yr close
+	- C corps w fiscal yrs ending June30, due by 15th day of 3rd mo after tx yr close
+		- changing to of 4th mo for tax yrs beginning after Dec31 '25
+	- when due date fall on legal holiday/wkend, tax return due on nxt business day
+	- Form 7004 extension of 6mo
+		- C corp w June30 yr end have 7mo extension
+- Est Pmts of Corp Tax
+	- corp req to pay est taxes on 15th of 4th, 6th,9th,12th mo of tax yr
+	- 1/4 of est tax due w each pmt
+	- unequal quarterly pmts may be made using annualized income method
+	- underpmt penalty assessed if
+		- pmts not made timely
+		- amt owed on return is 500+
+	- Corps Other than Large Corps
+		- def
+			- corps never having taxable inc >1M in any of its 3 preceding tax yrs
+		- req to pay lesser of
+			- 100% of tax shown on return for current yr
+			- 100% of tax shown on return for preceding yr
+		- this alt cannot be used if
+			- corp owed no tax for preceding yr
+			- preceding tax yr was less than 12mo
+	- Large Corps
+		- def
+			- corps w taxable inc 1M+ in any of 3 preceding tax yrs
+		- must pay 100% of tax as shown on current yr return
+- Flat Tax Rate, Taxable Income
+	- corp taxable income calc by
+		- take gross income 
+			- basically same items incl in indiv gross inc
+		- deduct allowable business exp
+	- corp taxable inc subj to flat tax of 21%
+	- personal service corp also subj to flat tax of 21%
+- #### Tax Credits
+	- General Business Credit
+		- consists of combo of any of following
+			- investment credit
+			- work oppro tax credit
+			- alt fuels credit
+			- RnD tax credit (gen 20% of increase in qualified research expenditures pver base amt for yr)
+			- low income housing credit
+			- small emplyr pension plan start up costs credit
+		- Limits
+			- credit may not exceed 'net income tax' (regular tax - nonrefundable tax credits) - 25% of net regular tax L above 25k
+		- Unused Credit Carryover
+			- altho some limits must be applied separately, unused credits may gen be
+				- carried back 1yr
+				- forward 20yrs
+	- Foreign Tax Credit
+		- domestic corps that have paid/accrued qualified foreign income taxes to a foreign country/US possession may gen credit those taxes against US income tax L on foreign source income
+		- corp may choose annually to take either credit/deduction for eligible foreign tax paid/incurred
+			- if corp elects benefits of foreign tax credit for any yr, no portion of foreign tax will be allowed as deduction in that yr or any subseq yr (cant mix n match)
+		- goal is to keep US txpyrs worldwide effective tax rate from exceeding US statutory tax rate, accomplished thru foreign tax credit limitation
+		- calc
+			1. det qualified foreign income tax paid/accrued for tax yr
+				- WTI = worldwide taxable inc (tot)
+				- FI = foreign income (outside US)
+				- qual foreign tax paid will be given info
+			2. compute foreign tax credit limit
+				a. WTI * US tax rate = US tax L
+				b. FI/WTI = ratio of foreign to tot
+				c. calc a*b= foreign tax credit limit
+			3. Lesser of Step 1 or 2
+		- unused foreign tax credits can be
+			- carried back 1yr,
+			- then, carried forward 10yrs
+		- ![[Pasted image 20260601224148.png]]
+		- ![[Pasted image 20260601224206.png]]
+
+# Tax 
+R3M3v3
+- Every C corp pays regular tax
+	- Gross Income
+	- (Business deductions)
+	- -----------------------
+	- Taxable Income
+	- *21% flat tax rate
+	- --------------------
+	- Regular tax L (Tax 1)
+- In addition to regular tax, C corp may have to also pay either
+	- 2a. Accumulated Earnings tax, or
+		- penalty imposed on regular C corp whose accum (retained) earnings are >250k, if
+			- earnings considered improperly retained instead of being dist as dividends to (high tax bracket) shareholders
+		- why cant c corp keep RE as wanted
+			- IRS wants to collect double taxation
+		- If c corp doesnt dist $ w.o valid reason, IRS will tax it at 20%
+			- same rate as if $ dist via dividend
+		- regular c corp entitled to 250k of (lifetime) accum earnings
+		- personal service corp entitled to only 150k of (lifetime) accum earnings
+		- accum earnings tax not imposed on
+			- personal holding companies (PCH)
+			- tax exempt corps
+			- passive foreign investment corps
+		- to avoid accum earnings being considered unreasonable
+			- demonstrated, specific, definite, feasible plan for use of accum earnings (reasonable needs), or
+			- need to redeem corp stock incl in deceased stockholder's gross estate
+		- j bc stock widely held doesn't exempt 
+		- accum earnings not self assessed; its IRS assessed bc of IRS audit of corp
+	- 2b Personal Holding Company (PCH) tax
+		- Corp set up by high tax bracket txpyrs to
+			- channel investment income into a corp, and
+			- shelter that income thru lower regular tax rate (21%) of corp, instead of paying their higher indiv tax rates on that inc
+		- Def of PCH
+			- tax law crit def PCH as corp:
+				- >50% owned by 5 or less indiv
+				- having 60% of adj ordinary gross income consisting of: NIRD(passive income)
+					- Net rent (if <50% of ordinary gross inc)
+					- Interest taxable
+						- nontaxable excl
+					- Royalties
+						- excl mineral, oil, gas, copyright royalties
+					- Dividends
+						- from unrelated domestic corp
+		- Additional tax assessed
+			- corp deemed PCH taxed additional 20% on PCH NI not dist
+			- no penalty if NI dist
+			- tax self assessed by filing sep Sch 1120 PH along w Form 1120
+

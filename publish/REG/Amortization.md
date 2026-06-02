@@ -1,0 +1,20 @@
+- Intangible A amortized using straight line w full month convention
+	- so full month of amortization taken in month of accquisition/disposition
+	- most common recovery period is 180mo (15yrs)
+- ![[Pasted image 20260529123447.png]]
+- Recovery Period
+	- Sec197 Purchased Intangibles
+		- amortize over 180mo, begin w month purchased regardless of useful life of intang A
+		- ex: goodwill, patents, copyrights owned by purchased business
+	- Capitalized Research+Experimental Costs
+		- amortize over 5yrs for domestic research (or 15yr for foreign research), beginning w midpt of yr which costs paid/incurred
+	- Parents, Copyrights
+		- Purchased
+			- amortize over remaining life of patent,copyright for any purchased separately, not part of business acquisition
+		- Self-created
+			- amortize over life of patent/copyright
+	- Loan Costs
+		- amortize debt issuance costs over loan term
+	- Capitalized Organizational, Startup Costs
+		- amortize any remaining costs after 5k expense allowance (as adj for phase out, if any) over 180mo, begin w mo which business op start
+![[Pasted image 20260529124243.png]]

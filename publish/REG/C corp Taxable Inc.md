@@ -1,0 +1,190 @@
+[[C corp Tax+Credits]]
+[[C corp Loss Limits]]
+
+R3M1
+- Gross Income (see R3M2 for temp/permanent ex)
+	- gen corp tax rule: income recog when received
+		- GAAP: adv pmts rec *not* recog as rev, instead deferred L
+	- cash received in adv of accrual GAAP inc is taxed
+		- aka **temp** diff bw 'book n tax'
+		- interest income rec in adv
+		- rental inc rec in adv, incl nonrefundable rent deposits, lease cancellation pmts
+		- royalty inc rec in adv
+		- deprec
+	- some GAAP inc items not incl in taxable income
+		- aka **permanent** diff bw book n tax
+		- interest income from municipal/state obligation/bond
+		- certain proceeds from life insurance on life of corp officer ('key person' policy) when corp is beneficiary
+		- gen rule: portion of proceeds that = prev paid premiums + other nondeductible amts paid in is tax-free, blnce is gen taxable
+	- corp CG taxed at same rate as ord corp income, unlike indiv txpyrs
+- Cash v Accrual basis
+	- Cash Basis
+		- used for tax purposes by most indiv, incl
+			- qualified personal service corp
+				- which are treated as indiv for rule purposes
+			- txpyrs whose avg annual gross receipts dont exceed 31M for prior 3yr period ('25)
+	- Accrual Basis
+		- required for following
+			- tax shelters
+			- acct for purchases/inv sale, prov business has >31M of avg annual gross receipts for 3yr period ending w preceding tx yr
+			- certain farming corp (other farming, or tree raising business may gen use cash basis), prov has >31M of avg annual gross receipts for 3yr period ending w preceding tx yr
+			- C corp, trusts w unrelated trade/business income, and partnerships having C corp as partner, prov business has >31M ....
+- #### Ordinary n necessary business exp
+	- all of ord/nec exp paid/incurred during taxable yr in carrying business are gen deductible
+	- ord/nec exp means
+		- common/accepted in particular business/profession, and
+		- relate to production of current yr's income
+	- reasonable salaries, office rental/supplies, traveling exp all deduc when incurred for business purposes
+	- Executive Compensation
+		- publicly held corps may not deduct compensation expenses >1M paid to covered emplees, which incl
+			- CEO
+			- CFO
+			- 3 other most highly compensated officers
+		- entertainment expenses for officers, directors, 10%orgreater shareholders may be deduc only to extent incl in indiv's gross inc
+		- corp allowed to deduc reasonable compensation paid to shareholder-emplee
+			- if IRS det shareholder's salary unreasonable, may reclassify part as dividend dist
+				- dividend not deduc, gen taxed at preferential tax rates for shareholder/eplee
+	- Bonus Accruals
+		- bonus paid by accrual basis txpyr deduc in tx yr
+			- when all events occurred that est L w reasonable accuracy
+			- prov paid w.in 2.5mo of txpyr's yr end
+	- Bad Debts: Specific Charge-Off Method
+		- Accrual Basis
+			- must use specific charge off method (direct write off method) for tax purposes when worthless/uncollectible
+			- allowance method still req for fin acct purposes, but not allowed for calc inc tax deduc
+		- Cash Basis
+			- bc cash basis txpyr hasn't incl amt in gross inc, bad debt not deduc
+			- exception: uncollectible check that has been deposited, recorded as income
+	- Business Interest Expense
+		- most interest paid/accrued during txble yr on indebtedness incurred for business purposes is deduc, altho limits apply
+		- if txpyrs avg annual gross receipts >31M for prior 3 taxable yrs, business interest exp deduc limited to sum of:
+			- business interest inc
+			- 30% of ATI
+				- ATI is txble business inc for yr excl all interest inc/exp
+			- floor plan financing
+				- debt used to acquire motor vehicles held for sale/lease where debt secured by acquired inv
+		- excess business interest
+			- disallowed can be carried forward indef
+			- limit doesn't apply if txpyrs avg annual gross reciepts <31M for prior 3 txble yrs
+		- ![[Pasted image 20260601165723.png]]
+	- Charitable Contributions
+		- corp making contributions to qualifying charitable orgs allowed max deduc of 10% of txble inc
+		- disallowed carried forward 5yrs
+		- any accrual must be paid w.in 3.5mo of txble yr end to be deductible
+		- tot txble inc for 10% limit calc before deduction of
+			- any charitable contribution deduction
+			- dividends received deduc
+			- any capital loss carryback
+	- Business Losses or Casualty Losses Related to Business
+		- any losses sustained during txble yr, not compensated for by insurance or otherwise is deductible
+		- loss may be treated as ord/capital loss, depending on A type involved
+		- business casualty loss treated diff from loss by indiv in fed declared disaster
+		- Partially Destroyed
+			- loss limited to lesser of 
+				- decline in value of prop (chngFMV)
+				- adj basis imm before casualty (NBV)
+		- Fully Destroyed
+			- NBV
+		- subtract insurance reimbursement from either full/partially destroyed 
+		- ![[Pasted image 20260601180229.png]]
+		- ![[Pasted image 20260601180247.png]]
+	- Organizational Expenditures + Startup Costs
+		- same as partnership
+		- corp elect to deduc up to 5k each of org exp n startup costs
+		- if >50k, reduce 5k amt by amt exceeded
+		- excess org expenditures/startup costs amort over 180mo, beginning in mo active trade/business starts
+		- GAAP, all costs expensed w.o limit
+		- Organizational expenditures incl
+			- gees paid for legal services in drafting corp charter, bylaws
+			- fees for acct services
+			- state incorporation fees
+		- Startup costs incl
+			- training 
+			- advertising
+			- testing costs incurred before op starts
+		- costs excluded
+			- costs of issue/sell stock
+			- commissions
+			- underwriters fees
+			- costs incurred in A transfer to corp
+		- ![[Pasted image 20260601193755.png]]
+		- ![[Pasted image 20260601193816.png]]
+	- Amort, Deprec, Depletion
+		- goodwill, covenants nottocompete, franchises, trademarks, trade names must amort straightline over 15yrs beginning w mo intangible acquired
+		- for deprec/depletion, corp use same rules as other trade/businesses
+		- ![[Pasted image 20260601194055.png]]
+	- Life Insurance Premiums (Expense)
+		- Corp named as Beneficiary - Corp owns Policy (Key Person)
+			- premiums paid by corp for life insurance policies/key emplees not deduc when corp is in/directly the beneficiary
+		- Insured Emplee Named as Beneficiary - Emplee owns Policy (Fringe Benefit)
+			- if premiums paid on insurance policies where emplee named beneficiary, premiums deductible by corp as emplee benefit
+	- Business Gift, Meal, Entertainment
+		- Gifts
+			- deduc up to max deudc of $25/recipient per yr
+		- Meal
+			- 50% deductible to corp
+		- Entertainment exp not deduc
+	- Penalties, Illegal Activities
+		- Penalties, Illegal Activities Not Deduc
+			- bribes, kickbacks, fines, penalties, other illegal pmts under fed law or under gen enforced state law are not deduc
+		- Pmts made Related to Sexual Harrasement or Sexual Abuse
+			- any settlement, pmt, attorney fees related to sexual harassment/abuse are not deductible if
+				- settlement/pmt is subj to nondisclosure agrmt
+	- Taxes
+		- all state/local taxes and fed payroll taxes are deduc when incurred
+			- on prop, or
+			- on income relating to business
+		- fed income taxes not deduc
+		- foreign income taxes may be used as a credit
+	- Lobbying, Political Expenditures
+		- lobbying exp incurred in attempt to infl local, state, fed legislation not deduc
+		- political contributions not deduc
+	- Capital Loss
+		- capital loss deduc not allowed
+		- 3k deduc for net capital losses avail to indiv, not corp
+		- corp can only use capital losses to offset capital gains
+		- excess capital loss may be
+			- carried back 3yrs
+			- carried forward 5yrs
+	- Inventory Valuation
+		- Uniform Capitalization Rules Impact
+			- IRC Sec 263A uniform capitalization rules that req certain costs normally expensed by capitalized as part of inv for tax purposes
+			- if txpyr avg annual gross receipts >31M during 3yrs preceding, req to use accrual basis for these expenses
+			- may cause corp to make [[M-1.M-3]] adj on tax return to conform to rules
+
+## Dividends-Received Deduction (DRD)
+- purpose is to prevent triple taxation of earnings
+-  domestic corps allowed DRD based on qualified dividend income
+- amt of DRD allowed depends on % of investee crop owned by investor corp
+- ![[Pasted image 20260601200939.png]]
+- to qualify for DRD
+	1. shareholder must own stock for at least 46dys during 91dy period
+	2. 91dy period must begin on date 45dys before the ex dividend date
+- ![[Pasted image 20260601201120.png]]
+- Taxable Income Limitation
+	- DRD = lesser of
+		- 50% (65 or 100%) dividends received, or
+		-  50% (65 or 100%) of taxable income computed w.o regard to DRD, any NOL carryforward, or any capital loss carryback
+	- Exception
+		- taxable inc limit doesnt apply if taking full dividends received deduction results in a NOL
+- Entities Not Eligible for DRD: dont take it personally
+	- personal service corps
+	- personal holding companies
+	- (personally taxed) S corps
+	- DRD dont apply to dividends received from
+		- certain banks, savings instituitions
+		- RICs
+		- REITs
+		- Public utilities
+		- tax exempt corps
+		- cooperatives
+		- DISCs
+- 100% DRD
+	- Affiliated Corps -100%
+		- dividends from affiliated corps (80% or more common ownership) that file consolidated returns qualify 
+	- Small Business Investment Corps (SBICs) -100%
+		- allowed for 
+- How to Calc - lastvidGOOVERMYSELFBEFOREWATCHINGVIDSOSTICKS
+	- ![[Pasted image 20260601201956.png]]
+	- ![[Pasted image 20260601202007.png]]
+	- ![[Pasted image 20260601202027.png]]

@@ -1,0 +1,50 @@
+- Capital A
+	- incl A held/used for 
+		- investment (stock, bond, virtual currency)
+		- personal use (car, home, furniture)
+	- dispositions of capital A typ taxed as capital g/l
+
+R2M2v2
+#### Capital G/L Rules
+- Collectibles, Qualified Small Business Stock QSBS: 28% rate group
+	- LT gains on collectibles sale 
+		- art works, stamp/coin collection, antiques
+	- Sec 1202 QSBS
+		- QSBS is orig issue C corp stock that is held 5+yrs
+		- C corp's tax basis in its A must be <=50M
+		- txpyr allowed to exclude part of gain on sale of QSBS
+		- gain excluded is greater of
+			- 10M
+			- 10x txpyr's stock basis
+		- any gain in excess of excl amt taxed at max rate of 28%
+- Net capital loss deduction, carryover rules   
+	- 3k max deduc (per yr, indiv only)
+		- indiv can deduct net LT/ST capital loss against ordinary income, passive income, or portfolio income
+	- Excess net capital loss
+		- if net capital loss >3k, txpyr can carry forward for unlimited period until exhausted
+		- loss maintains character as LT/ST in future yrs
+		- no carryback allowed
+- Worthless stock, securities
+	- stock price down to 0
+	- cost (or other basis) of stock/sec treated as capital loss, as if sold on last day of taxable yr in which they became tot worthless
+- Short sales
+	- stock valued high but believed stock price will go down in future
+		- basically opposite of normal security purchase
+		- sell now, buy later
+	- stock short sale results in capital g/l
+- Capital G/L netting rules for indiv
+	- g/l, incl any capital loss carryforward, netted w.in each tax rate group, resulting in net g/l for group
+		- ST ordinary tax rate group
+		- LT 28% tax rate group (QSBS, collectibles)
+		- LT 0/15/20% tax rate group
+	- ![[Pasted image 20260528203316.png]]
+	- ![[Pasted image 20260528203332.png]]
+- Capital G/L rules for C Corp
+	- Net capital gains
+		- added to ord income, taxed at regular tax rate
+		- no distinction bw ST/LT CG/L for c corp
+			- corps dont get beenfit of lower CG rates
+			- corps may not deduct any net CL from ord inc
+	- Net capital loss
+		- carried back 3yrs, forward 5yrs to offset nCGin future yrs
+- ![[Pasted image 20260528221741.png]] 

@@ -19,7 +19,7 @@ R2M1
 		- land + all items permanently affixed to land (building, paving, etc)
 	- Personal Prop
 		- all prop not classified as real prop
-		- ex: machinery, equip, trucks, car
+		- ex: machinery, equip, trucks, car, PPE
 - Holding Period
 	- begins date prop acquired/purchased
 	- LT prop
@@ -66,11 +66,14 @@ R2M1
 	- De Minimis Safe Harbor Rule
 		- businesses can follow policy to immediately expense low cost personal prop items
 		- amt allowed to be deduc depends on if txpyr has applicable fin stmt AFS
+			- AFS is like an audited fin stmt
 			- txpyr w AFS can deduct item's cost up to 5k
 			- txpyr w.o AFS, 2.5k/item
 			- if item cost more than allowable amt, entire cost must be capitalized
 		- ![[Pasted image 20260528191349.png]]
 		- ![[Pasted image 20260528191414.png]]
+			- 1st/2nd bullet  -- based on policy
+			- LOOPHOLE: 4TH BULLET
 #### of A Sold: Gifts
 - Donor
 	- makes a gift
@@ -85,21 +88,21 @@ R2M1
 		- rollover cost = NBV
 			- ie donors NBV becomes donee's basis
 	- Sales Price - Basis = Gain/Loss
-	- Exception to gen rule:
-		- when FMV at gift date < donor's NBV
-			- basis of donee depends on donee's future sales price
-			- won't know donee basis until gift sold
-				- Scenario 1: sales price > NBV
-					- NBV as basis, gain recog
-					- Sales price - NBV= Gain
-					- ![[Pasted image 20260528145519.png]]
-				- Scenario 2: sales price < FMV
-					- FMV as basis, loss recog
-					- Sales price - FMV = Loss
-					- ![[Pasted image 20260528145623.png]]
-				- Scenario 3: sales price bw NBV and FMV
-					- sales price as basis, no G/L recog
-					- ![[Pasted image 20260528145738.png]]
+	- Exception to gen rule: when FMV at gift date < donor's NBV
+		- basis of donee depends on donee's future sales price
+		- won't know donee basis until gift sold
+			- Scenario 1: sales price > NBV
+				- NBV as basis, gain recog
+				- Sales price - NBV= Gain
+				- ![[Pasted image 20260528145519.png]]
+			- Scenario 2: sales price < FMV
+				- FMV as basis, loss recog
+				- Sales price - FMV = Loss
+				- ![[Pasted image 20260528145623.png]]
+			- Scenario 3: sales price bw NBV and FMV
+				- sales price as basis, no G/L recog
+				- sale price - sale price (basis) =0
+				- ![[Pasted image 20260528145738.png]]
 	- SUMMARY
 		- E to gen rule: FMV at gift date < donor's NBV
 		- 1: Sales price > NBV
@@ -110,7 +113,7 @@ R2M1
 			- sales price basis, no g/l recog
 2. Deprec Basis for gifted prop
 	- deprec basis is lesser of
-		- donor's adj basis at gift date
+		- donor's adj basis at gift date (NBV)
 		- FMV at gift date
 	- ![[Pasted image 20260528150635.png]]
 3. Holding period of gifted prop
@@ -120,9 +123,10 @@ R2M1
 		- tax at ord income tax rate
 		- higher than capital gain rates
 	- Gen Rule: recipient of gift absorbs donor's holding period
+		- *newt says relates to prev 3 scenarios, w assumption being FMV<NBV*
 		- Scenario 1
 			- Exception: donee sells gifted prop at sale price > NBV
-			- donee uses donor's holding period
+			- donee uses donor's holding period, absorb
 		- Scenario 2
 			- Exception: sales price < FMV
 				- holding period begins at gift date
@@ -138,6 +142,7 @@ R2M1
 - Inherited Prop Basis
 	- Gen Rule: FMV of prop at death date
 		- prop acquired by inheritance gen takes stepped up/down basis to FMV at death date
+		- stepped up bc if its gift u use lower nbv?
 	- ~~which basis better for txpyr?
 		- using higher FMV, higher basis?
 		- using lower NBV, lower basis?
@@ -177,13 +182,15 @@ R2M1
 				- FMV 
 			- then reduce lesser amt by any deprec deduc taken after conversion to business use
 		- SEE PART 2 FOR EXAMPLES
+			- uhhh adj basis at conversion time.... cant take any deprec unless its business use, so it was j 2k the cost
 
  ---------------------------------------------------------------------------------------------------- vid 6/7
-#### Intangible Prop
+#### Intangible Prop [[Amortization]]
 - incl patents, copyright, trademark, etc to protect ownership rights in these A
 - initial tax basis gen cost,purchase price
 - initial basis adj downward by amort deduc on A (adj basis)
-- Sec 197 Purchased Intangibles
+- amort for things u cant touch
+- Sec 197 Purchased Intangibles *not SEC179 LOL*
 	- intangible A acquired w purchase of existing business
 	- portion of lump sum purchase price of business's A allocated to Sec197 intangible A
 	- incl
@@ -207,7 +214,7 @@ R2M1
 	- loan closing costs, such as loan origination fees, are
 		- capitalized as intangible A
 		- amortized
-- Organizational + Startup Costs
+- Organizational 5k+ Startup Costs 5k
 	- txpyrs allowed to imm expense 1st 5k of business organization costs + 1st 5k of startup costs
 	- 5k allowance reduced dollar for dollar when tot costs exceed 50k for each item 
 	- costs not imm expensed are capitalized as intangible A, amort over 15yrs

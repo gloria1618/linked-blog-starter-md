@@ -1,0 +1,111 @@
+[[Amortization]]
+
+Part 1
+- Depreciation
+	- annual allowance for exhaustion, wear/tear, normal obsolescence of A in trade/business
+	- applicable to any tangible prop, like prop/plant/equip
+	- txpyr
+		- cant expense, j write off cost of PPnE
+		- is allowed to take deprec exp over prop useful life
+
+### Deduction Order
+- IBM
+1. Sec 179
+2. Bonus
+3. MACRS
+- see part4endslides
+- subtract out deprec calc before going to nxt method
+
+
+- #### MACRS
+	- Mod Accel Cost Recovery Sys
+	- most common method for fed income tax purpose
+	- accel means (opposed to straightline)
+		- deduct greater deprec exp upfront
+		- deduct exp from revenue
+		- pay less taxes
+	- basis is reduced
+		- annually by allowable deprec
+		- *even if deprec exp not claimed by txpyr
+	- reason for basis reduction
+		- lower basis, greater gain recog when sold, then greater tax owed
+	- Real Prop
+		- land + items permanently affixed to land eg buildings, paving
+		- ignore salvage value when MACRS on real prop
+		- landneverdeprec,onlyaffixedthings
+		- Residential Prop
+			- usually more wear/tear on residential, MACRS deprec residential faster than non
+			- straight line deprec over 27.5yrs
+			- ex: apartment buildings, rental homes, etc. 
+		- Nonresidential Prop
+			- straight line deprec over 39yrs
+			- ex: office buildings, warehouses, etc
+			- note: land *never* deprec
+				- when calc, remove land from tot cost of real prop
+		- ##### Mid month Convention
+			- real prop, straight line, half month taken in month placed/disposed
+			- OK RLLY SEE EXAMPLE
+			- for disposition yr do  normal% * months.5/12 = %
+				- % * value = deprec
+			- ![[Pasted image 20260529002619.png]]
+	- Personal Property
+		- tangible moveable prop not affixed to land
+		- machinery, equip, automobiles
+		- ![[Pasted image 20260528234216.png]]
+			- 5/7yrISCOMMON, MEMORIZE THOSE MIN
+		- MACRS Deprec Rules
+			- 3,5,7,10yr MACRS
+				- computed using 200% declining blnce method
+			- 15,20yr MACRS
+				- computed using 150% declining blnce method
+			- salvage value ignored under MACRS
+		- ##### Half Yr Convention
+			- applies to most personal prop
+			- prop treated as having been placed in service/disposed of halfway thru yr
+				- half yr deprec in yr of acquisition/disposition
+			- half yr convention built into the 1st yr, last yr rates
+			- if personal prop disposed before last yr, take full rate * .5
+			- SEE EXAMPLE SLIDES
+		- ##### Mid Quarter Convention
+			- Criteria
+				- if >40% of personal prop placed into service in last quarter of yr (exception to gen rule)
+				- treated as placed/disposed midway thru quarter
+				- if personal prop disposed prematurely, full yr MACRS rate * mid quarter ratio for mid quarter convention in disposition yr (see tbl below)
+					- ![[Pasted image 20260529000049.png]]
+				- choose quarter table based on what quarter the prop to deprec was put into service
+				- SEE EXAMPLE SLIDES
+- #### Sec 179
+	- **txpyr has option to choose either MACRS or Sec179 errrrrr
+	- sometimes want larger expense deduc than MACRS
+		- rev - exp = inc > tax
+		- greater exp > less income > less tax
+	- Personal prop placed w *some* limitations
+	- Qualified Real Prop
+		- gen, doesnt apply to real prop, only qualified real prop improvements
+			- after purchase improvements
+				- roofs
+				- heating sys
+				- ventilation sys
+				- air conditioning
+				- fire conditions
+				- alarm
+				- security sys
+			- only nonresidential real prop
+	- Who Qualifies?
+		- max annual deduc inc each yr bc inflation
+		- max annual deduc '25: $1.25M
+		- dollar for dollar phase out '25:
+			- if ~~qualifying~~ purchased prop > 3,130,00
+			- if u spend $1 above phase out, subtract $1 from max deduc allowed
+		- qualified prop must be acquired from unrelated party during yr
+		- deduc limited to taxable inc (before deduc)
+		- cannot be used
+			- to create loss
+			- if u alr have NOL
+- #### Bonus Depreciation
+	- allows for additional deduc of qualified prop placed into service
+	- u calc it based on remaining undeprec after Sec179
+	- qualified prop 
+		- must have recovery period <20yr
+		- not acquired from related party
+	- ![[Pasted image 20260529122327.png]]

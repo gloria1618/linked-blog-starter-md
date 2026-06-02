@@ -1,0 +1,37 @@
+R2M2
+- Calc G/L on Disposition
+	- gen g/l realized on A sale calc by comparing amt realized on disposition to A adj basis 
+	- certain transactions, g/l realized, but not recognized
+	- ![[Pasted image 20260528200517.png]]
+	- ![[Pasted image 20260528200529.png]]
+- G/L Character
+	- classification depends on how A disposed of was used by txpyr
+	- when prop disposed, g/l recog is classified as either
+		- [[capital gain]] /l
+		- ordinary
+			- Noncapital A
+				- incl A
+					- held for sale to customers in ord course of business (inventory)
+					- AR from inventory sale/service
+					- used in txpyrs trade/business (real/personal prop)
+				- disposition of noncapital A typ taxed as ord inc/loss
+					- other than certain g from disposition of trade/business use A
+
+#### Nondeductible Losses
+- WRaP   ,... wrapemupnthrowemawaybccantdeduct
+	- Wash sales
+		- security (stock/bond) sold for loss, then repurchased w.in 30dys before/after sale date
+		- loss on wash sale disallowed for tax purposes (nondeduc)
+		- only applies to l, not g
+		- basis of repurchased security = share purchase price  + disallowed loss on wash sale
+		- acquisition date of repurchased security = orig date of acquisition
+		- ![[Pasted image 20260528230259.png]]
+		- ![[Pasted image 20260528230313.png]]
+			- think abt like this: in first 2 transactions theres 1k loss, and normally would be able to deduct. but check for wash sale, there is, cant
+	- Related party transactions
+		- anyone in close familial relationship
+		- sales bw related parties not considered 'arm's length'
+		- L in related party transactions gen disallowed, nondeductible
+	- Personal losses
+		- no deduction for loss on disposal of personal A
+		- ![[Pasted image 20260528230446.png]]
