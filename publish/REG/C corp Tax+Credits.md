@@ -16,7 +16,7 @@
 		- amt owed on return is 500+
 	- Corps Other than Large Corps
 		- def
-			- corps never having taxable inc >1M in any of its 3 preceding tax yrs
+			- corps *never* have taxable inc >1M in any of its 3 preceding tax yrs
 		- req to pay lesser of
 			- 100% of tax shown on return for current yr
 			- 100% of tax shown on return for preceding yr
@@ -40,7 +40,7 @@
 			- investment credit
 			- work oppro tax credit
 			- alt fuels credit
-			- RnD tax credit (gen 20% of increase in qualified research expenditures pver base amt for yr)
+			- RnD tax credit (gen 20% of increase in qualified research expenditures over base amt for yr)
 			- low income housing credit
 			- small emplyr pension plan start up costs credit
 		- Limits
@@ -91,7 +91,7 @@ R3M3v3
 		- regular c corp entitled to 250k of (lifetime) accum earnings
 		- personal service corp entitled to only 150k of (lifetime) accum earnings
 		- accum earnings tax not imposed on
-			- personal holding companies (PCH)
+			- personal holding companies (PHC)
 			- tax exempt corps
 			- passive foreign investment corps
 		- to avoid accum earnings being considered unreasonable
@@ -99,12 +99,12 @@ R3M3v3
 			- need to redeem corp stock incl in deceased stockholder's gross estate
 		- j bc stock widely held doesn't exempt 
 		- accum earnings not self assessed; its IRS assessed bc of IRS audit of corp
-	- 2b Personal Holding Company (PCH) tax
+	- 2b Personal Holding Company (PHC) tax
 		- Corp set up by high tax bracket txpyrs to
 			- channel investment income into a corp, and
 			- shelter that income thru lower regular tax rate (21%) of corp, instead of paying their higher indiv tax rates on that inc
-		- Def of PCH
-			- tax law crit def PCH as corp:
+		- Def of PHC
+			- tax law crit def PHC as corp:
 				- >50% owned by 5 or less indiv
 				- having 60% of adj ordinary gross income consisting of: NIRD(passive income)
 					- Net rent (if <50% of ordinary gross inc)
@@ -115,7 +115,7 @@ R3M3v3
 					- Dividends
 						- from unrelated domestic corp
 		- Additional tax assessed
-			- corp deemed PCH taxed additional 20% on PCH NI not dist
+			- corp deemed PHC taxed additional 20% on PHC NI not dist
 			- no penalty if NI dist
 			- tax self assessed by filing sep Sch 1120 PH along w Form 1120
 

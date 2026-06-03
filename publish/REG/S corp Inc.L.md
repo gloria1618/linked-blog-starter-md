@@ -11,7 +11,7 @@
 	- ![[Pasted image 20260602005114.png]]
 - Separately State Items 
 	- see K-1 for complete list, sim to partnership
-	- shareholders taxed when sep state items earned, not when dist
+	- **shareholders taxed when sep state items earned, not when dist**
 	- Sch E, passive
 		- rental real estate inc/l
 		- royalties

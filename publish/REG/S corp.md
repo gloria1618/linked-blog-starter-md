@@ -5,7 +5,7 @@ R3M5
 - Eligibility
 	- Req to qualify
 		- domestic corp (not foreign entity)
-		- all shareholders (non/voting) msut consent to a valid election on Form 2553, which company files w IRS
+		- all shareholders (non/voting) must consent to a valid election on Form 2553, which company files w IRS
 	- Shareholder limit
 		- max 100 shareholders
 		- fam members may elect to be treated as one shareholder
@@ -25,7 +25,7 @@ R3M5
 		- S corps can own shares in C corp, but not reverse
 		- Exception to S corp not being owned by another corp
 			- S corp may also create a qualified S subsidiary in which S corp owns 100% of the stock
-			- the 2 S corps would fiel as one entity for tax purposes 
+			- the 2 S corps would file as one entity for tax purposes 
 
 - When S Corp Election takes Effect
 	- Conditions
@@ -54,9 +54,9 @@ R3M5
 	- all earnings passed thru to shareholders, taxed at indiv lvl
 
 ### Termination
-- terminates as result of any of following 3 occurences
+- terminates as result of any of following 3 occurrences
 	1. Shareholders holding >50% stock (non/voting) consent to voluntary revocation
-	2. Fails to meet any of S status qualfications
+	2. Fails to meet any of S status qualifications
 		- corp/partnership owner
 		- foreign owner
 		- >100 owners (fam can count as one)

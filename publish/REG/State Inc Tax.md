@@ -7,26 +7,26 @@ R3M8
 	- min lvl of contact a txpyr may have w a jurisdiction to be subj to its tax
 		- typ caused by company having prop, payroll, sales w.in a state
 		- det by specific laws of each state
-		- fed laws offer some protection to companies regardign state taxation
+		- fed laws offer some protection to companies regarding state taxation
 - Fed Limits on State Right to Impose Income Tax
-	- fed law prohibits state/its political subdivisions (county, city, etc) from imposing NI tax on a person's NI dervied from interstate commerce occuring w.in state borders when followign circumstances present
-		- only business activity of person w.in state consists of solicitaion of orders for sales of tangible personal prop
+	- fed law prohibits state/its political subdivisions (county, city, etc) from imposing NI tax on a person's NI derived from interstate commerce occurring w.in state borders when following circumstances present
+		- only business activity of person w.in state consists of solicitation of orders for sales of tangible personal prop
 		- orders sent outside state for acceptance/rejection
 		- if orders accepted, they are filled by shipment/delivery form a point outside state
 	- person
 		- incl indiv, corps, partnerships, LLC
-	- prohibition agaisnt state NI tax doesnt apply to
+	- prohibition against state NI tax doesnt apply to
 		- indiv who are domiciled in/residents of, the state
 		- corps incorporated under laws of that state
 		- companies soliciting sales of services, other products that dont qualify as tangible personal prop
 		- sales and use taxes
 		- franchise taxes
-		- gross recipts taxes (aka business adn occupation taxes or commercial activity taxes)
+		- gross receipts taxes (aka business and occupation taxes or commercial activity taxes)
 	- Ex of activities triggering nexus in state in which company op
-		- own, lease tanbible personal/real prop
-		- send emplee into state fro training/work
-		- soliciting slaes in state
-		- prov installation, maintanence, etc to customers w.in a state (even thru 3rd party)
+		- own, lease tangible personal/real prop
+		- send emplee into state for training/work
+		- soliciting sales in state
+		- prov installation, maintenance, etc to customers w.in a state (even thru 3rd party)
 		- accept/reject sales orders w.in state, or accepting returns
 ![[Pasted image 20260602172836.png]]
 

@@ -21,7 +21,7 @@ R3M7
 - Sec 501(c)(3) orgs classified as either
 	- Private Foundations
 		- classified as private unless fits into one of excl categories prov under Code
-		- for private foundation to be tax-exempt adn for contributions made to foundation to be tax deduc charitable contributions, foundations governing instrument must incl certain special provisions.... these incl a req
+		- for private foundation to be tax-exempt and for contributions made to foundation to be tax deduc charitable contributions, foundations governing instrument must incl certain special provisions.... these incl a req
 			- that foundation will dist income each yr as req under tax law
 			- foundation will not engage in any act of self-dealing or retain any excess business holdings as defined in tax law 
 		- typ receive funding from single major source, such as fam/corp, rather from many
@@ -40,14 +40,14 @@ R3M7
 ### Other Tax Exempt Orgs
 - some of more common types of tax exempt orgs other than Sec 501(c)(3)
 	- Corps organized under Congress act as an instrumentality of US, incl fed credit unions
-	- Title-holding corps organized for sole purpose of holdign title to prop, collecting income from prop, turning incoem over to tax exempt org
+	- Title-holding corps organized for sole purpose of holding title to prop, collecting income from prop, turning income over to tax exempt org
 	- Civic leagues, social welfare orgs 
 		- eg Kiwanis, Rotary Club, homeowners assoc, volunteer fire dep
 	- Labor, agricultural, horticultural orgs
 	- Business leagues 
 		- eg chamber of commerce, real estate board
 	- Social, recreational clubs
-	- Beneficiary, domestic fraternal socieities
+	- Beneficiary, domestic fraternal societies
 	- Mutual insurance companies
 	- Cemetery companies
 	- Veteran's orgs of past/present members of US Armed Forces
@@ -55,11 +55,11 @@ R3M7
 	- political orgs
 		- entities organized, operated for purpose of collecting contributions, making expenditures for an exempt function
 		- exempt function of political org is infl or attempting to infl selection, election, appointment of an indiv to a
-			- fed, state, local public offic
+			- fed, state, local public office
 			- office in a political organization
-		- income from contributions, membership dues, political fundraising events, sale fo campaign materials is tax exempt if set aside/spent for exmpet function purpoes fo politcial org
+		- income from contributions, membership dues, political fundraising events, sale of campaign materials is tax exempt if set aside/spent for exempt function purpose fo political org
 - Contributions
 	- altho orgs other than Sec 501(c)(3) may qualify for exemption form fed income tax under IRC, contributions to those are gen not tax deduc charitable contributions to donors
 	- exception 
-		- contributions to US instrumetnality
+		- contributions to US instrumentality   ex fanie mae
 		- volunteer fire dep if made exclusively for public purposes 

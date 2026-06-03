@@ -1,4 +1,5 @@
-
+NOL carrybacks not tested anymore, j carryforward
+same for indiv/corp
 - NOL
 	- NOL Carryforward Rule
 		- NOL pre2018
@@ -12,7 +13,7 @@
 			- offset 80% (incl2018-20) after pre2018
 			- carryforward indef
 	- no charitable contribution deduc allowed in calc NOL
-	- NOL deduc for an NOL carryover from anothehr yr not allowed in det current yr NOL
+	- NOL deduc for an NOL carryover from another yr not allowed in det current yr NOL
 	- prior yr NOL cant be sued to create/increase current yr NOL
 	- ![[Pasted image 20260601230955.png]]
 	- ![[Pasted image 20260601231011.png]]
@@ -27,3 +28,4 @@
 		- carried over as STCL, applied only against CG
 	- ![[Pasted image 20260601231303.png]]
 	- ![[Pasted image 20260601231322.png]]
+	- ^even if NOL can use CL carryforward to offset CG

@@ -5,6 +5,7 @@ S Corp Shareholder Stock Basis & Debt Basis
 	- Add (income, contributions)
 	- Subtract (dist, losses)
 	- Ending balance 
+	- BA=SE
 - S corp shareholder basis
 	- B initial stock basis (contributions)
 	- A 
@@ -30,7 +31,7 @@ S Corp Shareholder Stock Basis & Debt Basis
 		- incl stock and debt basis
 	- excess of tax basis is suspended until basis reinstated in future
 		- reinstated by any of items that inc stock basis: income, gains, additional contributions
-		- any inc in future yrs reinstate debt basis first, then stock basis
+		- any inc in future yrs reinstate *debt basis first*, then stock basis
 	- so S corp shareholder permitted to pass thru for deduction on indiv inc tax return the pro rata share of s corp loss subj to following limit
 		- stock basis (minus dist)
 		- debt basis (direct shareholder loans to s corp)

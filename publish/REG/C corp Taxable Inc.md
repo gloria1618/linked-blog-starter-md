@@ -1,5 +1,6 @@
 [[C corp Tax+Credits]]
 [[C corp Loss Limits]]
+to be publicly traded company, must be c corp
 
 R3M1
 - Gross Income (see R3M2 for temp/permanent ex)
@@ -43,7 +44,7 @@ R3M1
 		- entertainment expenses for officers, directors, 10%orgreater shareholders may be deduc only to extent incl in indiv's gross inc
 		- corp allowed to deduc reasonable compensation paid to shareholder-emplee
 			- if IRS det shareholder's salary unreasonable, may reclassify part as dividend dist
-				- dividend not deduc, gen taxed at preferential tax rates for shareholder/eplee
+				- dividend not deduc by corp, gen taxed at preferential tax rates for shareholder/emplee
 	- Bonus Accruals
 		- bonus paid by accrual basis txpyr deduc in tx yr
 			- when all events occurred that est L w reasonable accuracy
@@ -51,7 +52,8 @@ R3M1
 	- Bad Debts: Specific Charge-Off Method
 		- Accrual Basis
 			- must use specific charge off method (direct write off method) for tax purposes when worthless/uncollectible
-			- allowance method still req for fin acct purposes, but not allowed for calc inc tax deduc
+			- allowance method still req for fin acct purposes, but *not* allowed for calc inc tax deduc
+			- so like the allowance dont mean shit till u actually write it off
 		- Cash Basis
 			- bc cash basis txpyr hasn't incl amt in gross inc, bad debt not deduc
 			- exception: uncollectible check that has been deposited, recorded as income
@@ -67,18 +69,20 @@ R3M1
 			- disallowed can be carried forward indef
 			- limit doesn't apply if txpyrs avg annual gross reciepts <31M for prior 3 txble yrs
 		- ![[Pasted image 20260601165723.png]]
+			- since bond income not taxable, interest exp is not deduc
 	- Charitable Contributions
 		- corp making contributions to qualifying charitable orgs allowed max deduc of 10% of txble inc
 		- disallowed carried forward 5yrs
 		- any accrual must be paid w.in 3.5mo of txble yr end to be deductible
+			- donation gotta be paid w.in 3.5mo
 		- tot txble inc for 10% limit calc before deduction of
 			- any charitable contribution deduction
-			- dividends received deduc
+			- dividends received deduc DRD
 			- any capital loss carryback
 	- Business Losses or Casualty Losses Related to Business
 		- any losses sustained during txble yr, not compensated for by insurance or otherwise is deductible
 		- loss may be treated as ord/capital loss, depending on A type involved
-		- business casualty loss treated diff from loss by indiv in fed declared disaster
+		- *business* casualty loss treated diff from loss by *indiv* in fed declared disaster
 		- Partially Destroyed
 			- loss limited to lesser of 
 				- decline in value of prop (chngFMV)
@@ -113,7 +117,7 @@ R3M1
 		- goodwill, covenants nottocompete, franchises, trademarks, trade names must amort straightline over 15yrs beginning w mo intangible acquired
 		- for deprec/depletion, corp use same rules as other trade/businesses
 		- ![[Pasted image 20260601194055.png]]
-	- Life Insurance Premiums (Expense)
+	- Life Insurance *Premiums* (Expense)
 		- Corp named as Beneficiary - Corp owns Policy (Key Person)
 			- premiums paid by corp for life insurance policies/key emplees not deduc when corp is in/directly the beneficiary
 		- Insured Emplee Named as Beneficiary - Emplee owns Policy (Fringe Benefit)
@@ -166,7 +170,8 @@ R3M1
 		- 50% (65 or 100%) dividends received, or
 		-  50% (65 or 100%) of taxable income computed w.o regard to DRD, any NOL carryforward, or any capital loss carryback
 	- Exception
-		- taxable inc limit doesnt apply if taking full dividends received deduction results in a NOL
+		- taxable inc limit doesnt apply if taking full (greater) DRD results in a NOL
+		- then u take the greater of the #'s, scenario 3?
 - Entities Not Eligible for DRD: dont take it personally
 	- personal service corps
 	- personal holding companies
@@ -188,3 +193,5 @@ R3M1
 	- ![[Pasted image 20260601201956.png]]
 	- ![[Pasted image 20260601202007.png]]
 	- ![[Pasted image 20260601202027.png]]
+	- ![[Pasted image 20260602201532.png]]
+		- if one of the 2 # make NOL, then use that one
