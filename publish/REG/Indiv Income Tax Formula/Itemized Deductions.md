@@ -57,7 +57,7 @@ Sch E - rental expenses
 		- accrual txpyr, taxes gen deductible in yr accrue
 		- itemized deduc for state/local *inc* taxes (SALT), state/local *prop* taxes, n *sales* taxes limited to 10k in aggregate
 		- foreign real prop taxes not deductible
-			- those incurred in trade/business or respect to prop held as inv
+			- except those incurred in trade/business or respect to prop held as inv
 	- Real estate taxes (SALT)
 		- legally obligated to pay to deduct
 			- if u ask them to put your name on it, then you're legally obligated

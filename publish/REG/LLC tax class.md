@@ -16,7 +16,7 @@ Tax Classification of LLC
 	- at least 1+ limited partners have no personal L for partnership debt/obligations
 - Taxation
 	- fed income tax purposes, LLC treated as partnership, corp, or sole proprietorship
-		- LLC w 2+ owners taxed as partnership unless election to tax as C corp
+		- LLC w 2+ owners taxed as partnership, unless election to tax as C corp
 		- single member LLC
 			- disregarded entity for fed inc tax purposes
-			- treated as sole proprietorship if owner is indiv and incl in corp's taxable income if owner is a C corp
+			- treated as sole proprietorship if owner is indiv and incl in corp's taxable income if owner is C corp

@@ -25,11 +25,11 @@
 - most business expenses deductible
 	- Guaranteed Pmts
 		- reasonable compensation paid to partner for services prov, ex: partner's salary
-		- use of capital w.o regard to partner's profit/loss sharing ration
+		- use of capital w.o regard to partner's profit/loss sharing ratio
 			- ex: capital A given to partner to use freely w.o assoc it w profit/loss sharing ration
 		- partnership allowed tax deduction for guaranteed pmt
-		- are a business exp to partnerhsip
-		- incl Sch K-1, ord+taxable inc to partner
+		- are a business exp to partnership
+		- incl Sch K-1, ord taxable inc to partner
 		- not incl in QBI for purposes of Sec199A QBI deduction for flow thru entities
 	- Fringe Benefits for Partners
 		- health insurance premiums
@@ -44,7 +44,7 @@
 		- any excess amort over 180mo (beginning w mo op begin)
 		- GAAP, all costs expensed w.o limit
 		- Incl
-			- organizatonal
+			- organizational
 				- fees paid for legal services in drafting partnership agrmt
 				- acct services
 				- partnership filings
@@ -54,5 +54,5 @@
 				- testing costs incurred prior to business opening 
 		- Excl
 			- syndication costs
-				- offerign materials
+				- offering materials
 				- costs assoc w raising capital 

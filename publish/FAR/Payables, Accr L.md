@@ -1,0 +1,88 @@
+F4M1
+- Current L
+	- most are op L
+	- due w.in nxt yr/op cycle, whichever longer
+- NonCurrent L
+	- typ financing L, interest bearing
+- Trade Accts Payable
+	- for invy, raw materials
+	- recorded as Purchase/Inventory
+		- non interest bearing, op L
+	- Purchase recorded as 
+		- ##### Gross method
+			- wait to record discount until actually taken
+		- #### Net method
+			- record net of discount
+			- if pmt made after discount period, Purchase Discount Lost is debited
+				- inv/purchase ↑
+				- AP ↑?
+	- ![[Pasted image 20260704174735.png]]
+- Trade Notes Payable
+	- notes, debts, bonds, debentures are all interest bearing
+	- financial L
+	- formal, written promise to pay on a date
+	- ![[Pasted image 20260704175357.png]]
+	- ![[Pasted image 20260704175414.png]]
+- Interest Payable
+	- **look at dates**
+	- interest exp recorded in period incurred, not when coupon paid
+- Current Portions of LT Debt
+	- current obligations expected to be refinanced may be excl from CL and incl in nonCL if evidenced by
+		- actual refinancing prior to issuance of fin stmts
+		- existence of noncancelable fin agrmt from lender having fin resources to accomplish refinancing
+		- to record reclassification
+			- dr ST L xxx
+				- cr LT L xx
+- Accrued L/Exp
+	- accrued salary/wages payable
+	- book exp w.o paying bill
+	- other accrued L relate to exp incurred, not paid
+		- utilities, rent, insurance
+	- ![[Pasted image 20260704191228.png]]
+- Taxes Payable
+	- not all taxes are exp to corp
+	- will have payable but wont have an expense for all taxes
+		- may be accrued prior to receipt of tax invoice + matched in yr which invoice pertains
+		- may be recorded as payable upon receipt of tax invoice + expensed in receipt yr
+	- Sales taxes payable
+		- collected from customers on behalf of taxing auth
+		- held in trust until remission
+		- credited to payable acct after collection
+	- ![[Pasted image 20260704191507.png]]
+
+### Emplee Related L
+- payroll taxes
+	- emplyr exp
+	- unemplmt taxes and emplyr share of payroll taxes
+		- accrued by emplyr as exp
+		- L liquidated when amts remitted to approp taxing auth
+- payroll deductions
+	- not emplyr exp
+	- treated sim to sales taxes payable
+	- deductions for SS, Medicare, income taxes withheld from emplees out of gross pay from paychecks
+	- exp to emplee, not emplyr
+	- credited to payable acct until remitted 
+	- ![[Pasted image 20260704203533.png]]
+- Bonuses
+	- part of salary/wages expense, based on profits
+	- ![[Pasted image 20260704203730.png]]
+- Accrued Vacation
+	- recorded in yr earned if all of following conditions 
+		- SOCR
+			- Services - alr rendered by emplees
+			- Obligation - relates to rights that vest/accumulate
+			- Compensation - pmt of comp probable 
+			- Reasonably - amt can be reasonably est
+				- if only first 3 met, disclosure in note to fin stmts adeq
+	- ![[Pasted image 20260704203848.png]]
+
+### Exit/Disposal Activities 
+- ex: closing location, downsizing
+- L must be recog for costs assoc w exit/disposal activity
+- Costs incl
+	- severance pay - involuntary emplee termination benefits
+	- contract breach - costs to terminate contract that is not lease
+	- other
+		- consolidating facilities
+		- relocating emplees
+		- moving PPE

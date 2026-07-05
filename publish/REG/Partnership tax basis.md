@@ -1,7 +1,7 @@
 Partner's Tax Basis in Partnership Interest
 
 - basis in partnership interest incl
-	- partner's capital acct 
+	- partner's capital acct (invest)
 	+ partner's share of partnership debt 
 		+ incl
 			+ debt for which partner has personal L (recourse debt), and
@@ -9,7 +9,9 @@ Partner's Tax Basis in Partnership Interest
 - basis in partnership interest adj each yr for their share of following items in order
 	- inc in basis
 		- additional contributions
-		- inc in partnership debt
+		- *inc in partnership debt*
+			- bc partner would be resp for it
+			- diff from s corp
 		- taxable inc/gain items
 	- dec in basis
 		- distributions
@@ -21,7 +23,7 @@ Partner's Tax Basis in Partnership Interest
 		- additional contributions
 		- % of income/gain items (ord business inc, sep stated inc/gain, tax exempt inc)
 	- S
-		- cash dist
+		- cash dist 
 		- % of all loss/deductions (ord business loss, sep stated loss/deduc, nondeductible exp)
 		- property distributions
 	- E
@@ -31,12 +33,13 @@ Partner's Tax Basis in Partnership Interest
 		- ending tax basis in partnership interest
 - 
 - diff from S corp that track sep (tax basis = stock+debt basis)
-	- a partner's share of L inc basis
+	- a partner's *share of L inc* basis
 		- not true for S corp
 - ![[Pasted image 20260602163930.png]]
 - ![[Pasted image 20260602164318.png]]
 - ![[Pasted image 20260602164427.png]]
 - ![[Pasted image 20260602164442.png]]
+	- guaranteed pmt is salary, not dist
 
 - Tax Basis Limitation
 	- loss can only be flowed thru to partner's indiv income tax return to extent of basis in partnership interest
@@ -48,8 +51,8 @@ Partner's Tax Basis in Partnership Interest
 		- inc in partnership debt
 	- partner's share of debt incl in basis depends on 
 		- partner type
-			- general, limited, LLC member
+			- general (unlimited L), limited, LLC member
 		- debt type
-			- non recourse, secured
-			- recourse, personally guaranteed
+			- non recourse, secured 
+			- recourse, personally guaranteed (affects basis more)
 	- suspended loss carried forward indef, lost if dispose of interest 

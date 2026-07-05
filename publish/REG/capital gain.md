@@ -10,7 +10,7 @@ R2M2v2
 	- LT gains on collectibles sale 
 		- art works, stamp/coin collection, antiques
 	- Sec 1202 QSBS
-		- QSBS is orig issue C corp stock that is held 5+yrs
+		-  QSBS is orig issue C corp stock that is held 5+yrs
 		- C corp's tax basis in its A must be <=50M
 		- txpyr allowed to exclude part of gain on sale of QSBS
 		- gain excluded is greater of
