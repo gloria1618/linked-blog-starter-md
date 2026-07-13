@@ -1,0 +1,215 @@
+F4M3
+
+### Time Value of $
+- involv interest, annuities, PV, LT L... where deposit is lump sum and to calc FV
+- acct problems like
+	- lease
+	- pension
+	- bond 
+	- LT debt
+- cash outflows for
+	- interest on mult equal  pmts towards PV of an ordinary annuity
+	- principal of single lump sum pmt towards PV of 1
+- PV concepts: 6 types
+	- single lump sum
+		- PV of $1
+			- ex
+				- bond: one time principal pmt (face value)
+				- lease: PV of salvage amt u are guaranteeing
+			- calc
+				- PV = FV * PV of $1 for approp n&r, or
+				- PV = FV/(1+r)^n
+				- where n=periods, r=periodic interest rate
+			- ![[Pasted image 20260707155753.png]]
+			- ![[Pasted image 20260707160019.png]]
+		- FV of $1
+			- calc
+				- FV = PV * FV of $1 for approp n&r, or
+				- FV= PV * (1+r)^n
+			- ![[Pasted image 20260708171847.png]]
+			- ![[Pasted image 20260708172003.png]]
+	- multiple equal cash flows (annuities): at end or beginning of each period
+		- PV to ord annuity
+			- PV of ord annuity = annuity pmt * PV ord annuity $1 for approp n&r
+			- PV factor will be given
+			- make sure annual rate divided by # of periods
+			- careful w lease pmts, beginning/end of month
+			- ![[Pasted image 20260708173046.png]]
+		- FV to ord annuity
+		- PV to annuity due
+			- to adj PV factor of ord annuity to PV factor of annuity due:
+				- add 1 to PV of ord annuity of 1 for n periods
+			- ![[Pasted image 20260708173646.png]]
+			- ![[Pasted image 20260708173849.png]]
+		- FV to annuity due
+			- deposit equal amt into savings acct every period for 
+				- certain # of periods
+				- earning a certain interest rate
+			- if saving at end of each period, ord annuity
+			- if saving at beginni
+			- ng of each period, annuity due
+			- ![[Pasted image 20260708174117.png]]
+- Annuities
+	- ex: bond, leases
+	- identical periodic pmts/receipts a regular intervals
+	- ordinary annuity 
+		- aka annuity in arrears
+		- pmts at end of each period
+	- annuity due
+		- pmts at beginning of each period
+	- ex:
+		- PV of lease pmts
+			- A/L
+		- PV of coupon pmts:
+			- PV principal + PV coupons
+- ![[Pasted image 20260707154537.png]]
+- ![[Pasted image 20260707154606.png]]
+
+### LT L
+-  mostly financing L that are
+	- negotiated debt
+	- interest bearing debt
+- probable future sacrifices of eco benefits assoc w present obligations
+- not payable w.in current op cycle/reporting yr, whichever greater
+- ex
+	- LT promissory notes payable
+		- negotiated debt/financing L
+	- bonds payable
+		- L for borrower/issuer of bonds
+	- LT leases
+		- L for lessee/renter 
+	- LT contingent L
+	- obligations having maturity date to be repaid in cash/A
+		- purchase commitments
+		- equipment purchase obligations
+		- amts due under deferred compensation agrmts
+	- postretirement pension, other benefits payable
+	- other fin instruments
+	- ST debt expected to be refinanced
+		- listed under LT, even tho technically called ST
+	- deferred inc taxes payable
+		- op L, even tho noncurrent/noninterest bearing
+- L vs Equity
+	- L
+		- maturity/due date
+		- obligation to repay capital
+		- *following must be classified as L*
+			- fin instruments in form of share that're *mandatorily redeemable*
+				- reps *unconditional obligation* to issuer to redeem instrument
+				- involv transferring A at specified date or upon future event
+			- fin instruments, other than outstanding shares, repping an *obligation to repurchase* issuer's equity shares by transferring A
+			- fin instruments repping *obligation to issue* a variable # of shares
+	- Equity
+		- no maturity date
+		- no obligation to repay anything
+	- some, like preferred stock, have chara of both L/Equity
+		- preferred stock has no maturity date (e)
+		- preferred stock has fixed dividend, like coupon on a bond (debt)
+		- return on preferred equity gen fixed, assuming nonparticipating (d)
+		- no due date on preferred stock (e)
+
+### Notes Payable
+- contractual rights to pay $ at fixed/determinable rate
+- can be ST/LT
+	- gen rule: discount must be calc so can be recorded at PV
+	- NP must be recorded at PV at issuance date
+- if note is noninterest bearing or interest rate unreasonable (usually below mkt)
+	- note value det by imputing mkt rate of note & using effective interest method
+- many of these rules apply when notes exchanged for good/service and interest rate varies from prevailing interest rates
+- must record notes at PV so exp for period not distorted
+	- pmt * # of pmts = gross note payable
+	- gross note payable - PV  = discount  ← deferred int exp (contra acct)
+- note types
+	- no principal paid (no pmt until maturity)
+	- periodic pmts made (reduces principal/interest)
+- Stated Interest Factors
+	- note issued solely for cash equal to face amt presumed to earn stated interest
+		- gen presumption that interest stated on note resulting from arms length business transaction is fair/adeq
+		- but, if rights/priv attached to note, eval separately
+		- if no rights/priv attached and interest rate on note reflects prevailing interest rate, record note at FcV w.o any PV considerations
+- Imputing Interest
+	- w accrual basis, must record interest exp over life of security, whether or not interest paid
+	- imputed interest on accrual, not cash basis
+	- interest exp recorded whether or not coupon pmts made
+	- when note contains either no interest/unreasonable rate, record substance (not form) of transaction. involves det PV of oblig at approp mkt rate and
+		- record payable at FcV (gross note payable)
+		- record item received in exchange for note at PV of obligation
+		- record any diff bw FcV and PV as discount to be amort over note life
+			- Discount Amort
+				- use effective interest method
+				- beg carrying value * effective mkt rate = interest exp
+				- periodic pmt - interest exp = principle reduction of note
+- Imputing Interest Not Req
+	- PV calc at interest mkt rate no req for certain payables w low/no interest rate when payables
+		- arise in ord course of business, and are ST (terms don't exceed approx 1yr)
+		- paid in prop/service (not cash)
+		- rep security deposits
+		- bear interest rate det by gov agency
+		- arise from transactions bw parent/subsidiary
+- Presentation + Disclosure
+	- discount inseparable from related NP and added to NP to det carrying value to report on BS
+	- discount on NP acct is contraL acct
+		- adding blnces in this acct to NP acct, net carrying value of NP reduced on BS
+	- disclose full description of payable, effective interest rate, FcV in FS (notes)
+## Insert NP p2
+
+## Debt Covenants
+- what
+	- creditor wants debtor to 
+		- maintain credit rating
+		- ensure receivable's (loan's) FMV doesn't dec
+	- creditor prohibit/encourage certain debtor actions to maintain above
+- Affirmative covenants
+	- activ debtor has to do
+		- pay taxes
+		- safeguard A
+- Negative covenants
+	- activ debtor shouldn't do
+		- borrow excessive amts
+		- pay excessive dividends
+		- do anything that can neg affect credit rating
+- Common Debt Covenants
+	- Limits on issuing additional debt
+		- if debt goes up:
+			- ↑ debt to equity ratio, risk of fin distress
+			- ↓ credit rating, debt value
+	- Restrictions on pmt of dividends
+		- if pay div:
+			- ↑ debt to equity ratio
+			- ↓ RE, equity, credit rating
+	- Limits on disposal of certain A
+		- prohibited bc gen CF from op
+	- Min working capital req
+		- working capital or current ratio low
+			- ↑ distress risk
+			- ↓ credit rating, debt value
+	- Protect Collateral
+	- Maintain Fin Ratios
+		- Debt to Equity
+			- maintain at certain low lvl to keep
+				- risk down
+				- value of debt up
+				- credit rating up
+		- Debt to Capital
+			- keep debt low
+			- keep working capital <= to debt
+		- Interest coverage EBIT/int exp
+			- should be >= threshold amt
+			- keep earnings high (numerator), in exp (denominator) low
+			- bigger ratio = lower risk
+- Violation
+	- if debtor cant make pmt → creditor can force bankruptcy
+	- technical default
+		- violated by debtor
+	- most of time creditor
+		- works w debtor
+		- negotiates concessions
+			- waive debt to equity restriction temp/permanently
+			- change interest rate
+				- to compensate for additional risk
+			- change debt terms
+				- periodic pmt of loans
+		- avoids real default
+			- bankruptcy avoided to prevent debt value from plummeting
+- ![[Pasted image 20260712202530.png]]
+- ![[Pasted image 20260712202609.png]]

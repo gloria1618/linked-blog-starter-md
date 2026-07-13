@@ -1,0 +1,81 @@
+Contingencies, Commitments
+F4M2
+
+- ### Contingency
+	- situation/existing condition/set of circumstances involving uncertainty 
+		- resolution may result in 
+			- positive impact
+				- A acquisition 
+				- L reduction
+			- negative impact
+				- A loss/impairment
+				- L incurrence 
+	- #### Loss contingency
+		- recognition/measurement
+			- Probable
+				- = likely to occur, can reasonably est
+				- → accrue, record JE .... if
+					- loss amt reasonably est, +
+					- A impaired, or L incurred prior to FS issuance 
+			- Reasonably possible
+				- = more than remote, but less than likely
+				- → disclose in footnotes
+					- if can't reasonably est
+					- incl
+						- contingency nature (eg lawsuit)
+						- est of possible loss
+						- loss range
+						- reason no est 
+			- Remote
+				- = slight chance
+				- → no JE, no footnote
+					- EXCEPTION: DOG GAURANTEE 
+						- disclosures made for DOG guarantee type remote loss
+						- Debt of others guaranteed (officers, related party, another org)
+						- Obligations of commercial banks under standby letters of credit
+						- Guarantees of repurchase receivables/(related party) that's sold/assigned 
+		- Range of probable losses
+			- accrue loss w highest probability
+			- every outcome has equal probability, w loss range → accrue min amt in range
+				- disclose in footnote of range possibility
+				- ![[Pasted image 20260706204948.png]]
+		- Potential Loss Contingencies
+			- probable loss, unasserted claim will be filed → treat like any other loss contingency
+				- aka not filed yet??????????
+			- general of unspecified business risks (fire, flood, strikes, war) dont meet conditions for accrual, and no disclosure req 
+		- ![[Pasted image 20260706204359.png]]
+		- examples, good faith estimate
+			- receivables collectability
+			- product [[premium.warranties]]
+			- unredeemed coupons
+			- prop loss risk by fire, explosion, other hazard
+			- threat of expropriation of A
+			- pending/threatened litigation
+			- env damages
+			- actual/possible claim/assessments
+			- loss risk from catastrophes assumed by prop/casualty insurance companies
+			- guarantees of indebtedness of others
+			- obligations of commercial banks under standby letters of credit
+			- agrmts to repurchase receivables/(related prop) that have been sold
+	- #### Gain contingency
+		- rule of conservatism → no accrual → no JE
+		-  if probability likely, disclose in FS notes
+			- ![[Pasted image 20260706203207.png]]
+		- ex
+			- expected favorable settlement from pending court case
+			- possible refunds from tax disputes
+			- possible insurance reimbursement
+
+![[Pasted image 20260706204334.png]]
+
+
+### Appropriation of RE
+- set aside for specific purpose/use
+- not avail to pay dividends to stockholders
+- set aside for acquisition, expansion, lawsuit
+- not subs for booking a loss accrual
+- shown w.in SE section
+- costs of losses not charged to an appropriation of RE
+- restore to RE asa purpose no longer deemed needed
+- How approp RE?
+	- unapprop RE - utilized funds + approp RE

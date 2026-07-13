@@ -1,4 +1,6 @@
 F4M1
+[[Contingencies]]
+[[LT L]]
 - Current L
 	- most are op L
 	- due w.in nxt yr/op cycle, whichever longer
@@ -27,12 +29,12 @@ F4M1
 	- **look at dates**
 	- interest exp recorded in period incurred, not when coupon paid
 - Current Portions of LT Debt
-	- current obligations expected to be refinanced may be excl from CL and incl in nonCL if evidenced by
+	- current obligations expected to be refinanced may be excl from CL and incl in nonCL if evidenced by (intent+ability)
 		- actual refinancing prior to issuance of fin stmts
-		- existence of noncancelable fin agrmt from lender having fin resources to accomplish refinancing
-		- to record reclassification
-			- dr ST L xxx
-				- cr LT L xx
+		- existence of *noncancelable* fin agrmt from lender having fin resources to accomplish refinancing
+	- to record reclassification
+		- dr ST L xxx
+			- cr LT L xx
 - Accrued L/Exp
 	- accrued salary/wages payable
 	- book exp w.o paying bill
@@ -42,10 +44,10 @@ F4M1
 - Taxes Payable
 	- not all taxes are exp to corp
 	- will have payable but wont have an expense for all taxes
-		- may be accrued prior to receipt of tax invoice + matched in yr which invoice pertains
-		- may be recorded as payable upon receipt of tax invoice + expensed in receipt yr
+		- 1. may be accrued prior to receipt of tax invoice + matched in yr which invoice pertains
+		- 2. may be recorded as payable upon receipt of tax invoice + expensed in receipt yr
 	- Sales taxes payable
-		- collected from customers on behalf of taxing auth
+		- collected from customers on behalf of taxing auth, not exp
 		- held in trust until remission
 		- credited to payable acct after collection
 	- ![[Pasted image 20260704191507.png]]
@@ -63,8 +65,10 @@ F4M1
 	- exp to emplee, not emplyr
 	- credited to payable acct until remitted 
 	- ![[Pasted image 20260704203533.png]]
+		- ^2 FICA listed bc .5 employer .5 emplee
 - Bonuses
 	- part of salary/wages expense, based on profits
+	- PEMDAS
 	- ![[Pasted image 20260704203730.png]]
 - Accrued Vacation
 	- recorded in yr earned if all of following conditions 
@@ -86,3 +90,110 @@ F4M1
 		- consolidating facilities
 		- relocating emplees
 		- moving PPE
+- Crit for L Recognition
+	- L assoc w exit/disposal activ recog only when transaction/event occurs creating present obligation of an entity to transfer an eco benefit
+- L Measurement
+	- L → FV measurement
+	- L may be adj in future periods bc of
+		- revisions to timing/est cash flows from, the exit/disposal activ
+	- revisions accounted for prospectively (▲in est)
+		- don't restate prior yrs
+- IS Presentation
+	- may be major strat shift *related to discont op*
+		- ex: remove entire prod line/geo area
+		- costs assoc w exit/disposal related to discont op should be 
+			- reported in discont op (net of tax)
+	- may be exit/disposal *not related to discont op*
+		- ex: downsize, certain loc
+		- costs assoc w exit/disposal no related to discont op should be
+			- reported in income from cont op (non-op exp)
+		- est *future* op losses
+			- not recorded until actually occur
+- Disclosures
+	- made in notes to FS
+	- when
+		- in period exit/disposal initiated, and
+		- all subseq periods until activ completed
+	- content
+		- description of exit/disposal
+		- for each major assoc cost
+			- tot amt expected to incur in connection w activ
+			- reconcile beg, end L blnce showing ▲ during period
+		- line items in IS in which costs are agg
+		- for each reportable segment disclose:
+			- tot amt of costs expected to be incurred
+			- amt incurred in period, incurred to date net of any adj w explanation for reasons 
+		- if L for assoc cost not recog bc FV cant be reasonably est, disclose reasons
+- ![[Pasted image 20260705144615.png]]
+
+### ARO Asset Retirement Obligations
+- matching principle applied
+- future obligation pmt expensed during periods of benefit
+- closure/removal costs
+- ex:
+	- nuclear decommissioning
+	- oil/gas industry
+	- mining industry
+- ARO - legal obligation assoc w retirement of tangible long lived A resulting from its
+	- acquisition
+	- construction/development
+	- normal op
+- ARO is
+	- recorded as L for future pmt req to clean up/close down/restore A condition
+		- L = amt to be paid in future * present value factor
+		- recorded at PV of future cf or DCF discounted cf
+- ARO qualifies for recog when meets L def
+	- duty/responsibility
+	- obligating event
+	- little/no discretion to avoid
+	- law/private contract w land owner req entity to spend $ in future to properly clean/close prop
+- ARO Performance
+	- performance may not be req
+	- entities may spend $ on lobbyists to chng laws
+		- future spending on clean/close A may be reduced
+		- future value of L will reduce
+		- entity doesn't have right to defer ARO
+- Initial Measurement (BS Approach)
+	- ARO exists + qualifies for recognition, entity records FV of ARO on BS
+		- L → ARO (L assoc w retirement of tangible long lived A)
+		- A → ARC, A retirement cost (amt capitalized that ↑ carrying amt of A)
+		- ![[Pasted image 20260705181852.png]]
+- Subsequent Measurement
+	- ARC spread over remaining yrs to be benefited
+	- **Depreciation** (↓ ARC)
+		- deprec exp ↓ ARC A reported on BS
+		- when L on bks at discounted amt, accrue exp
+		- annual deprec exp = ARC/useful life
+		- at end of accretion period, ARC (asset) should be fully deprec
+		- cum accretion exp + cum deprec exp = tot future pmt
+			- aka interest + principal = undiscounted cost 
+		- ![[Pasted image 20260705192609.png]]
+	- **Accretion** (↑ ARO)
+		- accretion exp ↑ ARO L due to time passage calc using approp accretion rate
+		-  # of pmts * pmt amt = amt to pay in future
+			- undiscounted future cash outflow
+		- if PV of future cash flow not given
+			- amt to pay in future * PV factor
+		- if PV of future cash flow given
+			- undiscounted future CF - PV of future CF = future accretion exp reported over time
+		- accretion exp added to ARO L each period
+		- at end of accretion period, ARO L reported on BS should approx = to ARO to be paid
+			- beg carrying value * discount rate → dr expense
+		- ![[Pasted image 20260705183424.png]]
+- ^^ I THINK, THINK ABT LIKE THIS: at first dr ARC (asset) and ARO at PV.... but over time u need to get the asset(ARC) to 0 so u do deprec exp and get ARO to FV so inc w accretion exp.... so thats why "cum accretion exp + cum deprec exp = tot future pmt"
+- Revisions to CF Est
+	- est CF used to calc discounted ARO L reported on BS
+	- under GAAP, CF est may be revised over time
+		- upward revision = costs more
+			- L ↑
+			- additional amt to be paid will be discounted back using current/new discount rate
+		- downward revision = costs less
+			- L ↓
+			- historical rate used as discount rate 
+
+SO
+- exit/disposal activ
+	- record loss
+- ARO A retiremnt obligation
+	- record discounted amt that is an A and a L
+	- spread that cost over # of yrs by booking accretion/depreciation
