@@ -1,6 +1,6 @@
 F4M2
 
-- loss contingencies, gen accrued by entity
+- loss contingencies, gen accrued by entity as exp (not loss)
 - can be accrued only if expected amts
 	- probable
 	- reasonably est
@@ -15,7 +15,7 @@ F4M2
 
 
 ### Warranties
-- seller's promise to fix defects
+- seller's promise to fix/replace defects
 - sellers must create L acct if warranty cost can be reasonably est
 - entire warranty L should be accrued in sale yr to 'match' cost w revenue
 - accrual even if part of warranty expenditure incurred in later yr
@@ -25,3 +25,4 @@ F4M2
 - ![[Pasted image 20260706210949.png]]
 - ![[Pasted image 20260706211020.png]]
 - ![[Pasted image 20260706211052.png]]
+	- would normally cr cash for cost of fixing, but bc replacing cr inventory

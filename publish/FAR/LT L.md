@@ -8,7 +8,7 @@ F4M3
 	- bond 
 	- LT debt
 - cash outflows for
-	- interest on mult equal  pmts towards PV of an ordinary annuity
+	- interest on mult equal pmts towards PV of an ordinary annuity
 	- principal of single lump sum pmt towards PV of 1
 - PV concepts: 6 types
 	- single lump sum
@@ -38,7 +38,7 @@ F4M3
 		- FV to ord annuity
 		- PV to annuity due
 			- to adj PV factor of ord annuity to PV factor of annuity due:
-				- add 1 to PV of ord annuity of 1 for n periods
+				- add 1 to PV of ord annuity of $1 for n-1 periods
 			- ![[Pasted image 20260708173646.png]]
 			- ![[Pasted image 20260708173849.png]]
 		- FV to annuity due
@@ -46,14 +46,13 @@ F4M3
 				- certain # of periods
 				- earning a certain interest rate
 			- if saving at end of each period, ord annuity
-			- if saving at beginni
-			- ng of each period, annuity due
+			- if saving at beginning of each period, annuity due
 			- ![[Pasted image 20260708174117.png]]
 - Annuities
 	- ex: bond, leases
 	- identical periodic pmts/receipts a regular intervals
 	- ordinary annuity 
-		- aka annuity in arrears
+		- aka **annuity in arrears**
 		- pmts at end of each period
 	- annuity due
 		- pmts at beginning of each period
@@ -94,11 +93,12 @@ F4M3
 		- maturity/due date
 		- obligation to repay capital
 		- *following must be classified as L*
-			- fin instruments in form of share that're *mandatorily redeemable*
-				- reps *unconditional obligation* to issuer to redeem instrument
+			- fin instruments in form of share that're ***mandatorily redeemable*** preferred equity
+				- reps ***unconditional obligation*** to issuer to redeem instrument
 				- involv transferring A at specified date or upon future event
-			- fin instruments, other than outstanding shares, repping an *obligation to repurchase* issuer's equity shares by transferring A
-			- fin instruments repping *obligation to issue* a variable # of shares
+					- so preferred equity now has due date (d)
+			- fin instruments, other than outstanding shares, repping an ***obligation to repurchase*** issuer's equity shares by transferring A
+			- fin instruments repping ***obligation to issue*** a variable # of shares
 	- Equity
 		- no maturity date
 		- no obligation to repay anything
@@ -109,16 +109,18 @@ F4M3
 		- no due date on preferred stock (e)
 
 ### Notes Payable
+- fin L
 - contractual rights to pay $ at fixed/determinable rate
 - can be ST/LT
-	- gen rule: discount must be calc so can be recorded at PV
+	- LT? gen rule: discount must be calc so can be recorded at PV
+		- discount is the deferred int exp we accrue?
 	- NP must be recorded at PV at issuance date
 - if note is noninterest bearing or interest rate unreasonable (usually below mkt)
 	- note value det by imputing mkt rate of note & using effective interest method
 - many of these rules apply when notes exchanged for good/service and interest rate varies from prevailing interest rates
 - must record notes at PV so exp for period not distorted
 	- pmt * # of pmts = gross note payable
-	- gross note payable - PV  = discount  ← deferred int exp (contra acct)
+	- gross note payable - PV  = discount  ← deferred int exp (contra acct,)
 - note types
 	- no principal paid (no pmt until maturity)
 	- periodic pmts made (reduces principal/interest)
@@ -138,7 +140,8 @@ F4M3
 			- Discount Amort
 				- use effective interest method
 				- beg carrying value * effective mkt rate = interest exp
-				- periodic pmt - interest exp = principle reduction of note
+				- periodic pmt - interest exp = principle reduction of note 
+					- aka pay interest first and rest to principal?
 - Imputing Interest Not Req
 	- PV calc at interest mkt rate no req for certain payables w low/no interest rate when payables
 		- arise in ord course of business, and are ST (terms don't exceed approx 1yr)

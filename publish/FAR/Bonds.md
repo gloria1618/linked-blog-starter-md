@@ -1,0 +1,197 @@
+[[Bond Amort]]
+F4M4
+- def
+	- Bond
+		- LT L
+		- contractual promise by issuing corp to pay investors (bondholders)
+		- periodic, fixed int pmts (typ semiannual)
+		- specific $ sum at maturity date
+	- Bond Indenture
+		- doc describing contract bw issuer (borrower) & bondholders (lenders)
+	- Face (Par) Value
+		- tot $ amt of bond, and basis on which periodic interest paid
+		- bonds issued face(par) value when stated rate interest = mkt rate interest
+	- Stated Intrst Rate
+		- aka nominal interest/coupon rate
+		- interest to be paid to investors in cash
+		- rate specified in bond contract
+		- par value * coupon rate = cash pmt
+	- Mkt (Effective) Intrst Rate
+		- carrying value (beg) * Mkt rate (at issuance) = int exp
+		- int rate actually earned by bondholder
+		- return rate for comparable contracts on issue date
+	- Discount
+		- coupon/price↓ = mkt rate↑
+		- if mkt rate > stated rate → discount
+		- bonds sell for < face to make up for lower return
+	- Premium
+		- if mkt rate < stated rate → premium
+		- investor pays >face bc higher return
+		- selling price> par
+		- if coupon rate = mkt rate, then selling price=par
+- Bond Types
+	- Debentures
+		- unsecured bonds
+		- high risk high yield
+	- Mortgage bonds
+		- secured by real prop
+	- Collateral Trust bonds
+		- secured bonds
+		- less risk low yield
+	- Convertible bonds
+		- convertible into common stock of debtor gen at option of bondholder
+		- Nondetachable Warrants
+			- convertible bond itself must be converted into capital stock
+		- Detachable Warrants
+			- bon not surrendered upon conversion, only warrants + cash rep exercise price of warrants. warrants can be bought/sold sep from bonds
+	- Participating Bonds
+		- have stated int rate, but participate in income if certain earnings lvl obtained
+	- Term Bonds
+		- single fixed maturity date where entire principal paid at end of term/period
+	- Serial Bonds
+		- pre#ed bonds that issuer may call and redeem a portion by serial #
+	- Income Bonds
+		- only pay int if income obj met
+	- 0 Coupon Bonds entry to begin
+		- aka deep discount bonds
+		- sold w no stated int, instead discount and redeemed at FcV w.o periodic int pmts
+	- Commodity Backed bonds
+		- aka A linked bonds
+		- redeemable either in cash/stated commodity vol, whichever greater
+- Bond v Note
+	- Bonds
+		- standardized terms, allows public trading
+		- int pmts over life bond
+		- all of principal paid at maturity
+	- Note
+		- customized, privately placed
+		- every monthly pmt can be principal + int
+		- pmts negotiated, agrmt bw borrower/lender
+- Overview
+	- if bond selling price > par
+		- mkt rate < coupon rate
+		- technically gain, but can't imm book bc matching principle
+		- unamort premium → proceeds in excess of FcV, gain
+			- premium reps deferred unrecorded gain cuasing future int exp on IS to be < coupon paid
+		- carrying value = FcV + unamort premium
+		- gain amort over bond life by making int exp periodically less than coupon paid
+	- if bond selling price < par
+		- mkt rate > coupon 
+		- unamortized discount → loss
+			- reps deferred unrecorded gain causing future int exp on IS to be > coupon paid
+		- loss/discount amort over bond life
+		- int exp > coupon paid
+		- FcV 1k - selling price 970 = 30 loss/discount
+		- 970 initial carry value 
+	- BP recorded as LT L at FcV
+		- BP adj to PV of future cash outflows by +unamort premiums, or - unamort discounts
+		- bonds usually issued in denominations of 1k
+		- price always "quoted" in 100s (% of par value)
+			- .97 * 1k=970
+			- at maturity, repay FcV. unamort premium is gain
+			- when done amort premium/discount, carrying value will be FcV at maturity 
+	- Terms
+		- coupon pmt = FcV * coupon
+		- int exp = initial carrying value beg of each period * mkt rate
+		- coupon rate = stated bond int rate
+		- bond interest (check amt) = coupon rate * face
+			- bonds gen pay int semiannually in US, annually other countries
+		- principal payoff is always full face amt at maturity 
+
+#### Issued at Par Value
+- selling price = FcV
+- coupon = mkt rate
+- int exp (on IS) = coupon pmt (on CFstmt)
+- price= PV of fut principal pmt + PV of fut periodic int pmts
+	- both discounted at prevailing mkt rate on issuance date
+- ***always use mkt rate to det PV factors
+- coupon rate to find periodic coupon pmt
+	- semiannual periodic coupon rate = FcV * coupon rate/2
+- ![[Pasted image 20260715202826.png]]
+- ![[Pasted image 20260715202922.png]]
+	- Selling price = Fin inflow =1M
+	- no ▲equity (even if gain/loss bc need to amort over bond life)
+	- FcV=1M (no premium/discount to +/-)
+	- initial FcV 1MM = cash proceeds of 1M (regardless of par, discount, premium)
+
+#### Issued at Discount
+- selling price < FcV
+- mkt rate > coupon 
+	- coupon/less cash collected...
+- discount → deferred loss, cant record loss imm on IS
+- amortize → record discount over bond life by making int exp > coupon
+- det proceeds of bond sale
+	- need
+		- PV factor using mkt rate
+		-  # periods using periodic mkt rate
+		- PV of 1, to find principal PV
+		- PV of ord annuity, to find coupon pmt PV
+	- int exp = initial carrying value at beg of period * mkt rate
+	- coupon paid = FcV * stated rate
+	- A↑, L↑ by FcV, initial carrying value = selling price
+	- selling price - amort discount = initial carrying value for L = selling price of bond sold at discount???????????????//
+- ![[Pasted image 20260715205831.png]]
+- ![[Pasted image 20260715205853.png]]
+
+### Issued at Premium
+- coupon/price↑
+- selling price > FcV
+- mkt rate < coupon
+- amort premium over bond life, record gain over bond life by making int exp < coupon paid
+- initial carrying value = FcV + gain
+- Price = PV of fut principal pmt + PV of fut periodic int pmts
+	- both discounted at mkt rate on issuance date
+- int exp (on IS) < coupon pmt (cash outflow from op activ on CFstmt)
+- initial carrying value eventually comes down so at maturity the carrying value = FcV
+- ![[Pasted image 20260715223134.png]]
+- ![[Pasted image 20260715223211.png]]
+#### Interest Rates
+CV=carrying value
+- mkt rate det PV factors used to get bond selling price
+- mkt rate det by bondholders req return rate
+- req return rate det by issuer's credit rating at issuance date
+- Stated int rate
+	- nominal/coupon rate
+	- det periodic coupon pmt (op outflow on CFS)
+- Effective int rate
+	- mkt rate
+	- det selling price, proceeds of sale ... which det PV factors
+	- det int exp on IS
+		- beg CV * mkt rate
+	- so mkt rate constant, int exp not
+- Discount
+	- int exp > int cash paid 
+		- diff bw 2 (ie additional int paid at maturity) amort over bond life
+	- coupon pmt = FV * coupon rate
+	- int exp = beg CV * mkt rate
+	- int exp for each period will inc w the inc in CV 
+	- FV, coupon rate, coupon pmt dont ▲ regardless of mkt rate
+	- unamort discount is contra L
+		- presented on BS as direct reduction from face/par value to arrive at CV at any time pt
+- Premium
+	- int exp < coupon paid
+	- int exp = beg CV * mkt rate
+	- int exp for each period ↓ w CV ↓
+	- unamort premium
+		- presented on BS as direct addition to face/par value to arrive at CV at any time pt (additional L)
+- ![[Pasted image 20260715230536.png]]
+
+#### Bond Issuance Costs
+- subtracted from FcV to get reduced initial carrying value
+- transaction cost when bonds issued
+	- ex: legal/acct fee, underwriting commissions, printing
+- accounted for as follows
+	- presented on BS as direct reduction to bond carrying amt, sim to bond discount
+	- when bond issued, proceeds recorded net of bond issuance costs
+	- costs amort as int exp over bond life using effective int method
+- ![[Pasted image 20260716183147.png]]
+- ![[Pasted image 20260716183215.png]]
+	- mkt rate 12% det PV factors, selling price
+	- effective rate ***12.58% det int exp*** for period as bond discount/premium+issuance costs amort
+- Deferred Bond Issuance Costs
+	- incurred before bond issuance 
+	- deferred on BS until bond L recorded
+	- dr deferred bond issuance costs
+		- cr cash
+	- when bond issued, cr deferred bond issuance costs
+- ![[Pasted image 20260716184418.png]]

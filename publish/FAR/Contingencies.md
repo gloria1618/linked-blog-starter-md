@@ -30,7 +30,7 @@ F4M2
 				- = slight chance
 				- → no JE, no footnote
 					- EXCEPTION: DOG GAURANTEE 
-						- disclosures made for DOG guarantee type remote loss
+						- disclosures made for DOG guarantee type remote loss cntg
 						- Debt of others guaranteed (officers, related party, another org)
 						- Obligations of commercial banks under standby letters of credit
 						- Guarantees of repurchase receivables/(related party) that's sold/assigned 
@@ -44,12 +44,15 @@ F4M2
 				- aka not filed yet??????????
 			- general of unspecified business risks (fire, flood, strikes, war) dont meet conditions for accrual, and no disclosure req 
 		- ![[Pasted image 20260706204359.png]]
+			- insurance - gain contingency → don't book, but disclose in footnotes bc probable
 		- examples, good faith estimate
 			- receivables collectability
 			- product [[premium.warranties]]
 			- unredeemed coupons
 			- prop loss risk by fire, explosion, other hazard
+				- gen no accrual j gen risk, dont put in footnotes
 			- threat of expropriation of A
+				- political risk of seize A
 			- pending/threatened litigation
 			- env damages
 			- actual/possible claim/assessments
@@ -74,8 +77,12 @@ F4M2
 - not avail to pay dividends to stockholders
 - set aside for acquisition, expansion, lawsuit
 - not subs for booking a loss accrual
+	- cant j bypass loss accrual w approp RE
+	- could approp for gen loss conting like fire
 - shown w.in SE section
 - costs of losses not charged to an appropriation of RE
 - restore to RE asa purpose no longer deemed needed
 - How approp RE?
 	- unapprop RE - utilized funds + approp RE
+		- dr unapprop RE which ↓
+		- cr approp RE which ↑
