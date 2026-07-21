@@ -1,0 +1,134 @@
+F4M6
+
+- creditor allows debtor certain concessions to improve collection likelihood that wouldn't be considered under normal circum
+	- made due to debtor fin difficulty
+	- creditor obj to max invstmnt recovery
+	- often result of
+		- legal proceedings
+		- negotiation
+- ex
+	- reduced int rates
+	- extension of maturity dates
+	- reduction of debt face amt 
+	- reduction of accrued int amt
+- Debtor Acct/Reporting
+	- whether A/equity transfer, once transferred, debt extinguished 
+	- A Transfer
+		- creditor to satisfy debt where CV L > FV A transferred
+			- debtor recog G in amt of
+				- excess of carrying amt of payable (FcV payable+int accrued, premiums, etc); over
+				- FV of A given up
+		- G/L on A disposition reported in period income
+			- diff w BV, FV 
+		- ![[Pasted image 20260720173809.png]]
+	- Equity Int Transfer
+		- CV L > FMV stock issued
+		- ![[Pasted image 20260720174217.png]]
+	- Term Modification
+		- ex lower interest/coupon rate, extend maturity date ... debt not extinguished
+		- debtor usually accts for restructuring effects prospectively
+		- debtor doesn't ▲ carrying amt unless carrying amt > tot future cash pmts specified by new terms
+		- Tot Fut Cash Pmts
+			- principal, any accrued int at restructure time that cont to be payable by new terms
+			- tot (undiscounted) fut cash pmts < carrying amt, debtor 
+				- reduce carrying amt accord
+				- recog diff as gain restructuring of debt
+			- when several related accts (discount, premium, etc), reduction may need to be allocated among them
+			- all cash pmts after restructuring reduce carrying amt
+				- no int exp recog after restructure date
+			- when indeterminate fut pmts, or any time fut pmts > carrying amt, debtor
+				- recog no gain 
+				- doesnt adj carrying value
+				- indeterminate future pmts → assume fut contingent pmts made at least to extent necessary to obviate any gain
+		- Int Exp
+			- computed by method causing a constant effective rate
+			- new effective int rate is discount rate at which debt carrying amt = PV of fut cash pmts
+		- Combo of Type
+			- all gains on debt restructuring
+				- aggregated
+				- incl in NI for period
+			- treated, classified along w other gains, typ in cont op section of IS
+- Creditor Acct/Reporting
+	- Impairment Recog
+		- loan impaired if probable that creditor unable to collect all amts due under og contract when due
+		- normal loan procedures used to judge if loan impaired
+		- loan restructured in troubled debt restructuring is an impaired loan
+		- 1
+			- yr end, est bad debts
+			- dr bad debt exp
+			 - cr loss allowance
+			- ↓NI, ↓RE, ↓E, ↓A value, ↑contraA
+		- 2
+			- write off
+			- dr loss allowance
+				- cr receivable
+	- Measurement
+		- Receipt of A/Equity
+			- when creditor receive A/equity as full settlement of receivable, accounted for at FV at restructuring time
+			- FV of receivable satisfied used if more clearly determinable than FV of A/equity acquired 
+			- partial pmt, creditor must use FV of A/equity received
+			- excess of recorded receivable > A FV is loss
+			- accounts as if acquired for cash
+		- Term Mod
+			- impairment captured as part of entity's overall assessment of credit losses
+			- troub debt restructuring loss incorp into est of credit loss allowance 
+			- may use variety of methods to est cr losses
+			- if discounted CF approach used, post-restructuring effective int rate must be used as discount rate
+			- impairment measured based in loan's PV of expected fut CF discounted at loan's historical effective int rate
+			- impairment recorded by creating valuation allowance w corresponding charge to bad debt exp
+				- ![[Pasted image 20260720193103.png]]
+### P2 ex
+
+### Extinguish Debt
+- debtor/borrower perspective
+	- corp issuing bonds may call/retire them prior to maturity
+		- callable bonds can be retired after a date at a stated price
+			- issuer has right to refinance debt at lower rate if int rate ↓
+	- refundable bonds allow existing issue to retire/replace w new issue at lower int rate
+- liability
+	- cant be derecog in FS until extinguished 
+- extinguished if debtor
+	- pays it off
+		- Extinguished at Maturity
+			- so bond carrying value = FcV, no G/L 
+			- ![[Pasted image 20260720224629.png]]
+		- Extinguished Before Maturity
+			- G/L gen recorded, diff bw
+				- CV (FcV-unamort prem/disc)
+				- cash paid to extinguish bond
+			- ![[Pasted image 20260720224832.png]]
+			- Adj FS
+				- in any bond reacquisition, adj/acct following
+					- any related unamort bond issuance costs
+					- any related unamort disc/prem
+					- diff bw FcV n reacquisition proceeds
+					- ![[Pasted image 20260720225654.png]]
+			- Calc G/L is diff bw
+				- Reacquisition price
+					- usually as % of FcV
+				- net CV of bond at extinguish date
+					- unamort discount/costs reduce DV, thus have dr blnce
+					- CV = FcV + unamort prem - unamort discount - unamort bond issuance costs
+				- any G/L from extinguish recog as income from cont op (gross of tax) in IS
+				- ![[Pasted image 20260720230239.png]]
+			- Ex
+				- L
+					- ![[Pasted image 20260720233603.png]]
+					- ![[Pasted image 20260720233624.png]]
+				- G
+					- ![[Pasted image 20260720233650.png]]
+					- ![[Pasted image 20260720233704.png]]
+	- legally released
+		- extinguished thru agrmt w creditor to transfer A/equity to fully satisfy 
+		- from being primary obligor under L, either judicially/by creditor
+		- troubled debt restructuring = extinguishment only if debt forgiven bc of
+			- transfer of A/equity
+		- term mod /=/ extinguishment 
+		- if FMV of A/equity < L CV + accrued int, debtor recog gain
+		- if sum of undiscounted CF < principal CV + accrued int, debt written down & G recog
+- In-Substance Defeasance 
+	- not debt extinguishment 
+	- arrangement where company places purchased securities into irrevocable trust
+	- company pledges them for fut principal/int pmts on LT debt
+	- bc company remains primary obligor w debt, L not considered extinguished
+	- 

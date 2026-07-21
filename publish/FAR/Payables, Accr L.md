@@ -2,6 +2,8 @@ F4M1
 [[Contingencies]]
 [[LT L]]
 [[Bonds]]
+[[Troubled Debt Restructure]]
+[[Lease]]
 - Current L
 	- most are op L
 	- due w.in nxt yr/op cycle, whichever longer
