@@ -200,6 +200,7 @@ F4M3
 			- should be >= threshold amt
 			- keep earnings high (numerator), in exp (denominator) low
 			- bigger ratio = lower risk
+			- aka times interest earned ratio????
 - Violation
 	- if debtor cant make pmt → creditor can force bankruptcy
 	- technical default

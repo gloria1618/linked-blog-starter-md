@@ -1,1 +1,112 @@
 ### Calc Leases
+- commencement date
+	- date lessor makes underlying A avail to lessee for use
+- lease term
+	- begins on commencement date
+	- extends to end of noncancelable period which lessee has right to use underly A
+- noncancelable period
+	- period in which lessee's right enforceable
+- non-enforceable lease
+	- lease can be terminated by both parties w only minor penalties 
+- option to to terminate exists when either (but not both) has right to terminate
+- lease term needs to acct for any options to extend/terminate as follows:
+	- periods covered by option to extend lease incl if lessee reasonably certain to exercise option
+	- periods covered by an option to terminate lease incl if lessee reasonably certain not to exercise option
+	- periods covered by option to either extend (or not to terminate) lease incl if exercise controlled by lessor 
+- lessee must recog ROU, L for all leases not considered ST
+	- dr ROU A
+	- cr lease L
+	- ST
+		- term <12 mo
+		- cannot be option for lessee to purchase underly A which lessee reasonably certain to exercise
+		- ST leases qualify as op lease, lessee recog pmts over lease term on straight line basis
+- Lease Pmts - lessee incl REPORT NGO
+	- R - Req contractual fixed pmts
+		- (incl any variable pmt that are 'in-substance' fixed pmts) less any lease incentives paid/payable to lessee
+	- E - Exercise option reasonably assured
+		- exercise price of option, giving lessee right to purchase underly A (if 'reasonably certain' lessee will exercise option)
+	- P - Purchase price at lease end
+		- stated purchase price of uA at lease term end (when lessor has option to req lessee to purchase uA)
+	- O - Only indexed/rate variable pmts 
+		- no inc/dec to fut lease pmts assumed based on inc/dec in index/rate. instead, any diff in pmts due to changes in index/rate expensed in period incurred
+		- so excl? at least 
+	- R - Residual guarantees likely to be owed
+		- lessee incl full amt of residual value guarantee at lease term end in PV test. lessee doesn't consider unguaranteed residual value as part of PV test
+	- T - Terminate penalties reasonably assured
+		- any penalty due from lessee upon lease termination (lease term must reflect lessee exercising an option to terminate lease)
+	- N - Nonlease components
+		- amts allocated to nonlease parts of contract
+	- G - Guarantees of lessor debt by lessee
+	- O - Other variable lease pmts
+- ![[Pasted image 20260721183422.png]]
+- ![[Pasted image 20260721183440.png]]
+- Discount Rate
+	- when calc PV of min lease pmts, lessee uses either
+		- rate implicit in lease (if known), or
+		- incremental borrowing rate of lessee
+			- rate lessee would be charged for a collateralized loan w equal pmts and sim lease term to lease
+- Initial Direct Costs
+	- incl in valuation of ROU A
+	- only incurred as result of lease execution
+	- any costs incurred prior to signing not incl in acct for direct costs
+		- incl lease term negotiations, doc prep, credit checks, etc.
+	- initial direct costs
+		- commissions
+		- legal/consulting fees 
+
+### Lease Acct
+#### Op Lease
+- OWNES failed
+- BS
+	- reflects ROU A, lease L
+	- both amort over lease life using effective int method
+	- ROU A, lease L amts calc w PV of lease pmts
+- IS
+	- lease expense = amort exp + int exp
+		- lease exp recog each yr over lease term using straight line method for exp measurement
+	- tot cost/term = straightline exp per period
+		- instead of reporting int exp on IS, lessee report as part of lease exp 
+- PV of purchase option or guaranteed residual
+- ![[Pasted image 20260721195534.png]]
+	- lease exp → combo of amort/int exp
+	- lease L → reducing L by effective int rate
+- ex
+	- ![[Pasted image 20260721195926.png]]
+	- ![[Pasted image 20260721200015.png]]
+		- lease exp clmn: Straightline = int+ amort (plug)
+		- int exp: use L at beg of period so 48,338 * .0575
+			- if it was annuity due, then clmn would be shifted up a row
+	- ![[Pasted image 20260721201832.png]]
+		- lease exp same amt each yr
+		- Accum amort - ROU A: inc (contra)
+
+#### Fin Lease
+- OWNES
+- L = PV of lease pmts owed
+- ROU A incl initial direct costs incurred bc of lease execution, awa lease pmts made at/before lease commencement
+- ![[Pasted image 20260721202836.png]]
+- ![[Pasted image 20260721204858.png]]
+	- ok so addin Reduc in ROU A column
+	- op: lease exp constant, fin: amort exp constant 
+	- op: no amort exp
+	- ▲ CV of ROU A calc    op: L-reduction in ROU A    fin: prev - amort exp
+- ![[Pasted image 20260721204933.png]]
+	- op
+		- lease exp  --- both int/amort?
+			- cash
+		- lease L
+			- Accum amort ROU A
+- ![[Pasted image 20260721204947.png]]
+- ![[Pasted image 20260721205002.png]]
+- in early yrs of fin lease, exp recog is front loaded as int exp, + A amort exp creates higher tot exp than under op lease
+- later yrs, fin lease reflects lower tot exp than op lease
+- overall exp tot across entire lease same under both types
+- ![[Pasted image 20260721221942.png]]
+- ![[Pasted image 20260721222012.png]]
+- ![[Pasted image 20260721222041.png]]
+- Acct Policy Election
+	- Lessees can make an acct policy election, choose to not recog ROU A n lease L for lease term <=12 mo
+	- if election made
+		- must be done by class of underly A
+		- cannot incl purchase options for A lessee reasonably certain to exercise
+		- 

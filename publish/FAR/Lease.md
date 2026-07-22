@@ -78,3 +78,55 @@ F4M7
 	- no OWNES
 	- lease ST (<12mo)
 - ![[Pasted image 20260721013047.png]]![[Pasted image 20260721013102.png]]
+
+### FS Presentation + Disclosures
+- BS
+	- ROU A, assoc lease L may either be
+		- recog as sep line items on BS
+		- incl w other A/L, disclosed sep in FS notes
+	- portion of lease L due w.in yr/op cycle (whichever longer), report in current section...remainder in LT section
+	- fin/op lease ROU A.lease L cant be presented together
+		- ROU A will be amort
+		- lease L will be paid down over lease life
+		- Crit for det amort: OWNES
+			- OW
+				- amort over uA useful life
+			- NES
+				- amort over shorter of lease term or useful life of A
+			- ![[Pasted image 20260721223104.png]]
+- IS
+	- op lease, lease exp incl in inc from cont op on lessee IS
+	- fin lease, IS incl
+		- amort of ROU A
+		- portion of lease exp related to interest on lease L
+- CFStmt
+	- Op lease
+		- lease pmts classified as CF from op
+			- incl all variable lease pmts
+		- pmts for ST leases incl in CF from op
+		- any pmts to bring A to condition/loc in prep for use are considered investing activ
+	- Fin lease
+		- principal portion of lease pmt is CF from financing
+		- interest portion of lease pmt is CF from op
+		- any variable lease pmts, ST lease pmts not incl in lease L are classified as op CF
+	- ![[Pasted image 20260721224432.png]]
+- Lessee Disclosures
+	- Lessee disclose several qual info
+		- info abt lease nature, incl restriction/covenants
+		- basis for det variable lease pmts
+		- options to extend/terminate (existence, term, conditions)
+		- residual value guarantees (existence, terms, conditions)
+		- info on lease not commenced, but create sig obligation and/or rights for lessee
+		- sig assumptions/judgements made in application
+		- sale-leaseback terms, conditions
+		- entity's acct policy related to ST leases, practical expedients used to combine non/lease parts
+	- Quant disclosures
+		- fin lease costs 
+			- sep bw amort of ROU A and interest on lease L
+		- op lease costs
+		- ST lease costs
+		- variable lease costs
+		- cash pmts for lease L segregated bw op/fin CF
+		- supplemental noncash info on lease L due to obtaining ROU A
+		- weighted avg remaining lease term, discount rate
+		- sep maturity anal for op/fin lease L for 5yrs
