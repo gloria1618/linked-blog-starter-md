@@ -87,7 +87,7 @@
 - irrespective of period for which bondholders hold bond, issuer pays 6mo coupon pmt on int pmt date
 - amt of int accrued since last pmt calc
 	- FV * coupon rate/2 * # mo since last pmt/6
-- int accrued at sale time called accrued coupon pmt
+- accrued coupon pmt → int accrued at sale time 
 - accrued int added to bond price
 	- bondholder pays such int and is reimbursed at next pmt date on receipt of full period's int
 - ![[Pasted image 20260720161352.png]]

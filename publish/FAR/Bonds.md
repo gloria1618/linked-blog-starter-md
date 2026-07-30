@@ -18,6 +18,7 @@ F4M4
 		- par value * coupon rate = cash pmt
 	- Mkt (Effective) Intrst Rate
 		- carrying value (beg) * Mkt rate (at issuance) = int exp
+		- aka yield to maturity?
 		- int rate actually earned by bondholder
 		- return rate for comparable contracts on issue date
 	- Discount
@@ -35,26 +36,34 @@ F4M4
 		- high risk high yield
 	- Mortgage bonds
 		- secured by real prop
+		- promissory note
 	- Collateral Trust bonds
 		- secured bonds
 		- less risk low yield
 	- Convertible bonds
 		- convertible into common stock of debtor gen at option of bondholder
+		- EPS, gives company complex capital structure ← options, warrants, diluted EPS
 		- Nondetachable Warrants
 			- convertible bond itself must be converted into capital stock
 		- Detachable Warrants
-			- bon not surrendered upon conversion, only warrants + cash rep exercise price of warrants. warrants can be bought/sold sep from bonds
+			- bond not surrendered upon conversion, only warrants + cash rep exercise price of warrants. warrants can be bought/sold sep from bonds
+			- if mkt price of stock higher than strike price... use warrant to buy stock at strike price?
 	- Participating Bonds
 		- have stated int rate, but participate in income if certain earnings lvl obtained
 	- Term Bonds
 		- single fixed maturity date where entire principal paid at end of term/period
 	- Serial Bonds
 		- pre#ed bonds that issuer may call and redeem a portion by serial #
+		- means issuer can refinance
 	- Income Bonds
 		- only pay int if income obj met
 	- 0 Coupon Bonds entry to begin
 		- aka deep discount bonds
 		- sold w no stated int, instead discount and redeemed at FcV w.o periodic int pmts
+		- coupon/price=mkt rate ... so gonna be rlly low price
+		- mkt rate, given risk, dictates approp yield
+		- record int inc/exp over bond life even tho only maturity pmt
+		- int inc/exp dictated by mkt rate .. CV * mkt rate 
 	- Commodity Backed bonds
 		- aka A linked bonds
 		- redeemable either in cash/stated commodity vol, whichever greater
@@ -133,7 +142,7 @@ F4M4
 - ![[Pasted image 20260715205831.png]]
 - ![[Pasted image 20260715205853.png]]
 
-### Issued at Premium
+#### Issued at Premium
 - coupon/price↑
 - selling price > FcV
 - mkt rate < coupon
@@ -144,7 +153,7 @@ F4M4
 - int exp (on IS) < coupon pmt (cash outflow from op activ on CFstmt)
 - initial carrying value eventually comes down so at maturity the carrying value = FcV
 - ![[Pasted image 20260715223134.png]]
-- ![[Pasted image 20260715223211.png]]
+- ![[Pasted image 20260715223211.png]] 
 #### Interest Rates
 CV=carrying value
 - mkt rate det PV factors used to get bond selling price
@@ -177,7 +186,7 @@ CV=carrying value
 - ![[Pasted image 20260715230536.png]]
 
 #### Bond Issuance Costs
-- subtracted from FcV to get reduced initial carrying value
+- subtracted from FcV to get reduced initial carrying value, ↑ int exp
 - transaction cost when bonds issued
 	- ex: legal/acct fee, underwriting commissions, printing
 - accounted for as follows
@@ -190,8 +199,9 @@ CV=carrying value
 	- effective rate ***12.58% det int exp*** for period as bond discount/premium+issuance costs amort
 - Deferred Bond Issuance Costs
 	- incurred before bond issuance 
-	- deferred on BS until bond L recorded
+	- deferred on BS until bond L recorded.... so prepaid A
 	- dr deferred bond issuance costs
 		- cr cash
 	- when bond issued, cr deferred bond issuance costs
 - ![[Pasted image 20260716184418.png]]
+	- ^ so net ▲cash is still 906399

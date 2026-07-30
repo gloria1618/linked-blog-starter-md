@@ -1,4 +1,4 @@
-F4M6
+ F4M6
 
 - creditor allows debtor certain concessions to improve collection likelihood that wouldn't be considered under normal circum
 	- made due to debtor fin difficulty
@@ -21,9 +21,12 @@ F4M6
 		- G/L on A disposition reported in period income
 			- diff w BV, FV 
 		- ![[Pasted image 20260720173809.png]]
+			- ^so there's 2 gains here
 	- Equity Int Transfer
 		- CV L > FMV stock issued
 		- ![[Pasted image 20260720174217.png]]
+			- ^ debtor issues own stock to creditor to pay off, thats why common stock cr, and inc equity by 100
+			- ^only one gain here
 	- Term Modification
 		- ex lower interest/coupon rate, extend maturity date ... debt not extinguished
 		- debtor usually accts for restructuring effects prospectively
@@ -35,11 +38,12 @@ F4M6
 				- recog diff as gain restructuring of debt
 			- when several related accts (discount, premium, etc), reduction may need to be allocated among them
 			- all cash pmts after restructuring reduce carrying amt
-				- no int exp recog after restructure date
+				- **no int exp recog after restructure date**
 			- when indeterminate fut pmts, or any time fut pmts > carrying amt, debtor
 				- recog no gain 
-				- doesnt adj carrying value
+				- doesnt adj carrying value ... cause that would be loss
 				- indeterminate future pmts → assume fut contingent pmts made at least to extent necessary to obviate any gain
+					- as in the PV of adj is still less than og
 		- Int Exp
 			- computed by method causing a constant effective rate
 			- new effective int rate is discount rate at which debt carrying amt = PV of fut cash pmts
@@ -47,7 +51,7 @@ F4M6
 			- all gains on debt restructuring
 				- aggregated
 				- incl in NI for period
-			- treated, classified along w other gains, typ in cont op section of IS
+			- treated, classified along w other gains, typ in cont op, non op section of IS
 - Creditor Acct/Reporting
 	- Impairment Recog
 		- loan impaired if probable that creditor unable to collect all amts due under og contract when due
@@ -78,6 +82,10 @@ F4M6
 			- impairment recorded by creating valuation allowance w corresponding charge to bad debt exp
 				- ![[Pasted image 20260720193103.png]]
 ### P2 ex
+- 14.59 term mod: looks like u elim old payables, and replace w new payable in JE w gain
+	- no discounting req from debtor perspective
+	- creditor: need to find oldtot - PVofnewfut = amt to inc credit loss allowance
+		- oldtot not PV bc ur writing it at the CV at mod
 
 ### Extinguish Debt
 - debtor/borrower perspective
