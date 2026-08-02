@@ -1,5 +1,9 @@
 F4M7
 [[Lease Calc.Acct]]
+
+lease
+lease componenets
+lease classification
 ### Overview + Contracts
 - Lease
 	- used by public/priv entities to gain access to A, reduce exposure to full risks of ownership
@@ -9,8 +13,9 @@ F4M7
 	- in substance an installment purchase in form of leasing agrmt
 - To be lease contract or contain lease, 2 crit
 		1. contract depends on identifiable A which lessor doesn't have a substantive substitution right
+			- lessor ability to switch out A
 		2. contract must convey right to control the use of A over lease term to lessee
-			- car leased 5yrs, protective right: every 6mo take to dealership
+			- car leased 5yrs, protective right: every 6mo take to dealership, subs vehicle until then doesn't violate
 			- ![[Pasted image 20260720235043.png]]
 - Lessee right to obtain subs all eco benefit from using A, have right to direct use
 	- record on commencement date
@@ -20,7 +25,7 @@ F4M7
 		- july-dec: footnote on quarterly financials
 		- record lease jan 1
 - Lease v Nonlease Components
-	- decision whether contract is/contains lease
+	- when: decision if contract is/contains lease
 		- made at contract inception
 		- reassessed only if term/conditions of contract ▲
 	- once determination that contract is/contains lease, lessee must
@@ -31,7 +36,7 @@ F4M7
 	1. Id each right to use an underlying A w.in contract
 		- 1 right to use an A = 1 sep lease part
 		- 1+ right to use A = lessee must det if each right equates sep lease component for acct purpose
-		- sep if both met
+		- sep if both met: can u benefit from it by itself
 			- right benefits lessee either on standalone/together basis w other resources that are readily avail to lessee
 			- rights are neither highly dependent/interrelated on each other
 		- right to use land, acct as sep lease part unless acct effect of doing so is insig
@@ -65,13 +70,14 @@ F4M7
 - assessment, based on defined crit, focuses on if lessee will in effect assume control of underlying A
 - Fin Lease Crit
 	- applicable to lessors/lessees
+	- ...assuming not ST
 	- if any 1/5 met = finance lease for lessee OWNES
 		- ***Ownership*** of underlying A transfers from lessor to lessee by lease term end
 		- lessee ***Written*** option to purchase underlying A; option 'reasonably certain' to exercise
 		- ***Net*** PV of all lease pmts + any guaranteed residual value is subs >= underlying A FV
 			- 90%+ of FV reasonably "substantial"
 		- lease term rep major part of ***Eco*** life left of underlying A
-			- >75% eco life reasonably 'major part'
+			- 75%+ eco life reasonably 'major part'
 			- det if lease starts at/near end of eco life, use <25% tot eco life
 		- A is ***Specialized*** so it won't have an expected, alt use to lessor when lease term ends
 - Op Lease Crit by lessee
@@ -92,7 +98,7 @@ F4M7
 			- OW
 				- amort over uA useful life
 			- NES
-				- amort over shorter of lease term or useful life of A
+				- amort over *shorter* of lease term or useful life of A
 			- ![[Pasted image 20260721223104.png]]
 - IS
 	- op lease, lease exp incl in inc from cont op on lessee IS
@@ -104,11 +110,11 @@ F4M7
 		- lease pmts classified as CF from op
 			- incl all variable lease pmts
 		- pmts for ST leases incl in CF from op
-		- any pmts to bring A to condition/loc in prep for use are considered investing activ
+		- any pmts to bring A to condition/loc in prep for use are considered *investing activ*
 	- Fin lease
 		- principal portion of lease pmt is CF from financing
-		- interest portion of lease pmt is CF from op
-		- any variable lease pmts, ST lease pmts not incl in lease L are classified as op CF
+		- interest portion of lease pmt is CF from *op*
+		- any variable lease pmts, ST lease pmts not incl in lease L are classified as *op* CF
 	- ![[Pasted image 20260721224432.png]]
 - Lessee Disclosures
 	- Lessee disclose several qual info

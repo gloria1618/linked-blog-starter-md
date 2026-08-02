@@ -8,11 +8,13 @@
 	- period in which lessee's right enforceable
 - non-enforceable lease
 	- lease can be terminated by both parties w only minor penalties 
+	- so not considered lease for acct
 - option to to terminate exists when either (but not both) has right to terminate
-- lease term needs to acct for any options to extend/terminate as follows:
-	- periods covered by option to extend lease incl if lessee reasonably certain to exercise option
-	- periods covered by an option to terminate lease incl if lessee reasonably certain not to exercise option
-	- periods covered by option to either extend (or not to terminate) lease incl if exercise controlled by lessor 
+- lease term needs to acct for any options to extend/terminate +/- as follows:
+	- periods covered by option to extend lease incl if lessee reasonably certain to exercise option +
+	- periods covered by an option to terminate lease incl if lessee reasonably certain not to exercise option +
+	- periods covered by option to either extend (or not to terminate) lease incl if exercise controlled by lessor +
+		- logic: if they didnt want to extend, then they woulda made lease short
 - lessee must recog ROU, L for all leases not considered ST
 	- dr ROU A
 	- cr lease L
@@ -29,17 +31,23 @@
 		- stated purchase price of uA at lease term end (when lessor has option to req lessee to purchase uA)
 	- O - Only indexed/rate variable pmts 
 		- no inc/dec to fut lease pmts assumed based on inc/dec in index/rate. instead, any diff in pmts due to changes in index/rate expensed in period incurred
-		- so excl? at least 
+		- so if definitively know then incl, can't incl if its based on assumption/hypoth
+		- soo incl if index/rate v bc min ▲, but variable say dependent on usages is not incl
 	- R - Residual guarantees likely to be owed
 		- lessee incl full amt of residual value guarantee at lease term end in PV test. lessee doesn't consider unguaranteed residual value as part of PV test
+		- so has to be worth x when lease done, if not u owe diff...
 	- T - Terminate penalties reasonably assured
 		- any penalty due from lessee upon lease termination (lease term must reflect lessee exercising an option to terminate lease)
+	- MAYBE
 	- N - Nonlease components
-		- amts allocated to nonlease parts of contract
+		- amts allocated to nonlease parts of contract (if combined)
+	- EXCLUDE
 	- G - Guarantees of lessor debt by lessee
 	- O - Other variable lease pmts
 - ![[Pasted image 20260721183422.png]]
+	- 8k not incl bc lessee decided to keep nonlease sep
 - ![[Pasted image 20260721183440.png]]
+	- Lease A: and index rate will prob ▲ minimally
 - Discount Rate
 	- when calc PV of min lease pmts, lessee uses either
 		- rate implicit in lease (if known), or
@@ -48,7 +56,8 @@
 - Initial Direct Costs
 	- incl in valuation of ROU A
 	- only incurred as result of lease execution
-	- any costs incurred prior to signing not incl in acct for direct costs
+	- any costs incurred prior to signing not incl in acct for direct costs .
+		- .. was gonna do anyway but not dependent on lease being executed
 		- incl lease term negotiations, doc prep, credit checks, etc.
 	- initial direct costs
 		- commissions
@@ -76,6 +85,7 @@
 		- lease exp clmn: Straightline = int+ amort (plug)
 		- int exp: use L at beg of period so 48,338 * .0575
 			- if it was annuity due, then clmn would be shifted up a row
+		- 18k pmts - int exp = reduc ROU A
 	- ![[Pasted image 20260721201832.png]]
 		- lease exp same amt each yr
 		- Accum amort - ROU A: inc (contra)
@@ -84,15 +94,19 @@
 - OWNES
 - L = PV of lease pmts owed
 - ROU A incl initial direct costs incurred bc of lease execution, awa lease pmts made at/before lease commencement
+	- SO LOOKS LIKE ADD DIRECT COSTS TO ROU.A BUT NOT TO L (NOT L BC ALR PAID)
+- so diff from op: ROU A doesnt have to = L
+- so amort n int exp sep now?
 - ![[Pasted image 20260721202836.png]]
 - ![[Pasted image 20260721204858.png]]
-	- ok so addin Reduc in ROU A column
+	- add in reduction in ROU A clmn?
 	- op: lease exp constant, fin: amort exp constant 
-	- op: no amort exp
+	- aka op: amort exp is the plug op: lease exp is the plug
+	- lease L /=/ CV
 	- ▲ CV of ROU A calc    op: L-reduction in ROU A    fin: prev - amort exp
 - ![[Pasted image 20260721204933.png]]
 	- op
-		- lease exp  --- both int/amort?
+		- lease exp  --- both int/amort
 			- cash
 		- lease L
 			- Accum amort ROU A

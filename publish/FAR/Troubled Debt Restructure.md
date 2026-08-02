@@ -139,4 +139,4 @@
 	- arrangement where company places purchased securities into irrevocable trust
 	- company pledges them for fut principal/int pmts on LT debt
 	- bc company remains primary obligor w debt, L not considered extinguished
-	- 
+	- “freezes” the payments of principal and interest until a later time
