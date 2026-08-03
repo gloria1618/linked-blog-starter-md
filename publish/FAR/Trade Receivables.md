@@ -1,0 +1,237 @@
+[[Notes Receivable]]
+
+### TR: A/R
+- key elements of AR
+	1. Oral promises
+	2. Current A
+	3. Sources
+		- TR 
+			- AR from purchases of company's good/services
+		- NonTR
+			- AR from someone other than customers
+	4. Measures
+		- AR reported at NRV
+- NRV
+	- Net Realizable Value
+	- measuring AR
+	- gen means amt to be collected but may be adj for
+		- sales discounts [[#Valuation of AR w Discounts]]
+		- [[#Sales Return/Allowances]]
+		- CECL current expected [[#Credit Loss]]
+- Acct Anal Techniques: BASE
+	- can be used to solve many exam q's
+	- organize info to solve q
+	- Beg blnce
+	- Add
+		- credit sales
+	- Subtract
+		- cash collected
+		- write offs
+		- conversion to note
+	- End   → becomes new beg blnce nxt period
+- #### Valuation of AR w Discounts
+	- AR gen valued at historical cost, net of est credit loss, but may be adj for discounts
+	- discounts allowed to
+		- encourage prompt pmts
+		- avoid spending time chasing pmts
+	- Sale/Cash Discounts
+		- given as % of sales price
+			- 2/10 net
+				- 2/10 - 2% discount if paid in 10 days
+				- n/30 - pay full in 30 days
+		- Gross method
+			- ignore discount
+			- if pmt received w.in discount period
+				- record diff bw receivables n discount
+				- dr 'sales discount' (contra-revenue)
+		- Net method
+			- assume discount
+			- record net revenue, receivables
+			- if pmt after discount period
+				- record additional revenue
+				- cr 'sales discount not taken' (supplemental revenue acct)
+			- recording rev in diff accts doesn't affect tot revenue 
+		- ex
+			- ![[Pasted image 20260802200831.png]]
+			- ![[Pasted image 20260802200856.png]]
+	- Trade Discounts
+		- aka quantity discounts are 
+			- offered for bulk buying
+			- quoted as %
+			- applied one at a time
+			- *recorded only using net method*
+		- ![[Pasted image 20260802201023.png]]
+
+### TR: Sales Return/Allowances
+- customers returning goods after sales/revenue recorded
+	- sales returns (contra revenue)
+- may adj prices for shipped goods that don't meet expectations
+	- sales allowances (contra revenue)
+	- if allowance adj, no inv/cogs impact as inv not returned to seller
+-  Future Returns
+	- period end, est future returns related to sales during current period & record est to a refund L acct
+		- instead of cash/AR, as w actual return
+	- when actually return next yr, dr refund L to extent enough
+		- instead of sales return/allowances
+- ![[Pasted image 20260802202228.png]]
+- ![[Pasted image 20260802202329.png]]
+### TR: Credit Loss
+- AR on BS at NRV
+- amt recorded at initial transaction reflects amt entity expects to collect
+	- incl consideration of customer credit risk
+- CECL Method
+	- current expected cr loss
+		- amt entity expects to collect, incl customer credit risk
+		- GAAP, accrual acct
+	- allowance blnce for uncollectible based on
+		- past experience
+		- current conditions
+		- future expectations
+		- no set method for measuring ECL
+			- once collection det probable, est of ECL over receivable life recorded
+			- allowance takes into acct possibility of CL over entire life of receivable
+			- apply method consistently each period
+	- may assume eco conditions existing as of BS date remains constant for A life
+		- if info avail otherwise, consider when generating est for CL allowance  
+		- nonpublic business entities may look at collection activity for outstanding receivables occurring after BS date, before FS issued
+			- CL est calc on uncollected blnces existing as of date company considers subseq collection 
+	- % of each period's ending AR est uncollectible
+	- allowance rev,adj each reporting period for ▲ customer credit risks
+	- method for many sim to trad aged TR anal
+		- sch prepped categorizing customer invoices by # dy/mo outstanding
+		- each category amt mult by % cr loss rate
+	- ![[Pasted image 20260802211336.png]]
+	- ex
+		- ![[Pasted image 20260802205125.png]]
+		- ![[Pasted image 20260802205144.png]]
+		- ![[Pasted image 20260802205200.png]]
+- Direct Write off Method
+	- waits for AR to be uncollectible before write off
+	- IRS uses for fed inc tax
+	- not GAAP
+		- AR overstated
+		- no allowance, no est CECL incl in FS
+		- doesnt match credit loss exp w revenue
+	- ![[Pasted image 20260802204307.png]]
+- CL Expense
+	- Write off Specific AR
+		- dr allowance
+		- cr AR
+	- Subsequent Collection of Prev Written Off AR
+		- write off AR, but got paid anyway
+		1. Restore acct prev written off
+			- dr AR
+			- cr Allowance
+		2. Record cash collection
+			- dr Cash
+			- cr AR
+		- Net effect
+			- dr Cash
+				- cr Allowance
+	- ex
+		- ![[Pasted image 20260802212932.png]]
+		- ![[Pasted image 20260802212958.png]]
+		- ![[Pasted image 20260802213036.png]]
+
+### Pledging, Factoring AR
+- Pledging/Assignment
+	- assign existing AR as loan collateral
+	- company retains title to receivables
+	- pledges that will use proceeds to pay loan
+	- req footnote disclosure
+		- AR acct not adj/taken off bks
+	- helps org get loan
+- Factoring AR
+	- factor - buyer of AR
+		- considered sale of receivables 
+		- or converting receivables to cash
+	- opted for when
+		- org doesn't want to deal w collecting from delinquent customers or write off
+	- don't need to notify customer
+	- Without Recourse
+		- sim to true sale
+		- sale final, factor (assignee) assumes collections loss risk
+		- AR removed from bks
+		- 'Due from factor'
+			- sim to security deposit held by factor
+			- paid back when factor collects all of AR
+			- forfeited if receivables aren't fully collected
+			- considers risk taken by factor
+			- protects factor against sales returns, discounts, allowances, disputes
+				- if returns etc. < 'due from factor', blnce returned to seller
+			- cash + due from factor basically = AR price
+		- ![[Pasted image 20260802234155.png]]
+	- With Recourse
+		- factor has option to resell any uncollectible receivables back to seller prov conditions met
+		- 2 possible treatments
+			- Sale
+				- transfer must meet following conditions:
+					1. transferor's (seller's) obligation for uncollectible amts can be reasonably est
+					2. transferor surrenders receivables control to buyer
+					3. transferor can't be req to repurchase receivables
+						- but can be req to replace them w new receivables
+			- Borrowing
+				- if any of sale conditions not met, then transfer treated as loan
+- Securitization
+	- AR transferred to diff entity, like trust/subsidiary
+	- → entity sells securities that are collateralized by AR
+		- entity bundles receivables into fin securities and sells em to investors
+	- →→investors receive cash as AR paid
+	- ex
+		- transferor sells outstanding receivables to entity, securitizes them at $.50 on the dollar
+		- if investor thinks >50% of receivables are collectible, investor makes $
+		- transferor gets to leverage value of those A for fin benefit 
+	- creates new securities and off BS financing?
+
+### Reconciliation of Subledger to General Ledger
+- Subledger
+	- used to record deets when large vol of transactions
+	- stores detailed info, summarized in ctrl acct in general ledger
+	- ctrl acct in GL reflects single line totals for items like
+		- TR 
+			- (subledger) manage customers and their receipts
+			- indiv transaction deets like
+				- invoice date
+				- invoice #
+				- credit sales by customer
+				- transaction amt
+				- discounts
+				- returns, allowances
+				- pmts made on outstanding invoices
+		- inventory
+			- (subledger) manages movement of inventory + prices
+			- each inv item has sep acct in subledger tracking
+				- purchaes
+				- sales
+				- blnce
+		- PPE
+			- (subledger) has detailed info for each A categorized as PPE, like
+				- purchase date
+				- og cost
+				- residual value
+				- est useful life
+				- CV
+				- deprec method, accum deprec
+		- AP, accrued L
+			- (subledger) manages amts owed to supliers, subseq pmts incl an acct for each vendor, along w date/amounts incurred/paid
+- Reconciliation to GL
+	- at high lvl, blnce in ctrl accts in GL = tot from subledger accts
+	- recon needed to id/correct diff
+	- ![[Pasted image 20260803011824.png]]
+- Reconciliation Process: TR
+	- do min monthly, often electronic
+	- 1st compare tot from receivables subledger accts to overall blnce in GL
+	- diff → transactions in both review/compare
+	- once id discrepancies, locations
+		- adj JE in receivables in GL, or
+		- updates made to receivables subledger
+	- Ex of types of differences
+		- incorrect entries in GL ctrl acct
+			- adj JE to GL
+		- adj JE posted to GL at month end not reflected in receivables subledger
+			- update subledger
+		- auto posting errors cause transactions to post to ledger acct codes other than TR
+			- ▲ in posting rules, adj entries to GL
+		- discount/allowances reflected as direct offset to receivables in subledger, but appear under diff accts in GL
+			- actual adj not needed, but recon should incl all accts related to sales to fully capture discount/allowances 
+	- ![[Pasted image 20260803012502.png]]

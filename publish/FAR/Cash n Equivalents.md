@@ -1,4 +1,5 @@
 [[Trade Receivables]]
+[[Inventory]]
 
 - Cash incl
 	- currency
