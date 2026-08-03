@@ -1,1 +1,112 @@
-sd
+[[Invt Cost Flow]]
+
+- items held for resale that're considered current A
+- Retailer
+	- Finished Goods - invt resold subs same as purchased
+- Manufacturer
+	- Raw Materials (freight in)
+	- WIP
+	- Finished Goods
+
+### Incl in Invt
+- gen rule
+	- invt incl any goods/material company has legal title to
+	- title gen follows possession
+- exceptions
+	- Goods in Transit
+		- contract silent
+			- contract signed, see shipping terms to det if seller completed seller obligation
+		- contract id time pt title passes
+			- once buyer has title its their invt, even if no possession 
+			- FOB Shipping PT
+				- buyer title when seller loads to common carrier → buyer invt
+			- FOB Destination
+				- seller invt until goods received by buyer
+	- Shipment of Nonconforming Goods
+		- seller ships wrong goods → contract breach
+			- title reverts to seller upon buyer rejection
+			- goods can be incl in buyer invt upon buyer discretion... if buyer willing to sell goods anyway
+	- Consigned Goods
+		- seller (consignor) delivers goods to agent (consignee) to hold/sell on consignor behalf 
+		- even tho consignee possesses, consignor still incl in their invt bc title/risk retained by consignor
+		- until sale, consignor invt
+		- title passes directly to 3rd party buyer
+		- consignee gets commission
+	- Public Warehouses
+		- surplus invt stored in public warehouse incl in owner's invt  
+		- warehouse/storage receipt = title even tho no possession
+	- Sale w Mandatory Buyback
+		- sometimes, as part of fin arrangement, seller req to repurchase goods from buyer
+		- seller incl in invt tho title passed to buyer (completed sale)
+	- Installment Sales
+		- paid over time period, unlike buying on credit; seller issues notes payable
+		- seller sells on installment, retains legal title as loan security
+			- buyer possession
+			- seller legal title
+			- reasonably est uncollectible?
+				- if % uncollectible cant est, incl in seller's invt
+				- if % uncollectible can est, incl in buyer's invt
+
+### Valuation
+- Conservatism: transactional gain not recorded till actually realized
+- GAAP: invt stated at cost
+	- price paid or consideration to acquire, incl freight in
+- Exceptions
+	- precious metals, farm products valued at NRV (selling price - cost to sell)
+	- LIFO/retail: lower of cost or mkt
+		- MKT: choose middle value of 3 and...
+			- replacement cost: cost to purchase item as of valuation date
+			- market ceiling → NRV
+			- market floor → ceiling(NRV) - normal profit margin
+		- compare to COST
+		- ![[Pasted image 20260803042520.png]]
+		- ![[Pasted image 20260803042051.png]]
+			- ^invt 4: replacemetn cost exceeds mkt ceiling. max is compared
+	- FIFO/weighted avg: lower of cost and NRV
+		- NRV = net selling price - costs to complete+dispose invt
+			- ex: broker/sales agent commission 
+			- ![[Pasted image 20260803040213.png|570]]
+	- Losses → booked imm 
+		- recog in current period either within COGS or indep
+		- material loss (subs+unusual) → disclose sep in IS
+		- immaterial loss → inc COGS
+	- Reversals of invt write downs prohibited by GAAP
+		- IFRS: allowed
+- Disclosure
+	- subs, unsual loss from subseq measurement of invt disclosed in FS
+	- small loss form value decline incl in COGS
+	- if sig ▲ in invt measurement, adequate disclosure of nature of chng, and disclose, if material, the effect on income
+
+
+### Periodic v. Perpetual Invt Sys
+- Periodic Invt
+	- buy invt, dr purchases ... not invt
+	- physical count of ending invt req at period end to calc COGS
+		- only way to det invt qty
+		- units of invt, assoc costs counted/valued at end of acct period
+	- invt avail for sale = beg invt + goods purchased
+	- ![[Pasted image 20260803055224.png]]
+- Perpetual Invt
+	- invt record for each item updated for each purchase/sale as they occur
+		- buy invt
+			- dr invt; cr cash
+		- sell invt
+			- cr invt; dr COGS
+	- ![[Pasted image 20260803055355.png]]
+- Hybrid Invt Sys
+	- Units of Invt on Hand: Qtys Only
+		- aka modified perpetual sys
+		- perpetual record of quantities only 
+		- ...regular perpetual sys keeps updated count of both invt, costs
+	- Perpetual w Periodic at Yr End
+		- most maintaining perpetual invt sys still perform either complete periodic phys invt, or test count invt on random/cyclical basis
+- Periodic v Perpetual 
+	- when perform periodic phys invt or test count?
+		- periodic
+			- for IC → must
+			- periodic
+		- perpetual
+			- for IC → can rather than must
+			- random/cyclic
+	- ![[Pasted image 20260803055620.png]]
+	- ![[Pasted image 20260803055638.png]]
