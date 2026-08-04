@@ -1,5 +1,6 @@
 [[Trade Receivables]]
 [[Inventory]]
+[[PPE Cost Basis]]
 
 - Cash incl
 	- currency

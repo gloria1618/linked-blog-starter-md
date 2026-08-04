@@ -1,0 +1,115 @@
+[[PPE Deprec, DIsp, Impair]]
+
+- PPE/fixed A
+	- acquired for op use
+	- LT phys A subj to deprec (except land)
+- PPE shown sep on BS/footnotes at og(historical) cost
+- Accum deprec (contra A) offsets historical cost A accts
+- NBV = Cost dr - Accum deprec cr
+- Purchased fixed A: historical cost
+	- measured by cash.equiv price
+	- incl costs to
+		- obtain
+		- transport to loc
+		- get A into condition for use
+- Donated fixed A: FMV + incidental costs
+	- results in recog of nonop gain on IS
+	- dr fixed A at FMV
+	- cr gain
+- Constructed fixed A
+	- costs incl
+		- direct materials
+		- direct labor
+		- overhead
+		- repair/maintenance exp adding value to fixed A by ↑ life/quality/usefulness
+		- *applicable construction period interest (during, not before/after)*
+	- gen: int expensed as incurred
+		- exception: construction period interest capitalized to fixed A
+	- Weighted Avg Method
+		- construction period interest capitalized based on weighted avg of accum expenditures (not borrowed amt) as part of cost of prod fA, like
+			- buildings, machinery, land improvements constructed/prod for others/internal use
+			- land improvements → interest costs charged to structure
+			- fA for sale/lease and constructed as discrete proj, like real estate proj
+		- computation incl
+			- capitalized interest=weighted avg amt of accum expenditures * interest rate
+				- interest rate paid on borrowings specifically for A construction
+				- if avg accum expenditures > specific A construction borrowing, apply weighted avg interest rate for other borrowings to the excess
+			- tot capitalized interest costs can't exceed tot interest costs actually incurred
+			- dont reduce capitalizable interest by income received on unexpended loan portion
+			- ![[Pasted image 20260803221656.png]]
+			- ![[Pasted image 20260803220352.png]]
+	- Capitalization of Interest - Period
+		- begins when 3 conditions present
+			- expenditures for A made
+				- eg attorney/architect hired
+			- activities needed to get A ready for use are in progress
+				- ie filing permits
+			- interest cost being incurred
+		- Construction Delays
+			- Ordinary delay
+				- won't impact period
+				- ex: waiting for inspection
+			- Intentional delay
+				- capitalization of interest period stops
+				- ex: waiting for mkt to improve
+		- End
+			- period ends when A (or indep parts of A) subs complete+use ready 
+			- interest expensed before/after construction period
+- Property
+	- land purchased for constructing building incl all costs incurred till excavation for new building (digging foundation begins cost of building)
+		- costs before excavation incl
+			- purchase price
+			- broker's commission
+			- title, recording, legal fees
+			- draining swamps, clearing brush/tree
+			- site development
+				- eg grading mtns, fill holes, leveling
+			- existing obligations assumed by buyer
+				- eg mortgages, back taxes
+			- costs of removing an old building
+		- subtract proceeds from sale of existing buildings/natural resources (timber)
+	- land improvements (depreciable), incl
+		- fences
+		- water sys
+		- sidewalks
+		- paving
+		- landscaping
+		- lighting
+		- interest costs during construction period added to cost of land improvements
+- Plant
+	- cost of buildings (plant) incl
+		- purchase price
+		- deferred maintenance (repair charges neglected from previous owner)
+		- alterations, improvements
+		- architect's fees
+		- digging hole for foundation
+		- construction period interest (potentially)
+	- basket purchases of land (no deprec) and building (deprec) req allocation of purchase price based on ratio of appraised values of indiv items
+- Equipment
+	-  incl office/factory equip, machinery, furniture, fixtures
+	- costs incl all expenditures directly related to acquisition/construction of equip
+		- invoice price
+		- - cash/other discounts
+		- + freight in (incl insurance while transit/construction)
+		- + installation (incl testing, prep)
+		- + sales, federal excise taxes
+		- possibly + construction period interest
+	- equip costs either
+		- gen capitalized as A on BS, deprec over useful life, or
+			- ***Extraordinary Repair*** ↑ life, usefulness, quality; capitalize
+			- ***Additions*** ↑ qty fixed A, capitalized
+				- ![[Pasted image 20260803211106.png]]
+			- ***Improvements*** ↑ quality, capitalized
+			- ***Replacements*** when subs new, sim A for old, capitalized 
+				- for replacement/improvement/extraordinary repair:
+					- old A CV known
+						- remove it , recog G/L
+						- ![[Pasted image 20260803211341.png]]
+					- old A CV unknown (or ↑ useful life)
+						- extend A's life thru improvement/replacement
+						- dr accum deprec for cost of improvement/replacement
+							- basically UNDO the accum deprec by new A cost, bc can't take away old
+						- ![[Pasted image 20260803212118.png]]
+		- expensed on IS
+			- ***Ordinary repair*** expensed as repair/maintenance 
+	- ![[Pasted image 20260803212552.png]]

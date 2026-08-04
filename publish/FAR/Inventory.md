@@ -110,3 +110,22 @@
 			- random/cyclic
 	- ![[Pasted image 20260803055620.png]]
 	- ![[Pasted image 20260803055638.png]]
+
+### Gross Profit Method, Firm Purchase Commitments
+- Gross Profit Method
+	- used for interim FS for periodic sys
+	- invt valued at retail
+	- gross profit %
+	- known, used to calc cost of sales
+	- ![[Pasted image 20260803190102.png]]![[Pasted image 20260803190402.png]]
+- Firm Purchase Commitment
+	- forward contract, legally enforceable agrmt to purchase specified # at some future time
+	- buying invt, if prices rising, company may
+		- stockpile invt
+			- - storage costs
+		- enter purchase commitments
+			- + sign contract, lock purchase prices
+			- - if prices drop, loss
+				- if loss probable+est → book loss
+				- if contracted price > mkt price & expected losses occur when purchase actually made... recog loss at time of price decline 
+	- ![[Pasted image 20260803190629.png]]
