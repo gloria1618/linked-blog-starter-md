@@ -1,0 +1,86 @@
+F3M6
+Intangibles w Finite Lives
+
+- Intangible A
+	- long lived legal rights, competitve adv dev/acquired by enterprise
+	- typ acquired to
+		- be used in op
+		- prov benefits over several acct periods
+	- Finite
+		- identifiable
+		- ex: copyright, patent, franchise
+	- Indefinite
+		- not specifically identifiable
+		- ex: goodwill, trademarks, licenses, crypto A
+- Classification of InA
+	- Acquisition Manner
+		- Purchased
+			- acquired from other enterprise/indiv
+			- record A at cost
+			- capitalize legal, registration fees incurred to obtain A
+		- Internally Dev
+			- cost expensed when incurred
+				- GAAP prohibits capitalization of RnD costs
+			- trademarks, goodwill from ads, cost of dev maintain restore goodwill
+			- exception: certain costs assoc w internally dev intangibles specifically identifiable capitalized 
+				- legal fees
+				- registration/consulting fees
+				- legal fee/cost related to successful defense of A
+				- design costs (eg of trademark)
+				- other direct costs to secure A
+	- Separability
+		- classification depends on if A
+			- can be sep from entity
+				- aka specifically identifiable 
+				- patents, copyrights, franchises, etc
+			- is subs inseparable from it
+				- aka not specifically identifiable 
+				- trade name/goodwill
+	- Expected Benefit Period
+		- classification depends on if eco life est
+			- det
+				- finite life
+			- indeterminable
+				- indefinite life
+	- Cost Capitalization
+		- record cost of acquired intangible A in arms length transaction as A
+		- cost measured by 
+			- amt cash disbursed, or distributed A FV
+			- PV of amts to be paid for L incurred
+			- FV of consideration received for issued stock
+			- ... cash paid + L PV + FMV (stock)
+		- costs det by whichever more clear
+			- FV of consideration given
+			- FV of prop acquired
+- Amortization
+	- value of intangible A eventually dissapears
+	- cost of each InA type amort by systemic charges to income over est useful eco life
+		- except InA w indefinite lives (ie goodwill)
+	- method
+		- straight line amort, unless company demonstrates another systemic method more approp
+		- adeq disclosed in FS notes
+		- exp that ↑ InA useful life req adj to calc of annual amort
+	- ▲ in useful life
+		- if life of existing InA reduce/extended, remaining NBV amort over new remaining life
+	- patent amort over shorter of est life or remaining legal life
+- Sale
+	- G/L: CV at sale date vs. selling price
+	- G/L = Selling price - NBV at sale
+	- nonop section of IS
+- Valuation
+	- finite life InA reported at cost-amort-impairment
+	- indef life InA reported at cost-impairment
+	- crypto A sim to indef life InA, but GAAP says diff
+		- measured at FV each reporting period
+		- ▲ from remeasurement reflected in current period NI
+
+
+Impairment of Finite Intangible A
+- 2 step test
+	1. Recoverability Test
+		- CV of A vs. sum of undiscounted CF expected from A use n eventual disposition
+		- note: for indefinite, use FV instead of sum of undisCF
+	2. if CV > tot undiscounted fut CF, A impaired
+		- impairment loss = CV - FV 
+		- not given FV, use PV of fut CF
+	- ![[Pasted image 20260805015349.png]]

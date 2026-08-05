@@ -1,7 +1,7 @@
 [[Trade Receivables]]
 [[Inventory]]
 [[PPE Cost Basis]]
-
+[[Finite Intangibles]]
 - Cash incl
 	- currency
 	- demand deposits w banks/other fin instit
