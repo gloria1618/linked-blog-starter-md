@@ -1,4 +1,4 @@
-[[PPE Deprec, DIsp, Impair]]
+[[PPE Deprec, Disp, Impair]]
 
 - PPE/fixed A
 	- acquired for op use
