@@ -21,7 +21,7 @@
 		- direct materials
 		- direct labor
 		- overhead
-		- repair/maintenance exp adding value to fixed A by ↑ life/quality/usefulness
+		- repair/maintenance exp adding value to fixed A by ↑ life/quality/usefulness (extraordinary)
 		- *applicable construction period interest (during, not before/after)*
 	- gen: int expensed as incurred
 		- exception: construction period interest capitalized to fixed A
@@ -113,3 +113,4 @@
 		- expensed on IS
 			- ***Ordinary repair*** expensed as repair/maintenance 
 	- ![[Pasted image 20260803212552.png]]
+		- 2 ways to capitalize: inc A, or dec accum deprec

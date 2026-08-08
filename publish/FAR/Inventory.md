@@ -37,7 +37,7 @@
 		- warehouse/storage receipt = title even tho no possession
 	- Sale w Mandatory Buyback
 		- sometimes, as part of fin arrangement, seller req to repurchase goods from buyer
-		- seller incl in invt tho title passed to buyer (completed sale)
+		- seller incl in invt *tho title passed to buyer *(completed sale)
 	- Installment Sales
 		- paid over time period, unlike buying on credit; seller issues notes payable
 		- seller sells on installment, retains legal title as loan security
@@ -69,7 +69,7 @@
 	- Losses → booked imm 
 		- recog in current period either within COGS or indep
 		- material loss (subs+unusual) → disclose sep in IS
-		- immaterial loss → inc COGS
+		- immaterial loss → ↑ COGS
 	- Reversals of invt write downs prohibited by GAAP
 		- IFRS: allowed
 - Disclosure
@@ -129,3 +129,8 @@
 				- if loss probable+est → book loss
 				- if contracted price > mkt price & expected losses occur when purchase actually made... recog loss at time of price decline 
 	- ![[Pasted image 20260803190629.png]]
+		- no JE when enter into contract bc havent received invt
+		- when invtory received
+			- dr inventory 4m
+			- dr est L 1m
+				- AP 5m

@@ -1,4 +1,4 @@
-[[Trade Receivables]]
+ [[Trade Receivables]]
 [[Inventory]]
 [[PPE Cost Basis]]
 [[Finite Intangibles]]
@@ -20,7 +20,7 @@
 		- commercial paper, treasury bills
 		- certificates of deposit (og maturity <=90dys)
 - NOT Cash/Equiv
-	- time certificates of deposit (if og maturity >90dys)
+	- CD time certificates of deposit (if og maturity >90dys)
 	- legally restricted deposits held as compensating blnces against borrowing arrangements w a lending instit
 		- compensating blnce - part of cash.equiv contractually restricted bc of fin arrangements w credit instit, restriction lowers cost of borrowing
 - Restricted
@@ -60,3 +60,4 @@
 		- ex
 			- ![[Pasted image 20260802192705.png]]
 			- ![[Pasted image 20260802192735.png]]
+				- bank section, 500 n 3k they're nov events rlly not dec so back it outta dec 

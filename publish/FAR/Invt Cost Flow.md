@@ -36,7 +36,8 @@ Inventory Valuation
 				- reduced taxable income
 			- if used for tax, must be used in GAAP FS
 		- greater matching of expenses n revenue
-			- if sales>purchases for period, LIFO results in distortion of NI bc old invt costs (LIFO layers) matched w current revenue
+			- cause buying and selling that same one too
+			- unless if sales>purchases for period, LIFO results in distortion of NI bc old invt costs (LIFO layers) matched w current revenue
 		- if LIFO in rising price env, and price/unit ↑, ur selling new expensive higher costs, thus lower profit
 		- lower profit = lower RE = lower equity = lower A (end invt blnce)
 		- ![[Pasted image 20260803070559.png]]
@@ -46,5 +47,6 @@ Inventory Valuation
 		- price index = end invt at current yr cost / end invt at base yr cost
 		- if prices rising, price index >1
 		- ![[Pasted image 20260803070326.png]]
+			- calc index, then the how much increased (so like 6k), then add it
 
 ![[Pasted image 20260803070356.png]]

@@ -3,6 +3,7 @@
 ### TR: A/R
 - key elements of AR
 	1. Oral promises
+		- NR is written
 	2. Current A
 	3. Sources
 		- TR 
@@ -95,6 +96,7 @@
 		- if info avail otherwise, consider when generating est for CL allowance  
 		- nonpublic business entities may look at collection activity for outstanding receivables occurring after BS date, before FS issued
 			- CL est calc on uncollected blnces existing as of date company considers subseq collection 
+			- aka can update calc after yr end ala before FS issued
 	- % of each period's ending AR est uncollectible
 	- allowance rev,adj each reporting period for ▲ customer credit risks
 	- method for many sim to trad aged TR anal
@@ -128,6 +130,9 @@
 		- Net effect
 			- dr Cash
 				- cr Allowance
+	- Allowance not enough
+		- inc alllowance
+		- then write off
 	- ex
 		- ![[Pasted image 20260802212932.png]]
 		- ![[Pasted image 20260802212958.png]]

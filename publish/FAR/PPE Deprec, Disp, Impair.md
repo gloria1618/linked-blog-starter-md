@@ -30,6 +30,7 @@ PPE: Depreciation, Disposal, Impairment
 	- ![[Pasted image 20260804062549.png]]
 - Composite Deprec
 	- avg eco lives of # of PPE units, deprec entire A class over single life
+	- SOLVING FOR YRS
 	- if sell off one item in class
 		- dr cash (selling price)
 		- cr machine cost
@@ -52,6 +53,7 @@ PPE: Depreciation, Disposal, Impairment
 	- simplified bookkeeping
 		- no deprec in acquisition yr, full yr deprec in disposal yr (or vice versa)
 - **Straight-line**
+	- use when service *potential* declines over time
 	- (cost - salvage value) / est useful life = deprec
 	- est useful life usually in periods like yrs/mo
 	- ![[Pasted image 20260804201006.png]]
@@ -78,12 +80,12 @@ PPE: Depreciation, Disposal, Impairment
 	- ![[Pasted image 20260804201923.png]]
 - **Productive Output Deprec**
 	- Units of Production Deprec
+	-  to calc deprec when service *production* declines w use
 	- relates to annual deprec to est production capability of A, expressed in rate per unit or hr
-	- to calc deprec when service production declines w use
 	1. deprec base/ est units or hrs = rate
 	2. rate * # of units or hrs = deprec exp
 	- lets dperec be a variable cost
-- ![[Pasted image 20260804202553.png]]
+- ![[Pasted image 20260804202553.png]]***if given date bought and date placed in service, use date placed in service***
 
 ### Disposal
 - when deprec calc 'indiv', not as group, G/L recorded
@@ -112,7 +114,7 @@ PPE: Depreciation, Disposal, Impairment
 - Depletion Methods
 	- Cost depletion
 		- GAAP
-		- cost depletion rate computed by div current est recoverable units into unrecovered cost (less salvage value)
+		- cost depletion rate = current est recoverable units / unrecovered cost (less salvage value)
 		- to allocate costs to production = cost depletion rate * units produced
 	- Percentage depletion
 		- tax only, not GAAP
@@ -120,7 +122,7 @@ PPE: Depreciation, Disposal, Impairment
 		- typ exceeds cost depletion
 		- limited to 50% of NI from depletion prop computed before % depletion allowance
 - ![[Pasted image 20260804205046.png]]
-
+	- ***COGS only if sold, otherwise capitalized into invt***
 ### PPE Impairment
  - CV of fA held for use adn to be disposed are reviewed when event/circumstance changes indicating CV not recoverable
  - Step 1. Recoverability Test
@@ -138,10 +140,11 @@ PPE: Depreciation, Disposal, Impairment
 ### Long Lived A Held for Sale
 - long lived A held for sale are those that are actively being sold
 - LLA going to be sold classified as held for sale in period in which all 6 crit met
+- sim as discont heldforsale
 	1. mgmt commits to plan to sell A
 	2. A avail for imm sale in present condition
 	3. active program to locate buyer, other actions req to complete sell plan initiated
-	4. A sale probable, transfer expected to be completed w.in 1yr
+	4. A sale probable, transfer *expected* to be completed w.in 1yr
 	5. A being actively marketed for sale at reasonable price relative to FV
 	6. sig ▲ in sell plan not expected
 - if at any time, 6 crit not met, LLA reclassified as held n used
@@ -150,14 +153,16 @@ PPE: Depreciation, Disposal, Impairment
 - LLA classified as held for sale (n doesnt meet crit for presentation as discont op) is presented sep on BS face of current period 
 - Calc of G/L of LLA Held for Sale
 	- LLA held for sale measured at lower of
-		- CV
+		- CV (aka NBV)
 		- FV - sell costs
 			- sell costs: direct costs of sale transaction
 				- costs that wouldn't incur if no sale
 				- can incl commissions, legal fees, title transfer fees, closing costs
 	- no deprec/amort exp while A held for sale
+		- pt of deprec to allocate exp over benefit period, now bene period over
 	- each reporting period, adj to CV of held for sale A to recog any ▲ in FV - sell costs
 	- loss recog for any initial/subseq write down to FV-cost to sell
 	- but can't recog gain in excess of cum loss prev recog
+		- so if 1M loss alr recog, max gain is 1M
 - ![[Pasted image 20260804221600.png]]
 - ![[Pasted image 20260804221659.png]]![[Pasted image 20260804221720.png]]

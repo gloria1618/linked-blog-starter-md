@@ -1,0 +1,94 @@
+- Fin A
+	- ex
+		- cash
+		- evidence of ownership interest in entity
+		- contract conveying to one entity a right to
+			- receive cash/another fin instrument from a 2nd entity
+			- exchange other fin instruments on potentially favorable terms w 2nd entity
+- Fin L
+	- contract imposing one entity an obligation to
+		- deliver cash/another fin instrument to 2nd entity
+		- exchange other fin instruments on potentially unfavorable terms
+- Invst in Other Companies' Stocks/Bonds
+	- Debt
+		- trading security: FV thru IS
+		- avail for sale: FV thru OCI
+		- held to maturity: amortized cost
+	- Common Equity
+		- own <20%
+			- no sig influence
+			- trading security 
+			- FV thru IS
+		- own 20%-50%
+			- significant influence
+			- equity method
+		- own >50%
+			- acquisition
+			- consolidate
+- FV Option
+	- FI = FIN INSTRUMENTS
+	- follow trading security rules (FV thru IS)
+	- on specified election dates, entities may choose to measure at FV eligible FI no typ measured at FV
+	- Under FV option, unrealized G/L are reported in earnings
+		- irrevocable
+		- applied to indiv FI
+	- eligible FI
+		- may elect option for recog fin A/L
+			- ex:
+				- can choose to measure at FV a debt invst otherwise classified as availforsale, w unrealized G/L recorded in earnings, instead of OCI
+				- can choose to measure at FV an equity invst otherwise acct for using equity method
+	- not eligible
+		- invst in subsidiaries/VIEs that entity req to consolidate
+		- pension benefit A/L
+		- fin A/L recog under leases
+		- deposit L of fin institutions
+		- equity FI
+- FV ▲ Attributable to Inst Specific Credit Risk
+	- for fin L other than derivative L designated under FV option, the portion of FV ▲ relating to ▲ in instrument specific credit risk is recog in OCI
+		- note/bond: direct to equity
+	- derivative L recog ▲ in NI
+		- derivatives: NI→RE→equity
+	- once fin L derecog, any accum G/L in OCI recog in earnings
+
+### Invst in Debt Securities
+- for lender, debt sec are A
+- Debt Security
+	- any security rep creditor relationship w entity
+	- incl
+		- corp bonds
+		- redeemable preferred stock (has maturity date)
+		- gov securities
+		- convertible debt
+		- commercial paper
+	- not incl
+		- option, futures, forward contracts
+		- lease contracts
+		- A/NR
+- Classification
+	- DS classified based on company intent
+	- Trading Security
+		- DS bought/held w primary purpose to sell in near term
+		- reflect active/freq buy/sell w obj of generate profits on ST price differences
+		- gen reported as currentA, tho can be reported as noncurrent if approp
+		- gen rule
+			- buy/sell classified as op CF, only if classified as currentA
+			- bond interest, awa un/realized G/L, recog on IS
+	- Avail-for-Sale Security
+		- doesn't meet def of other 2
+		- intent to hold for indef time period, but not necessarily to maturity 
+		- reported as either non/current A, depending on corp intent
+		- gen rule
+			- buy/sell classified as investing CF, only if classified as noncurrent (gen rule)
+			- any realized loss on IS, unrealized G/L directly to equity
+			- bond interst recog on IS
+	- Held-to-Maturity Security
+		- only if corp has positive intent/ability to hold to maturity
+			- reported at amort cost
+		- if security can be paid/otherwise settled in manner that holder may not recover subs all of its invstmt, HtM classification may not be used
+		- non/current A, based on time to maturity
+		- gen rule
+			- buy/sell classified as investing CF
+			- more likely than not, noncurrent A, but depends on time to maturity
+			- no un/realized G/L
+			- bond interst recog on IS
+			
