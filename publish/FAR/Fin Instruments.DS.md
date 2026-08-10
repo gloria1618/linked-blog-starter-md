@@ -1,0 +1,192 @@
+[[Equity Securities]]
+[[Req Disclosures]]
+
+F5M1
+- Fin A
+	- ex
+		- cash
+		- evidence of ownership interest in entity
+		- contract conveying to one entity a right to
+			- receive cash/another fin instrument from a 2nd entity
+			- exchange other fin instruments on potentially favorable terms w 2nd entity
+- Fin L
+	- contract imposing one entity an obligation to
+		- deliver cash/another fin instrument to 2nd entity
+		- exchange other fin instruments on potentially unfavorable terms
+- Invst in Other Companies' Stocks/Bonds
+	- Debt
+		- trading security: FV thru IS
+		- avail for sale: FV thru OCI
+		- held to maturity: amortized cost
+	- Common Equity
+		- own <20%
+			- no sig influence
+			- trading security 
+			- FV thru IS
+		- own 20%-50%
+			- significant influence
+			- equity method
+		- own >50%
+			- acquisition
+			- consolidate
+- FV Option
+	- FI = FIN INSTRUMENTS
+	- follow trading security rules (FV thru IS)
+	- on specified election dates, entities may choose to measure at FV eligible FI no typ measured at FV
+	- Under FV option, unrealized G/L are reported in earnings
+		- irrevocable
+		- applied to indiv FI
+	- eligible FI
+		- may elect option for recog fin A/L
+			- ex:
+				- can choose to measure at FV a debt invst otherwise classified as availforsale, w unrealized G/L recorded in earnings, instead of OCI
+				- can choose to measure at FV an equity invst otherwise acct for using equity method
+	- not eligible
+		- invst in subsidiaries/VIEs that entity req to consolidate
+		- pension benefit A/L
+		- fin A/L recog under leases
+		- deposit L of fin institutions
+		- equity FI
+- FV ▲ Attributable to Inst Specific Credit Risk
+	- for fin L other than derivative L designated under FV option, the portion of FV ▲ relating to ▲ in instrument specific credit risk is recog in OCI
+		- note/bond: direct to equity
+	- derivative L recog ▲ in NI
+		- derivatives: NI→RE→equity
+	- once fin L derecog, any accum G/L in OCI recog in earnings
+
+### Invst in Debt Securities
+- for lender, debt sec are A
+- Debt Security
+	- any security rep creditor relationship w entity
+	- incl
+		- corp bonds
+		- redeemable preferred stock (has maturity date)
+		- gov securities
+		- convertible debt
+		- commercial paper
+	- not incl
+		- option, futures, forward contracts
+		- lease contracts
+		- A/NR
+- Classification
+	- DS classified based on company intent
+	- Trading Security TS
+		- DS bought/held w primary purpose to sell in near term
+		- reflect active/freq buy/sell w obj of generate profits on ST price differences
+		- gen reported as currentA, tho can be reported as noncurrent if approp
+		- gen rule
+			- buy/sell classified as op CF, only if classified as currentA
+			- bond interest, awa un/realized G/L, recog on IS
+	- Avail-for-Sale Security AFS
+		- doesn't meet def of other 2
+		- intent to hold for indef time period, but not necessarily to maturity 
+		- reported as either non/current A, depending on corp intent
+		- gen rule
+			- buy/sell classified as investing CF, only if classified as noncurrent (gen rule)
+			- any realized loss on IS, unrealized G/L directly to equity
+			- bond interst recog on IS
+	- Held-to-Maturity Security HtM
+		- only if corp has positive intent/ability to hold to maturity
+			- reported at amort cost
+		- if security can be paid/otherwise settled in manner that holder may not recover subs all of its invstmt, HtM classification may not be used
+		- non/current A, based on time to maturity
+		- gen rule
+			- buy/sell classified as investing CF
+			- more likely than not, noncurrent A, but depends on time to maturity
+			- no un/realized G/L
+			- bond interst recog on IS
+- Valuation
+	- DS reported at FV
+		- trading/AfS reported at FV
+			- AfS: FV thru OCI
+			- trading: FV thru IS
+		- FV is
+			- mkt price, 
+			- or what willing buyer/seller pay/accept to exchange security
+		- reporting of G/L on FS depends on DS classification
+			- unrealized holdings G/L
+				- from FV ▲ in TS/AFS DS
+				- unrealized bc no sale
+				- tho 2 GL accts normally maintained, BS presentation 1amt
+				- TS
+					- incl in earnings
+					- recog in NI
+					- ![[Pasted image 20260807212107.png]]
+				- AFS
+					- recog in OCI
+					- ![[Pasted image 20260807212122.png]]
+			- realized G/L 
+				- TS/AFS both recog in IS
+				- recog when
+					- DS sold, n
+					- AFS DS impaired
+		- Fin A reported at Amortized Cost
+			- HtM reported at amortized cost
+			- unrealized G/L not recog in FS on HtM bc not marked to mkt at period end
+			- no realized G/L, as it should be held until maturity
+				- ?
+	- Summary![[Pasted image 20260807212650.png]]
+		- * TS  transactions classified as op/investing CF based on nature/purpose DS acquired
+			- if TS classified noncurrent on BS → investing CF
+			- if TS classified current on BS → op CF
+- Reclassification
+	- only when justified
+	- transfers from HtM
+		- only made when ▲ in intent to hold specific security to maturity that doesn't call into question intent to hold other DS to maturity
+	- transfer to/from TS also rare
+	- any transfer from one group to another is accounted for at FV
+	- ![[Pasted image 20260807213245.png]]
+		- ask newt for ex
+		- "Transfer Acct. For" = amt security is recorded when moves from one classification to another
+	- ![[Pasted image 20260807214432.png]]
+- Impairment
+	- impaired DS
+		- write down debt invst
+		- record loss
+		- → expected CrL = PV fut CF - amort cost
+		- → recorded on IS
+	- TS
+		- not applicable
+	- AFS
+		- expected CrL recog on IS
+		- excess loss to OCI
+		- accted diff from HtM bc investor has option to sell AFS if sale loss < expected CL
+		- so, CL reported on NI on AFS limited to amt by which FV below amortized cost
+			- max L on IS = ECL
+		- any additional loss reported as unrealized loss in OCI
+		- AFS must be marked to FMV
+		- when making ▲ to CV
+			- unrealized G/L use a valuation acct
+			- ECL use allowance for CL
+		- ex
+			- ![[Pasted image 20260807220801.png]]
+			- ![[Pasted image 20260807220822.png]]
+			- ![[Pasted image 20260807220931.png]]
+			- ![[Pasted image 20260807220947.png]]
+	- HTM
+		- (at amortized cost)
+		- expected CL recog on IS
+		- write down A
+		- if det all amts due (principal+interest) won't be collected on debt invst reported at amortized cost
+			- invst reported at PV of expect to collect principal+interest, discounted at effective interest rate at purchase time
+		- CL = PV - amort cost
+		- ![[Pasted image 20260807215734.png]]
+	- under CECL, AFS+HTM reported at net amt expected to be collected using allowance
+		- CL recog
+			- as current period expense on IS
+			- as offsetting allowance on BS
+		- inc/dec in ECL reflected on IS in period incurred when est▲
+- Sale
+	- sale of DS from any category
+		- results in realized G/L
+		- recog in NI for period
+	- valuation acct, if used, also would have to be removed on security sale
+	- TS
+		- realized G/L reported when TS sold is diff bw
+			- adj cost (og cost +/- unrealized G/L prev recog in NI)
+			- selling price
+		- ![[Pasted image 20260807221430.png]]
+	- AFS
+		- realized G/L reported when AFS sold is diff bw selling price n og cost
+		- any unrealized G/L in accum OCI must be reversed at time sold
+		- ![[Pasted image 20260807221608.png]]
