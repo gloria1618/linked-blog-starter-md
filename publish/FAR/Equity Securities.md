@@ -1,0 +1,77 @@
+- security repping ownership interest in an enterprise or right to acquire/dispose of an ownership interest in an enterprise at fixed/determinable prices
+	- incl
+		- ownership shares (common, preferred, other forms of capital stock)
+		- rights to acquire ownership shares (stock warrants, right, call options)
+		- rights to dispose of ownership shares (put options)
+	- don't incl
+		- preferred stock redeemable at investor option, stock that must be redeemed by issuer (debt)
+		- treasury stock 
+			- company's own stock repurchased+held
+			- contra equity, no voting rights, no dividends
+		- convertible bonds
+- Classification
+	- ES gen carried at FV thru NI (FVTNI)
+		- TS
+			- mark to FMV
+			- dividends and all G/L on IS
+	- req doesnt apply to
+		- invstments accounted for under equity method
+		- consolidated investees
+		- when practicability exception applied
+	- Practicability Exception
+		- allows entity to measure equity invstmt at cost-impairment +/- observable price ▲ (in orderly transactions) of identical/sim invstmts from same issuer
+		- applicable for equity invstments that don't have readily determinable FV
+		- those who cant use exception
+			- reporting entities that are broker-dealers in sec
+			- invstmnt companies
+			- postretirement benefit plans
+- Valuation
+	- ES gen reported at FVTNI
+	- unrealized holding G/L on ES incl in earnings as they occur
+		- ![[Pasted image 20260810022219.png]]
+	- Dividend income from ES invstmnt recog in NI, unless its a
+		- liquidating dividend
+			- not income
+			- a dist exceeding investor's share of investee's RE
+				- dividend > RE
+			- return of capital that decreases investor's basis in investment
+			- ![[Pasted image 20260810022600.png]]![[Pasted image 20260810022544.png]]
+				- NI ↑, RE↑, Equity ↑
+		- stock dividend
+		- common equity accted for using equity method
+			- aka investor has sig infl
+		- ![[Pasted image 20260810022442.png]]
+- Impairment
+	- E invstmnts that don't have readily determinable FV (nonpublic) measured at cost-impairment (practicability exception)
+	- conservatism rule: must record impairment loss on IS
+	- qualitative indicators to det if equity invstmnt w no readily determinable FV is impaired
+		- heightened concerns regarding ability of an investee to cont as a going concern due to factors like
+			- violating debt covenants
+				- noncompliance w capital/debt req
+			- deficiencies in working capital
+				- CL => CA
+			- negative op CF
+		- sig/adverse ▲ in industry, geo area, tech, regulatory/eco env of investee
+		- sig decline in
+			- earnings
+			- business prospects
+			- A quality
+			- investee credit rating
+		- offers to buy from investee (& willingness to sell on part of investee) same/sim invstmnt for < investor's CV
+	- if impairment exists
+		- cost basis of security written down to FV
+		- amt of write down accounted for as a realized loss, incl in earnings
+- Security Sale
+	- sale of TS accounted for at FV thru IS (FVTNI)
+	- un/realized G/L go on IS
+		- G/L = Selling price - CV
+	- no G/L if all ▲ in equity's FV alr reported in earnings as unrealized G/L as occurred
+		- ![[Pasted image 20260810184712.png]]
+	- If entity hasn't recorded ES FV ▲ up to sale pt, G/L recorded at sale time, equal to diff bw
+		- adj cost (og cost +/- unrealized G/L prev recog in earnings)
+		- selling price
+		- ![[Pasted image 20260810185028.png]]
+			- net▲A ↑2
+	- Any valuation acct also removed when sec sold
+		- ![[Pasted image 20260810185251.png]]
+	- ![[Pasted image 20260810184608.png]]

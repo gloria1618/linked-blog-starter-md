@@ -1,0 +1,56 @@
+F5M1
+
+- Disclosures for Invstmnts in DS
+	- GAAP, 3 ways to acct for debt invstmnt
+		1. TS
+			- reported at FV TNI
+			- all g/l, un/realized, reported directly on IS
+		2. AFS
+			- reported at FV thru OCI
+			- unrealized g/l directly to equity
+		3. HtM
+			- reported at amortized cost-impairment
+	- info concerning AFS n sep for HtM disclosed in FS or approp notes
+		- agg FV
+		- gross unrealized holding g/l
+		- amortized cost basis by major security type
+		- info abt contractual maturities of DS
+- Disclosures for Investmnts in ES
+	- disclose portion of unrealized g/l for period that relates to ES still held at end of reporting period
+	- amt calc as
+		- net g/l recog during period on ES
+		- - net g/l recog during period on ES sold during period
+		- = unrealized g/l recog during reporting period on ES still held at reporting date
+- FV
+	- all public/private entities disclose on BS/notes 
+		- all fin A/L, grouped by measurement category (FVTNI, OCI, amort cost), and
+		- if fin A, the form of A
+	- PBE public business entities must provide FV info regarding classification lvl in measurement hierarchy (lvls 1,2,3)
+	- for A/L measured at amort cost, FV disclosed in accordance w exit price 
+	- exceptions for
+		- payables, receivables due w.in 1yr
+		- deposit L w no defined maturities
+		- ES reported under practicability exception
+	- for entities electing practicability exception, disclose
+		- CV of all invstmnts w/o readily determinable FV
+			- CV=cost-impairment
+		- any impairment charges incurred during reporting period
+		- amt of up/downward adj made to CV due to any observable price▲, w intent of adj designed to reflect FV
+- Concentrations of Credit Risk
+	- possibility of loss from failure of another party to perform accord to contract
+	- entities must disclose all sig concentrations of credit risk
+		- arising from all fin instruments, whether from single party/group of parties engaged in sim activities and that have sim eco chara
+	- conc of CR when entity has contracts of material value w 1+ parties
+		- in same industry/region
+		- that have sim chara
+- Market Risk
+	- possibility of loss from mkt value ▲
+		- not necessarily due to failure of another party, but bc eco circum
+	- GAAP, encouraged but not req, to disclose quant info abt mkt risk of FI consistent w way it manages/adj those risks
+	- ex
+		- ![[Pasted image 20260810202218.png]]
+		- ![[Pasted image 20260810202239.png]]
+		- ![[Pasted image 20260810202255.png]]
+		- ![[Pasted image 20260810202316.png]]
+		- ![[Pasted image 20260810202617.png]]
+		- ![[Pasted image 20260810202637.png]]![[Pasted image 20260810202700.png]]
