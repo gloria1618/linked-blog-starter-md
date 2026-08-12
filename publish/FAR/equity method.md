@@ -1,0 +1,107 @@
+EM
+- gen rule: 20-50% ownership
+- used to acct for invstmnts if sig infl can be exercised by investor over investee
+- [[consolidated FS]] presented when
+	- ownership > 50%, n
+	- control over investee
+- parent company that doesn't consolidate subsidiary that's >50% owned must use EM when presenting invstmt in that subsidiary in conFS
+	- ex: situation could result when lack of control bc company is controlled by bankruptcy trustee or subsidiary is likely temp invst
+- company owns 20-50% of voting stock of investee
+	- presumed to be able to exercise sig infl over op/fin policies
+	- must use EM when presenting invstmnt in investee in
+		- conFS that incl other consolidated entities, but not that investee or
+		- parent company unconFS
+- EM
+	- dividends on common stock /=/ income
+	- don't mark to FMV
+	- ![[Pasted image 20260810210631.png]]
+- EM not approp
+	- *even if owns 20-50% of subsidiary*
+	- bankruptcy of subsidiary
+	- invstmnt in subs is temp
+	- lawsuit/complaint filed
+	- 'standstill agrmnt' signed
+		- investor surrenders sig rights as shareholder
+	- another small group has majority ownership + op company w.o regard to investor
+	- investor cant obtain fin info needed to apply EM
+	- investor cant obtain rep on BoD to exercise sig infl
+
+### EM Acct
+- invstmnt orig recorded at price paid to acquire
+- invstmnt acct
+	- subseq adj as netA of investee ▲ thru earning income, dividend pmt
+	- ↑ by investor's share of investee's NI w corresponding cr to IS acct: Equity in Subsidiary/Investee Income
+- dividends dist ↓ invstmnt blnce
+- investee cont losses may result in ↓ in invstmnt acct to 0
+	- cant have negative blnce
+- JE
+	- ![[Pasted image 20260811185749.png]]
+		- like bank interest/withdrawals
+		- bank interest/share of investee earnings is income when earned, not when withdrawn
+		- bank withdrawal/dividend is not income
+- ex
+	- ![[Pasted image 20260811185948.png]]
+	- ![[Pasted image 20260811190006.png]]
+- Invstmnts in Investee Common/Preferred Stock
+	- if investor owns both common/preferred stock of investee
+		- TS: common stock ownership <20%
+		- EM: common stock ownerhsip 20-50%
+	- 'sig infl' test gen met by amt of common stock owned
+		- which is usually the only voting stock
+	- calc of income from subsidiary/investee reported on IS incl
+		- preferred stock dividends
+			- unlike common stock dividends, these are income
+		- share of earnings avail to common shareholders (NI-preferred dividends)
+	- ![[Pasted image 20260811190315.png]]
+
+### Diff bw Purchase Price & NBV of Investees netA
+- additional adj to invstmnt acct under EM from diff bw
+	- price paid for invstmnt
+	- bk value of investee's netA
+		- ![[Pasted image 20260811193800.png]]
+- diff bc 
+	- A FV diff
+		- diff bw bk value and FV of netA acquired
+		- excess of A FV over bk value amort over A life
+			- excess caused by land not amort
+			- this causes investor's share of investee's NI to ↓
+			- ![[Pasted image 20260811200651.png]]
+			- ![[Pasted image 20260811200716.png]]
+		- ![[Pasted image 20260811194005.png]]
+	- Goodwill
+		- unlike consolidation, not sep A on BS
+		- FV excess bc of goodwill
+			- not amortized
+			- not subj to sep impairment test
+				- goodwill embedded w.in CV of invstmnt
+		- however, tot EM invstmnt (incl goodwill) must be anal at least annually for impairment
+		- ![[Pasted image 20260811194048.png]]
+		- ![[Pasted image 20260811194300.png]]
+	- ![[Pasted image 20260811194543.png]]
+- ex
+	- ![[Pasted image 20260811195950.png]]
+	- ![[Pasted image 20260811200005.png]]
+	- ![[Pasted image 20260811200045.png]]
+	- ![[Pasted image 20260811200116.png]]
+### EM Impairment
+- impairment loss on EM invstmnt recog when 2 conditions occur
+	- invstmnt FV falls below invstmnt CV
+	- entity believes value decline isn't temp
+- if both met
+	- entity reports impairment loss on IS
+	- invstmnt CV reduced to lower FV on BS
+- GAAP, impairment loss reverse not permitted if FV ↑
+- ex
+	- ![[Pasted image 20260811200157.png]]
+
+### FV vs EM
+![[Pasted image 20260811202030.png]]
+![[Pasted image 20260811202049.png]]
+- Transition To EM
+	- when sig infl acquired, necessary to record ▲ from FV method to EM by doing __ on date invstmnt qualifies for EM
+		- add cost of acquiring additional interest in investee to CV of prev held invstmnt
+		- adopt EM as of that date n going forward
+			- dividends no longer income
+			- dont mark to FMV anymore
+			- retroactive adj not req
+	- ![[Pasted image 20260811202539.png]]

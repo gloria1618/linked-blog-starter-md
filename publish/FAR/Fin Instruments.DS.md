@@ -25,7 +25,7 @@ F5M1
 			- FV thru IS
 		- own 20%-50%
 			- significant influence
-			- equity method
+			- [[equity method]]
 		- own >50%
 			- acquisition
 			- consolidate
