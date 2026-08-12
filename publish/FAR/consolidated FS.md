@@ -1,0 +1,202 @@
+- under voting interest model, conFS prepped when parent-subsidiary relation formed
+- parent status when
+	- control over investee est, or
+	- >50% of voting stock acquired
+	- ![[Pasted image 20260811204452.png]]
+- GAAP, all majority owned subs (domestic, foreign) must be consolidated except when sig doubt abt parent ability to control subs, like when subs in
+	-  legal reorg, or
+	- in bankruptcy and/or op under severe foreign restrictions
+- consolidate sub at 100% FV on acquisition date
+- business combos that don't est 100% ownership of subs by parent results in portion of subs equity (net A) being attributable to noncontrolling shareholders
+	- Controlling Interest
+		- investor owning >50% of subs has controlling interest in subs
+	- Noncontrolling Interest
+		- portion of equity (net A) of subs that isn't attributable to parent
+		- reported at FV in equity section of consolidated BS, sep from parent's equity
+	- ![[Pasted image 20260811222043.png]]
+
+### Acquisition Method
+- used to acct for business combos where investor/parent est control over investee/subs
+- 2 distinct acct chara
+	- 100% of netA acquired recorded at FV w any unallocated blnce creating goodwill
+		- regardless of ownership%
+	- when companies consolidated, subs' entire equity eliminated (not reported)
+		- incl common stock, APIC, RE
+- FV= acquisition price=invstmnt in subs
+- Consolidation Adj: CARIN BIG
+	- CAR
+		- Common stock, APIC, RE of subs eliminated
+			- pre acquisition equity (CAR) of subs not carried forward in acquisition
+			- consolidated equity at acquisition time = parent's equity blnce (+ NCI)
+			- subs' equity elimated by dr each equity acct in eliminating JE (EJE) on consolidating workpapers
+			- ![[Pasted image 20260811222904.png]]
+	- I
+		- Invstmnt in subs eliminated
+			- parent eliminate 'invstmnt in subs' acct on BS as part of eJE
+			- cr posted on consolidating workpapers
+	- N
+		- NCI created
+			- as part of eJE on consolidating workpapers, FV of any portion of subs that's not acquired by parent reported as noncontrolling interest
+			- reported on equity section of conFS, sep from parent's equity
+	- B
+		- BS of subs adj to FV
+			- all of subs' BS accts adj to FV on acquisition date
+			- done as part of eJE on consolidating workpapers
+			- adj done, regardless of amt paid to acquire subs
+			- adj is for full (100%) FV of subs' A/L, even if parent acquires <100%
+	- I
+		- Identifiable InA of subs recorded at FV
+			- part of eJE on consolidating workpapers, req that parent record FV of all identifiable intangible A of subs
+			- done even if no amt incurred to acquire these items in acquisition
+	- G
+		- Goodwill (or Gain) req
+			- if excess of FV of subs (acquisition cost + NCI) over FV of subs' netA, remaining/excess dr goodwill
+			- if deficiency in acquisition cost compared to subs' FV, shortage/nagative amt is gain
+	- ![[Pasted image 20260811223611.png]]
+	- summary, info to absorb
+		- ![[Pasted image 20260811223630.png]]
+		- ![[Pasted image 20260811224042.png]]
+		- ![[Pasted image 20260811224102.png]]
+		- ![[Pasted image 20260811224155.png]]
+
+
+### Pushdown Acct
+- elective, entity lvl choice allowing acquired company to re est stand alone FS using stepped up basis assoc w acquirer's purchase price allocation
+	- option avail whenever ▲ in ctrl occurs
+	- election must be made in 1st reporting period in which ctrl▲ occurs
+		- once elected, irrevocable
+- Key Acct Consequences
+	- subs remeasures all identifiable A/L to same acquisition date FV recog by parent
+	- any resulting goodwill recorded directly on subs' bks
+		- goodwill = parent consideration > net identifiable A FV
+	- if purchase price < FV netA, diff recog in additional PIC as bargain purchase gain
+		- this gain not recog on IS
+		- bargain purchasee gain = consideration < A FV
+- Presentation
+	- all cum reeval impacts, incl goodwill/bargain purchase amts, are recorded in new 'pushdown capital' acct w.in equity
+		- subseq deprec/amort/impairment testing follow normal post acquisition guidance applicable to remeasured blnces
+		- deferred taxes recog on any temp diff created by FV adj 
+- Disclosures
+	- that pushdown acct applied
+	- date of ▲in ctrl event
+	- valuation techniques, sig assumptions used to measure major classes of A/L
+	- goodwill/bargain purchase gain amt recog in pushdown capital
+	- qual/quant info abt any measurement uncertainty
+- if pushdown acct not elected, subs cont to present historical cost basis while summarizing parent company purchase price alloc info sufficient for users to reconcile to consolidated amts
+- ex
+	- ![[Pasted image 20260811230516.png]]
+	- ![[Pasted image 20260811230540.png]]
+
+
+### Intercompany Transactions
+- when consolidating, 100% of intercompany transactions eliminated
+	- even when parent owns <100%
+	- bc not 'arms length'
+- ![[Pasted image 20260811231038.png]]
+- Simple IS Eliminations
+	- 100% of g/l
+	- interest expense/income (bonds)
+	- gain on sale/deprec exp (intercompany fixedA sales)
+	- sales/cogs (intercompany invt transactions)
+- #### Interco Invt/Merchandise Transactions
+	- common for affiliated companies to sell invt/merch to each other
+	- often this invt/merch sold at profit
+	- tot amt of this intercompany sale/cogs eliminated prior to prep conFS
+		- even if ownership <100%
+		- interco profit in begInvt that was recog by selling affiliate in prev yr eliminated by adj (dr) to RE
+	- interco profit eliminated from
+		- endInvt
+		- cogs of purchasing affiliate
+	- ![[Pasted image 20260811231554.png]]
+	- ![[Pasted image 20260811231918.png]]
+	- ex
+		- ![[Pasted image 20260811232009.png]]
+		- ![[Pasted image 20260811232050.png]]
+		- ![[Pasted image 20260811232119.png]]
+		- ![[Pasted image 20260811232132.png]]
+- #### Interco Bond Transactions
+	- if one member of consolidated group acquires affiliate's debt from an outsider, debt considered retired n g/l recog on conIS
+	- g/l on debt extinguishment calc as diff bw
+		- price paid to acquire debt
+		- BV of debt
+	- g/l not reported on either company's bks, but recorded thru eJE
+	- all intercompany acct blnces also eliminated
+	- ex
+		- ![[Pasted image 20260812004525.png]]
+		- ![[Pasted image 20260812004546.png]]
+	- Interco Interest
+		- eliminate interco accts like interest expense/income/payable/receivable
+	- Amortization of Discount/Premium
+		- eliminate amort of disc/prem, which serves as inc/dec in amt of interest exp/rev recorded
+		- unamort disc/prem on interco bond eliminated
+	- Subseq Yrs
+		- elimination for realized, but unrecorded g/l on bond extinguishment in subseq yrs is adjusted to RE
+		- NCI adj if bonds were og issued by subsidiary
+- #### Interco Land Sale
+	- interco g/l on land sale remains unrealized until land sold to outsider
+	- workpaper elimination entry in sale period
+		- eliminates interco g/l
+		- adj land to og cost
+	- in subseq yr and every yr after until land sold to 3rd party, RE (gearty) is dr and land cr to eliminate interco profit
+		- RE dr in subseq yrs bc gain wouldve been closed to this acct
+		- bc gearty (parent) was land seller, olinto (subs) was purchaser, no need to divide interco gain bw RE n NCI
+	- ex
+		- ![[Pasted image 20260812005059.png]]
+		- ![[Pasted image 20260812005117.png]]
+- #### Interco Profit on Depreciable fA sale
+	- g/l on interco sale of depreciable A is unrealized from conFS perspective until A sold to outsider
+	- working paper elimination entry in sale period
+		- eliminate interco g/l
+		- adj A, accum deprec to og blnce as of sale date
+	- ex
+		- ![[Pasted image 20260812010033.png]]
+		- ![[Pasted image 20260812010058.png]]
+		- ![[Pasted image 20260812010119.png]]
+	- ex subseq yrs
+		- ![[Pasted image 20260812010156.png]]
+
+### Prep conFS → see slides
+
+### Illus conFS
+- conBS
+	- incl 100% of parent+subs A/L (after eliminating interco trans)
+	- doesn't incl subs equity
+	- NCI presented as part of equity, sep form equity of parent
+	- ![[Pasted image 20260812011317.png]]
+- conIS
+	- incl 100% of parent+subs rev/exp after acquisition date
+	- subs pre acquisition rev/exp not incl 
+	- shows, sep
+		- conNI
+		- NI attributable to NCI
+		- NI attributable to parent
+	- parent share of sub's income = % of sub's income after acquisition
+	- ![[Pasted image 20260812011502.png]]
+- Stmt of conComprehensive Income
+	- shows, sep
+		- consolidated comprehensive income
+		- comprehensive income attributable to NCI
+		- comprehensive income attributable to parent
+		- ![[Pasted image 20260812011636.png]]
+- contStmt of Equity ▲s
+	- bc NCI is part of equity of consolidated group, presented in stmt
+	- present
+		- reconciliation of begperiod and endperiod CV of tot equity
+		- equity attributable to parent vs NCI
+		- ![[Pasted image 20260812011830.png]]
+- conCF Stmt
+	- ![[Pasted image 20260812011924.png]]
+	- Acquisition Period
+		- prep of conCF stmt in acquisition period is complicated bc prior yr FS reflect parent only blnces while yr end FS reflect conblnces
+		- steps nneded to prep conCF stmt in acquisition period
+			1. net cash spent/received in acquisition reported in investing section of CF stmt
+			2. A/L of subs on acquisition date added to parent's A/L at beg yr to det cash ▲ due to op, investing, fin activ during period
+		- ![[Pasted image 20260812013044.png]]
+	- Subseq Periods
+		- prep is simplified bc conFS avail for beg/end period
+		- conCF stmt presents cash in/outflow of consolidated entity, excl CF bw parent/subs
+		- prep sim to prep of CF stmt for nonconsolidated entity except for
+			- reconciling NI to net cash provided by operating activ
+				- tot conNI (incl NI related to both parent/NCI) should be used
+			- investing section may report acquisition of additional subs' shares by parent if acquisition was an open mkt purchase
+			- financing section reports dividends paid by subs to NCI shareholders...dividends paid by subs to parent shouldn't be reported
