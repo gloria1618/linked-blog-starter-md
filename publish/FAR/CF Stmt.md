@@ -1,0 +1,85 @@
+- Stmt of CF req for FS
+- info abt sources/uses of cash.equiv incl
+	- op CF
+		- in/direct method
+		- cash receipts/disbursements from transactions reported on IS and cA/L
+		- excl cNP and current portion of LT debt, which are CFF
+			- opA - all current A except cash.equiv
+			- opL - all non interest bearing obligations
+	- invst CF
+		- cash receipts/disbursements from noncurrentA
+	- fin CF
+		- cash receipts/disbursements from debt (incl noncurrentL) + equity
+- supplemental disclosure
+	- info abt material noncash events
+- CF amts per share not disclosed under GAAP
+- ![[Pasted image 20260812044739.png]]
+- ![[Pasted image 20260812044830.png]]
+
+### Indirect Method: See Slides/Vid
+- for CFO only
+- report netCF from op indirectly, bu adj NI to reconcile it to netCF from op
+- ![[Pasted image 20260812045022.png]]
+
+### Sections P2 (P1 see vid)
+- Op
+	- all that is not investing/financing
+	- incl crypto A received as noncash consideration in ord course of business and converted almost imm (few dys)
+	- indirect method, NI adj to arrive at netCFO
+		- remove nonop transactions g/l
+		- convert from accrual to cash basis
+		- remove effects on NI of following
+			- all deferrals of past op cash receipts/disbursements
+			- all accruals of expected fut op cash receipts/disbur
+			- all items incl in NI that don't affect op cash receipts/disbur
+		- g/l
+			- g adj out of op section and gen into investing section by subtracting their  effects from NI
+			- l adj out of op section and gen into investing section by adding effects to NI
+	- supplemental disclosure of cash paid for interest/income taxes req
+	- ex
+		- ![[Pasted image 20260812050252.png]]
+		- ![[Pasted image 20260812050307.png]]
+- Invst
+	- incl CF from purchase/sale of noncurrent A
+		- making loans to other entities (outflow)
+		- purchasing (o) or disposing of (inflow) TS (if classified noncurrent), AFS, and HTM invstmnt sec of other entities (debt/equity)
+		- acquiring (o) or disposing (i) of PPE (productive A)
+		- acquiring another entity under acquisition method w cash (o)
+			- pmt for acquisition shown net of cash acquired
+	- ex
+		- ![[Pasted image 20260812050632.png]]
+		- ![[Pasted image 20260812050655.png]]
+		- ![[Pasted image 20260812050716.png]]
+- Fin
+	- incl
+		- CF from noncurrent L (creditor oriented)
+			- obtain resources from creditors, like issue bonds, notes, other (i)
+			- pmts of principal (not interest, op) (o)
+		- equity (owner oriented) activ
+			- obtain resources from owners, like issuing stock (i)
+			- prov owners w return on investment (o)
+				- repurchasing stock
+				- pay cash dividends
+	- inflow: debt.equity ↑
+	- ex
+		- ![[Pasted image 20260812051115.png]]
+- Noncash Investing/Financing Activ
+	- info abt material noncash fin/invst activ provided sep in supplemental disclosure
+		- those that don't result in cash receipts/pmts
+	- any part of transaction involv cash incl in CF stmt
+	- ex
+		- purchase of fA by stock issuance
+			- not cash transaction, but likely material transaction
+		- conversion of bonds to equity
+			- gen doesnt involve cash
+		- acquiring A thru incurrence of capital lease obligation
+		- exchange of noncash A for another
+- Note
+	- CF stmt incl amts gen described as restricted cash.equiv in reconciliation of beg/end period tot amts
+	- GAAP currently doesnt prov def of restricted cash.equiv
+	- disclose nature of any restrictions, if applicable
+- Summary checklist
+	- ![[Pasted image 20260812051806.png]]
+	- ![[Pasted image 20260812051823.png]]
+	- ![[Pasted image 20260812051838.png]]
+	- 
