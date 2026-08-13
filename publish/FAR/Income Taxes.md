@@ -1,0 +1,182 @@
+- Book v Tax
+	- Intraperiod tax alloc vs Interperiod tax alloc
+	- interperiod: permanent vs temp diff
+- Income Tax Acct
+	- for fed tax n acct income freq differ
+		- IRC vs GAAP
+- Intra= within
+	- involv apportioning tot tax provision for fin acct purposes in period bw income/loss from
+		- IDA
+			- Income from cont op
+			- Discont op
+			- Acct principle ▲ (retrospective)
+		- oci: PUFI
+			- Pension funded status ▲
+			- Unrealized g/l on AFS DS/hedges
+			- Foreign translation adj
+			- Instrument specific credit risk
+	- ![[Pasted image 20260812055104.png]]
+- Inter = bw
+	- in FS, current/fut yr taxes recog based on matching principle
+		- BS, recog income taxes owned now vs later
+		- IS, recog income tax exp
+	- Permanent diff
+		- affect only current tax computation
+		- dont affect deferred tax comp
+			- bc dont reverse, no interperiod tax alloc req
+		- affect only period it occurs
+		- only affects fin or tax inc, not both
+		- income tax provision for fin acct purpose is computed on basis of pretax book income adj for all permanent diff
+		- Start w FS GAAP income, list permanant diff, calc TI
+		- either nontaxable, nondeduc, or special tax allowances
+			- tax exept interest income - nontax
+			- life insurance proceeds on officers key person policy - nontax
+			- life insurance premiums when corp beneficiary - nondeduc
+			- certain penalties, fines, bribes, kickbacks, etc - nondeduc
+			- nondeduc portion of meal/entertainment exp - nondeduc
+			- dividends received deduction for corp - nontax
+			- excess % depletion over cost depletion - nondeduc
+			- ![[Pasted image 20260812060953.png]]
+	- Temp diff
+		- affect deferred tax computation bc will reverse
+		- items first recog for tax purposes eventually recog for GAAP (vice versa)
+		- ![[Pasted image 20260812061734.png]]
+			- ![[Pasted image 20260812233731.png]]
+		- additional causes of temp diff
+			- diff bw fin reporting vs. tax basis of A/L arising in business combo accted for as acquisition
+			- diff in tax basis of A due to indexing, whenever local currency is the functional currency 
+		- 4) DTL: tax exp first, book exp later
+			- all DTL recog on BS
+			- DTL: pay tax later or deduct expense sooner
+			- current TI < current bk inc
+			- future TI > fut bk inc (when temp diff reverses)
+			- excess deprec on tax return = fut L as fin acct exp in fut yrs wont be deduc in future yrs bc alr deducted in Yr1
+		- DTA
+			- current taxes paid > current income tax expense
+			- pay tax before u can expense
+			- current TI > current bk inc
+			- fut TI > fut bk inc
+			- Valuation allowance (contra acct)
+				- for DTA amt not expected to be used
+				- if >50% chance that part/all of DTA not realized, recog valuation allowance
+				- netDTA = totDTA-valuation allowance
+		- ex
+			- SEE LAST VID FOR MORE EX
+			- ![[Pasted image 20260812061213.png]]
+			- ![[Pasted image 20260812061227.png]]
+			- ![[Pasted image 20260812061240.png]]
+		- Enacted Tax Rate
+			- used to calc deferred taxes for temp diff
+			- measurement of deferred taxes based on applicable tax rate
+			- the tax rate when taxable item is expected to be paid (L) or realized (A)
+			- ![[Pasted image 20260813002039.png]]
+			- ex
+				- ![[Pasted image 20260813001851.png]]
+				- ![[Pasted image 20260813001837.png]]
+- Comprehensive Allocation
+	- A/L method
+		- req by GAAP
+		- either income taxes payable or deferred tax L (A) be recorded for all tax consequences of current period
+	- Acct for Interperiod Tax Alloc
+		- tot GAAP income tax exp/bene for yr is sum of:
+			- current inc tax exp/bene
+			- deferred income tax exp/bene
+	- ![[Pasted image 20260812055844.png]]
+	- ![[Pasted image 20260812055833.png]]
+
+### Uncertain Tax Positions
+- ex of aggressive tax positions when companies claim
+	- expense is actually mkting, needs to be deducted
+	- exp isn't entertainment w a % denied, but is in fact mkting
+	- gain is not US/state income tax
+- no executive like aggressive tax positions
+- aggressive positions reported on FS
+- if claim is company is tax exempt, exp/L on FS needs to be shown
+- Scope
+	- def: some lvl of uncertainty of sustainability of particular tax position taken, incl
+		- tax deduction (most common)
+		- decision to not file tax return
+		- allocation/shift of income bw jurisdictions
+		- chara of income, or decision to excl reporting TI, in return
+	- GAAP req more likely than not confidence lvl before reflecting tax bene in FS
+- 2 Step Approach
+	1. Recog of Tax Bene = Expected Outcome
+		- Test morelikelythannot (>50% chance winning)
+			- recog tax bene in FS if met
+			- consider expected outcome if dispute w taxing auth taken to highest court
+			- Failed Test
+				- tax bene not recog in FS
+				- FS tax expense ↑
+				- uncertain item NOT deductible
+				- tax expense is known as other L, not deferred taxes
+		- threshold considerations
+			- based on technical merits of position
+			- presume taxing auth examines tax posiiton, has full knowledge of info
+			- eval each tax position sep
+		- if passed, go to step2
+	2. Measurement of Tax Bene
+		- recog largest amt of tax bene that has >50% likelihood of being realized upon ultimate settlement w taxign auth
+			- negotiate a settlement to avoid court
+	- ex
+		- ![[Pasted image 20260813001730.png]]
+		- ![[Pasted image 20260813001749.png]]
+
+### Adj for ▲s, BS Pres
+- ▲ in Tax Law/Rates
+	- for a fut yr when deferred tax (temp diff) reverses
+	- L method req DTA/L blnce be adj when tax rates ▲
+		- use enacted fut effective tax rate to calc DTA/L
+		- treat as ▲ in est, recog in ▲ period (enactment)
+		- prospective only, not retro
+	- ex
+		- ![[Pasted image 20260813005007.png]]
+		- ![[Pasted image 20260813004949.png]]
+- Est ▲
+	- prospective, not retro
+	- adj measured by ▲ in applicable law/rates applied to remaining cum temp diff
+	- affects income tax exp for that period as component of income from cont op
+		- exp may inc/dec, depending on if tax rate ↑↓
+	- enacted ▲ impacts annual effective tax rate computation in interim period that incl enactment date
+		- annual effective tax rate
+			- avg tax rate txpyr pays for yr
+- Valuation Allowance ▲
+	- DTA prev thought unusable?
+	- reverse valuation allowance
+	- ▲ affects fut tax savings
+	- related to deferred tax bene (A) = gift certificate
+	- recog valuation adj in income from cont op in change period
+		- req adj calc by comparing required ending blnce to current blnce
+- Tax Status ▲
+	- tax stats may ▲ from 
+		- C to S corp
+		- C to partnership/LLC
+	- taxable → nontaxable
+		- eg corp to partnership, becomes pass thru 
+		- write off any existing DTA/L
+	- nontaxable → taxable
+		- S to C corp
+		- no longer pass thru
+		- recog DTL/A for any temp diff
+	- adj from tax status ▲
+		- affect income from cont op
+		- recorded in change period
+	- 
+- Report DTA/L on BS?
+	- GAAP, classified/reported as noncurrent 
+		- expected reversal date doesn't impact classification
+	- offset (netted), presented as one amt
+		- net noncurrent A/L
+		- exception: present sep if DTL/A attributable to diff tax paying parts of entity or diff tax jurisdictions
+- ![[Pasted image 20260813005407.png]]
+
+
+### Op Losses
+- create DTA
+	- dr DTA
+		-  reduces tax payable in fut period
+	- cr income tax bene
+		- reduce NOL of current period
+- NOL rules
+- ex
+	- ![[Pasted image 20260813010126.png]]
+	- 
