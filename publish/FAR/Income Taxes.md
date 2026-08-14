@@ -177,6 +177,85 @@
 	- cr income tax bene
 		- reduce NOL of current period
 - NOL rules
-- ex
-	- ![[Pasted image 20260813010126.png]]
+	- gen before 2018
+		- forward 20yrs
+		- offset 100%
+	- gen 2018+
+		- forward indef
+	- used 2021+
+		- 80% of TI
+- op L CF may req valuation allowance
+- if op L carried forward, tax effects recog to extent that tax bene is morelikelythannot realized
+	- recog DTA or gift certificates (fut tax savings) in period occur
+		- may req valuation acct
+	- tax cr CF valued at amt tax payable to be offset in fut
+		- use enacted fut rate for period(s) expected to be used
 	- 
+- ex
+	- ![[Pasted image 20260813023252.png]]
+	- ![[Pasted image 20260813010126.png]]
+	- ![[Pasted image 20260813023600.png]]
+	- ![[Pasted image 20260813023613.png]]
+	- ![[Pasted image 20260813023629.png]]
+
+### Investee's Undist Earnings: unconsolidated
+- Income Tax Return (report dividend income)
+	- TI incl dividends received
+	- DRD
+		- based on % ownership in stock of other corp
+		- permanent diff
+		- to avoid triple taxation
+	- <20%
+		- 50% exclusion
+	- 20%-80%
+		- 65% exclusion
+	- 80%+
+		- 100% exclusion
+- ![[Pasted image 20260813024306.png]]
+- ![[Pasted image 20260813024315.png]]
+
+### Income Tax Disclosures
+- 3 pts
+	- dont be too positive 
+	- dont repeat info
+	- more info better, transparency
+- BS disclosures
+	- parts of netDTL/DTA disclosed incl tot of
+		- all DTL
+		- all DTA
+		- valuation allowance for DTA
+	- others incl
+		- net▲ during yr in tot valuation allowance
+		- tax effect of each type of temp diff and carryforward that is sig to DTL/A
+- Income tax disclosures
+	- amt of income tax expense (bene) allocated to cont op
+	- amt sep allocated to other items 
+	- disclose sig parts of income tax expense attributable to cont op
+		- current tax expense/bene
+		- DTexpense/bene
+		- invstmnt tax credits
+		- gov grants (causing reduction of income tax expense)
+		- bene of NOL carryforwards
+		- tax exp alloc to SE items
+		- adj to deferred taxes from tax law/rate ▲
+		- adj of beg of yr DTA valuation due to expectations ▲
+- IS disclosures
+	- tax bene of op L CF reported in same manner (IS loc) as current yr source of income/loss that gave rise to bene recog
+	- recog (either %, $), of income tax exp attributable to cont op, amt of income tax exp that woulda resulted from applying statutory rate to pretax income from cont op presented
+	- income/loss from cont op before income tax expense/bene disaggregated bw domestic/foreign must be disclosed
+	- income tax exp/bene from cont op disagg by fed, state, foreign
+		- income taxes imposed by jurisdiction incl in jurisdiction imposing tax
+- CF disclosures
+	- all entities disclose income taxes paid (net of refunds received)
+		- disagg by fed, state, foreign
+		- to each jurisdiction if amt of income taxes paid is >=5% of tot income taxes paid (net of refunds)
+- Other disclosures
+	- inc tax exp/bene reported may differ from expected based on statutory tax rates
+	- disclosure req incl reconciliation bw
+		- reported income tax exp/bene from cont op
+		- amt computed by mult income/loss from cont op before income taxes by applicable statutory fed/national income tax rate of jurisdiction/country5
+
+
+![[Pasted image 20260814061346.png]]
+![[Pasted image 20260814061406.png]]
+![[Pasted image 20260814061427.png]]![[Pasted image 20260814061441.png]]
