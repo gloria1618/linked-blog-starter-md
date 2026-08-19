@@ -1,0 +1,300 @@
+F1M1
+
+full set FS typ incl
+- Stmt of Fin Position (BS)
+	- financial risk
+		- ST liquidity
+			- CA/CL = Liquidity
+		- LT solvency>potential growth
+	- cumulative
+		- "as of" particular date
+	- classified BS
+		- distinguishes non/current A/L
+	- liquidity BS
+		- when approp
+		- presented based on liquidity 
+	- purpose/use
+		- ST/LT fin risk
+		- capacity to produce
+		- A/L types (non/currrent, in/tangible)
+		- current ratio, quick ratio, degree of fin leverage, etc.
+	- A
+		- CA
+			- expected to convert to cash w.in 1yr
+			- incl cash, receivables, prepaid, invt, ST invst
+		- Invstmnts+funds
+			- noncurrent
+			- not directly used in op
+			- stock/bond in other companies
+	 - L
+		 - first claim on A
+		 - maturity date
+		 - CL
+			 - obligations to be satisfied w CA
+			 - mostly op L
+		- LTL
+			- obligations to be satisfied beyond 1yr
+			- mostly fin L
+	- Equity
+		- financing
+			- preferred stock (2nd claim), common stock (last claim), additional paidincapital (contributed equity)
+		- earned capital
+			- RE, accum OCI (residual interest)
+		- treasury stock (contra equity)
+			- reduced SE
+	- Limitations of BS
+		- amnts on BS dont rep mkt value of entity
+			- BV /=/ FMV
+			- ex: depreciated building may have 0 value but measured at historical cost
+		- some measures subj, so comparison hard
+			- ex: valuation method invt (LIFO v FIFO) n deprec (straight line vs accel)
+		- estimates may be used to prep
+			- ex: est useful lives of depreciated A
+	- ex
+		- ![[Pasted image 20260814190747.png]]   
+- Stmt of earnings (IS)
+	- performance risk 
+	- op risk
+		- sales relatively stable/volatile from one period to nxt?
+		- op income relatively stable/volatile?
+	- cont op
+		- income from cont op = op income (rev/exp) + nonop income (g/l)
+		-  net g/l = sell price/NRV - B/CV
+		- item nature n FS effects should be disclosed on face of income stmt or footnotes
+	- discont op
+		- incl selling off prod line, sep division, seg of op
+		- reported sep, after income from cont op
+		- reported net of tax
+	- REGL info
+		- rev, exp, g/l
+		- operating 
+			- mostly part of normal op activities
+			- put sep on IS
+			- presented as gross amt
+		- nonoperating
+			- exceptional/nonop activ
+			- unusual/infreq rev/exp not part of core business
+				- now all unusual and/or infreq reported nonop
+			- eg interest rev/exp (if not bank)
+			- G/L
+				- reported at net amts of transactions
+			- ex
+				- sale of smthn other than invt
+				- write down/off
+				- PPE sale
+				- sale of invstmnt in another company
+				- unusual op exp
+	- Parts
+		- single step IS
+			- pro
+				- gives NI in 1step
+				- doesn't make any one item seem more important
+			- drawback
+				- doesn't distinguish bw core v incidental business
+			- ![[Pasted image 20260814203138.png]]
+		- multi step IS
+			- pro
+				- enhances user info
+				- op v nonop
+				- readily avail info for ratio anal
+				- assess if its bc core or infreq business
+				- calc EPS inc bc of inc in NI
+			- SEE: IS Comprehensive Ex slides
+			- ![[Pasted image 20260814203331.png]]
+			- ![[Pasted image 20260814213334.png]]
+	- IS Limitations
+		- subj bc
+			- based on acct methods w est
+			- rev/exp booked on accrual basis
+				- rev when earned, not received
+				- exp when incurred, not paid
+			- outstanding for det current yr's performance
+		- mgmt bias: can be manipulated thru
+			- assumptions/est
+			- acct method
+				- LIFO v FIFO
+				- straight line v accel
+				- useful life v salvage value
+		- ways to det if
+			- aggressive
+				- book higher rev, lower exp, higher profit by
+					- book rev that shoulda been deferred
+					- capitalize exp that shoulda been booked
+			- conservative
+				- book lower rev, higher exp, lower profit
+					- defer rev instead of recog
+					- book exp instead of capitalizing
+			- ex
+				- deprec
+					- DDB
+						- conservative: higher exp, lower profit in IS
+					- useful life/salvage value
+						- aggressive: higher useful life n salvage value → lower exp, higher profit
+				- bad debt/warranties
+					- dont result in CF
+					- book in current period
+					- e
+		- accrual vs cash basis
+			- accrual
+				- book rev when earned
+				- better assessment of performance
+				- subjective
+				- con
+					- mgmt use it to disguise risk, alter performance
+					- deferred rev earned in current period to fut to improve revenue for future periods
+			- cash 
+				- book rev/exp when cash received/paid
+				- objective
+				- poor indicator of performance
+			- ex
+				- 5yr proj to construct building
+				- ![[Pasted image 20260814213009.png]]
+		- classification shifting
+			- in IS, op income presented first, then non op
+			- classification shifting when shift
+				- op loss/exp to nonop section to avoid bad news
+				- nonop gain/rev to op income, appearing to improve performance
+	
+	- cost
+		- period cost
+			- expensed imm
+			- recurring in nature like
+				- SGA, research costs
+		- unexpired cost
+			- A on BS
+			- capitalized as an A for fut
+			- expensed in fut periods accord to matching principle
+			- invt, unexpired (prepaid) insurance cost, NBV of fA, unexpired cost of patents
+		- expired cost
+			- expense in IS
+			- cogs, insurance/deprec/amort expense
+	- users
+		- external
+			- investors, stockholders common/preffered stockholders
+			- eval
+				- profitability, value
+				- op income
+				- ROE
+				- EPS
+		- lenders
+			- eval creditworthiness
+			- profit margin
+			- EBIT
+				- earnings before interest n tax
+				- higher EBIT to cover interest, higher the credit ratings
+		- internal
+			- managers eval ROA for particula prod line
+		- all users concerned w risks, volatility in ___ . measured by stndrd deviation in:
+			- sales
+			- op income
+- Stmt of Comprehensive income
+	- NI per IS + OCI
+- Stmt of CF
+	- why cash ▲
+	- indicator of quality of earnings, growth potential
+- Stmt of Owner's Equity
+	- why SE ▲
+	- bc of ▲ in capital, RE, accum OCI
+
+
+
+### Discont Op
+- reported on
+	- IS stmt
+	- sep from cont op, net of tax
+	- below income from cont op, before NI
+- cont op = op income + nonop income
+- results of op of part/group of parts of entity/business/nonprofit activ reported in discont op if
+	- disposed of during yr
+	- classified as held for sale in that yr 
+	- ex: reported discont op 2022 if disposed of during 2022 regardless of selling date, classified as held for sale even if no buyer yet
+- Held for Sale Crit (same)
+	1. mgmt commits to plan to sell
+	2. avail for imm sale in present condition
+	3. active program to locate buyer initiated
+	4. sale probable, completion expected w.in yr
+	5. actively marketed at reasonable sale price relative to FV
+	6. sig plan ▲ not expected
+	- if not met, reclassify as held n used, default PPE
+- all related costs recog when obligations to others exist, not necessarily in period of plan commitment. component disposal reported in discont op if rep strat shift that has/will major effect on op/fin results
+	- ex: disposal of major
+		- geo area
+		- equity method invstmnt → sig infl over another company
+		- line of business → sig impact on entity's op, fin results
+- Results of part op
+	- results of op for prod line sold during yr reported sep under discont op at yr end
+	- all op results for period moved down, classified as g/l on op
+- G/L on part disposal
+	- date of prod line sale doesn't matter ala sold during yr
+	- g/l = sell price vs CV
+	- g/l reported under discont op
+	- no fut est for op results n g/l on disposal made
+- Impairment Loss of Part
+	- measured at lower of NRV of BV
+	1. Calc NRV
+		- conservatism, write down unrealized loss imm
+		- NRV = FV - cost to sell
+		- NRV = 1k
+	2. Calc impairment loss
+		- BV = 2k
+		- Loss = NRV - BV = 1k-2k = -1k loss under discont op
+	- another ex
+		- FV = 9
+		- cost to sell= 1
+		- BV = 10
+			- so... NRV = 9-1=8
+			- loss = 10-8=2
+		- nxt yr FV increases from 9 to 12
+			- should it be written up to NRV 12-1=11? compared to BV 10?
+			- math gain is $3, but cant reverse impairment loss more than amt written down 2
+			- so write up to 10 from 8 (written down to prev NRV) by 2 (prev loss)
+	- once mgmt decides to dispose of component, A w.in component no longer deprec/amort, so BV doesnt ▲
+	- ![[Pasted image 20260814230812.png]]
+- Report in Period Disposed/HeldforSale
+	- results of discont op of part reported in period part either disposed/heldforsale
+	- for mult yrs of discont op, calc
+		- impairment loss (to be written down)
+		- op results (to move down bc discontinuance)
+		- g/l on sale (reported in period occured)
+- Disclose in face of FS or notes
+	- what prod line
+	- why seg sold
+	- how might affect business in fut
+- ** See slides: Discont Op: Comprehensive Ex
+
+
+### Indiv Foreign Transactions
+- foreign currency transactions req recording g/l incurred
+	- import purchase: AP in foreign currency
+		- foreign currency ↑, L↑: loss
+		- foreign currency ↓, L↓: gain
+	- export sales: AR in foreign currency
+		- foreign currency ↑, A↑: gain
+		- foreign currency ↓, A↓: loss
+- foreign currency transaction g/l occur when
+	- buys/sells to foreign company w whom it doesn't have ownership interest, and
+		- transactions bw parent/subs of a permanent financing nature not considered foreign currency transactions
+	- company agrees to pay/accept pmt in foreign currency
+	- and exchange rates ▲ from time of purchase/sale to pmt made
+- exchange rate expressed as
+	- direct method
+		- domestic price of unit of another currency
+		- 1 euro costs $1.47
+		- ![[Pasted image 20260814235932.png]]
+	- indirect method
+		- foreign price of unit of domestic currency
+		- .68 euro buys $1
+		- ![[Pasted image 20260814235921.png]]
+- current exchange rate
+	- rate at current date, or for imm delivery of currency
+	- aka spot rate
+- Transaction not Settled at BS Date
+	- foreign xchng transaction g/l recog in current NI computed at BS date on all recorded transactions denominated in unsettled foreign currencies 
+		- diff bw xchng rate used in recording transaction in $, & xchng rate at BS date is an unrealized g/l
+		- unrealized g/l recorded in NI
+	- Valuation of A/L
+		- A/L resulting from foreign currency transactions recorded in US org bks usign exchange rate in effect at transaction date
+		- exchange rate = historical rate
+		- record using exchange rate, adj at BS date, adj again at settlement
+- ex
+	- ![[Pasted image 20260815001508.png]]![[Pasted image 20260815001454.png]]
