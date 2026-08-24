@@ -23,7 +23,9 @@
 	- when companies consolidated, subs' entire equity eliminated (not reported)
 		- incl common stock, APIC, RE
 - FV= acquisition price=invstmnt in subs
-- Consolidation Adj: CARIN BIG
+- Consolidation Adj: CAR IN BIG
+	- CAR subs equity elim IN elim parents invstmnt, NCI, BIG fix bs to FV
+	- NG dont appear on either's bks, seen only when consolidating
 	- CAR
 		- Common stock, APIC, RE of subs eliminated
 			- pre acquisition equity (CAR) of subs not carried forward in acquisition
@@ -51,7 +53,7 @@
 	- G
 		- Goodwill (or Gain) req
 			- if excess of FV of subs (acquisition cost + NCI) over FV of subs' netA, remaining/excess dr goodwill
-			- if deficiency in acquisition cost compared to subs' FV, shortage/nagative amt is gain
+			- if pay less in acquisition cost compared to subs' FV, shortage/negative amt is gain
 	- ![[Pasted image 20260811223611.png]]
 	- summary, info to absorb
 		- ![[Pasted image 20260811223630.png]]
@@ -69,9 +71,10 @@
 	- subs remeasures all identifiable A/L to same acquisition date FV recog by parent
 	- any resulting goodwill recorded directly on subs' bks
 		- goodwill = parent consideration > net identifiable A FV
-	- if purchase price < FV netA, diff recog in additional PIC as bargain purchase gain
+		- usually only seen in consolidation??
+	- if purchase price < FV netA, diff recog in APIC as bargain purchase gain
 		- this gain not recog on IS
-		- bargain purchasee gain = consideration < A FV
+		- bargain purchase gain = consideration < A FV
 - Presentation
 	- all cum reeval impacts, incl goodwill/bargain purchase amts, are recorded in new 'pushdown capital' acct w.in equity
 		- subseq deprec/amort/impairment testing follow normal post acquisition guidance applicable to remeasured blnces

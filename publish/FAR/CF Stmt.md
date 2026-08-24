@@ -20,7 +20,7 @@
 - for CFO only
 - report netCF from op indirectly, bu adj NI to reconcile it to netCF from op
 - ![[Pasted image 20260812045022.png]]
-
+- ![[Pasted image 20260821161356.png]]
 ### Sections P2 (P1 see vid)
 - Op
 	- all that is not investing/financing

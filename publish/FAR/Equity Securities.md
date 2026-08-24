@@ -21,6 +21,7 @@
 	- Practicability Exception
 		- allows entity to measure equity invstmt at cost-impairment +/- observable price ▲ (in orderly transactions) of identical/sim invstmts from same issuer
 		- applicable for equity invstments that don't have readily determinable FV
+		- ex: priv instead of public
 		- those who cant use exception
 			- reporting entities that are broker-dealers in sec
 			- invstmnt companies
@@ -40,6 +41,7 @@
 		- stock dividend
 		- common equity accted for using equity method
 			- aka investor has sig infl
+			- dividends in eq method arent income, reduces invstmnt CV
 		- ![[Pasted image 20260810022442.png]]
 - Impairment
 	- E invstmnts that don't have readily determinable FV (nonpublic) measured at cost-impairment (practicability exception)

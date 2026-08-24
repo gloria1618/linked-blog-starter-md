@@ -11,6 +11,7 @@ EM
 	- must use EM when presenting invstmnt in investee in
 		- conFS that incl other consolidated entities, but not that investee or
 		- parent company unconFS
+			- as in control, consolidating, but as of now its unconFS
 - EM
 	- dividends on common stock /=/ income
 	- don't mark to FMV
@@ -78,6 +79,7 @@ EM
 		- ![[Pasted image 20260811194048.png]]
 		- ![[Pasted image 20260811194300.png]]
 	- ![[Pasted image 20260811194543.png]]
+	- 
 - ex
 	- ![[Pasted image 20260811195950.png]]
 	- ![[Pasted image 20260811200005.png]]

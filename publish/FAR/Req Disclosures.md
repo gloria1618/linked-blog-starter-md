@@ -15,7 +15,7 @@ F5M1
 		- gross unrealized holding g/l
 		- amortized cost basis by major security type
 		- info abt contractual maturities of DS
-- Disclosures for Investmnts in ES
+- Disclosures for Investmnts in ES (no sig infl)
 	- disclose portion of unrealized g/l for period that relates to ES still held at end of reporting period
 	- amt calc as
 		- net g/l recog during period on ES

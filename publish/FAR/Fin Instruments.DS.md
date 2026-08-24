@@ -32,15 +32,15 @@ F5M1
 - FV Option
 	- FI = FIN INSTRUMENTS
 	- follow trading security rules (FV thru IS)
-	- on specified election dates, entities may choose to measure at FV eligible FI no typ measured at FV
+	- on specified election dates, entities may choose to measure at FV eligible FI not typ measured at FV
 	- Under FV option, unrealized G/L are reported in earnings
 		- irrevocable
 		- applied to indiv FI
 	- eligible FI
 		- may elect option for recog fin A/L
 			- ex:
-				- can choose to measure at FV a debt invst otherwise classified as availforsale, w unrealized G/L recorded in earnings, instead of OCI
-				- can choose to measure at FV an equity invst otherwise acct for using equity method
+				- can choose to measure at FV a debt invst otherwise classified as *AFS*, w unrealized G/L recorded in earnings, instead of OCI
+				- can choose to measure at FV an equity invst otherwise acct for using *equity method*, *own 20%-50%*
 	- not eligible
 		- invst in subsidiaries/VIEs that entity req to consolidate
 		- pension benefit A/L
@@ -48,9 +48,9 @@ F5M1
 		- deposit L of fin institutions
 		- equity FI
 - FV ▲ Attributable to Inst Specific Credit Risk
-	- for fin L other than derivative L designated under FV option, the portion of FV ▲ relating to ▲ in instrument specific credit risk is recog in OCI
+	- for fin L other than derivative L designated under FV option, the portion of FV ▲ relating to ▲ in ur instrument specific credit risk is recog in OCI
 		- note/bond: direct to equity
-	- derivative L recog ▲ in NI
+	- derivative L recog ▲ in NI (IS)
 		- derivatives: NI→RE→equity
 	- once fin L derecog, any accum G/L in OCI recog in earnings
 
@@ -60,7 +60,7 @@ F5M1
 	- any security rep creditor relationship w entity
 	- incl
 		- corp bonds
-		- redeemable preferred stock (has maturity date)
+		- redeemable preferred stock (esp if has maturity date)
 		- gov securities
 		- convertible debt
 		- commercial paper
@@ -72,7 +72,7 @@ F5M1
 	- DS classified based on company intent
 	- Trading Security TS
 		- DS bought/held w primary purpose to sell in near term
-		- reflect active/freq buy/sell w obj of generate profits on ST price differences
+		- reflect active/freq buy/sell w obj of generate profits on ST price differences, CapitalG
 		- gen reported as currentA, tho can be reported as noncurrent if approp
 		- gen rule
 			- buy/sell classified as op CF, only if classified as currentA
