@@ -178,7 +178,25 @@ ISTAR
 #### pt in time
 - LT construction contract doesn't meet crit for recog rev overtime 
 - BS presentation
+	- construction costs accum in CIP (invt acct)
+	- billings on construction accum in 'progress billings' (contra invt)
+	- net for BS reporting
+	- CA
+		- due on accts (receivable)
+		- CIP: cost of uncompleted contracts > progress billings
+	- CL
+		- progress billings on uncompleted contracts > cost
 - Acct
+	- est GP (gross profit) not recog each period as part of CIP
+		- unless loss recog in contract, no GP recog until contract completed
+	- at contract completion, GP/L = contract price - tot costs
+	- at interim BS dates, excess fo either CIP or progress billings over the other is classified as CA/L
+	- losses recog in full in yr discovered
+		- expected loss on tot contract det by 
+			1. est costs to complete + recorded costs to date = tot contract costs
+			2. advances + additional expected rev = tot contract rev
+			3. 2-1 = tot est loss
+		- ![[Pasted image 20260828062635.png]]
 #### ex: overtime vs pt in time
 ![[Pasted image 20260828061813.png]]
 ![[Pasted image 20260828061756.png]]
@@ -187,3 +205,127 @@ ISTAR
 ![[Pasted image 20260828061902.png]]
 ![[Pasted image 20260828061917.png]]
 ![[Pasted image 20260828061930.png]]
+
+
+
+### Other Rev Recog Applications
+- Incremental Costs of Obtaining Contract
+	- incremental costs
+		- costs incurred only bc contract was obtained
+		- recog as A (capitalized, amort) if entity expects will recover costs
+	- recog exp if costs incurred regardless if contract obtained
+	- ex
+		- ex: insurance salesesman sells insurance contract so receives commission. commission capitalized/amort. salary expensed as normal period cost
+		- ![[Pasted image 20260828064109.png]]
+- Costs to Fulfill Contract
+	- costs incurred to fulfill contract that aren't w.in scope of another standard recog as A if meet all
+		- relate directly to contract
+		- generate/enhance entity resources
+		- expected to be recovered
+	- cost expensed incl
+		- SGA
+		- abnormal spoilage
+			- wasted labor/material costs
+		- costs tied to satisfied perf oblig
+	- ex
+		- ![[Pasted image 20260828064354.png]]
+- Contract Modifications
+	- rep ▲ in price/scope of contract approved by both parites
+	- mod treated as new contract if
+		- scope ↑ due to addition of distinct goods, and
+		- price ↑ approp reflects stand alone selling prices of additional goods
+	- if not new contract
+		- mod treated as part of existing (for non distinct goods), w adj to revenue to reflect transaction price ▲
+- Principal vs Agent
+	- agent
+		- JE
+			- dr cash
+				- cr due to tothers
+				- cr revenue commission
+		- indicators
+			- doesn't ctlr goods before prov to customer
+			- another party (principal) primarily resp for fulfilling contract
+			- doesn't have invt risk
+			- doesn't have discretion est prices
+	- principal
+		- primarily resp for fulfilling contract
+		- bears invt risk
+		- right to est prices
+	- ex
+		- ![[Pasted image 20260828064930.png]]
+- Repurchase Agrmts
+	- contract where entity sells A and either promises to/has option to repurchase A
+		- sale w right of return
+		- financing arrangement
+	- 3 main forms
+		- 1) Forward 2) Call option
+			- 1) entity's oblig to repurchase A
+			- 2) entity's right to repurchase A
+			- acct depends on if entity can forward/call A repurchase for either
+				- < og selling price
+					- lease 
+				- => og price
+					- financing agrmt
+						- recog A
+						- recog fin L for any consideration received from customer
+						- recog interest exp = consideration received - consideration amt to be paid by to? customer 
+			- ex
+				- ![[Pasted image 20260828070156.png]]
+				- ![[Pasted image 20260828070210.png]]
+		- Put option
+			- entity's oblig to repurchase A at customer's request for...
+				- < og selling price
+					- acct for contract as either
+						- lease
+							- if customer has sig eco incentive to exercise right
+						- sale w right of return
+							- if customer doesn't have sig eco incentive to exercise right
+				- => og selling price
+					- acct for contract as either
+						- financing agrmnt
+							- if repurchase price > expected A mkt value
+						- sale w right of return 
+							- if repurchase price <= expected A mkt value and customer doesn't have sig eco incentive to exercise right
+			- ![[Pasted image 20260828065301.png]]
+-  Bill & Hold Arrangements 
+	- contracts where entity bills customer for prod that's not yet delivered
+	- rev not recog until customer has ctrl
+	- customer control, meet all crit
+		- substantive reason for arrangement
+			- eg customer requested arrangement bc no space
+		- prod sep identified as belonging to customer
+		- prod currently ready for transfer to customer
+		- entity cant use prod/direct to another customer
+	- ex
+		- ![[Pasted image 20260828073703.png]]
+- Consignment
+	- dealer/distributor hasn't obtained control
+	- rev recog
+		- dealer/distributor sells prod to customer, or
+		- dealer/dist obtains control of product (ie after specified time period expires)
+	- consignment indicators
+		- entity ctrls prod until specified event occurs (prod sale to customer or specific time period expires)
+		- dealer doesn't have unconditional oblig to pay entity for prod (tho may be req to pay deposit)
+		- entity can req prod return/transfer to another party
+	- ex
+		- ![[Pasted image 20260828074114.png]]
+- Warranties
+	- acct depends on if customer has option to purchase warranty sep
+	- if can sep purchase, warranty considered distinct service
+		- acct for warranty as perf oblig
+		- alloc portion of overall transaction price to that oblig
+	- cant sep purchase, no sep perf oblig
+	- consider in det if warranty rep service in addition to assurance prod is compliant
+		- law req warranty → not perf oblig
+		- longer the coverage period → higher likelihood perf oblig
+		- entity must perform specific tasks to prov assurance regardign compliance w agreed specs → not perf oblig
+	- if warranty prov service that's beyond assurance that prod complies w agreed specs, promised service rep perf oblig that will req transaction price be alloc to both prod + service
+- Refund L, Right to Return
+	- refund L if 
+		- will/receives consideration from customer, and
+		- anticipates having to refund all/part of consideration
+	- for prod w right of return, entity recog
+		- revenue for transferred prods = consideration amt expected to keep (not returned)
+		- refund L
+		- A related to subseq recovery of prod when refund L settled
+		- ![[Pasted image 20260828074920.png]]
