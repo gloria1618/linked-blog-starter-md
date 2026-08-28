@@ -1,0 +1,239 @@
+F1M2
+
+### SEC Reporting Req
+- SEC req 50+ forms filed to comply w reporting req
+	- filed e thru EDGAR
+	- avail online to public
+- 10K
+	- annual report filed by US registered companies (issuers)
+	- deets to current/prospective investors
+		- business, relevant risk factors
+		- yr fin/op results
+		- exec leadership perspective
+	- filing deadlines relative to fiscal YE
+		- 60dys large accel filers
+			- 700M mkt value
+		- 75 dys accel filers
+			- 75-700M mkt value
+			- 100M revenue
+		- 90dys all other registrants
+			- <=100M
+		- ![[Pasted image 20260826000754.png]]
+	- PII, Item7: MD&A
+		- MD&A of Fin Condition n Results of Op
+		- prov perspective on business results in mgmts words
+		- incl
+			- material info relevant to assessment of fin condition n op results, incl info on liquidity n capital resources, awa material impacts of cybersec incidents
+			- summarized fin/op results, trends, risks, uncertainties
+			- material ▲, uncertainties relative to prior period
+			- critical acct est, assumptions
+		- PII, Item7A: Quant&Qual Disclosures abt Mkt Risk
+			- mkt risk incl risk of potential value loss of fin instruments bc ▲ in
+				- interest rates
+				- exchange rates
+				- cybersec threats
+				- other mkt related factors
+					- inflation, recession, supply chain disruption, war/sanctions
+			- req disclosures
+				- quant info as of end of latest fiscal yr, presented in one of 3 disclosure alternatives
+					- tabular info related to mkt risk sensitive instruments
+					- sensitivity anal disclosures expressing potential loss in fut earnings, FV, or CF of mkt risk sensitive instruments
+					- value-at-risk disclosures expressing potential loss in fut earnings, FV or CF or mkt risk sensitive instruments
+				- qual info 
+					- primary mkt risk exposures
+					- mgmt of exposures
+					- ▲s relative to most recently completed fiscal yr and expectations for fut periods
+	- PII, Item8: FS & Supplementary Data
+		- audited FS (IS, BS, CF stmt, SE stmt) & notes presented using GAAP
+		- auditor's report
+		- certifications from CEO + CFO regarding 10K accuracy, completeness 
+		- time periods covered incl
+			- BS 2, ALL ELSE 3 FOR 10K
+			- BS for 2 most recent fiscal yrs
+			- IS (+OCI stmt) for each of 3 fiscal yrs preceding date of most recent audited BS
+			- CF stmt for each of 3...
+			- ▲s in OE for each of 3...
+- 10Q
+	- quarterly report filed by US registered companies for each of first 3quarters every fiscal yr
+	- overview of business op, FS, nonfin info (legal items, risk factors, recent equity sales), relevant disclosures
+	- filing deadlines 
+		- 40dys large accel, accel filers
+		- 45 dys for all other
+	- PI, Item1: FS
+		- req sim to 10K, PII, Item8 w following diff
+			- gen unaudited FS
+			- filed for each of first 3Q of fiscal yr
+			- may be presented in condensed format, should reflect adj necessary to fairly state results of interim period, w stmt to effect incl in notes
+				- if all such adj are normal recurring nature, stmt to effect
+				- FS incl detailed descrip of nature, amts of adj that aren't normal recurring
+			- ASSUMING JUNE 2025
+			- BS JUNE 25, DEC 24, SEASONALITY JUNE 24
+				- as of end of most recent fiscal quarter & as of end of preceding fiscal yr
+				- may also incl BS as of end of corresponding fiscal quarter for preceding fiscal yr if needed to understand seasonal fluc
+			- IS, CI  Q2 25, 24 & YTD 25, 24 ... CAN Q2 24 TO 25
+				- for most recent fiscal quarter, for period bw end of precedign fiscal yr & end fo most recent fiscal quarter, and for corresponding periods of preceding fiscal yr
+				- may also incl IS for cum12mo period ended during most recent fiscal quarter and for corresponding preceding period
+			- CF Stmt  YTD 25, 24 ... CAN Q2 24 TO 25 
+				- for period bw end of preceding fiscal yr and end of most recent fiscal quarter, and corresponding period for preceding fiscal yr
+				- may also incl CF stmt for cum 12mo period ended during most recent fiscal quarter and for corresponding preceding period 
+	- PI, Item2: MD&A
+		- req sim to 10K, PII, Item7 along w following additional disclosures related any material ▲ in
+			- fin condition from end of preceding fiscal yr to date of most recent interim BS
+				- if interim BS as of corresponding interim date fo preceding fiscal yr incl, mgmt discloses any material ▲ in fin condition from that date to date of most recent interim BS
+			- op results w respect to
+				- most recent fiscal yr to date period where stmt of CI provided, and corresponding yrtodate period of preceding fiscal yr, and
+				- most recent quarter for which CI stmt prov and either corresponding quarter for preceding fiscal yr or imm preceding sequential quarter
+	- PI, Item3: Quant&Qual Disclosures abt Mkt Risk
+		- req sim to 10K, PII, Item7A
+		- discussion, anal helps reader understand ▲ in mkt risk from end of preceding fiscal yr to date fo most recent interim BS
+- 8K
+	- filed by US registered companies to disclose ▲ whenever material event occurs
+		- bankruptcy
+		- acquisition/disposition of As
+		- ▲ in public acct firm used to audit 
+		- ▲ in securities, trading mkts
+		- ▲ in or election of directors/officers
+		- amendments to bylaws/articles of incorp
+		- ▲ in fiscal yr
+		- FS changes
+		- material definitive agrmnts
+		- material cybersec incidents
+		- new material fin obligations
+		- costs assoc w exit/disposal activities
+		- material A impairment
+	- gen 4 business dys to file form for any event triggering filing req 
+
+
+### EPS & Simple Capital Structure
+- GAAP, public entities req to present EPS on IS face
+- entity's capital structure det how EPS disclosed
+- simple capital structure: basic per-share amts
+	- if it has only common stock outstanding
+		- no convertible bonds/preferred equity
+			-  no other securities that can become common stock
+		- no outstanding options/warrants
+- complex capital structure: basic & diluted per-share amts
+	- for both structures
+		- for income from cont op
+		- for NI on face of IS (or stmt of income&CI if using one stmt approach)
+- if entity reports discont op, present basic (& diluted) per-share amts for item
+	- on IS face
+	- in FS notes
+- #### SIMPLE
+	-  # of common shares outstanding (denominator) used in EPS calc arrived at by weighted avg method
+	- ![[Pasted image 20260826010151.png]]
+	- Income Avail to Common Shareholders
+		- det by deducting from line item income from cont op & NI
+			- div declared in period on noncum preferred stock (regardless if paid)
+			- div accum in period on cum preferred stock (regardless if declared)
+		- if loss from cont op (or net loss), loss amt increased by
+			- preferred shareholders' dividends; or
+				- reduces profit per share
+				- increases loss per share
+			- claims to det income avail to common shareholders
+	- WACSO
+		- avg of shares outstanding + assumed outstanding for EPS calc
+			- yr or quarter
+		- shares sold or reqacquired during period (incl treasury stock) weighted for portion of period oustanding
+		- ![[Pasted image 20260826010813.png]]
+		- Stock Dividends/Splits
+			- stock dividends/splits (to same class of shareholders in same company) treated as tho occurred at beg period
+			- shares outstanding before stock dividend/split restated for portion of period before stock dividend/split 
+			- if prior periods presented, effects of stock dividends/splits retroactively adj for those periods
+			- if stock dividend/split occurs after period end but before FS issued, those shares enter into shares outstanding for EPS calc for all periods presented
+			- reverse stock splits retroactively reduce shares outstanding for all periods presented
+		- ![[Pasted image 20260826011209.png]]
+		- ex
+			- ![[Pasted image 20260826011243.png]]
+			- ![[Pasted image 20260826011257.png]]
+			- ![[Pasted image 20260826011315.png]]
+
+### Complex Capital Structure
+- complex capital structures
+	- has securities that
+		- can potentially be converted to common stock, and
+		- would dilute (reduce) EPS (of common stock)
+	- both basic + diluted EPS presented
+- basic EPS calc ignores potentially dilutive securities in WACSO calc
+	- ![[Pasted image 20260826012819.png]]
+- obj of diluted EPS to measure performance of entity over reporting period while giving effect to all potentially dilutive common shares outstanding during period
+- potentially dilutive securities
+	- convertible securities (eg convertible preferred stock/bonds)
+	- warrants, other options
+	- contracts that may be settled in cash or stock
+	- contingent shares
+- ![[Pasted image 20260826013019.png]]
+- Dilution from Options, Warrants, Equiv
+	- dilutive if avg price > strike (excercise) price
+	- dilutive effects applied using treasury stock method
+		- assumes proceeds from exercise stock options, warrants, equiv used by company to repurchase treasury shares at prevailing mkt price
+			- results in incremental ↑ in outstanding shares, but not full amt of shares that are issued on exercise of common stock equiv
+	- Dilutive vs. Antidilutive
+		- options, sim instruments only dilutive when avg mkt price of underlying common stock > exercise price of options/warrants 
+			- bc unlikely to be exercised if exercise price > mkt price
+				- these are 'out of the money' and antidilutive
+		- prev reported EPS shouldn't be adj retroactively in case of options, sim instruments to reflect subseq changes in mkt prices of common stock 
+	- Treasury Stock Method
+		- if avg stock mkt price > exercise price (aka 'in the money') assume that warrants/options exercised at beg period (or at issue, if later)
+		- also assume proceeds received (option/exercise price) used to purchase common shares at avg mkt price during period
+		- when option/warrant is in the money (avg mkt price > exercise price), proceeds (assumed to be) received won't be sufficient to buy back an (assumed) equal # of shares
+			- so always results in dilution
+		- diff bw # of shares assumed issued to satisfy option/warrants and # of shares assumed to be purchased w proceeds incl in # of shares (denominator) for diluted EPS
+		- prev reported EPS data shouldn't be retroactively adj for mkt price ▲
+		- ![[Pasted image 20260826013940.png]]
+	- ex
+		- ![[Pasted image 20260826013900.png]]
+		- ![[Pasted image 20260826013917.png]]
+- Dilution from Convertible Securities: Bonds/Pref Stock
+	- 'if-converted' method
+		- to det dilutive effects of convertible sec
+		- assumes sec converted to common stock at beg period (or at issue, if later)
+		- (options/warrants: treasury stock method)
+	- Convertible Bonds steps
+		- add to numerator interest exp, net of tax, due to assumed conversion of bonds to common stock
+			- interest exp * (1- tax rate)
+		- add to denominator # of common shares assoc w assumed conversion
+			-  # of bonds * # of common stock per bond
+		- if convertible bonds issued during period, assume stock was issued at that date for weight avg calc
+		- ![[Pasted image 20260826015454.png]]
+	- Antidilution
+		- use results of each assumed conversion only if results in dilution
+			- EPS ↓, or Loss per share ↑
+		- dont incl results of assumed conversion if antidilutive
+			- EPS ↑, or Loss per share ↓
+		- in det if potential common shares anti/dilutive, each issue considered sep in sequence from most to least dilutive, w options/warrants gen incl first
+		- tests for anti/dilutive effects based on income from cont op
+		- ex
+			- ![[Pasted image 20260826015939.png]]
+			- ![[Pasted image 20260826015959.png]]
+	- Convertible Preferred Stock steps
+		- adj numerator (as preferred stock dividends don't affect NI)
+			- - *dividends are not tax deductible
+		- add to denominator # of shares assoc w assumed conversion
+		- antidilution rules apply
+		- ex
+			- ![[Pasted image 20260826021015.png]]
+			- common stock dividends not subtracted bc thats a dist of income...didn't recued income avail to common shareholders, u j actually gave it to em 
+			- ![[Pasted image 20260826021032.png]]
+- Dilution from Contracts thatmaybesettledin Cash/Stock
+	- settled by either at election of either party, the facts avail each period det if reflected in EPS
+	- presumed that
+		- contract will be settled in common stock
+		- resulting shares incl in diluted EPS if effect is more dilutive
+- Dilution from Contingent Shares
+	- contingent issuable shares
+		- dont req cash consideration
+		- depend on some fut event/certain conditions being met
+	- contingent shares (that're dilutive) incl in basic EPS calc if (and as of the date) all conditions for issuance met
+	- issuable shares contingent on attainment of certain earnings lvl treated as (if dilutive)
+		- if needed conditions satisfied by period end, those shares incl in basic EPS as of beg period in which conditions satisfied (retroactively)
+- ![[Pasted image 20260826022118.png]]
+
+### EPS Disclosures
+- CF per share not reported
+- basic + dilutes EPS for both income from cont op & NI (IS face), and effects of discont op reported (IS face/notes)
+- disclosure req
+	- reconciliation of numerator.denom of basic/diluted pershare computations for income from cont op
+	- effect given to preferred dividends in arriving at income avail to common stockholders in computing basic EPS
+	- securities that could potentially dilute basic EPS in future that weren't incl in computation of diluted EPS bc was antidilutive for period(s) presented
+	- description of any transaction that occurred after period end that woulda materially affected # of actual/potential common shares outstanding 

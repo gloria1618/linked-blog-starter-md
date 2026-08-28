@@ -1,0 +1,327 @@
+F1M3/4
+
+- various elements constituting SE clearly classified accord to source
+- ex
+	- ![[Pasted image 20260826032228.png]]
+	- ![[Pasted image 20260826032239.png]]
+### Capital Stock (Legal Capital)
+- amt of capital that must be retained by corp for creditor protection
+- par/stated value of both preferred/common stock 
+	- is legal capital
+	- is freq referred to as capital stock 
+- Par Value
+	- gen, preferred stock issued w par value
+	- common stock may be issued w/w.o par value
+	- no par common stock issued as
+		- true no par stock
+		- no par stock w stated value
+	- excess of actual amt received > par/stated value is accted as APIC
+- disclose # of shares of each class of stock authorized, issued, outstanding 
+	- Authorized
+		- corp's charter contain amt of each class of stock it may legally issue
+	- Issued
+		- part/all of authorized capital stock issued
+	- Outstanding
+		- amt of issued capital stock in hands of shareholders
+		- (bc corp may own issued capital stock in form of treasury stock)
+- Common Stock
+	- Common Shareholders
+		- bear ultimate loss risk
+		- receive ultimate benefits of success
+		- gen control mgmt
+		- have right to
+			- vote
+			- share in earnings of corp
+				- ![[Pasted image 20260826031813.png]]
+			- share in A upon liquidation, after claims of creditors/pref shareholders satisfied
+			- may have preemptive right to proportionate share of any additional common stock issued if granted in articles of incorp
+				- to maintain voting strength
+	- BV per Common Share
+		- measures amt common shareholders would receive for each share if all A sold at B/CV & all creditors paid
+		- ![[Pasted image 20260826032054.png]]
+		- ![[Pasted image 20260826032138.png]]
+- Preferred Stock 
+	- ES w pref, features not assoc w common stock 
+	- usually no voting rights
+	- may incl preference relating to liquidation
+		- less risk than common stock, preference to liquidated A
+		- if liquidation preference sig > par/stated value, disclose
+		- disclosure in BS equity section, not in FS notes
+	- may incl dividend preference 
+		- Cumulative
+			- all/part of preferred dividend not paid in any yr accumulates & must be paid in future before dividends can be paid to common shareholders
+			- arrears → accum div
+			- amt in arrears is not legal L, but must be disclosed in total and on per share basis
+				- parenthetically on BS
+				- footnotes
+		- Noncumulative
+		- Participating
+			- share (participate) w common shareholders in excess of specific amt
+			- full participation
+				- participate in excess dividends w.o limit
+				- gen receive preference dividend first, then additional dividends shared bw common/preferred shareholders
+			- partial participation
+				- participate in excess dividends, but limited extent (eg % limit)
+		- Nonparticipating
+			- less valuable, fixed returns only
+			- limited to dividends provided by their preference
+			- dont share in excess dividends
+	- Convertible
+		- may be exchanged for common stock (at stockholder option) at specified conversion rate
+	- Callable (Redeemable)
+		- may be called (repurchased) at specified price (at issuing corp option)
+		- agg or per-share amt at which preferred stock is callable disclosed on BS or footnotes
+	- Mandatorily Redeemable (L)
+		- issued w maturity date
+		- sim to debt, bought back by company on maturity date
+		- classified as L, unless redemption req to occur only upon liquidation/termination of corp
+	- ex
+		- ![[Pasted image 20260826034423.png]]
+		- ![[Pasted image 20260826034438.png]]
+		- ![[Pasted image 20260826034449.png]]
+		- ![[Pasted image 20260826034459.png]]
+
+### APIC, RE, accumOCI
+- APIC
+	-  # of shares issued * (contributed capital - par value)
+	- gen contributed capital in excess of par/stated value
+	- also arises from many other diff types of transactions
+		- sale of treasury stock at gain 
+		- liquidating dividends
+		- conversion of bonds
+		- small stock dividends
+	- may be agg, shown as one amt on BS
+- RE
+	- most REGL flwo thru IS, then to RE/Equity
+	- accum earnings/losses durign corp life that haven't been paid out as dividends
+	- amt of accumRE reduced by
+		- dist to stockholders
+		- transfers to APIC for stock dividends
+	- RE doesnt incl
+		- treasury stock 
+		- accumOCI
+	- deficit = RE negative blcne
+	- Appropriations
+		- classified as either un/appropriated
+		- appropriate RE to disclose to (common) shareholders that not avail to pay dividends bc restricted
+			- for legal/contractual reasons
+				- debt covenants, protect cr rating, maintain fin ratios, etc
+			- as discretionary mgmt act for specific contingency purposes 
+		- RE appropriation
+			- cant be used to absorb cost/losses
+			- cant be transferred to income
+			- to appropriate, then reverse when purpose of appropriation occurred
+				- ![[Pasted image 20260826041422.png]]
+	- ![[Pasted image 20260826041013.png]]
+- AccmOCI
+	- PUFI
+	- part of SE, earned capital
+	- parts of OCI not incl in det NI, so dont enter RE
+	- instead
+		- recog in period they occur
+		- combined w NI to determine CI
+	- tot accumOCI shown in SE section sep from capital stock, APIC, RE
+
+### Treasury Stock
+- corps own stock issued to shareholders, then subseq reacquired (but not retired)
+	- financing outflow
+- treasury stockholders not entitled to any ownership rights given to common shareholders, like
+	- vote
+	- receive dividends
+- shares issued - repurchased = outstanding
+- 2 methods treasury stock accounting
+	- under both
+		- g/l recorded as direct adj to SE, not incl in determination of NI
+			- treasury stock g/l never affect IS
+		- shares held as treasury stock aren't considered outstanding 
+- Cost Method
+	- g/l calc upon reissue
+	- used by entities 95% of time
+	- treasury shares recorded/carried at reacquisition cost
+	- g/l det when 
+		- treasury stock reissued/retired
+		- og issue price n BV of stock don't enter into the accounting
+	- ![[Pasted image 20260826042418.png]]
+		- excess loss, RE ↓
+		- losses may also RE ↓ if 'APIC from treasury stock' acct doesn't have enough blnce to absorb loss
+		- NI/RE never increased thru treasury stock transactions
+		- TREASURY STOCK DR BLCNE. CONTRA EQUITY
+	- ex
+		- ![[Pasted image 20260826042829.png]]
+- Legal (par/state value) Method
+	- g/l calc imm upon repurchase
+	- used 5% of the time
+	- treasury shares recorded by reducing amts of par/stated value and APIC received at time of og sale
+		- reverse og entry for shares repurchased
+	- treasury stock dr for par/stated value
+	- 'APIC-common stock' dr (reduced) for pro rata share of og issue price attributable to reacquired shares
+	- APIC-treasury stock cr/gain dr/loss when treasury stock repurchased at prices that differ from og selling price
+	- losses may also ↓RE if APIC-treasury stock acct doesnt have enough blnce to absorb loss
+	- sources of capital assoc w og issue maintained 
+	- ![[Pasted image 20260826043459.png]]
+	- ex
+		- ![[Pasted image 20260826043129.png]]
+		- ![[Pasted image 20260826043141.png]]
+		- ![[Pasted image 20260826043156.png]]
+		- ![[Pasted image 20260826043216.png]]
+
+
+### P3
+- Retirement of Treasury Stock
+	- when reacquired w intent of retiring stock (regardless of whether it's accomplished) & price paid for acquired treasury stock < par/stated
+		- cr diff to PIC
+	- price paid > par/stated
+		- charge excess against either RE or all PIC arising from past transactions in same stock class
+	- ex
+		- ![[Pasted image 20260826051021.png]]![[Pasted image 20260826051038.png]]
+- Donated Stock 
+	- company's own stock received as donation from shareholder
+	- no ▲ in tot SE, but # of outstanding ↓, resulting in higher BV/common share
+	- ![[Pasted image 20260826051210.png]]
+	- if donated stock sold: ![[Pasted image 20260826051222.png]]
+- Direct Retirement of Stock
+	- may choose to directly retire shares upon repurchase rather than holding in treasury
+	- retirement entry
+		- dr common stock & APIC-C/S  based on og issuance price of stock
+		- cr cash
+	- if price paid to retire > og issuance price
+		- dr diff to APIC-retired stock, to extent blnce can absorb dr
+		- excess dr RE
+	- if price paid to retire < og issuance price,
+		- cr diff to APIC-retired stock 
+	- ex
+		- ![[Pasted image 20260826051451.png]]
+		- ![[Pasted image 20260826051504.png]]
+		- ![[Pasted image 20260826051516.png]]
+
+
+### F1M4
+#### Accounting for Stock Issuance (to nonemplee)
+- if par/stated value, stock can be issued 
+	- above par
+		- dr cash proceeds (A↑)
+			- cr common/perferred capital stock for par/stated (E↑)
+			- cr APIC for excess over par (E↑)
+	- at par
+		- dr cash proceeds (A↑)
+			- cr common/perferred capital stock for par/stated (E↑)
+	- below par
+		- dr cash proceeds (A↑)
+		- dr APIC to reflect discount (E↓)
+			- cr common/preferred capital stock for par/stated (E↑)
+		- discount rep contingent L to og owners
+#### Stock Subscriptions
+- often, stock subscriptions sold before stock actually issued
+- freq, corp sells its capital stock by subscription 
+- contractual agrmnt to sell specified # of shares at agreed upon price on credit is entered into 
+- upon full pmt of subscription, stock certificate evidencing ownership in corp issued
+- Subscription Sale
+	- no cash received yet
+	- when subscription method used to sell capital stock:
+		- dr subscriptions receivable
+		- cr regular APIC
+	- subscriptions not yet paid for at YE treated as contra equity, offsetting amt of par/stated value and APIC
+	- subscriptions paid after YE, but before FS issued, subscriptions receivable reported as A, will increase YE PIC
+- ![[Pasted image 20260826060306.png]]
+- ![[Pasted image 20260826060404.png]]
+- ![[Pasted image 20260826060502.png]]
+- Default/Forfeiture of Subscription
+	- if all/part of subscription not collected, terms of agrmnt & corp policy det approp acct treatment
+	- ![[Pasted image 20260826060656.png]]
+- Stock Rights
+	- provides existing shareholder w oppro to buy additional shares
+	- right usually carries a price below stocks mkt price on date rights granted
+	- stock issuance rights req memorandum entry only
+	- possible that rights may subseq be redeemed by company, causing ↓SE in amt of redemption price
+- Stock issued in basket sale w other securities should be alloc portion of sales proceeds based on relative FMV of diff securities
+- Stock issued for outside services recored at FV
+	- ![[Pasted image 20260826061151.png]]
+
+
+### Dist to Shareholders
+- cash, stock , or prop
+- not on IS
+- dividend
+	- pro rata dist based on shares of particular stock class
+	- usually rep dist of earnings
+- preferred stock usually pays fixed dividend, expressed in $ or %
+- Declaration Date
+	- date BoD approves dividend
+	- dr RE
+	- cr L (dividends payable)
+- Record Date
+	- date BoD specifies as date the names of shareholders to receive dividend are det
+- Pmt Date
+	- date dividend actually disbursed by corp/paying agent
+- Dividends only paid on authorized+issued+outstanding shares
+	-  # shares issued - # repurchased = # outstanding
+- Property (in kind) Dividends
+	- use FMV of prop
+	- nonreciprocal transfers of nonmonetary A from company to shareholders
+	- on declaration date
+		- prop restated to FV
+		- g/l recog in income
+	- ![[Pasted image 20260826063956.png]]
+- Scrip Dividends
+	- may be used when cash shortage
+	- special from of NP where corp commits to paying dividend at later date
+	- on declaration date
+		- dr RE
+		- cr NP (instead of dividends payable)
+	- some scrip dividends even bear interest from declaration to pmt date (thus req accrual)
+- Liquidating Dividends
+	- dividends to shareholders > RE
+	- excess charged (dr) to APIC, then common/preferred stock as approp
+	- reduce total PIC
+	- ![[Pasted image 20260826064322.png]]
+- Stock Dividend
+	- no cash out
+	- no dividend income to owner
+	- ↓cost basis/share
+	- dist additional shares to shareholders
+	- treatment depends on size (%) of dividend in proportion to tot shares outstanding before dividend
+		- small stock dividend: ↓RE by FMV
+		- large stock dividend: ↓RE by par
+	- Small Stock Divident (<20-25%)
+		- when <20-25% of shares prev outstanding dist, small bc issuance not expected to affect stock mkt price
+		- FMV of stock dividend at declaration date is transferred from RE to capital stock + APIC
+		- no effect on totSE, as PIC subs for RE 
+			- ie RE 'capitalized' adn made part of 'PIC'
+		- ![[Pasted image 20260826065514.png]]
+		- ![[Pasted image 20260826065620.png]]
+	- Large Stock Dividend (>20-25%)
+		- when >20-25% of prev issued shares outstanding dist, dividend treated as large, bc may be expected to reduce mkt price of stock (sim to stock split)
+		- par/stated value of stock dividend normally transferred from RE to capital stock to meet legal req
+		- ![[Pasted image 20260826065823.png]]
+		- Exception
+			- if state law doesn't req RE capitalization for stock dividends,
+				- (rare bc req amendment to articles of incorp)
+				- record stock dividend dist (like stock split) by changing
+					- ↑ # shares outstanding
+					- ↓par.stated value per share
+		- ![[Pasted image 20260826070325.png]]
+	- Stock Dividends on Treasury Stock
+		- gen not dist on treasury stock bc not considered outstanding
+		- exception
+			- company maintaining ratio of treasury shares to outstanding shares to meet stock option/contractual commitment, or
+			- state law req treasury stock be protected from dilution
+- Stock Split
+	- corp issues additional shares of own stock (w.o charge) to current shareholders, reduces par/stated value per share proportionately
+	- no ▲ in tot BV of shares outstanding
+	- usually doesnt affect RE, totSE
+	- memo entry to acknowledge stock split 
+	- Reverse Stock Splits
+		- one way to reduce amt of outstanding shares is to
+			- recall outstandign stock certificates, 
+			- issue new certificates
+	- Stock Split on Treasury Stock
+		- usually not applied to treasury stock bc not considered outstanding
+
+Stmt of ▲ in SE
+- provides specific info about ▲ in entity's primary entity components, incl
+	- capital transactions, dist to shareholders
+	- reconciliation of RE
+	- reconciliation of CV of each class of equity capital, PIC, accumOCI
+- ex
+	- ![[Pasted image 20260826071721.png]]
+	- ![[Pasted image 20260826071739.png]]

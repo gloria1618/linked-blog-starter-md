@@ -72,7 +72,7 @@
 	- any resulting goodwill recorded directly on subs' bks
 		- goodwill = parent consideration > net identifiable A FV
 		- usually only seen in consolidation??
-	- if purchase price < FV netA, diff recog in APIC as bargain purchase gain
+	- if purchase price < FV netA, diff recog in *APIC* as bargain purchase gain
 		- this gain not recog on IS
 		- bargain purchase gain = consideration < A FV
 - Presentation

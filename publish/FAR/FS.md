@@ -154,7 +154,6 @@ full set FS typ incl
 			- classification shifting when shift
 				- op loss/exp to nonop section to avoid bad news
 				- nonop gain/rev to op income, appearing to improve performance
-	
 	- cost
 		- period cost
 			- expensed imm
@@ -189,6 +188,99 @@ full set FS typ incl
 			- op income
 - Stmt of Comprehensive income
 	- NI per IS + OCI
+		- CI /=/ OCI
+		- NI=REGL
+		- OCI = PUFI
+		- NI + OCI = CI
+		- ![[Pasted image 20260825234127.png]]
+	- doesnt apply to NFP, those w.o CI
+	- not reported on per share basis
+	- net of tax
+		- but before related tax effects
+		- disclosure of income tax exp/bene alloc to each part of OCI on
+			- FS face
+			- FS notes
+		- calc inc tax exp if g/bene
+		- alloc losses to each PUFI part
+	- Interim Period Reporting
+		- reporting req for CI
+			- in condensed FS
+			- in interim periods (quarterly)
+	- Req Disclosures
+		- tax effects of each part of CI
+		- tax effects alloc to each part
+			- on Stmt of CI face
+			- in notes
+		- all formats disclose ▲ in accum blnces for each part of OCI
+			- shown on 
+				- FS face or
+				- sep disclosed in notes
+		- can also have ▲ bc reclassification adj, even if no current yr adj 
+		- all formats disclose
+			- tot accum OCI in BS as equity item
+			- equity comprises
+				- paid in capital - treasury stock
+				- earned capital (RE)
+				- ending accumOCI
+			- sig items reclassfied out of accumOCI disclosed either on
+				- FS face
+				- sep disclosure in FS notes
+		- ex
+			- ![[Pasted image 20260825235951.png]]
+			- 
+	- CI can be presented
+		- Single Stmt Approach
+			- single stmt of CI
+			- OCI items indiv (PUFI)
+			- Revenue → NI
+			- +/- OCI (PUFI)
+			- = CI
+			- CI and PUFI both reported net of tax
+			- ![[Pasted image 20260825234858.png]]
+		- 2 Stmt Approach
+			- IS followed by sep stmt of CI beginning w NI
+			- starting pt revenue, the single stmt
+				- starting pt NI, then 2 stmt 
+			- ![[Pasted image 20260825235005.png]]
+	- not on IS: PUFI
+		- Pension adj
+			- GAAP, some g/l from defined benefit pension plan recog in OCI in ▲ yr
+			- recog as pension expense, amort on IS over avg emplee service life
+		- Unrealized g/l
+			- afs ds, hedges
+			- unrealized g/l on certain ds.hedges reported as parts of OCI till securities sold or CF assoc w hedged item realized
+			- g/l incl
+				- unrealized AFS holding g/l
+				- unrealized holding g/l from transferring AFS from HTM
+				- subseq dec/inc in FV of AFS prev written down/impaired
+				- g/l on derivative instruments designated as CF hedges
+		- Foreign currency items
+			- foreign currency translation adj
+				- financials for foreign subsidiary prepped in foreign currency but consolidated w parent
+				- so converting to USD, can be g/l
+			- g/l on some foreign currency transactions
+				- g/l on foreign currency transactions designated as eco hedges of net invstmnt in foreign entity
+				- g/l on intra entity foreign currency transactions that're LT invstmnt when entities involv are consolidated/use equity method
+		- Instrument specific cr risk
+			- FV ▲ attributable to instrument specific cr risk
+				- when org's risk ▲, affects discount rate used to calc security value
+					- risk ↑, discount rate ↑, FMV ↓, gain
+					- risk ↓, discount rate ↓, FMV of L ↑, loss
+		- sooo g/l that go directly to equity n not incl in NI
+	- must classify specific PUFI items by nature
+	- equity ▲ (netA) during period from transaction/event/circum from nonowner sources
+	- incl all equity ▲ during period, except those resulting from invstmnt by owners n dist to owners
+	- Reclassification adj
+		- move OCI items from accumOCI to IS
+			- when g/l that go directly to equity, at some pt, comes out of equity and to IS
+			- otherwise would double count if g/l prev recorded
+		- ![[Pasted image 20260825230759.png]]
+	- accumOCI
+		- RE are REGL accum over time
+		- g/l directly to equity accum in accumOCI
+		- part of equity that incl OCI for current+prev periods
+		- any g/l going on IS eventually become part of NI, then get closed out to RE
+	- ![[Pasted image 20260825230957.png]]
 - Stmt of CF
 	- why cash ▲
 	- indicator of quality of earnings, growth potential
