@@ -1,0 +1,101 @@
+F2M7
+
+- acct frameworks outside of GAAP
+- SPF are nonGAAP w widespread understanding/support
+- OCBOA (Other Comprehensive Basis of Acct) is SPF
+	- presentations incl
+		- *cash basis, modified cash basis of acct (common)*
+			- features
+				- cash based 
+				- simple to prep, easy to understand
+				- not great for complex op
+		- *tax basis of acct (common)*
+		- price lvl adj FS
+		- regulatory basis of acct
+	- all OCBOA FS pres apply following
+		- FS titles differentiate OCBOA FS from accrual basis FS
+		- req FS = accrual basis BS, IS + explanation of equity acct ▲s
+		- CF stmt not req
+		- disclosures sim to GAAP, and incl
+			- summary of sig acct policies
+			- informative disclosures sim to GAAP req
+			- disclosures related to items not shown on FS face, like related party transactions, subseq events, uncertainties
+	- Cash Basis FS
+		- used by
+			- estates, trusts
+			- civic ventures
+			- political campaigns/committees
+		- incl
+			- stmt of Cash+Equity
+				- easy
+				- cash only A, equity = cash
+				- no L recorded
+			- stmt of Cash Receipts/Disbursements
+				- receipts (rev received)
+					- debt proceeds
+					- proceeds from A sale
+				- disbursements (expenses paid)
+					- debt repmnts
+					- pmts for a purchase
+					- dividend pmts
+	- Modified Cash Basis FS
+		- used by most FP/NFP org w cash basis FS
+		- incl elements of cash+accrual acct
+		- avoid extensive mods, shouldn't become accrual FS
+		- common mods
+			- capitalize/deprec fA
+			- income tax accrual
+			- record L for LT/ST borrowings, related interest exp
+			- capitalize invt
+			- report investments at FV, recog unrealized g/l
+		- incl
+			- stmt of Cash + Equity (mod basis)
+			- stmt A/L (mod basis)
+			- stmt A/L arising from cash transactions
+			- stmt of Exp/Rev + RE (mod basis)
+			- stmt Rev collected, Exp paid
+			- specific elements incl in FS depends on mods made
+	- Income Tax FS
+		- great for complex op, compared to cash basis
+		- prepped based on method/principles used for tax return
+		- TI amt not req to be shown/match NI in tax basis FS
+		- material, nontaxable rev/exp recog in period received/paid for cash basis txpyrs, period accruable for accrual basis txpyrs
+		- nontaxable rev/exp may be reported as
+			- sep line items in op stmt (income tax basis)
+			- additions/deductions to existing line items
+		- FS disclosures
+			- disclose specific amts of nontaxable inc/exp allowed, not req
+			- treatment for nontaxable inc/exp disclosed in sig acct policies footnote
+		- incl
+			- stmt of A/L/Equity, BS, or financial position (all inc tax basis)
+			- stmt of rev/exp/RE, income, or ops (all inc tax basis)
+			- * stmt of CF/equity ▲, but not req 
+
+### Convert from Cash to Accrual Basis FS
+- BS Conversion
+	- all A/L existing at YE not alr included must be added to BS
+	- equity = A-L
+	- ![[Pasted image 20260829080401.png]]
+- IS Conversion
+	- convert
+		- cash basis rev to accrual basis rev
+			- ![[Pasted image 20260829080945.png]]
+		- cash paid for purchases to accrual basis cogs
+			- ![[Pasted image 20260829081000.png]]
+		- cash paid for op exp to accrual basis op exp
+			- ![[Pasted image 20260829081017.png]]
+		- ![[Pasted image 20260829080625.png]]
+	- other potential adj
+		- recog noncash exp (ie deprec/amort)
+		- capitalize purchases of fA
+			- fA purchases are cash disbursements under cash basis
+		- reduce fA blnce for A sold during period, recog g/l
+			- fA sales are cash receipts under cash basis
+		- record debt proceeds received during period as L
+			- are cash receipts under cash basis
+		- record debt repmts at ↓L
+			- are cash disbursements under cash basis
+	- ex
+		- ![[Pasted image 20260829080826.png]]
+		- ![[Pasted image 20260829080744.png]]
+		- ![[Pasted image 20260829080801.png]]

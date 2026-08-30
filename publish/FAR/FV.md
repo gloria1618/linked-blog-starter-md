@@ -1,0 +1,96 @@
+F2M6
+
+- GAAP outlined req FV disclosures for all areas that req/permit FV measurement, except
+	- share based compensation
+	- FV measurements used for lease classification/measurement
+	- measurements based on/using vendor specific obj evidence of FJ
+
+- FV
+	- price would be received to sell A/transfer L in orderly transaction bw mkt participants in principal/adv mkt at measurement date under current mkt conditions
+	- exit price, not entrance price
+	- may incl transportation cots if loc is attribute of A/L
+- Orderly Transaction
+	- exposed to mkt, for period before measurement allowing for usual/customary mkting activ of A
+	- can't be forced transaction
+		- fire sale bc foreclosure/bankruptcy
+- Mkt Participants
+	- independent, knowledgeable, willing + able to transact
+	- acting in eco best interest
+		- no discounts/inflated prices to reduce TI (transfer pricing)
+- Principal Mkt
+	- mkt w greatest vol/lvl of activity
+	- principal mkt → mkt price is FV, even if better price elsewhere
+		- must have access to principal mkt at measurement date
+- Most Advantageous Mkt
+	- mkt w best price, after considering transaction costs
+	- *tho transaction costs used to det adv mkt, transaction costs not incl in FV measurement*
+		- adv mkt maxes NRV
+	- ![[Pasted image 20260828112426.png]]
+- Highest + Best Use
+	- Nonfin A
+		- accts for mkt participants ability to gen eco bene by using/selling in high, best use
+		- reporting entity's current use of nonfin A presumed high,best use unless mkt/other factors suggest diff use by mkt participants would max A value
+		- high,best use may be to use A in combo w other A/L, standalone
+	- L/Fin A
+		- high, best use irrelevant bc
+			- don't have alt use
+			- FV don't depend on use w.in group of other A/L
+	- ![[Pasted image 20260828112757.png]]
+
+
+### FV Measurement Framework
+- outlines valuation techniques that can be used to measure FV: MIC approaches
+	- can use any, combo, as approp so that valuation technique is
+		- approp to circumstances
+		- max use of observable inputs (Lvl1/2), min use of unobservable inputs (Lvl3)
+	- ▲ in valuation technique/application acct for as acct est ▲ (prospective)
+	- Mkt 
+		- use prices, other relevant info from mkt transactions involving identical/comparable A/L to measure FV
+	- Income 
+		- converts fut amts, incl CF/earnings, to single discounted amt to measure FV
+	- Cost
+		- uses current replacement cost to measure A FV
+- est hierarchy of inputs that can be used in valuation techniques
+	- lvl in FV hierarchy in which FV measurement falls det by lowest lvl input that is sig to FV measurement
+	- Lvl1
+		- highest priority, most reliable, should use when avail
+		- observable, active, identical
+		- quoted prices in active mkts of identical A/L that reporting entity has access to on measurement date
+		- obtained from exchange/dealer/brokered/principal to principal mkts
+	- Lvl2
+		- inputs other than quoted mkt prices (lvl1) that are in/directly observable 
+		- incl
+			- quoted price for 
+				- similar in active mkt
+				- identical/similar in nonactive mkt
+				- identical L when traded as A, if adj to quoted mkt price of A req
+				- sim L when traded as A
+			- inputs derived from/corroborated by observable mkt data
+	- Lvl3
+		- unobservable inputs
+		- reflects entity's assumptions, based on best avail info 
+		- biased, least reliable
+		- used only
+			- when no Lvl1/2
+			- undue cost/effort req to obtain observable inputs
+
+### FV Disclosures
+- obj of FV disclosures is to provide info abt A/L measured at FV, incl
+	- valuation techniques, inputs, judgements, assumptions
+	- uncertainty in FV measurement as of reporting date
+	- how FV measurement ▲ affect entity's performance, CF
+- prov following disclosures abt FV measurements
+	- quant info abt sig unobservable inputs
+		- forecasted fut CF
+		- discount rate
+	- info abt nonfin A/L for which measurements differ from high, best use
+	- hierarchy for items not measures on BS, but disclosed in notes
+	- discussion of sensitivity of Lvl3 measurments to ▲ in unobservable inputs disclosed
+		- ex: how sensitive is PV if discount rate inc from 3 to 3.5% or if fut CF dec by 2%
+- ![[Pasted image 20260828115616.png]]
+
+- Exceptions to FV Measurement
+	- exceptions to req to measure FV when
+		- not practicable to measure FV
+		- FV cant be reasonably det
+		- FV cant be measured w sufficient reliability

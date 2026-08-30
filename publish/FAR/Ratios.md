@@ -1,0 +1,214 @@
+### 1
+- ratios dependent on reliability of data
+- cross sectional
+	- compare w competitors
+- trend analysis
+	- compare w prior periods
+- horizontal anal
+	- eval trends, not material ▲
+	- compare to base yr
+- vertical anal
+	- period to period comparison 
+	- take BS # / totA
+	- take IS # / net sales
+	- compare w other entities by using %, not amt
+	- common size financial 
+- BS
+	- liquidity
+		- ST risk
+	- solvency
+		- LT risk
+		- LT capital structure
+	- A ▲
+		- growing/downsizing
+- IS
+	- performance
+	- efficiency turnover A
+		- sales
+	- profitability margin - sales
+		- profit
+- CF stmt
+	- value, risk, performance
+- Profitability Ratios
+	- success/failure over time period
+	- Gross (Profit) Margin
+		- dependent on bargaining power of suppliers
+		- = (net sales - COGS) / net sales
+	- Profit Margin
+		- dependent on competitors, substitutes
+		- =NI / net sales
+	- Return on Sales
+		- = EBIT / net sales
+		- aka operating margin
+		- EBIT
+			- = NI + taxes + net interest exp (assuming int exp > int inc)
+			- or = sales - cogs - sga - deprec
+		- dependent on operating exp
+			- COGS, # of suppliers
+			- SGA, competition/intensity of rivalry
+			- Deprec, A age, method/est
+	-  **if combines BS + IS number in ratio, avgBS# if possible bc BS is cum and IS is current yr
+	- ROA
+		- = NI / Avg totA
+		- turn A into sales
+		- profit margin turn sales into profit
+		- amplified by DFL, degree of financial leverage
+	- Dupont ROA
+		- = profit margin *  A turnover
+		- = NI / net sales * net sales / avg totA
+		- turnover -mgmt efficiency optimal A amt
+		- profit margin - dependent on competition, subs
+		- same result as ROA
+		- tells u abt industry
+			- usually either high turnover or high margin
+			- dollar store turnover ↑, profit margin ↓
+			- yacht turnover ↓, profit margin ↑
+	- ROE
+		- = NI / avg totE
+		- happy if ROE > req rate of return
+		- = ROA * DFL
+			- dependent on financial leverage, risk (capital structure)
+	- Op CF Ratio
+		- = CFO / CL
+		- OCF 'coverage' ratio
+		- is numerator sufficient to cover denominator
+
+### 2
+- Liquidity Ratios
+	- Current Ratio
+		- = CA / CL
+		- CA → cash, MS, AR, invt, prepaid
+		- as CA ↑ relative to nonCA, risk ↓ but ROA ↓ (bc that cash aint working that hard for u bbg)
+	- Quick Ratio
+		- numerator excl invt, prepaids
+		- (cash+equiv, ST MS, receivable (net)) / CL
+	- Cash Ratio
+		- (cash + MS) / CL
+		- most liquid/conservative risk measure
+	- AR Turnover
+		- = net sales / avg net AR
+		- depends on how strict/lax cr policy is
+		- make sure denom decreasing bc collecting, not bc write off
+	- Days Sales in AR
+		- = net endAR / (netsales / 365)
+		- denom is avg daily cr sales
+	- Invt Turnover
+		- = cogs / avg invt
+	- Days in Invt
+		- = endInvt / (cogs/365)
+		- too high, surplus/demand ↓
+		- too low, shortage/sale price maybe too ↓
+	- AP Turnover
+		- = cogs / avgAP
+		- wanna take full discount period, or full period
+		- lower better
+	- Days of payables outstanding
+		- = endAP / (cogs/365)
+		- too low: paying too quick, poor cash mgmt, or quick pmt discount accepted
+		- too high: difficulty paying on time
+	- Cash Conversion Cycle
+		- = days sales in AR + days in invt - days of payables outstanding
+		- <= stndrd
+		- optimal cr policy
+			- strict: sell slow, collect fast
+			- lax: sell fast, collect slow
+- Solvency Ratios
+	- measures of security/protection for LT creditor/investors
+	- Debt to Equity 
+		- totL/totE
+		- ![[Pasted image 20260829125020.png]]
+	- Tot Debt Ratio
+		- totL/totA
+	- Equity multiplier
+		- totA/totE
+		- aka DFL
+		- ![[Pasted image 20260829125154.png]]
+	- Times Interest Earned
+		- as coverage ratio inc, risk dec
+		- = income before int exp n taxes / int exp
+		- = EBIT / int exp
+		- ![[Pasted image 20260829125600.png]]
+
+![[Pasted image 20260829122347.png]]
+
+### 3
+- Performance metrics
+	- eval op performance, elements of stock performance from perspective of current/potential investors
+- EBITDA
+	- useful comparing perf, excl impact on fin leverage.deprec exp which is dependent on A age, methods, est
+	- top down calc: sales - cogs - op exp (excl deprec/amort)
+	- bottom up calc: NI + income tax exp + int exp + deprec/amort
+- EPS
+	- ![[Pasted image 20260829132008.png]]
+- Price to Earnings Ratio
+	- if < industry, could be undervalued → buy
+	- if > industry, could be relatively overvalued → sell
+	- = price per share / basic EPS
+- Dividend Payout
+	- high → few growth oppro
+	- = cash dividend / NI
+	- or payout rate = DividendsPS/EPS
+	- 1-payout rate = retention rate 
+- A Turnover
+	- stdrd ability of A to create rev
+	- = net sales / avg totA
+	- mgmt efficiency 
+	- too little, lost sales
+	- too much, ROA↓
+
+- Variance Anal (Actual vs. Budget)
+	- compare some performance measures to plan/budget/stndrd
+		- used for planning/ctrl purposes
+		- can eval rev/costs
+	- costs categorized
+		- variable costs
+			- tot ▲ as production lvls ▲
+			- VC/unit is constant
+		- fixed costs
+			- assumed constant regardless of production/sales lvls
+			- totFC/volume ↑ = FC per unit ↓
+	- budgets based on 
+		- set sales price/unit
+		- set VC/unit
+		- set FC in tot
+	- contribution margin CM = revenue (sales) - VC
+		- aka the $ avail to cover FC
+	- ![[Pasted image 20260829132516.png]]
+		- 2nd bullet, bc risk of not selling enough to cover FC
+SEE SLIDES FOR EX
+
+
+
+YOUTUBE VID HELP + REDDIT
+- "Return on" ratios
+	- means NI/x
+	- except: Return on Sales
+		- = EBIT / net sales
+- Turnover ratios
+	- x / avg of what you’re turning over
+	- x = cogs
+		-  Invt Turnover
+			- = cogs / avg invt
+		- AP Turnover
+			- = cogs / avgAP
+	- x = net sales
+		- A Turnover
+			- = net sales / avg totA
+		- AR Turnover
+			- = net sales / avg net AR
+- Ratios involving the word margin
+	- x/sales
+- Days
+	- end Blnce / (x/365)
+	- Days Sales in AR
+		- = net endAR / (netsales / 365)
+	-  Days in Invt
+		- = endInvt / (cogs/365)
+	- Days of payables outstanding
+		- = endAP / (cogs/365)
+- two formulas you have to memorize: EPS and times interest earned (TIE).
+	- times interest earned =  = EBIT / int exp
+	- Dupont ROA
+		- = profit margin *  A turnover
+	-  Op CF Ratio
+		- = CFO / CL

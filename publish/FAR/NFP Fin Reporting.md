@@ -1,0 +1,213 @@
+[[NFP Rev Recog]]
+[[NFP A Transfer, etc]]
+
+- GAAP, full accrual basis
+	- primary emphasis on disclosing sources/expending of resources
+	- external FS don't present funds (unlike governments )
+- Chara
+	- revenues form contributions
+	- op purpose doesn't incl profit, tho nothing to preclude profit generation
+	- ownership interest unlike enterprise
+- Industries using NFP A
+	- healthcare orgs
+		- hospitals
+		- nursing homes
+		- hospices
+	- edu institutions
+	- voluntary health/welfare orgs
+		- united way
+		- american red cross
+		- march of dimes
+	- other private (not governmental) nfp orgs
+		- cemetery orgs
+		- fraternal orgs
+		- professional orgs
+		- labor unions
+		- performing arts orgs, museums, libraries 
+- FS users
+	- donors, members, creditors, others prov resources
+	- needs incl ability to assess
+		- services provided
+		- ability to cont providing services
+		- method managers use to discharge stewardship resp
+- Info prov in FS to meet user needs
+	1. amt/nature of A, L, netA
+		- BS
+	2. effects of events/circum ▲ing netA amt/nature
+	3. amt/kinds of in/outflows of eco resources in period 
+	4. relation bw in/outflows
+		- 2-4, activity stmt
+	5. how org obtains/spends cash
+		- CF stmt
+	6. service efforts of org
+		- stmt of activites
+		- FS notes
+- FASB ASC
+	- external fin reporting stdrds for NFP outlined in FASB Acct Stndrds Codification
+	- general principles
+		- all types of private, NFP req to have consistent external reporting
+		- fund acct not used for ext fin reporting, tho sep funds may be maintained for internal purposes
+		- ext fin stmts focus on basic info for org as whole
+		- governmental NFP (ex state uni) governed by GASB, not FASB
+- Req FS
+	- financial position stmt (~BS)
+	- activity stmt (~IS, ▲REstmt)
+	- cf stmt (CF, in/direct)
+- Reporting Exp by Nature/Func
+	- all NFP report info on relation bw functional/natural classifications of exp in one loc
+		- Functional
+			- categorize costs by major classes of program/support services
+				- program service
+					- purpose/mission of org, chartered for
+					- uni: edu, research, union: labor neg, training
+				- support service
+					- activ like mgmt, general, fundraising, membership dev
+		- Natural
+			- incl descrip like salaries, rent, utilities, int exp, supplies, etc
+			- sim to gen ledger titles for exp
+	- ways to report
+		- on face of Stmt of Activ
+		- as schedule in FS notes
+		- in sep FS (no specific FASB title)
+
+### FS
+#### Stmt of Fin Position
+- 3 parts: A, L, netA (equity)
+- A/L
+	- presented on following principles
+		- classify as non/current
+		- A sequenced by nearness to cash
+		- L seq by nearness to maturity
+		- A restricted/designated for noncurrent purpose displayed as noncurrent
+			- eg debt liquidation, acquisition of LTA, etc
+- netA
+	- parts incl 1+ classifications
+		- With Donor Restrictions
+			- subj to specific, ext imposed limits by donor
+			- nature/amt info of diff types of donor imposed restrictions reported w.in FS classification of netA w donor restrictions or in FS notes 
+			- ex
+				- support of particular op activ
+				- invstmnt for specified term
+				- use in specific period
+				- acquisition of LTA
+				- A to use for specific purpose, not sold
+				- donor restricted endowments that are perpetual in nature (A donated w stipulation to invest for permanent income source)
+			- ![[Pasted image 20260830133038.png]]
+		- W.O Donor Restrictions
+			- avail to finance gen op
+			- may be expended at governing board discretion
+			- not otherwise restricted by ext donor imposed restrictions
+			- internal board-designated funds classified as netA w.o donor restrictions n may incl
+				- board designated endowment funds
+				- board designated netA (for fut expenditure)
+- Disclosures
+	- Qual
+		- to assess liquidity, incl how org manages liquid resources to meet cash needs for gen expenditures w.in 1yr of BS date
+		- descrip of A type whose use is limited
+		- limit nature/amt
+		- contractual limits
+		- how/when resources can be used
+	- Quant
+		- display/disclose avail of liquid resources affected by
+			- resource nature
+			- donor imposed external limits 
+			- governing board imposed internal limits
+- ex
+	- ![[Pasted image 20260830133546.png]]
+	- ![[Pasted image 20260830133610.png]]
+	- ![[Pasted image 20260830133627.png]]
+	- ![[Pasted image 20260830133637.png]]
+
+### Stmt of Activ
+- reports (gross) rev/exp, g/l (often net), reclassification bw classes of netA
+- 3 req elements
+	- tot netA ▲
+		- w donor restrictions
+			- aka donor restricted support
+			- all restricted revenue incl in same classification regardless if restriction perpetual or if restriction can be satisfied by recipient
+			- classification grouping doesn't preclude NFP from itemizing chara of restrictions on FS face/notes
+		- w.o donor restrictions
+			- rev classified as this unless use of A received limited by donor restrictions
+			- ex
+				- fees from rendering services
+				- contributions w no explict donor stipulations
+				- g/l recog on invstmnt not accompanied w explicit donor restrictions
+- Formatting
+	- latitude in formats that seq data 
+		- rev, exp, g, l, A reclassification
+		- certain rev less directly related to exp, followed by subtotal, then other rev/exp, g/l, netA reclassification
+		- exp, rev, g, l, netA reclassification
+	- presentation of intermediate tot disclosed in FS notes
+		- like op income
+	- *prior period adj, acct principle ▲ reported as adj to beg netA*
+	- *items gen classified as OCI are instead presented here after op income*
+- Reclassification Restrictions
+	1. Contribution w donor restriction received
+		- recog as donor restricted support in period received
+		- ↑netA w donor restrictions
+	2. Satisfied donor restriction
+		- when satisified, reclassification reported on Activ Stmt
+		- reclassification: ↑netA class, ↓another netA class
+		- donor imposed restrictions satisfied in same period as receiving
+			- can record as ↑netA w.o donor restrictions
+			- disclose, consistently apply acct policy
+		- support resulting in perpetually restricted netA ord not reclassified
+		- rev, g, other support resulting in ↑netA w.o donor restrictions ord don't become restricted
+	- ![[Pasted image 20260830140320.png]]
+- Expense Classification
+	- all exp (except invst exp) ↓netA w.o donor restrictions
+	- invstmnt exp netted against invstmnt returns
+		- classified accord to req of invstmnt rev, shown part of ▲ in restricted amt
+	- deets of functional classifications, relation to natural exp classifications presented on FS face/notes
+		- functional
+			- major classes of program services
+			- supporting acitv
+		- natural exp parts of each functional exp presented
+			- program : salaries, supplies, deprec
+			- support: salaries, utlities, deprec
+- ex
+	- ![[Pasted image 20260830151405.png]]
+	- ![[Pasted image 20260830151421.png]]
+	- ![[Pasted image 20260830151351.png]]
+
+### CF Stmt
+- req for all NFP
+- FASB ASC 230 applicable to NFP, to extent doesn't conflict w industry guidance
+- info abt cash receipts/pmts of period
+- direct method doesn't req presentation of reconciliation of NI to CF from op
+- Operating
+	- lawsuit settlement
+	- insurance settlements (other than those tied to fin/invst)
+	- refunds/pmts from/to customer/supplier
+	- charitable contribution/disbursements
+	- reported activ by gross receipts major class (when direct method used), incl contributions, program income, interest or dividend income
+	- receipts of unrestricted resources designated by governing body to be used for LTA
+	- finA sale (not restricted for LT purposes)
+	- cash pmt for interest
+	- cash activ assoc w agency transactions
+	- ![[Pasted image 20260830152124.png]]
+- Investing
+	- PPE
+	- purchase/sale of artworks
+	- sale of A received in prior period, whose proceeds were restricted to invstmnt in equip
+- Financing
+	- issuing/repmt bonds, mortgages, notes, other ST/LT borrowings
+	- receipts from contributions restricted to acquire/construct/improve PPE/LTA
+	- receipts from contributions restricted for est/inc donor restricted endowment fund
+	- receipts of crypto w donor imposed restrictions for LT/capital use that are nearly imm liquidated (few dys)
+	- ![[Pasted image 20260830152343.png]]
+- Cash.Equiv
+	- transfers among cash, cash.equiv, amts gen described as restricted aren't reported as CF activ
+- Noncash Transactions
+	- disclose
+		- contributed securites
+		- CIP, other fA purchases incl in AP
+		- contributions of beneficial interests 
+			- unconditional promises to receive specified CF from charitable trust/identifiable A pool
+		- noncash debt refinancing transactions 
+			- eg ▲ in interest rates/other terms
+- ex
+	- ![[Pasted image 20260830151544.png]]
+	- ![[Pasted image 20260830151555.png]]
+	- ![[Pasted image 20260830151605.png]]
+	- ![[Pasted image 20260830151615.png]]

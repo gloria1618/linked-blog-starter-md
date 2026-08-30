@@ -1,0 +1,41 @@
+F2M5
+
+- Subseq Event
+	- occurs after BS date, before FS (avail to be) issued
+	- Recognized Subseq Event (Type1)
+		- recog/adj in FS
+		- at BS date
+			- these events prov additional info abt conditions that existed as of BS date, must be recog in FS
+			- ex
+				- litigation settlement
+				- loss on uncollectible receivable
+		- after BS date
+			- lawsuit existed as of BS date, but settled after date, but before audit report date
+			- T1 subseq event need adj to FS
+	- Nonrecog Subseq Event (Type2)
+		- don't recog subseq events that provide info abt conditions that *didn't* exist at BS date
+		- FS not req to be adj
+		- disclosed if needed to keep FS from being misleading
+		- ex
+			- sale of bond/capital stock
+			- business combination
+			- litigation settlement, if litigation arose after BS date
+			- plant/invt loss due to fire/natural disaster
+			- FV ▲ in A/L/foreign exchange rates
+			- entering into sig commitment, contingent L
+			- loss on receivables resulting from conditions occurring after BS date
+	- Evaluation Period
+		- public company
+			- eval subseq events thru date FS issued
+		- private company
+			- eval subseq events thru date FS avail to be issued
+			- stop eval once declaration of FS
+		- available = prepped, finalized, made avail to issue
+		- issued = been widely dist to users
+- need to reissue prev issued FS? then what abt subseq events?
+	- dont recog events bw (avail) issued to reissued, unless adj req by GAAP/regulatory req
+- Revised FS
+	- to correct error/reflect retrospective application of GAAP
+	- considered reissued FS
+		- disclosure not req for SEC filers
+		- if not SEC filer, disclose in revised FS the dates thru which subseq events have been eval, in both its issued/avail FS adn its revised FS

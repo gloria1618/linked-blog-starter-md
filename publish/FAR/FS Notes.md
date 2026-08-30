@@ -1,0 +1,59 @@
+F2M4
+
+- Footnotes
+	- Summary of Sig Acct Policies
+		- GAAP req description of all sig policies be incl in 1st/2nd note to FS
+			- 1st footnote → gen description
+			- 2nd footnote → sig acct policies
+		- incl disclosure of
+			- measurement bases used in FS
+			- specific acct principles/methods used during period, incl
+				- depreciation methods
+				- intangibles amort
+				- invt pricing
+				- est use
+				- fiscal yr def
+				- special rev recog issues
+		- not incl in Sig Acct Policies footnote
+			- composition, detailed $ amts of acct blnces
+			- deets abt acct principles ▲
+			- maturity dates, LT debt amts
+			- yearly computation of deprec, depletion, amort
+	- Remaining Notes
+		- everything else relevant to decision makers
+		- ex
+			- material info, deets abt specific A/L
+			- info abt nature of changes in SE
+			- info abt req mktable securities disclosure
+			- FV est
+			- info abt contingency g/l, commitments, contractual oblig
+			- descrip related to pension plans
+			- segment disclosures dealing w subseq events
+			- info related to acct princple ▲, implementation of new ASU
+		- GAAP req disclosure of risk/uncertainties that could be relevant 
+			- risk/uncertainties around major op, prod, geo dist
+			- relative importance of each business, if op mult businesses
+			- use of acct est in prep of FS
+		- certain sig est
+			- along w est in gen, ex of certain sig est sensitive to ▲ incl
+				- DTA valuation allowances
+				- invt/equip subj to rapid tech obsolescence
+				- capitalized computer software costs
+				- loan valuation allowances
+				- amts reported for LT oblig
+				- amts reported in LT contracts
+				- litigation related oblig
+			- when reasonably possible est will materially ▲ in near term, est+effect of ▲ should be disclosed
+	- Disclosure Req
+		- when company places more loss risk in one area, mitigation occurs thru diversification
+		- disclose concentrations in footnotes if 3 crit met
+			- concentration exists at FS date
+			- concentration makes entity vulnerable to risk of near term severe impact 
+				- sig fin disruptive effect on normal functioning of entity
+			- at least reasonably possible that events could cause sever impact will occur in near term
+		- common concentrations in
+			-  ...business vol transacted w particular customer, supplier, lender, contributer
+			-  ...revenue from particular prod, services, fundraising events
+			-  ...available supply of materials
+			- ...mkt/geo area
+	- 

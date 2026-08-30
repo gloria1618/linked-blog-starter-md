@@ -1,0 +1,38 @@
+- matching Rev/Exp
+	- unearned (deferred) rev
+		- cash paid before rev earned
+		- dr cash
+			- cr unearned rev (L)
+		- dr unearned rev (L) BS
+			- cr revenue IS
+	- prepaid (deferred) exp
+		- cash paid before exp incurred
+		- dr prepaid exp(A)
+			- cr cash
+		- dr exp
+			- cr prepaid exp
+	- accrued revenue (receivables)
+		- cash received after rev earned
+		- dr AR
+			- cr revenue
+		- *not YE adj entry*
+	- accrued exp (l, payable)
+		- cash paid after exp incurred
+		- dr exp
+			- cr accrued L
+		- *not YE adj entry*
+- adjusting entries recorded so FS prepped accord to accrual basis
+	- to record rev/exp in correct periods
+- Error Corrections
+	- sometimes entity record cash receipt (disbursement) to rev/exp acct when shouda been A/L acct
+	- adj entry may be req to ensure FS accord accrual basis
+- Rules for Recording Adj JE
+	- must be recorded by end of entity's fiscal yr, before FS prep
+	- never involve cash acct
+	- all adj entries hit one IS acct, one BS acct
+	- *error corrections could affect any acct depending on specific error made*
+- ex
+	- ![[Pasted image 20260828093350.png]]
+	- ![[Pasted image 20260828093403.png]]
+
+P2 EX unneeded
