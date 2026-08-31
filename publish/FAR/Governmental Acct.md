@@ -1,0 +1,239 @@
+- diff from NFP acct
+- Obj Governmental Reporting
+	- demonstrate accountability of each org for stewardship of resources
+	- provide efficient/effective service delivery w public resources in compliance w applicable laws
+	- id, display accountability obj of governmental org integral to related acct
+		- diff from obj of FP entity
+- Obj Fund Acct, Reporting
+	- fund acct foundational to gov acct
+	- lets service/mission driven orgs easily monitor/report compliance w
+		- spending purposes (fund restrictions)
+		- spending limits (budget)
+		- other fiscal accountability obj
+	- demonstrate fiscal accountability in external reporting, use funds for internal acct
+- Basis of Org
+	- gov, NFP, commercial acct applied consistent w org basis n fund sources, not industries
+	- ![[Pasted image 20260831134006.png]]
+- Industries using Gov Acct
+	- governmental units
+		- run by governments
+		- use governmental acct, reporting principles
+		- incl fed, state, county, municipal, variety of local gov units/entities
+	- college, universities
+		- non/governmental, depending on if fin accountable to primary gov
+		- FASB for commercial entities 
+	- health care orgs
+		- if fin accountable to primary gov, could be classified as component unit of gov
+		- FASB if NFP/commercial
+- Concepts differing from commercial/nfp
+	1. Fund Structure
+		- fund 
+			- sum of $/other resource segregated for purpose of carrying on specific activity/attaining certain obj in accord w specific reg/restrictions/limits constituting an indep fiscal n acct entity
+			- each fund is self balancing set of accts
+			- fund acct fundamentally diff than acct for whole gov
+		- GASB 34 defines fund structure
+		- 11 fund types classified in 3 gen categories
+			1. Governmental funds
+			2. Proprietary funds
+			3. Fiduciary funds
+		- fund FS sep presented for 3 categories to report more deets abt primary gov
+		- gov not req to have specific # of funds
+		- gov est min fund # consistent w legal req, sound fin admin
+	2. Fund Acct
+		- fund classifications w.in fund structure affect
+			- acct basis
+			- measurement focus principles assoc w each fund category
+		- application of diff acct principles to funds in each generic fund grouping provides fin data consistent w reporting accountability obj of each fund 
+	3. External Reporting
+		- GASB 34 est min reporting req to be GAAP compliant
+		- req incl both fund based + gov wide FS presentations supported by
+			- FS notes
+			- variety of supplementary info 
+		- fund reconciliation FS to gov wide FS req
+
+### GAAP for Governmental Entities 
+- GASB est acct, reporting stndrds for gov
+- GAAP hierarchy
+	1. GASB Acct Stndrds Board
+		- Category A, most authoritative
+	2. GASB Technical Bulletins, Implementation Guides, literature of AICPA cleared by GASB
+		- Category B
+		- consult cat b docs in event treatment for transaction not specified by pronouncement in cat a
+- GASB outlined conceptual framework for gov fin reporting in GASB Concept Stmts No1-6
+	- don't est stndrds for gov fin reporting
+	- est obj, concepts that underlie governmental fin reporting
+- Info used by Fin Report Users
+	- ![[Pasted image 20260831140118.png]]
+	- obj
+		- pertain to gen purpose ext fin reporting, incl basic FS n req supplementary info, awa ACFR annual comprehensive fin reporting
+		- may not fully address budges, other special purpose reporting or other info (like stand alone budget docs or reports to grantor agencies)
+	- Governmental vs Business Type Activ
+		- govs engage in both, each type req acct/stndrds addressing chara/needs
+		- governmental type
+			- typically supported by taxes
+		- business type
+			- supported by user fees
+	- Users
+		- citizens, txpyrs, voters, service recipients, media, researchers, etc
+		- legislative/oversight bodies, incl state legislators, county/city commissioners, execs w oversight authority
+		- investors, creditors incl instit investors, bond rating agencies, bond insurers, fin instit, etc
+	- Uses
+		- maek eco, social, political decisions + assess accountability by
+			- compare to bduget
+			- assess fin conditions, op results
+			- help in det compliance w fin related laws, rules, reg
+			- help in eval op efficiency/effectiveness
+- Accountability
+	- cornerstone
+	- govs prov fin info to citizenry to jsutify raising resouces, demonstrate purposes for which they're used
+	- min disclosure incl if gov op w.in legal constraints imposed by citizens
+- Intraperiod Equity
+	- sig part of accountability
+	- balanced budgets contribute to interperiod equity by enabling gov to meet its commitment to live w.in means
+	- fin reporting helps users assess if
+		- current yr rev sufficient to pay for services provided that yr
+		- fut txpyrs req to assume burdens for services prev prov
+- Chara of Info in Gov Fin Reports
+	- Understandability + Reliability
+	- Relevance 
+		- close logical relation to purpose of needing it
+		- implies reported info makes a diff to users
+	- Timeliness 
+		- issued in time to have effect on decisions
+		- may supersede absolute precision/details
+	- Consistency
+	- Comparability
+		- diff due to underlying transactions, not method selection
+	- ![[Pasted image 20260831141614.png]]
+- Limits on Governmental Fin Reporting
+	- approx measures that're often based on judgements/est
+	- only one info source, more useful used in combo w other pertinent data
+	- may not meet diverse needs of all users
+	- cost benefit relationships must be considered
+- Fin Reporting Obj
+	- accountability, implicit in following main obj:
+	- assist in fulfilling gov's duty to be publicly accountable, enable users to assess accountability
+		- dem if current yr rev sufficient to pay for current yr services
+		- dem budgetary/legal/contractual compliance
+		- prov info allowing users to assess service efforts, costs, accomplishments
+	- assist users in eval op results for yr 
+		- sources, uses of fin resources
+		- how gov entity financed activities, met cash req
+		- if fin position improved/deteriorated
+	- assist users in assessing service lvl that can be prov, ability to meet oblig as come due
+		- fin position, condition
+		- noncurrent phys A avail, service potential for fut periods
+		- legal/contractual restrictions on resources, risks of potential resource loss
+
+
+### Fund Structure
+1. Governmental Funds
+	- use
+		- mod accrual basis
+		- current fin resources measurement focus
+			- accts are of 'current' nature
+			- no LT A/L/fA
+	- source, use, blnce of gov's current fin resources n related CL accounted for thru use of gov funds
+	- often have budgetary focus, seek to measure fin position n ▲
+	- focus of fin reporting is on stmt of rev, exp, ▲ in fund blcne which is used to dem compliant resource use
+	- General Fund
+		- accts for ord op of gov unit that's financed from 
+			- taxes
+			- other gen rev
+		- all transactions that aren't incl in other funds
+	- Special Revenue Fund
+		- accts for revenues from
+			- specific taxes
+			- other earmarked sources
+		- restricted/committed to finance particular gov activities
+	- Debt Service Fund
+		- acct for
+			- resource accumulation
+			- pmt of interest/principal on all 'gen obligation debt', other than that serviced by enterprise funds or by special assessments in another fund
+		- restricted/committed/assigned to debt service expenditures
+	- Capital Proj Fund
+		- acct for resources
+			- restricted
+			- committed
+			- assigned
+		- specifically used for acquisition/construction of major capital A by gov unit, except those financed by enterprise fund
+	- Permanent Fund
+		- funds used to report resources legally restricted to extent that income (not principal) may be used for purposes supporting gov's programs (ie public bene)
+		- sim to endowment w NFP where u can't touch principal
+	- ![[Pasted image 20260831145258.png]]
+	- ![[Pasted image 20260831145231.png]]
+2. Proprietary Funds
+	- acct for business type activ
+	- sim to commercial acct
+	- acct using
+		- full accrual basis
+		- eco resources measurement focus
+	- Internal Service Fund
+		- acct for goods/services prov by designated dep
+		- customer of internal service fund are primarily internal
+		- other dep/agencies w.in single gov unit or to other gov units are prov funds on cost reimbursement fee basis
+			- ex: central motor pool/building maintenance dep may be accted fro w internal service fund
+	- Enterprise Fund
+		- customers primarily external
+		- acct for acquisition n op of gov facilities/services intended primarily self supported by user charges
+			- >50%
+			- often used for utilities (water, sewer), airports, transit sys
+		- req when any crit met
+			- activity of fund financed by debt secured by a pledge of fee revenue
+			- laws req collection fees adeq to recover costs
+			- pricing policies est to produce fees to recover costs
+		- ![[Pasted image 20260831145911.png]]
+3. Fiduciary Funds
+	- acct for A controlled by gov in capacity of a trust on behalf of beneficiaries w whom beneficiary relation exists
+	- FS accted for using
+		- full accrual basis
+		- eco resources measurement focus
+	- Custodial Fund
+		- usually acct for resources in
+			- temporary custody of gov unit 
+				- eg taxes collected for another gov entity
+			- any fiduciary activ not req to be reported in other fiduciary fund classifications
+	- Investmnt Trust Fund
+		- acct for external invstmnt pools
+	- Private Purpose Trust Fund
+		- used for activ not properly accted for as either pension/invstmnt trust funds...
+		- in which A dedicated to prov benefits to recipients in accord w bene terms n A are legally protected from gov creditors
+	- Pension (Other Emplee Benefit) Trust Fund
+		- acct for resources of defined benefit plans, defined contribution plans, post emplmt bene plans, other LT emplee bene plans
+	- ![[Pasted image 20260831145442.png]]
+
+
+### Fund Acct
+- measurement focus, acct basis used in gov wide n fund fin presentations facilitate reporting of accountability obj unique to each fund n to gov wide presentation
+- Accrual
+	- eco resources measurement focus
+	- SEC IPPO n Gov Wide
+		- internal service, enterprise, custodial, investmnt, private purpose, pension, other emplee trust
+	- centers on service costs, effective/efficient of which invested capital used
+	- all A/L incl on BS, incl certain trans classified as deferred resource out/inflow
+	- net position anal, reported in 3 parts
+		- net invstmnt in capitalA
+		- restricted
+			- distinguished by major categories of external restrictions
+		- unrestricted
+	- fA, noncurrentL reported
+- Mod Accrual
+	- current fin resources measurement focus
+	- GDPSC
+		- governmental funds: general, debt service, permanent, special revenue, capital proj
+	- blnce is measure of avail, spendable, appropriable resources
+	- only CA/CL on BS
+		- no fA, nonCL
+		- ![[Pasted image 20260831152320.png]]
+	- rev recog when measurable, avail to finance expenditures of current period
+		- only diff w full accrual is manner in defining available
+		- avail
+			- collectible w.in current period/soon enough thereafter to be used to pay current period L (gen 60dys after YE)
+		- measurable
+			- quantifiable in monetary terms
+	- expenditures gen recorded when related fund L incurred, w some exceptions
+		- debt service expenditures (both principal + interest) not recog until either due/paid
+		- incurred but unpaid debt service expenditures not accrued
+	- ![[Pasted image 20260831153123.png]]
+
+![[Pasted image 20260831153910.png]]

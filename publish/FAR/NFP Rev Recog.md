@@ -1,0 +1,354 @@
+### Contributions Received
+- attributes
+	- unconditional
+	- must be transfer of cash/A (collection certain)
+		- cash, service, other A
+	- title must pass
+	- voluntary (donor no oblig to donate)
+	- nonreciprocal (donor nothing in exchange)
+- Recog
+	- Unconditional Contrib
+		- revenue
+			- if contrib part of core/ongoing NFP op
+		- gain
+			- if incidental contribution, not part of core purpose
+		- reported as either
+			- ↑netA w.o donor restrictions
+			- donor restricted support in period received
+			- can be recog as A, ↓L, exp, depending on bene form received
+	- Conditional Contrib
+		- not recog 
+		- condition= barrier + donor right to demand contrib return if condition unmet
+			- existence of measurable performance/other related barriers indicating condition incl
+				- specified lvls of service
+				- specific output/outcome
+				- matching 
+				- outside event
+		- condition v restriction
+			- condition
+				- delays rev recog until condition met
+			- restriction
+				- designates how $ spent
+- Pledge
+	- Pledge
+		- promise to give
+		- can result in rev recog
+	- Unconditional Promise
+		- contrib recorded at FV when promise made
+		- written/verbal
+			- verbal pledges documented internally, maybe difficult to collect
+	- Conditional Promise
+		- transaction depending on occurrence of fut/uncertain event
+		- recog doesn't occur until conditions subs met 
+			- or can det chances of not meeting are remote, n promise becomes unconditional
+		- good faith deposits accompanying conditional promises accted for as refundable adv (L)
+		- ![[Pasted image 20260830154013.png]]
+	- Multiyr Pledges
+		- record at netPV at pledge date
+		- fut collections considered donor restricted rev n netA (time restricted)
+		- diff bw prev recored PV and current amt collected is recog as contribution rev, not interest income
+	- Placed-in-Service Approach
+		- used to report expiration of restrictions assoc w LLA in absence of specific donor restrictions
+		- ex
+			- ![[Pasted image 20260830154407.png]]
+			- ![[Pasted image 20260830154420.png]]
+	- Allowance
+		- for uncollectible pledges
+		- in accord w commercial acct principles for AR to present pledge at NRV
+		- but, there's no bad debt (or cr loss) expense recog at any pt
+			- both pledge, related contribution revenue reported net of any allowance 
+	- ![[Pasted image 20260830154110.png]]
+
+- Split Interest Agrmt
+	- donor contributions of trusts/other where NFP receives bene shared w other beneficiaries
+	- trust ex
+		- charitable lead trust
+		- charitable remainder trust
+		- charitable gift annuity
+		- pooled life income fund
+		- perpetual trust held by 3rd party
+	- during agrmnt term, value ▲ recog for
+		- amort of discounts
+		- revaluations
+	- A/L recog under split interest agrmnts disclosed sep from other A/L in BS
+	- contributions, changes in value disclosed as sep line item in Activ Stmt (or notes)
+		- split interest contributions should be
+			- measured at FV at acquisition date
+			- est based on PV of est fut dist
+			- cat: donor restricted
+			- other beneficiary first gets bene, then NFP gets remainder
+			- tot amt received ▲s
+				- w time
+				- w ▲ in amt est
+				- until restriction met
+	- ![[Pasted image 20260831040237.png]]
+- Donated Services
+	- gen not recorded bc difficult figuring out $ value
+	- record as contribution + expense at FV if services meet 1 crit
+		- create/enhance nonfinA 
+			- eg land, building, invt, etc
+		- req specialized skills that provider has, would otherwise be purchased by org
+			- eg attorney, accountant, medical services, etc.
+			- recog SOMEtimes
+				- Specialized skill
+				- Otherwise needed by org
+				- Measurable
+				- Easily at FV
+				- ![[Pasted image 20260831040733.png]]
+		- ![[Pasted image 20260831040601.png]]
+	- Volunteer Recruitment
+		- costs of soliciting contributed services considered fundraising expenses regardless of whether services meet recog crit
+	- ![[Pasted image 20260831040759.png]]
+- Donated Collection Items
+	- contributed artworks/historical treasures
+	- not req to be recorded by NFP if all req met
+		1. item is part of collection, which is held for
+			- public viewing
+			- exhbition
+			- edu/research
+		2. collection cared for, preserved, protected by NFP
+		3. org has policy req proceeds from donated items sale to be
+			- reinvested in other collection items, or
+			- used to support direct care of existing collections
+	- if req unmet, 
+		- record as revenue, capitalize as A that's gen deprec over est useful life
+		- policy can't be selectively applied, must be used for all applicable A
+	- Extraordinary Long Lived Items
+		- if indiv artwork/historical treasure has extraord long est useful life, eco bene/service potential used up very slowly, man not need deprec
+			- this exception applies if
+				- A has cultural, aesthetic, historical value that's worth preserving perpet
+				- verifiable evidence that owner has ability/intent to protect/preserve A's service potential essentially undiminished
+- Donated Materials
+	- Used for Op
+		- if sig amt, record at FV on reciept date if can det FV
+		- ![[Pasted image 20260831051842.png]]
+	- Passed Thru
+		- is org keeping it?
+			- no: lumber to build house for beneficiary, used clothing
+		- pass thru org to ultimate beneficiary, not recorded unless subs amt
+		- subs amt: record as contribution w offsetting entry to expenses n approp disclose
+		- ![[Pasted image 20260831052150.png]]
+	- Sold > FV
+		- amt received >FV considered additional contribution
+- Gifts in Kind
+	- nonfin contributions
+		- land, building, materials, InA, services, facility/utility use
+	- recog as contribution at FV at donation date
+	- when donated as part of fundraising appeal
+		- valued at FV when received
+		- revalued when sold as part of fundraising appeal
+	- diff bw FV at donation time vs value at sale = additional contribution
+- Presentation/Disclosure of Nonfin A
+	- contributed nonfin A displayed as sep line item on Activ Stmt, apart from contributions of cash/finA
+	- nonfin A amt contributed recog by category also disclosed 
+	- for each category of nonfin A recog, notes state additional deets
+		- if contributed A will be sold (monetized)
+		- any donor imposed restrictions 
+		- in what manner donation valued
+
+### Acct for Promises to Contribute + Other Support Trans
+- Contributions W.O Donor Restrictions
+	- unconditional promises for fut contribution are reported
+		- donor restricted support (implied time restriction)
+		- at PV of est fut CF using discount rate commensurate w risks invol
+	- if expected to collect/pay <1yr, can measure at NRV
+	- ![[Pasted image 20260831053244.png]]
+	- ![[Pasted image 20260831053303.png]]
+	- ex
+		- ![[Pasted image 20260831053347.png]]
+- Donor Restricted Support
+	- aka contributions w donor restrictions
+	- recog as revenue, gain, other support in period received and as A, ↓L, exp depending on bene form received
+	- ![[Pasted image 20260831053552.png]]
+	- ![[Pasted image 20260831053605.png]]
+- Fundraising
+	- fundraising exp
+		- premiums offered to donors as part of fundraising campaign
+			- eg calendars, coffee mugs, tote bags, etc
+		- cost of premiums given to acknowledge donations
+	- diff bw contribution made by donor vs FV of any premiums transferred = contribution revenue 
+		- ![[Pasted image 20260831053954.png]]
+- Rev from Exchange Transactions
+	- transaction which NFP earns resources in exchange for service performed
+	- revenues are
+		- recog when realized or realized+earned
+		- classified as ↑netA w.o donor restrictions
+	- ex
+		- student tuition/fee earned by NFP edu instit
+		- patient service revenue earned by NFP health care org
+		- membership fees earned by NFP membership org
+
+### Industry Specific Rev Recog
+- Edu Instit
+	- Revenues incl
+		- all ↑netA w.o donor restrictions
+		- donor restricted resources expended in that period
+			- student tuition/fees
+			- gov grants, aid, contracts
+			- gifts/private grants
+			- outstanding endowmnet income
+			- sales/service of edu dep, like publications/testing services
+			- rev of auxillary enterprises like food service, residence halls, campus store, atheltics
+		- ![[Pasted image 20260831055910.png]]
+	- scholarships, tuition waivers, sim reductions considered expenditures or sep displayed as allowance ↓rev
+	- G/L on Invstmnts, Other A
+		- classified w/w.o donor restrictions
+		- reported in Activ Stmt, sim to NFP
+- Health Care Orgs
+	- Patient Service Rev
+		- accounted on accrual basis at est stndrd rates, even if full amt not expected to be collected
+		- altho recorded on gross basis, deductions are made from gross rev to recog patient service revenue net of deductions
+			- deductions for uncompensated services
+				- contractual adj for 3rd party pmts
+				- policy discounts
+				- administrative adj
+				- cr loss assoc w services billed prior to org's assessment of ability to pay
+		- central transactions incl med services like
+			- doctor, surgery, recovery room, room n board
+		- charity care
+			- services provided, but never expected to have CF
+			- mgmt's policy for prov charity care, care lvl disclosed in FS
+			- not recog as receivable/revenue
+			- not recog as cr loss exp
+		- ![[Pasted image 20260831060706.png]]
+	- Premium Rev for Capitation Agrmts
+		- capitation revenues are the fixed amt/indiv that's paid periodically, usually monthly, to provider as compensation for period services
+		- ![[Pasted image 20260831060908.png]]
+	- Other Op Rev Sources ex: edu programs, cafeteria revenue, parking fees
+	- Nonop Rev, Other G/L
+		- interest, dividend income from invstmnt activ
+		- gifts, bequests
+		- grants
+		- income from endowment funds
+		- income from board designated funds
+		- donated services
+	- ![[Pasted image 20260831061117.png]]
+
+### Transfers of A to NFP/Charitable Trust
+- issues in NFP incl acct for
+	- A transfers to other NFP, like foundations
+	- circumstances under which such transfers should be accounted for as
+		- contribution rev
+		- L
+		- ▲netA or interest in netA
+- Financially Interrelated Orgs
+	- org w ability to infl op/fin decision in another
+	- org has ongoing eco interest in netA of other
+- #### Recipient Acct
+	- conditions for NFP to be recipient entity
+		- accepts A from resource provider
+			- agrees to use A on behalf of specified beneficiary
+			- transfers A to specified beneficiary
+			- resource provider 
+				- entity passing along funds, other support to NFP entities
+				- can be donor, gov, gov agency, business
+	- factors affecting acct by recipeint depends on 
+		- if recipient, beneficiary are fin interrelated 
+		- if recipient has variance power
+			- ability of recipient entity to redirect resource use received to another benefiary
+			- able to make decisions overriding donor's instructions w.o approval from donor/interested party
+			- w.o variance power = bound to any/all instructions by resource provider
+	- ex
+		- ![[Pasted image 20260831064023.png]]
+	- Not Fin Interrelated: W.O Variance Power
+		- org accepts A from resource provider, uses/manages on behalf of specified beneficiary
+		- transferred A arent contrib, are L
+		- conditions when transferred A are L
+			- resource provider can ▲ beneficiary
+			- resource provider's A transfer is conditional, revocable, or repayable
+			- resource provider controls recipient org, specifies unaffiliated beneficiary
+			- resource provider specifies itself/affiliate as beneficiary, n doesn't qualify for equity acct 
+		- ![[Pasted image 20260831112133.png]]
+	- Not Fin Interrelated: W Variance Power
+		- accepts A from resource provider, agrees to use/manage on behalf of beneficiary following donor-donee acct
+		- A valued FV
+		- A recog as contribution when received, expensed when dist to beneficiary
+		- ![[Pasted image 20260831112505.png]]
+	- Fin Interrelated: W.O/W Variance Power
+		- donor-donee acct
+		- A at FV
+		- recog as contribution when received, expensed when dist to beneficiary
+		- ![[Pasted image 20260831112615.png]]
+- #### Beneficiary Acct
+	- specified beneficiary orgs recog A rights held by recipient org unless recipient explicitly granted variance power
+	- rights, when recog, recorded as
+		- Contribution, Receivable
+			- no fin relation, no recipient variance power
+			- contribution treated like any other unconditional promise
+			- ![[Pasted image 20260831113055.png]]
+		- Beneficial Interest
+			- no fin relation
+			- unconditional right to receive specified CF form A pool
+			- donation held by recipient are nonfinancial
+			- ![[Pasted image 20260831113150.png]]
+		- ▲ in Interest in netA of Recipient
+			- fin interrelated orgs
+			- ![[Pasted image 20260831113236.png]]
+		- ex
+			- ![[Pasted image 20260831113326.png]]
+			- ![[Pasted image 20260831113341.png]]
+
+### Other Acct Issues
+- Endowment Funds
+	- used to acct for A est to provide income for maintenance of NFP
+	- classified either netA w.o/w donor restrictions
+	- restrictions incl
+		- duration
+		- source of any restriction on them (internal/external)
+			- gen est by donor restricted gift
+			- Board designated endowment funds
+				- crated by NFP governing board by designating portion of netA w.o donor restrictions to prov income for long (not necessarily specified) time period
+				- aka funds functioning as endowment, quasi endowment funds
+				- ![[Pasted image 20260831120659.png]]
+			- Donor restricted endowment funds
+				- donor stipulation req invstmnt of gift in perpetuity/specified term
+				- ![[Pasted image 20260831120741.png]]
+		- acct issues related to treatment in value▲
+			- Inception
+				- og gifted amt n gen related returns initially classified as netA w donor restrictions
+				- unless purpose/ other donor restriction exists on income use, invstmnt income deemed avail for spending, so netA w.o donor restrictions
+			- Returns Subj to Donor Restriction
+				- reported netA w donor restriction until appropriated for expenditure
+				- invstmnt returns common restricted by either
+					- time (until appropriated for use)
+					- purpose (until appropriated, expended on specified purpose described by donor)
+				- approp for expenditure = upon approval for expenditure (meets req of donor restriction)
+			- Underwater Endowment
+				- donor restricted fund FV at reporting date < either
+					- og gift amt
+					- amt req to be maintained by donor/law
+				- report accumL together w endowment fund in netA w donor restrictions
+				- disclosures
+					- FV
+					- og gift amt or lvl req to be maintained by donor stip/law
+					- amt of deficiencies 
+					- ![[Pasted image 20260831124317.png]]
+				- ![[Pasted image 20260831124349.png]]
+	- can be est in perpetuity or for specified time period (term endowment)
+	- Endowment Fund Disclosures
+		- governing boards interpretation of req underlying netA classification, ability to spend from underwater funds
+		- policies for appropriation of endowment A
+		- invstmnt policies
+		- composition of NFP endowment by netA class
+		- reconciliation of beg/end blnce of endowments by netA class
+- Fin Instruments
+	- receiving contribution of fin instrument
+	- measured at FV
+	- G/L
+		- un/realized g/l on invstmnt reported in Activ Stmt as ↑↓netA w.o donor restrictions unless:
+			- invstmnt use is donor restricted, either temp/perpet, by explicit donor stipulations/law
+		- donor restricted g/l reported as ↑netA w.o donor restrictions if stipulations met in same reporting period as g/income recog
+	- Derivatives
+		- recog FV▲ of all derivatives in change period
+		- not permitted to use special hedge acct rules
+	- Dividends, Interest, Other Invstmnt Income
+		- reported in period earned as ↑unrestricted netA unless invstmnt use restricted by explicit donor stipulations/law
+		- invstmnt returns reported net of any related invstmnt expense
+- Basis of Acct for certain A
+	- Purchased fA
+		- cost, GAAP
+	- Donated fA
+		- FV at gift date
+	- Deprec
+		- GAAP, for nongovernmental NFP
+		- artworks/historical treasures not deprec
