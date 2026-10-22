@@ -1,5 +1,4 @@
 [[NFP Rev Recog]]
-[[NFP A Transfer, etc]]
 
 - GAAP, full accrual basis
 	- primary emphasis on disclosing sources/expending of resources

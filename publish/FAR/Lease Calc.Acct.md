@@ -123,4 +123,3 @@
 	- if election made
 		- must be done by class of underly A
 		- cannot incl purchase options for A lessee reasonably certain to exercise
-		- 
