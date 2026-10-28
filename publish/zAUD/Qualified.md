@@ -1,0 +1,11 @@
+- Audit Issues
+	- *cant* get suff approp evidence
+	- possible effects fo matter M, not pervasive
+- FS Issues
+	- *can* get suff approp evidence 
+	- M, not pervasive misstmts 
+	- ex
+		- client GAAP
+		- reports building at FMV instead of cost-deprec
+		- doesnt correct
+		- issue M, not pervasive

@@ -1,0 +1,38 @@
+- nonissuer → mod
+- issuer → qual
+- consider
+	- sufficient approp aud evidence
+	- if uncorrected mistmt M (indiv/agg)
+	- if FS prepped w AFRF
+
+
+- ### unqual
+	- OBRA
+	- opinion
+	- basis
+		- ![[Pasted image 20261027074424.png]]
+	- resp of mgmt, auditor resp
+		- ![[Pasted image 20261027074517.png]]
+		- ![[Pasted image 20261027074605.png]]
+		- ![[Pasted image 20261027074622.png]]
+	- [[CAM]] 
+- ### #unmod 
+	- opinion (1st)
+		- framework referenced
+	- opinion (2nd)
+		- GAAS referenced
+	- aud resp
+		- GAAS
+	- mgmt resp
+		- framework
+	- 2 Standards in Audit
+		- req (ex gov entity)
+		- engaged by client to do 2
+		- reference both in basis, aud resp
+	- if follow PCAOB when not req
+		- GAAS also 
+		- sure PCAOB req report
+		- amend PCAOB (issuer) report to state audit also conducted in accord w GAAS
+	- [[KAM]]
+- say *US* GAAP
+- ![[Pasted image 20261027074716.png]]

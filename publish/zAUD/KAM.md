@@ -1,0 +1,16 @@
+Key Audit Matters
+- for unmodified/qualifed
+- may be added to nonissuer report (optional)
+- add if client engages aud to comms KAM
+- visibility into more complex areas/judgement
+- aud selects matters commsed w governance... areas w
+	- higher assessed RMM
+	- req sig auditor/mgmt judgement
+	- sig events/transactions
+- shouldnt incl matters
+	- causing qual opinion (basis)
+	- substantial doubt abt going concern
+		- reference elsewhere
+- KAM prohibited if adverse/disclaimer
+- ex
+	- ![[Pasted image 20261027075640.png]]
