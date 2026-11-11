@@ -1,0 +1,37 @@
+[[ermm]]
+[[ERISA]]
+- those Charged w Governance 
+	- resp to oversee oblig/strat direction, incl FR process
+	- aka BOD, audit committee
+	- may also refer to 
+		- mem of entity's legal structure, ex directors
+		- external parties, ex gov agencies
+- Audit Committee
+	- committee of BOD
+	- gen made of
+		- 3-5 'outside directors', or
+		- directors that aren't emplees, have no material fin interest in company
+	- strengthens public trust of auditor indep
+	- main func
+		- enhance IC w direct comms bw outside directors n auditor
+	- Func
+		- select, appoint indep auditor, sets aud fee
+		- assures auditor is indep
+		- rev nature, deets, scope of aud eng
+		- rev quality of aud work
+		- ensure reccs made by auditor gets attention
+		- maintain comms lines bw auditor/BoD
+		- help resolve diagrmnts related to acct treatment of M FS items
+		- eval IC env, alongside auditor
+		- reports to BoD, stockholders when needed
+	- Comms
+		- w aud committee is key element of audtrs comms w those charged w governance
+		- should
+			- have approp access to aud committee periodically 
+			- meet w aud committee w.o mgmt present at least 1/yr
+- Auditor Apptmnt Timing
+	- altho early aptmnt lets audtr plan efficient aud, audtr permitted to accept eng near/after YE
+	- consider fi late apptmnt poses limits on aud that'll lead to
+		- qualified/disclaimer
+		- discussion of such concerns w client 
+	- 

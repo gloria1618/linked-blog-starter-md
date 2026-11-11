@@ -6,7 +6,9 @@ RA = reasonable assurance
 2. Assess Risk & Plan Response
 3. Perform Procedures & Obtain Evidence
 4. Form Conclusions
-5. [[Reporting]]
+5. Reporting
+
+![[Pasted image 20261029142004.png]]
 
 ### Mgmt Resp
 - prep, fair presentation of FS according to applicable fin reporting frmwrk
