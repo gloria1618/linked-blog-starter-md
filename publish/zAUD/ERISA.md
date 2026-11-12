@@ -9,4 +9,23 @@ ERISA Plan FS Aud
 			- audtr obtain mgmt agrmt acknowledging/understanding resp for
 				- maintain current plan instrument, incl all plan amendments
 				- administer plan, det plans trasanctions presetned/disclosed in ERISA plan FS in conformity w plan provisions, incl maintaining suff records w respect to each of participants to det benefits (become) due to such participants
-		- DIDN NOT FINISHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+			- ERISA Section 103(a)(C) audit det if
+				- permissable under circumstances
+					- invstmnt info prepped/certified by qual instit
+					- certification meets req in 29 CFR 2520.130-5 of Dep of Labor's Rules/Reg for Rep n Disclosure under ERISA (qualified instit)
+					- certified invstmtn info approp measures, presented, disclosed in accord w app FRF
+				- SLIDE 18
+		- auditor resp
+			- obtain mgmt/governance  agreemnt
+				- provide audtr, prior to dating of audtrs report, draft Form 5500 thats substantially complete incl 
+					- certification meets reqs of Dep of Labor's Rules/Reg for Rep/Disclosures under ERISA (qual instit)
+					- form/sch that could have material effect, involving both qual/quant considerations, on info in FS and ERISA-req supplemental sch 
+			- when mgmt elects ERISA Section103a audit, aidtr
+				- inquire of mgmt abt how mgmt det that entity prep/certify invsmtn info is qual instit 
+			- limited scope audit
+				- prev audit stdrds req audtr to issue disclaimer bc certified invstmnt info not audited
+				- under SAS136, limited scope audits = ERISA Sec103a3C, no longer considered scope limit equaling disclaimer but lets audtr issue form of unmod opinion
+					- whether mgmt elects ERISA or not, report has adverse/disclaimer, audtr precluded from expressign opinion on supplemental sch
+						- when permitted by law/reg, audtr may withdraw from eng to report on ERISA req supp sch
+						- if audtr doesnt withdraw, audit report mod accord
+				- 

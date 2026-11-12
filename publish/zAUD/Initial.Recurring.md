@@ -1,0 +1,15 @@
+- Recurring
+	- issuer
+		- audtr must agree to terms of eng w audit committee in eng letter
+		- eng letter should be prov to annually to committee
+	- nonissuer 
+		- if no revision, remind mgmt of terms (oral/written)
+		- ▲ to eng terms, audtr obtain signed eng letter
+- Initial audit
+	- eng where FS for prior period werentn audited/audited by predecessor audtr
+	- before audit acceptance
+		- Predecessor Audtr
+			- audtr must obtain prospective client permisssion to make inquiries of prececessor audtr
+			- no permission, consider implications, decided if to accept eng 
+			- comms
+				- make oral/written 

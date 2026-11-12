@@ -1,5 +1,6 @@
 [[ermm]]
 [[ERISA]]
+[[Initial.Recurring]]
 - those Charged w Governance 
 	- resp to oversee oblig/strat direction, incl FR process
 	- aka BOD, audit committee
