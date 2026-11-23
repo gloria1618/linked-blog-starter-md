@@ -1,6 +1,64 @@
-[[ermm]]
 [[ERISA]]
 [[Initial.Recurring]]
+
+- Aud process
+	- Gen Principles
+		- overall obj
+		- documentation
+		- comms
+		- overall obj
+- before accepting, audtr assess
+	- firm's ability to meet reporting deadlines considering timing/complexity of eng, availability of aud staff
+	- firm's ability to staff eng w personnel w experience/avail
+	- firm independence
+	- integriity of client mgmt
+	- eval by group eng partner of if group eng team can obtain sufficient approp aud evidence 
+- Aud Preconditions
+	- Applicable FRF
+		- det if FRF used is acceptable
+	- Obtain mgmt agrmt abt resp for
+		- prep of fair prez of FS
+		- DnI, maintenance of IC
+		- prov audtr w access to all info relevant to FS, unrestricted access to ppl w.in entity from whom entity it's necessary to obtain aud evidence
+		- (mentioned in eng+rep letter)
+	- Mgmt/Governance Imposed Scope Limits
+		- shouldn't accept if results in disclaimer
+		- ex: lack of acct records
+		- if entity req by law/reg to have aud, disclaimer acceptable, adutr permitted but not req to accept eng where mgmt imposed scope limit
+		- if results in qualified, or scope limit form circum beyond mgmt control, can still accept
+- Eng Letter
+	- audtr, governance agree to terms in writing
+	- signed+ dated by client, incl in audtr documentation
+	- Elements
+		- addressee
+		- obj/scope of Aud
+			- ![[Pasted image 20261121213509.png]]
+		- audtr resp
+			- ![[Pasted image 20261121213535.png]]
+		- mgmt resp
+			- ![[Pasted image 20261121213639.png]]
+		- other relevant info (optional)
+			- may incl
+				- info related to aud timing
+				- info abt arrangements w prior audtr
+				- expectation that gmtm will prov written rep letter
+				- mgmt agrmt to make all relevant info avail in timely manner
+				- info abt use of specialists/internal audtrs
+		- reporting
+			- ![[Pasted image 20261121213745.png]]
+		- signature
+	- incl
+		- may incl some info related to overall aud strat
+		- ex
+			- timing of testing
+			- involvement of specialist testing
+	- not incl
+		- info related to specific aud proc/preliminary assessments
+		- ex
+			- performing al prced
+			- sending out confirmations
+
+
 - those Charged w Governance 
 	- resp to oversee oblig/strat direction, incl FR process
 	- aka BOD, audit committee

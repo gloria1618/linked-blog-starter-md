@@ -9,7 +9,31 @@
 	- eng where FS for prior period werentn audited/audited by predecessor audtr
 	- before audit acceptance
 		- Predecessor Audtr
-			- audtr must obtain prospective client permisssion to make inquiries of prececessor audtr
+			- audtr must obtain prospective client permission to make inquiries of predecessor audtr
 			- no permission, consider implications, decided if to accept eng 
 			- comms
-				- make oral/written 
+				- make oral/written inquiries to predecessor before accepting eng
+					- mgmt integrity
+					- disagrmnts w mgmt
+					- reason for audtr change
+					- fraud, noncompliance, IC matters rellated comms
+					- nature of entity's relation, transactions w related parties, sig unsusual transactions
+		- consider
+			- effort req to complete eng
+			- est additional
+			 - cost to complete eng
+			- reason for request, especially if scope lim present
+- Acceptable Reasons for Changes in Eng
+	- ▲ in client req
+	- misunderstanding as to nature of service to render
+	- if acctant det ▲ justified, comply w stndrds for compilation/review and issue approp report
+	- report doesnt refer to og eng, any proced performed as part of eng or any scope lim 
+- Unacceptable
+	- eng would uncover error/fraud
+	- client attempting to create misleading/deceptive FS
+		- >>ur gonna get adverse ... ok lyk ... actually we dont want u to audit anymore
+- Scope Lim implications for Eng ▲
+	- consider implications of scope restriction to det if eng ▲ reasonable
+	- unacceptable for ▲, consider withdrawing
+		- client refused to allow correpondance w legal counsel
+		- client refuses to provide signed rep letter
